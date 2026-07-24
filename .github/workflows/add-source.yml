@@ -1,0 +1,55 @@
+name: Tilføj kilde fra issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  add:
+    # Kun repo-ejeren må tilføje kilder, og kun via "Ny kilde"-issues
+    if: github.event.issue.user.login == github.repository_owner && contains(github.event.issue.title, 'Ny kilde')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer afhængigheder
+        run: pip install requests beautifulsoup4
+
+      - name: Valider og tilføj kilde
+        id: add
+        run: |
+          if python add_source.py; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Kør crawler med den nye kilde
+        if: steps.add.outputs.ok == 'true'
+        run: python crawler.py
+
+      - name: Commit og push
+        if: steps.add.outputs.ok == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sources.json news.json
+          git diff --cached --quiet || git commit -m "Tilføj kilde fra issue #$ISSUE_NUMBER"
+          git push
+
+      - name: Svar og luk issue
+        if: always() && steps.add.outcome != 'skipped'
+        run: |
+          gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$(cat comment.txt 2>/dev/null || echo 'Der skete en uventet fejl - se workflow-loggen.')"
