@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marina Nyheder – danske marinaer og lystbådehavne</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #f4f7fa; color: #1a2332; padding: 20px; font-size: 14px;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  header.top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+  header.top h1 { font-size: 22px; font-weight: 700; }
+  .sub { color: #5b6b7f; font-size: 13px; margin-bottom: 14px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
+  .chip {
+    border: 1px solid #c8d4e0; background: #fff; border-radius: 16px; padding: 5px 12px;
+    font-size: 13px; cursor: pointer; user-select: none; color: #3a4a5e;
+  }
+  .chip.on { background: #0b5fa5; border-color: #0b5fa5; color: #fff; }
+  input.search {
+    flex: 1; min-width: 160px; border: 1px solid #c8d4e0; border-radius: 8px;
+    padding: 7px 10px; font-size: 13px; background: #fff; color: #1a2332;
+  }
+  input.search:focus { outline: 2px solid #0b5fa5; border-color: #0b5fa5; }
+  .card {
+    background: #fff; border: 1px solid #e2e9f0; border-radius: 10px;
+    padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: baseline;
+  }
+  .card:hover { border-color: #0b5fa5; }
+  .date { flex: 0 0 84px; font-size: 12px; color: #5b6b7f; white-space: nowrap; }
+  .card .main { flex: 1; }
+  .card a.title { color: #0b3d66; text-decoration: none; font-weight: 600; font-size: 14px; line-height: 1.35; }
+  .card a.title:hover { text-decoration: underline; }
+  .badge {
+    display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; margin-left: 8px;
+    vertical-align: middle; font-weight: 500;
+  }
+  .b-m { background: #e3f0fb; color: #0b5fa5; }
+  .b-o { background: #e8f5e9; color: #2e7d32; }
+  .b-f { background: #fff3e0; color: #b26a00; }
+  .loading, .empty { text-align: center; padding: 40px; color: #5b6b7f; }
+  .spinner {
+    display: inline-block; width: 22px; height: 22px; border: 3px solid #c8d4e0;
+    border-top-color: #0b5fa5; border-radius: 50%; animation: spin .8s linear infinite; margin-bottom: 8px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  footer { margin-top: 20px; font-size: 12px; color: #8593a5; text-align: center; }
+  footer a { color: #5b6b7f; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
+  <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
+  <div class="controls" id="controls" style="display:none">
+    <span class="chip src on" data-src="m">Minb&aring;d.dk</span>
+    <span class="chip src on" data-src="o">Motorb&aring;dsnyt</span>
+    <span class="chip src on" data-src="f">FLID Havne</span>
+    <span class="chip" id="havnOnly">Kun havnenyt</span>
+    <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
+  </div>
+  <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
+  <footer>Kilder: <a href="https://minbaad.dk">Minb&aring;d.dk</a> &middot;
+    <a href="https://motorbaadsnyt.dk">Motorb&aring;dsnyt.dk</a> &middot;
+    <a href="https://flidhavne.dk/nyheder/">FLID</a>.
+    Opdateres automatisk hver time via GitHub Actions.</footer>
+</div>
+<script>
+(function(){
+  var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+  var HAVN_WORDS = ["havn","marina","lystbåd","sejlklub","bådplads","gæstesejl","mole","kajplads","anker"];
+  var state = { items: [], srcOn: { m:true, o:true, f:true }, havnOnly: false, q: "", generated: null };
+
+  try {
+    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs") || "{}");
+    if (saved.srcOn) state.srcOn = saved.srcOn;
+    if (typeof saved.havnOnly === "boolean") state.havnOnly = saved.havnOnly;
+  } catch (e) {}
+
+  function savePrefs() {
+    try { localStorage.setItem("marina-nyheder-prefs", JSON.stringify({ srcOn: state.srcOn, havnOnly: state.havnOnly })); } catch (e) {}
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return "–";
+    var p = iso.split("-");
+    return (+p[2]) + ". " + DA_SHORT[+p[1]-1] + " " + p[0];
+  }
+
+  function isHavn(title) {
+    var t = title.toLowerCase();
+    return HAVN_WORDS.some(function(w){ return t.indexOf(w) !== -1; });
+  }
+
+  function render() {
+    var list = document.getElementById("list");
+    var q = state.q.toLowerCase();
+    var items = state.items.filter(function(it){
+      if (!state.srcOn[it.src]) return false;
+      if (state.havnOnly && !isHavn(it.title)) return false;
+      if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
+      return true;
+    });
+    var gen = state.generated ? new Date(state.generated) : null;
+    document.getElementById("subline").textContent =
+      items.length + " nyheder om danske marinaer og lystbådehavne" +
+      (gen ? " · senest opdateret " + gen.toLocaleString("da-DK", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "");
+    if (!items.length) {
+      list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
+      return;
+    }
+    var badgeTxt = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID" };
+    list.innerHTML = items.map(function(it){
+      return '<div class="card">' +
+        '<span class="date">' + fmtDate(it.date) + '</span>' +
+        '<div class="main"><a class="title" href="' + it.url + '" target="_blank" rel="noopener">' +
+        String(it.title).replace(/</g, "&lt;") + '</a>' +
+        '<span class="badge b-' + it.src + '">' + (badgeTxt[it.src] || "") + '</span></div></div>';
+    }).join("");
+  }
+
+  function wireControls() {
+    document.getElementById("controls").style.display = "";
+    document.querySelectorAll(".chip.src").forEach(function(ch){
+      var src = ch.getAttribute("data-src");
+      ch.classList.toggle("on", !!state.srcOn[src]);
+      ch.addEventListener("click", function(){
+        state.srcOn[src] = !state.srcOn[src];
+        ch.classList.toggle("on", state.srcOn[src]);
+        savePrefs(); render();
+      });
+    });
+    var ho = document.getElementById("havnOnly");
+    ho.classList.toggle("on", state.havnOnly);
+    ho.addEventListener("click", function(){
+      state.havnOnly = !state.havnOnly;
+      ho.classList.toggle("on", state.havnOnly);
+      savePrefs(); render();
+    });
+    document.getElementById("q").addEventListener("input", function(e){
+      state.q = e.target.value; render();
+    });
+  }
+
+  fetch("news.json", { cache: "no-cache" })
+    .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(data){
+      state.items = data.items || [];
+      state.generated = data.generated || null;
+      wireControls();
+      render();
+    })
+    .catch(function(e){
+      document.getElementById("list").innerHTML =
+        '<div class="empty">Kunne ikke hente news.json (' + e.message + ').</div>';
+    });
+})();
+</script>
+</body>
+</html>
