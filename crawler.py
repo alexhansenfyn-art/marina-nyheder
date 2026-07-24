@@ -150,6 +150,9 @@ def parse_generic(html, base_url, label):
         title = clean(a.get("title") or "") or clean(a.get_text())
         if len(title) < 15:
             continue
+        if len(title) > 140:  # link-tekst der er et helt afsnit: klip ved sætningsgrænse
+            cut = max(title.find(". ", 40, 140), title.rfind(" ", 40, 137))
+            title = title[:cut if cut > 0 else 137].rstrip(".,;: ") + "…"
         key = host_of(href) + path
         if key in out:
             continue
@@ -207,7 +210,8 @@ def main():
             pass
     old_items = [normalize_old(i) for i in old_items]
 
-    # Nye først; dedupe på key; smid poster med ugyldige URL'er ud
+    # Nye først; dedupe på key; smid poster med ugyldige URL'er ud.
+    # Mangler den nye post en dato, genbruges datoen fra arkivet.
     merged = {}
     for it in collected + old_items:
         if not str(it.get("url", "")).startswith("http") or not it.get("source"):
@@ -215,6 +219,14 @@ def main():
         key = it.get("key") or it.get("url")
         if key not in merged:
             merged[key] = it
+        elif not merged[key].get("date") and it.get("date"):
+            merged[key]["date"] = it["date"]
+
+    # Nyheder uden dato får den dato, de først blev set (ellers drukner de i bunden)
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    for it in merged.values():
+        if not it.get("date"):
+            it["date"] = today
 
     items = list(merged.values())
     items.sort(key=lambda i: i.get("date") or "0000-00-00", reverse=True)
