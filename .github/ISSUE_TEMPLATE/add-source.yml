@@ -1,0 +1,21 @@
+name: Tilføj nyhedskilde
+description: Tilføj en side som crawleren automatisk skal hente nyheder fra
+title: "Ny kilde"
+labels: ["add-source"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Fuld adresse på nyhedssiden, fx https://eksempel.dk/nyheder
+      placeholder: "https://"
+    validations:
+      required: true
+  - type: input
+    id: label
+    attributes:
+      label: Navn
+      description: Kort navn der vises som kilde-mærkat på websiden
+      placeholder: fx Kerteminde Marina
+    validations:
+      required: true
