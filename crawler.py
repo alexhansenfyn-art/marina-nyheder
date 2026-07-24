@@ -11,6 +11,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+from urllib.parse import urljoin
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -46,12 +48,12 @@ def clean(text):
     return re.sub(r"\s+", " ", text or "").strip()
 
 
-def parse_typo3(html, default_src):
+def parse_typo3(html, default_src, base_url):
     """minbaad.dk / motorbaadsnyt.dk (TYPO3). Dato ligger i artikel-URL'en."""
     soup = BeautifulSoup(html, "html.parser")
     items = []
     for a in soup.select('a[href*="/nyhed/archive/"]'):
-        href = a.get("href", "")
+        href = urljoin(base_url, a.get("href", ""))  # gør relative links absolutte
         m = ARTICLE_RE.search(href)
         if not m:
             continue
@@ -115,7 +117,7 @@ def main():
     errors = []
     for src, url in TYPO3_SOURCES:
         try:
-            collected += parse_typo3(fetch(url), src)
+            collected += parse_typo3(fetch(url), src, url)
         except Exception as e:  # noqa: BLE001
             errors.append(f"{url}: {e}")
     for _, url in FLID_SOURCES:
@@ -132,9 +134,12 @@ def main():
         except Exception:
             pass
 
-    # Nye først, dedupe på key (gamle bevares, titler/datoer fra nye vinder)
+    # Nye først, dedupe på key (gamle bevares, titler/datoer fra nye vinder).
+    # Smid gamle poster med relative/ugyldige URL'er ud.
     merged = {}
     for it in collected + old_items:
+        if not str(it.get("url", "")).startswith("http"):
+            continue
         key = it.get("key") or it.get("url")
         if key not in merged:
             merged[key] = it
