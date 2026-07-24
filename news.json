@@ -1,7 +1,9 @@
 {
- "generated": "2026-07-24T19:39:04+00:00",
+ "generated": "2026-07-24T22:45:13+00:00",
  "count": 149,
- "errors": [],
+ "errors": [
+  "https://flidhavne.dk/nyheder/: 415 Client Error: Unsupported Media Type for url: https://flidhavne.dk/nyheder/"
+ ],
  "items": [
   {
    "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
