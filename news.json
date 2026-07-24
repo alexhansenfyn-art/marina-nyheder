@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-24T19:31:09+00:00",
- "count": 147,
+ "generated": "2026-07-24T19:33:43+00:00",
+ "count": 149,
  "errors": [],
  "items": [
   {
@@ -1031,6 +1031,20 @@
    "date": "2024-01-11",
    "title": "Reportage: Fiskeristyrelsen kontrollerer kuttere i Det Sydfynske Øhav",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2024/11/january/article/reportage-fiskeristyrelsen-kontrollerer-kuttere-i-det-sydfynske-ohav/"
+  },
+  {
+   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "source": "Havneguide",
+   "date": null,
+   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er plads, eller hvad det koster. Inden du ringer til havnefogeden, så tjek havnens hjemmeside, eller havneguide.dk. Her kan du finde mange nyttige oplysninger, og så giver du havnefogeden tid til alle de andre opgaver på havnen. Du kan også vælge bare at sejle i havn. Sejlere er gode til at hjælpe hinanden og tage imod fortøjninger eller anvise ledige pladser. Havneguide.dk ønsker alle en god sejlsæson med denne guide for godt sømandskab i havnen. Læs mere",
+   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil"
+  },
+  {
+   "key": "havneguide.dk/baadpladser",
+   "source": "Havneguide",
+   "date": null,
+   "title": "Salg og udlejning af bådpladser",
+   "url": "https://havneguide.dk/baadpladser"
   }
  ]
 }

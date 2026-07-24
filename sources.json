@@ -26,5 +26,9 @@
  {
   "url": "https://minbaad.dk/klubber",
   "label": "Sejlklubber"
+ },
+ {
+  "url": "https://havneguide.dk",
+  "label": "Havneguide"
  }
 ]
