@@ -21,11 +21,31 @@
     font-size: 13px; cursor: pointer; user-select: none; color: #3a4a5e;
   }
   .chip.on { background: #0b5fa5; border-color: #0b5fa5; color: #fff; }
+  .chip.add { border-style: dashed; color: #0b5fa5; }
   input.search {
     flex: 1; min-width: 160px; border: 1px solid #c8d4e0; border-radius: 8px;
     padding: 7px 10px; font-size: 13px; background: #fff; color: #1a2332;
   }
-  input.search:focus { outline: 2px solid #0b5fa5; border-color: #0b5fa5; }
+  input.search:focus, .addpanel input:focus { outline: 2px solid #0b5fa5; border-color: #0b5fa5; }
+  .addpanel {
+    display: none; background: #fff; border: 1px solid #c8d4e0; border-radius: 10px;
+    padding: 14px; margin-bottom: 14px;
+  }
+  .addpanel.open { display: block; }
+  .addpanel h2 { font-size: 15px; margin-bottom: 4px; }
+  .addpanel p { font-size: 12px; color: #5b6b7f; margin-bottom: 10px; }
+  .addpanel .row { display: flex; gap: 8px; flex-wrap: wrap; }
+  .addpanel input {
+    border: 1px solid #c8d4e0; border-radius: 8px; padding: 7px 10px; font-size: 13px;
+    background: #fff; color: #1a2332;
+  }
+  .addpanel input.u { flex: 2; min-width: 220px; }
+  .addpanel input.n { flex: 1; min-width: 140px; }
+  .addpanel button {
+    background: #0b5fa5; color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
+    font-size: 13px; cursor: pointer;
+  }
+  .addpanel button:hover { background: #0a5290; }
   .card {
     background: #fff; border: 1px solid #e2e9f0; border-radius: 10px;
     padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: baseline;
@@ -39,9 +59,6 @@
     display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; margin-left: 8px;
     vertical-align: middle; font-weight: 500;
   }
-  .b-m { background: #e3f0fb; color: #0b5fa5; }
-  .b-o { background: #e8f5e9; color: #2e7d32; }
-  .b-f { background: #fff3e0; color: #b26a00; }
   .loading, .empty { text-align: center; padding: 40px; color: #5b6b7f; }
   .spinner {
     display: inline-block; width: 22px; height: 22px; border: 3px solid #c8d4e0;
@@ -57,32 +74,53 @@
   <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
   <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
   <div class="controls" id="controls" style="display:none">
-    <span class="chip src on" data-src="m">Minb&aring;d.dk</span>
-    <span class="chip src on" data-src="o">Motorb&aring;dsnyt</span>
-    <span class="chip src on" data-src="f">FLID Havne</span>
+    <span id="srcChips"></span>
     <span class="chip" id="havnOnly">Kun havnenyt</span>
+    <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
   </div>
+  <div class="addpanel" id="addPanel">
+    <h2>Tilf&oslash;j ny nyhedskilde</h2>
+    <p>Indtast adressen p&aring; en nyhedsside (fx en marinas nyhedsoversigt). Du sendes til GitHub,
+       hvor du bekr&aelig;fter med &eacute;t klik p&aring; "Create" &ndash; derefter validerer og crawler systemet siden automatisk.
+       Kr&aelig;ver at du er logget ind p&aring; GitHub som ejer.</p>
+    <div class="row">
+      <input class="u" id="newUrl" type="url" placeholder="https://eksempel.dk/nyheder">
+      <input class="n" id="newLabel" type="text" placeholder="Navn, fx Kerteminde Marina">
+      <button id="submitSource">Tilf&oslash;j</button>
+    </div>
+  </div>
   <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
-  <footer>Kilder: <a href="https://minbaad.dk">Minb&aring;d.dk</a> &middot;
-    <a href="https://motorbaadsnyt.dk">Motorb&aring;dsnyt.dk</a> &middot;
-    <a href="https://flidhavne.dk/nyheder/">FLID</a>.
+  <footer>Kilder tilf&oslash;jes og fjernes i
+    <a href="https://github.com/alexhansenfyn-art/marina-nyheder/blob/main/sources.json">sources.json</a>.
     Opdateres automatisk hver time via GitHub Actions.</footer>
 </div>
 <script>
 (function(){
+  var REPO = "alexhansenfyn-art/marina-nyheder";
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var HAVN_WORDS = ["havn","marina","lystbåd","sejlklub","bådplads","gæstesejl","mole","kajplads","anker"];
-  var state = { items: [], srcOn: { m:true, o:true, f:true }, havnOnly: false, q: "", generated: null };
+  var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
+  var PALETTE = [
+    ["#e3f0fb", "#0b5fa5"], ["#e8f5e9", "#2e7d32"], ["#fff3e0", "#b26a00"],
+    ["#f3e5f5", "#7b1fa2"], ["#e0f2f1", "#00695c"], ["#fce4ec", "#c2185b"],
+    ["#efebe9", "#5d4037"], ["#e8eaf6", "#303f9f"]
+  ];
+  var state = { items: [], labels: [], srcOff: {}, havnOnly: false, q: "", generated: null };
 
   try {
-    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs") || "{}");
-    if (saved.srcOn) state.srcOn = saved.srcOn;
+    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs2") || "{}");
+    if (saved.srcOff) state.srcOff = saved.srcOff;
     if (typeof saved.havnOnly === "boolean") state.havnOnly = saved.havnOnly;
   } catch (e) {}
 
   function savePrefs() {
-    try { localStorage.setItem("marina-nyheder-prefs", JSON.stringify({ srcOn: state.srcOn, havnOnly: state.havnOnly })); } catch (e) {}
+    try { localStorage.setItem("marina-nyheder-prefs2", JSON.stringify({ srcOff: state.srcOff, havnOnly: state.havnOnly })); } catch (e) {}
+  }
+
+  function colorFor(label) {
+    var i = state.labels.indexOf(label);
+    return PALETTE[(i < 0 ? 0 : i) % PALETTE.length];
   }
 
   function fmtDate(iso) {
@@ -96,11 +134,13 @@
     return HAVN_WORDS.some(function(w){ return t.indexOf(w) !== -1; });
   }
 
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+
   function render() {
     var list = document.getElementById("list");
     var q = state.q.toLowerCase();
     var items = state.items.filter(function(it){
-      if (!state.srcOn[it.src]) return false;
+      if (state.srcOff[it.source]) return false;
       if (state.havnOnly && !isHavn(it.title)) return false;
       if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
       return true;
@@ -113,27 +153,35 @@
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
     }
-    var badgeTxt = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID" };
     list.innerHTML = items.map(function(it){
+      var c = colorFor(it.source);
       return '<div class="card">' +
         '<span class="date">' + fmtDate(it.date) + '</span>' +
-        '<div class="main"><a class="title" href="' + it.url + '" target="_blank" rel="noopener">' +
-        String(it.title).replace(/</g, "&lt;") + '</a>' +
-        '<span class="badge b-' + it.src + '">' + (badgeTxt[it.src] || "") + '</span></div></div>';
+        '<div class="main"><a class="title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' +
+        esc(it.title) + '</a>' +
+        '<span class="badge" style="background:' + c[0] + ';color:' + c[1] + '">' + esc(it.source) + '</span></div></div>';
     }).join("");
+  }
+
+  function buildChips() {
+    var holder = document.getElementById("srcChips");
+    holder.innerHTML = "";
+    state.labels.forEach(function(label){
+      var ch = document.createElement("span");
+      ch.className = "chip" + (state.srcOff[label] ? "" : " on");
+      ch.textContent = label;
+      ch.addEventListener("click", function(){
+        state.srcOff[label] = !state.srcOff[label];
+        ch.classList.toggle("on", !state.srcOff[label]);
+        savePrefs(); render();
+      });
+      holder.appendChild(ch);
+    });
   }
 
   function wireControls() {
     document.getElementById("controls").style.display = "";
-    document.querySelectorAll(".chip.src").forEach(function(ch){
-      var src = ch.getAttribute("data-src");
-      ch.classList.toggle("on", !!state.srcOn[src]);
-      ch.addEventListener("click", function(){
-        state.srcOn[src] = !state.srcOn[src];
-        ch.classList.toggle("on", state.srcOn[src]);
-        savePrefs(); render();
-      });
-    });
+    buildChips();
     var ho = document.getElementById("havnOnly");
     ho.classList.toggle("on", state.havnOnly);
     ho.addEventListener("click", function(){
@@ -144,12 +192,32 @@
     document.getElementById("q").addEventListener("input", function(e){
       state.q = e.target.value; render();
     });
+    document.getElementById("addBtn").addEventListener("click", function(){
+      document.getElementById("addPanel").classList.toggle("open");
+    });
+    document.getElementById("submitSource").addEventListener("click", function(){
+      var url = document.getElementById("newUrl").value.trim();
+      var label = document.getElementById("newLabel").value.trim();
+      if (!/^https?:\/\//.test(url)) { alert("Skriv en fuld adresse, der starter med https://"); return; }
+      if (!label) { alert("Giv kilden et kort navn."); return; }
+      var gh = "https://github.com/" + REPO + "/issues/new?template=add-source.yml" +
+        "&title=" + encodeURIComponent("Ny kilde: " + label) +
+        "&url=" + encodeURIComponent(url) +
+        "&label=" + encodeURIComponent(label);
+      window.open(gh, "_blank");
+    });
   }
 
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(data){
-      state.items = data.items || [];
+      state.items = (data.items || []).map(function(it){
+        if (!it.source && it.src && LEGACY[it.src]) it.source = LEGACY[it.src];
+        return it;
+      }).filter(function(it){ return it.source; });
+      var seen = {};
+      state.items.forEach(function(it){ seen[it.source] = true; });
+      state.labels = Object.keys(seen).sort();
       state.generated = data.generated || null;
       wireControls();
       render();
