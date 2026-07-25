@@ -1,16 +1,14 @@
 {
- "generated": "2026-07-24T22:45:13+00:00",
- "count": 149,
- "errors": [
-  "https://flidhavne.dk/nyheder/: 415 Client Error: Unsupported Media Type for url: https://flidhavne.dk/nyheder/"
- ],
+ "generated": "2026-07-25T07:30:20+00:00",
+ "count": 150,
+ "errors": [],
  "items": [
   {
-   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
+   "key": "elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race",
    "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/"
+   "date": "2026-07-25",
+   "title": "Elliott 35 i front mod Anholt i Garmin Round Denmark Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race/"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -20,11 +18,11 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/"
   },
   {
-   "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
+   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
-   "title": "ViewRegatta med AI og mobil skal gøre kapsejlads til en publikumssport",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/"
+   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/"
   },
   {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
@@ -32,6 +30,13 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/"
+  },
+  {
+   "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "ViewRegatta med AI og mobil skal gøre kapsejlads til en publikumssport",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/"
   },
   {
    "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
@@ -328,13 +333,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/july/article/kolby-kaas-siger-farvel-til-faergerne-og-goddag-til-lystsejlerne/"
   },
   {
-   "key": "sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad",
-   "source": "Minbåd.dk",
-   "date": "2026-07-10",
-   "title": "Sejlere skulle betale fulde havnepenge i Dyvig Bro for at gå i land fra gummibåd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad/"
-  },
-  {
    "key": "moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter",
    "source": "Minbåd.dk",
    "date": "2026-07-10",
@@ -347,6 +345,13 @@
    "date": "2026-07-10",
    "title": "Syg pukkelhval svømmer tæt på Aarhus Ø - se video",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe/"
+  },
+  {
+   "key": "sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad",
+   "source": "Minbåd.dk",
+   "date": "2026-07-10",
+   "title": "Sejlere skulle betale fulde havnepenge i Dyvig Bro for at gå i land fra gummibåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad/"
   },
   {
    "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
@@ -440,18 +445,18 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/"
   },
   {
-   "key": "baaden-kan-ogsaa-vaere-et-lille-fitnesscenter",
-   "source": "Minbåd.dk",
-   "date": "2026-07-03",
-   "title": "Båden kan også være et lille fitnesscenter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/july/article/baaden-kan-ogsaa-vaere-et-lille-fitnesscenter/"
-  },
-  {
    "key": "askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne",
    "source": "Motorbådsnyt",
    "date": "2026-07-03",
    "title": "Askebæger til søs: Når funktion og sikkerhed også gælder rygerne",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/july/article/askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne/"
+  },
+  {
+   "key": "baaden-kan-ogsaa-vaere-et-lille-fitnesscenter",
+   "source": "Minbåd.dk",
+   "date": "2026-07-03",
+   "title": "Båden kan også være et lille fitnesscenter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/july/article/baaden-kan-ogsaa-vaere-et-lille-fitnesscenter/"
   },
   {
    "key": "sommerhavne-aegte-fiskerstemning-i-sletten",
