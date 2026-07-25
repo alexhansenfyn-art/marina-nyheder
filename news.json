@@ -1,8 +1,17 @@
 {
- "generated": "2026-07-25T20:15:00+00:00",
- "count": 150,
- "errors": [],
+ "generated": "2026-07-25T23:46:53+00:00",
+ "count": 151,
+ "errors": [
+  "https://flidhavne.dk/nyheder/: 415 Client Error: Unsupported Media Type for url: https://flidhavne.dk/nyheder/"
+ ],
  "items": [
+  {
+   "key": "elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet",
+   "source": "Minbåd.dk",
+   "date": "2026-07-25",
+   "title": "Elliott 35 jagter trimaran mod Bornholm - 3 solosejlere udgået",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet/"
+  },
   {
    "key": "elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race",
    "source": "Minbåd.dk",
@@ -18,18 +27,18 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/"
   },
   {
-   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/"
-  },
-  {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/"
+  },
+  {
+   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/"
   },
   {
    "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
@@ -187,10 +196,10 @@
   },
   {
    "key": "dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-07-18",
    "title": "På My Maritime app er dit speedbådbevis og andre digitale beviser",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -403,18 +412,18 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/"
   },
   {
-   "key": "hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld",
-   "source": "Minbåd.dk",
-   "date": "2026-07-07",
-   "title": "Høj Jensen aldrig træt af at vinde i H-båden - nu 15. DM-guld",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld/"
-  },
-  {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
    "source": "Motorbådsnyt",
    "date": "2026-07-07",
    "title": "Sommerhavne: Ankomsten til Mariager er unik med sæler, ankerpladser og stejle skrænter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/july/article/sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter/"
+  },
+  {
+   "key": "hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-07-07",
+   "title": "Høj Jensen aldrig træt af at vinde i H-båden - nu 15. DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld/"
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
