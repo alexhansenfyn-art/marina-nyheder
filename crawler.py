@@ -27,12 +27,17 @@ SOURCES_FILE = ROOT / "sources.json"
 MAX_ITEMS = 600
 MAX_PER_GENERIC_SOURCE = 40
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
-HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-                   "(KHTML, like Gecko) Chrome/126.0 Safari/537.36 MarinaNyhederBot/1.0"),
+ACCEPT = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "da,en;q=0.8",
 }
+# Nogle sider afviser bot-agenter, andre afviser browser-agenter - vi prøver begge
+HEADER_SETS = [
+    {"User-Agent": "MarinaNyhederBot/1.0 (+https://github.com)", **ACCEPT},
+    {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"), **ACCEPT},
+]
+HEADERS = HEADER_SETS[0]
 # DeepSeek-model: flash er den billigste og hurtige - bruges bevidst frem for pro
 DEEPSEEK_MODELS = ["deepseek-v4-flash"]
 
@@ -52,9 +57,13 @@ ARTICLE_RE = re.compile(
 
 
 def fetch(url):
-    r = requests.get(url, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    return r.text
+    last = None
+    for headers in HEADER_SETS:
+        r = requests.get(url, headers=headers, timeout=30)
+        if r.status_code < 400:
+            return r.text
+        last = r
+    last.raise_for_status()
 
 
 def clean(text):
@@ -240,6 +249,30 @@ def normalize_old(item):
 
 # ---------- DeepSeek AI-berigelse ----------
 
+def parse_json(raw):
+    """Tolk AI-svar som JSON. Tåler markdown-hegn og afkortede svar."""
+    if raw is None:
+        raise ValueError("tomt AI-svar")
+    txt = raw.strip()
+    if txt.startswith("```"):
+        txt = re.sub(r"^```[a-z]*\s*|\s*```$", "", txt)
+    try:
+        return json.loads(txt)
+    except json.JSONDecodeError:
+        pass
+    # Afkortet svar: hent felterne enkeltvis
+    out = {}
+    m = re.search(r'"kategori"\s*:\s*"([^"]*)"', txt)
+    if m:
+        out["kategori"] = m.group(1)
+    m = re.search(r'"resume"\s*:\s*"(.*?)(?:"|$)', txt, re.S)
+    if m and m.group(1).strip():
+        out["resume"] = m.group(1).strip()
+    if not out:
+        raise ValueError(f"kunne ikke tolke AI-svar: {txt[:120]}")
+    return out
+
+
 _MODEL = {"name": None}  # huskes efter første vellykkede kald
 
 
@@ -315,8 +348,8 @@ def enrich_items(items):
             raw = deepseek([
                 {"role": "system", "content": "Du er redaktør på et dansk nyhedssite om marinaer og lystbådehavne. Svar kun med gyldig JSON."},
                 {"role": "user", "content": prompt},
-            ], json_mode=True, max_tokens=300)
-            data = json.loads(raw)
+            ], json_mode=True, max_tokens=800)
+            data = parse_json(raw)
             cat = data.get("kategori", "")
             it["cat"] = cat if cat in CATEGORIES else "Andet"
             summary = clean(data.get("resume", ""))[:260]
