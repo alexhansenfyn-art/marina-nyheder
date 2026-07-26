@@ -27,6 +27,8 @@ SOURCES_FILE = ROOT / "sources.json"
 MAX_ITEMS = 600
 MAX_PER_GENERIC_SOURCE = 40
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
+BACKFILL_IMAGES_PER_RUN = 30 # antal manglende billeder der efterhentes pr. kørsel
+BACKFILL_IMAGES_SINCE = "2026-05-01"   # ældre artikler lades i fred
 ACCEPT = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "da,en;q=0.8",
@@ -519,6 +521,48 @@ def deepseek(messages, json_mode=False, max_tokens=500):
     return None
 
 
+OG_IMAGE_RES = [
+    re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.I),
+    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)', re.I),
+]
+
+
+def backfill_images(items, since, limit=BACKFILL_IMAGES_PER_RUN):
+    """Hent manglende billeder fra artiklernes egne sider (og:image).
+
+    Oversigtssiderne viser kun de nyeste artikler, så ældre poster i arkivet
+    står tilbage uden billede. Vi henter et pænt antal pr. kørsel, nyeste
+    først, så vi ikke hamrer kildernes servere.
+    """
+    todo = [i for i in items
+            if not i.get("img") and (i.get("date") or "") >= since][:limit]
+    done = 0
+    for it in todo:
+        try:
+            html = fetch(it["url"])
+        except Exception as e:  # noqa: BLE001
+            note_ai_error(f"billedhentning fejlede for {it['url']}: {type(e).__name__}")
+            continue
+        url = None
+        for rx in OG_IMAGE_RES:
+            m = rx.search(html)
+            if m:
+                url = m.group(1).strip()
+                break
+        if not url:
+            # Fald tilbage til det første rigtige billede i artiklens brødtekst
+            soup = BeautifulSoup(html, "html.parser")
+            body = soup.find("article") or soup.find("main") or soup
+            url = img_near(body, it["url"], levels=0)
+        else:
+            url = urljoin(it["url"], url)
+        if url and not IMG_JUNK_RE.search(url):
+            it["img"] = url
+            done += 1
+    return done
+
+
 def article_text(url):
     """Hent artiklens brødtekst (bedste bud) til brug for AI-resumé."""
     try:
@@ -632,6 +676,7 @@ def main():
     items = items[:MAX_ITEMS]
 
     enriched = enrich_items(items)
+    backfilled = backfill_images(items, BACKFILL_IMAGES_SINCE)
 
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -641,7 +686,7 @@ def main():
     }
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
-          f"{enriched} AI-beriget, {len(errors)} fejl")
+          f"{enriched} AI-beriget, {backfilled} billeder efterhentet, {len(errors)} fejl")
     for e in errors:
         print("FEJL:", e, file=sys.stderr)
 
