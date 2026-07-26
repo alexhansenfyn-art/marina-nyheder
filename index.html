@@ -47,32 +47,12 @@
     -webkit-tap-highlight-color: transparent;
   }
   .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
-  .chip.add { border-style: dashed; color: var(--accent); }
   .lbl { font-size: 11px; color: var(--muted2); text-transform: uppercase; letter-spacing: .05em; margin-right: 2px; }
   input.search {
     flex: 1; min-width: 160px; border: 1px solid var(--border2); border-radius: 8px;
     padding: 7px 10px; font-size: 13px; background: var(--card); color: var(--text);
   }
-  input.search:focus, .addpanel input:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
-  .addpanel {
-    display: none; background: var(--card); border: 1px solid var(--border2); border-radius: 10px;
-    padding: 14px; margin-bottom: 14px;
-  }
-  .addpanel.open { display: block; }
-  .addpanel h2 { font-size: 15px; margin-bottom: 4px; }
-  .addpanel p { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
-  .addpanel .row { display: flex; gap: 8px; flex-wrap: wrap; }
-  .addpanel input {
-    border: 1px solid var(--border2); border-radius: 8px; padding: 7px 10px; font-size: 13px;
-    background: var(--card); color: var(--text);
-  }
-  .addpanel input.u { flex: 2; min-width: 220px; }
-  .addpanel input.n { flex: 1; min-width: 140px; }
-  .addpanel button {
-    background: var(--accent); color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
-    font-size: 13px; cursor: pointer;
-  }
-  .addpanel button:hover { background: var(--accent-dark); }
+  input.search:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
   .ghead {
     font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
     letter-spacing: .05em; margin: 18px 0 8px 2px;
@@ -121,14 +101,15 @@
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .thumb { flex: 0 0 68px; width: 68px; height: 52px; }
     .ghead { margin: 14px 0 6px 2px; }
-    /* Emner: én vandret scroll-række i stedet for flere linjer */
-    #catRow .chips {
-      flex-wrap: nowrap; overflow-x: auto; scroll-snap-type: x proximity;
-      -webkit-overflow-scrolling: touch; scrollbar-width: none;
-      padding-bottom: 2px; margin: 0 -12px; padding-left: 12px; padding-right: 12px;
+    /* Emner: alle synlige på én skærm – chips fylder rækkerne ud, ingen scroll */
+    #catRow .chips { gap: 5px; }
+    #catRow .chip {
+      flex: 1 1 auto; justify-content: center; font-size: 12px;
+      padding: 7px 8px; min-height: 32px;
     }
-    #catRow .chips::-webkit-scrollbar { display: none; }
-    #catRow .chip { scroll-snap-align: start; }
+  }
+  @media (max-width: 360px) {
+    #catRow .chip { font-size: 11px; padding: 7px 6px; letter-spacing: -.01em; }
   }
 </style>
 </head>
@@ -138,22 +119,10 @@
   <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
   <div class="controls" id="srcRow" style="display:none">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
-    <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
   </div>
   <div class="controls col" id="catRow" style="display:none">
     <span class="lbl">Emner</span>
     <div class="chips" id="catChips"></div>
-  </div>
-  <div class="addpanel" id="addPanel">
-    <h2>Tilf&oslash;j ny nyhedskilde</h2>
-    <p>Indtast adressen p&aring; en nyhedsside (fx en marinas nyhedsoversigt). Du sendes til GitHub,
-       hvor du bekr&aelig;fter med &eacute;t klik p&aring; "Create" &ndash; derefter validerer og crawler systemet siden automatisk.
-       Kr&aelig;ver at du er logget ind p&aring; GitHub som ejer.</p>
-    <div class="row">
-      <input class="u" id="newUrl" type="url" placeholder="https://eksempel.dk/nyheder">
-      <input class="n" id="newLabel" type="text" placeholder="Navn, fx Kerteminde Marina">
-      <button id="submitSource">Tilf&oslash;j</button>
-    </div>
   </div>
   <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
   <footer>Kilder tilf&oslash;jes og fjernes i
@@ -163,7 +132,6 @@
 </div>
 <script>
 (function(){
-  var REPO = "alexhansenfyn-art/marina-nyheder";
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
   var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads","Udstyr & både","Andet"];
@@ -317,20 +285,6 @@
     buildChips("catChips", state.cats, state.catOff);
     document.getElementById("q").addEventListener("input", function(e){
       state.q = e.target.value; render();
-    });
-    document.getElementById("addBtn").addEventListener("click", function(){
-      document.getElementById("addPanel").classList.toggle("open");
-    });
-    document.getElementById("submitSource").addEventListener("click", function(){
-      var url = document.getElementById("newUrl").value.trim();
-      var label = document.getElementById("newLabel").value.trim();
-      if (!/^https?:\/\//.test(url)) { alert("Skriv en fuld adresse, der starter med https://"); return; }
-      if (!label) { alert("Giv kilden et kort navn."); return; }
-      var gh = "https://github.com/" + REPO + "/issues/new?template=add-source.yml" +
-        "&title=" + encodeURIComponent("Ny kilde: " + label) +
-        "&url=" + encodeURIComponent(url) +
-        "&label=" + encodeURIComponent(label);
-      window.open(gh, "_blank");
     });
   }
 
