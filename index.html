@@ -53,6 +53,26 @@
     padding: 7px 10px; font-size: 13px; background: var(--card); color: var(--text);
   }
   input.search:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
+  /* Emne-dropdown */
+  .dd { position: relative; }
+  .dd > summary {
+    list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
+    border: 1px solid var(--border2); background: var(--card); color: var(--text);
+    border-radius: 8px; padding: 7px 12px; font-size: 13px; min-height: 36px;
+    -webkit-tap-highlight-color: transparent; user-select: none;
+  }
+  .dd > summary::-webkit-details-marker { display: none; }
+  .dd[open] > summary { border-color: var(--accent); color: var(--accent); }
+  .dd .caret { font-size: 10px; color: var(--muted2); transition: transform .15s; }
+  .dd[open] .caret { transform: rotate(180deg); color: var(--accent); }
+  .ddpanel {
+    position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; min-width: 260px; max-width: 92vw;
+    background: var(--card); border: 1px solid var(--border2); border-radius: 12px; padding: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.14);
+  }
+  .ddtop { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; gap: 10px; }
+  .ddall { font-size: 12px; color: var(--accent); cursor: pointer; white-space: nowrap; }
+  .ddall:hover { text-decoration: underline; }
   .ghead {
     font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
     letter-spacing: .05em; margin: 18px 0 8px 2px;
@@ -70,8 +90,12 @@
     float: left; width: 168px; height: 124px; margin: 2px 14px 6px 0;
     object-fit: cover; border-radius: 8px; background: var(--border);
   }
-  /* Blok (ikke flex) – så linjerne selv viger for det flydende billede. */
-  .meta { font-size: 12px; color: var(--muted); margin-bottom: 4px; line-height: 1.7; }
+  /* Dato og kilde står nederst, adskilt af en tynd linje. Blok (ikke flex),
+     så linjerne selv viger for det flydende billede. */
+  .meta {
+    font-size: 12px; color: var(--muted); line-height: 1.7; clear: none;
+    margin-top: 9px; padding-top: 8px; border-top: 1px solid var(--border);
+  }
   .meta > * { margin-right: 7px; }
   .badge {
     display: inline-block; font-size: 11px; border-radius: 4px; padding: 2px 7px; font-weight: 500;
@@ -125,9 +149,17 @@
   <div class="controls" id="srcRow" style="display:none">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
   </div>
-  <div class="controls col" id="catRow" style="display:none">
-    <span class="lbl">Emner</span>
-    <div class="chips" id="catChips"></div>
+  <div class="controls" id="catRow" style="display:none">
+    <details class="dd" id="catDd">
+      <summary><span id="catSummary">Alle emner</span><span class="caret" aria-hidden="true">&#9662;</span></summary>
+      <div class="ddpanel">
+        <div class="ddtop">
+          <span class="lbl">Filtrer p&aring; emne</span>
+          <span class="ddall" id="catAll">V&aelig;lg alle</span>
+        </div>
+        <div class="chips" id="catChips"></div>
+      </div>
+    </details>
   </div>
   <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
   <footer>Kilder tilf&oslash;jes og fjernes i
@@ -196,12 +228,12 @@
     var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
     if (it.img) html += '<img class="thumb" loading="lazy" decoding="async" width="168" height="124" ' +
       'src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
-    html += '<div class="meta"><span>' + fmtDate(it.date) + '</span>' +
+    html += '<span class="title">' + esc(it.title) + '</span>' +
+      (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
+      '<div class="meta"><span>' + fmtDate(it.date) + '</span>' +
       '<span class="badge" style="background:' + sc[0] + ';color:' + sc[1] + '">' + esc(it.source) + '</span>' +
       (it.cat ? '<span class="badge" style="background:' + cc[0] + ';color:' + cc[1] + '">' + esc(it.cat) + '</span>' : '') +
       '</div>' +
-      '<span class="title">' + esc(it.title) + '</span>' +
-      (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
       '</a>';
     return html;
   }
@@ -268,28 +300,57 @@
     io.observe(s);
   }
 
-  function buildChips(holderId, values, offMap, colorFn) {
+  function buildChips(holderId, values, offMap) {
     var holder = document.getElementById(holderId);
     holder.innerHTML = "";
     values.forEach(function(v){
       var ch = document.createElement("span");
       ch.className = "chip" + (offMap[v] ? "" : " on");
+      ch.setAttribute("role", "checkbox");
       ch.textContent = v;
       ch.addEventListener("click", function(){
         offMap[v] = !offMap[v];
         ch.classList.toggle("on", !offMap[v]);
-        savePrefs(); render();
+        ch.setAttribute("aria-checked", String(!offMap[v]));
+        savePrefs(); updateCatSummary(); render();
       });
+      ch.setAttribute("aria-checked", String(!offMap[v]));
       holder.appendChild(ch);
     });
+  }
+
+  function updateCatSummary() {
+    var on = state.cats.filter(function(c){ return !state.catOff[c]; });
+    var el = document.getElementById("catSummary");
+    if (!on.length) el.textContent = "Ingen emner valgt";
+    else if (on.length === state.cats.length) el.textContent = "Alle emner";
+    else if (on.length === 1) el.textContent = on[0];
+    else el.textContent = on.length + " af " + state.cats.length + " emner";
   }
 
   function wireControls() {
     document.getElementById("srcRow").style.display = "";
     if (state.cats.length) document.getElementById("catRow").style.display = "";
     buildChips("catChips", state.cats, state.catOff);
+    updateCatSummary();
     document.getElementById("q").addEventListener("input", function(e){
       state.q = e.target.value; render();
+    });
+
+    var dd = document.getElementById("catDd");
+    // "Vælg alle" slår alle til – eller alle fra, hvis alle allerede er valgt.
+    document.getElementById("catAll").addEventListener("click", function(){
+      var allOn = state.cats.every(function(c){ return !state.catOff[c]; });
+      state.cats.forEach(function(c){ state.catOff[c] = allOn; });
+      buildChips("catChips", state.cats, state.catOff);
+      savePrefs(); updateCatSummary(); render();
+    });
+    // Luk ved klik udenfor og på Escape.
+    document.addEventListener("click", function(e){
+      if (dd.open && !dd.contains(e.target)) dd.open = false;
+    });
+    document.addEventListener("keydown", function(e){
+      if (e.key === "Escape" && dd.open) dd.open = false;
     });
   }
 
