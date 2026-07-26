@@ -212,16 +212,25 @@ def published_date(url):
         m = PUBLISHED_META_RE.search(fetch(url))
         if m:
             return plausible_date(m.group(1)[:10])
-    except Exception:  # noqa: BLE001
-        pass
+        note_ai_error(f"ingen udgivelsesdato i {url}")
+    except Exception as e:  # noqa: BLE001
+        note_ai_error(f"datoopslag fejlede for {url}: {type(e).__name__}: {e}")
     return None
+
+
+DT_NOT_ARTICLES = {
+    "nyhedsbrev-fra-marinaguide", "nyhedsbrev", "tursejleren", "arrangementer",
+    "tips-og-tricks", "bliv-medlem", "medlemsfordele", "kontakt", "om-os",
+    "turboejer", "turbojer", "forsikring",
+}
 
 
 def parse_dansketursejlere(html, base_url, label):
     """dansketursejlere.dk (WordPress). Nyhederne står i et grid af
-    <article class="uagb-post__inner-wrap"> UDEN datoer - forsiden har ingen.
-    Datoen hentes derfor fra hver artikels egen side. Grid-afgrænsningen
-    holder samtidig oversatte spam-sider (/it/, /en/) ude."""
+    <article class="uagb-post__inner-wrap"> UDEN datoer - forsiden viser ingen.
+    Vi forsøger at hente den rigtige dato fra artiklens egen side, men lader
+    ikke posten falde hvis opslaget fejler: så får den i stedet 'først set'-
+    datoen. Grid-afgrænsningen holder oversatte spam-sider (/it/, /en/) ude."""
     soup = BeautifulSoup(html, "html.parser")
     items = {}
     for art in soup.find_all("article", class_="uagb-post__inner-wrap"):
@@ -237,18 +246,14 @@ def parse_dansketursejlere(html, base_url, label):
         # eller sektioner, ikke artikler.
         if not path or "/" in path or len(path) < 10:
             continue
+        if path in DT_NOT_ARTICLES:
+            continue
         title = clean(a.get("title")) or clean(a.get_text())
         if len(title) < 12 or path in items:
             continue
 
-        # Kun rigtige artikler har en udgivelsesdato i metadata. Sektionssider
-        # som /tursejleren/ har ingen - og ryger derfor ud her.
-        date = published_date(url)
-        if not date:
-            continue
-
         it = {"key": "dansketursejlere-" + path, "source": label,
-              "date": date, "title": title, "url": url}
+              "date": published_date(url), "title": title, "url": url}
         img = img_near(art, base_url, levels=0)
         if img:
             it["img"] = img
