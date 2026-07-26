@@ -27,7 +27,14 @@ SOURCES_FILE = ROOT / "sources.json"
 MAX_ITEMS = 600
 MAX_PER_GENERIC_SOURCE = 40
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
-HEADERS = {"User-Agent": "MarinaNyhederBot/1.0 (+https://github.com)"}
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/126.0 Safari/537.36 MarinaNyhederBot/1.0"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "da,en;q=0.8",
+}
+# DeepSeek-model: flash er den billigste og hurtige - bruges bevidst frem for pro
+DEEPSEEK_MODELS = ["deepseek-v4-flash"]
 
 CATEGORIES = ["Havnepriser", "Havneliv", "Sikkerhed", "Kapsejlads",
               "Tursejlads", "Udstyr & både", "Andet"]
@@ -233,20 +240,33 @@ def normalize_old(item):
 
 # ---------- DeepSeek AI-berigelse ----------
 
+_MODEL = {"name": None}  # huskes efter første vellykkede kald
+
+
 def deepseek(messages, json_mode=False, max_tokens=500):
     key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
     if not key:
         return None
-    payload = {"model": "deepseek-chat", "messages": messages,
-               "temperature": 0.3, "max_tokens": max_tokens}
-    if json_mode:
-        payload["response_format"] = {"type": "json_object"}
-    r = requests.post("https://api.deepseek.com/chat/completions",
-                      json=payload,
-                      headers={"Authorization": f"Bearer {key}"},
-                      timeout=90)
-    r.raise_for_status()
-    return r.json()["choices"][0]["message"]["content"]
+    models = [_MODEL["name"]] if _MODEL["name"] else DEEPSEEK_MODELS
+    last_err = None
+    for model in models:
+        payload = {"model": model, "messages": messages,
+                   "temperature": 0.3, "max_tokens": max_tokens}
+        if json_mode:
+            payload["response_format"] = {"type": "json_object"}
+        r = requests.post("https://api.deepseek.com/chat/completions",
+                          json=payload,
+                          headers={"Authorization": f"Bearer {key}"},
+                          timeout=90)
+        if r.status_code == 400 and "model" in r.text.lower():
+            last_err = r  # ukendt modelnavn - prøv næste
+            continue
+        r.raise_for_status()
+        _MODEL["name"] = model
+        return r.json()["choices"][0]["message"]["content"]
+    if last_err is not None:
+        last_err.raise_for_status()
+    return None
 
 
 def article_text(url):
