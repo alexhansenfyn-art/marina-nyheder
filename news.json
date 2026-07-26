@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-26T12:54:33+00:00",
- "count": 202,
+ "generated": "2026-07-26T13:02:43+00:00",
+ "count": 212,
  "errors": [],
  "items": [
   {
@@ -553,6 +553,16 @@
    "sum": "Veronica bor alene på sin 42 fods sejlbåd i Nordnorge og nyder friheden ved at leve enkelt på havet."
   },
   {
+   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-15",
+   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
+   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere tilbyder en gratis grejtrailer med maritime aktivitetsudstyr, som sejlklubber og havne kan låne til arrangementer for børn og familier."
+  },
+  {
    "key": "norsk-vikingeskib-saga-farmann-vaekker-opsigt-i-kolby-kaas",
    "source": "Minbåd.dk",
    "date": "2026-07-14",
@@ -753,6 +763,16 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_mariager_top_384cadd013.jpeg",
    "cat": "Tursejlads",
    "sum": "Artiklen beskriver Mariager havn som en unik destination ved Danmarks længste fjord, med sæler, ankerpladser og stejle skrænter. Havnen har fine faciliteter, lave priser og nærhed til byens attraktioner."
+  },
+  {
+   "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-07",
+   "title": "90 unge indtager havnene i uge 29",
+   "url": "https://dansketursejlere.dk/90-unge-indtager-havnene-i-uge-29/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/DJI_20250718114813_0077_D-1024x512.jpg",
+   "cat": "Tursejlads",
+   "sum": "Ungdomscruise samler 90 unge sejlere i uge 29 til en uge med sejlads og aktiviteter mellem Vejle, Juelsminde, Korshavn og Odense. Deltagelse kræver hverken egen båd eller stor erfaring."
   },
   {
    "key": "hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld",
@@ -1002,6 +1022,16 @@
    "sum": "To personer er anholdt for at have stjålet sukker og hældt det i benzintanken på en jolle i Grønland. Politihund fandt dem gemt ved havnen."
   },
   {
+   "key": "dansketursejlere-aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
+   "source": "Danske Tursejlere",
+   "date": "2026-06-16",
+   "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
+   "url": "https://dansketursejlere.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2022/11/Brejning-Havn-scaled-e1715332831345-1024x512.jpg",
+   "cat": "Andet",
+   "sum": "Danske Tursejlere og samarbejdspartnere lancerer konkurrencen 'Årets Havn 2026', hvor sejlere kan stemme på deres favorithavn fra 15. juni til 30. september. Vinderen offentliggøres på FLIDs Havnemesse i november."
+  },
+  {
    "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
    "source": "Minbåd.dk",
    "date": "2026-06-15",
@@ -1226,9 +1256,9 @@
    "date": "2026-05-25",
    "title": "Voksne bør kunne svømme 200 meter uden stop",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/may/article/voksne-boer-kunne-svoemme-200-meter-uden-stop/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/b/csm_langeland_0220711_222234_e15d0e701d.jpg",
    "cat": "Sikkerhed",
-   "sum": "Fire organisationer har lanceret nye nationale anbefalinger for svømmefærdigheder for at forbedre sikkerheden i vandet og reducere drukneulykker."
+   "sum": "Fire organisationer har lanceret nye nationale anbefalinger for svømmefærdigheder for at forbedre sikkerheden i vandet og reducere drukneulykker.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/b/csm_langeland_0220711_222234_e15d0e701d.jpg"
   },
   {
    "key": "dramatisk-havneindsejling-i-klintholm-viser-video",
@@ -1337,14 +1367,18 @@
    "source": "Motorbådsnyt",
    "date": "2026-05-11",
    "title": "Michelin-kro rykker ind på Bork Festival med gourmetmad",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/may/article/michelin-kro-rykker-ind-paa-bork-festival-med-gourmetmad/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/may/article/michelin-kro-rykker-ind-paa-bork-festival-med-gourmetmad/",
+   "cat": "Havneliv",
+   "sum": "Den kendte Nymindegab Kro deltager for første gang på Bork Festival på Bork Havn og tilbyder gourmetmad, mens festivalen stadig serverer traditionelle favoritter."
   },
   {
    "key": "hjertmans-faar-ny-italiensk-partner-i-professionel-polering",
    "source": "Motorbådsnyt",
    "date": "2026-05-10",
    "title": "Hjertmans får ny italiensk partner i professionel polering",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/may/article/hjertmans-faar-ny-italiensk-partner-i-professionel-polering/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/may/article/hjertmans-faar-ny-italiensk-partner-i-professionel-polering/",
+   "cat": "Udstyr & både",
+   "sum": "Hjertmans indgår samarbejde med italienske RUPES for at styrke udvalget af professionelle poler- og slibeløsninger til bådejere og professionelle."
   },
   {
    "key": "fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet",
@@ -1352,42 +1386,84 @@
    "date": "2026-05-07",
    "title": "Fra spredt til samlet: Nyt klubhus i Kaløvig indviet",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/may/article/fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/e/csm_k_223136730598_1641004394699629470_n_5ff75d2715.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/e/csm_k_223136730598_1641004394699629470_n_5ff75d2715.jpg",
+   "cat": "Havneliv",
+   "sum": "Kaløvig Bådelaug har indviet et nyt klubhus, der samler jollesejlere, kapsejlere, kajakroere, vinterbadere og lystfiskere. Bygget med frivillige kræfter og fokus på genanvendelse."
   },
   {
    "key": "boegeskov-havn-lukket-af-sand-nu-kastebold-mellem-miljoestyrelsen-og-kystdirektoratet",
    "date": "2026-05-07",
    "title": "Bøgeskov Havn lukket af rent sand – nu kastebold mellem Miljøstyrelsen og Kystdirektoratet",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/may/article/boegeskov-havn-lukket-af-sand-nu-kastebold-mellem-miljoestyrelsen-og-kystdirektoratet/",
-   "source": "Minbåd.dk"
+   "source": "Minbåd.dk",
+   "cat": "Andet",
+   "sum": "Bøgeskov Havn er lukket på grund af tilsanding, og sagen behandles nu af Miljøstyrelsen og Kystdirektoratet. Havnens økonomi og medlemstal er truet."
   },
   {
    "key": "vi-tester-den-finske-vinder-amt-165-r-i-alu-du-faar-hvad-du-ser",
    "source": "Motorbådsnyt",
    "date": "2026-04-28",
    "title": "Vi tester den finske vinder AMT 165 R i alu - du får hvad du ser",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/april/article/vi-tester-den-finske-vinder-amt-165-r-i-alu-du-faar-hvad-du-ser/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/april/article/vi-tester-den-finske-vinder-amt-165-r-i-alu-du-faar-hvad-du-ser/",
+   "cat": "Udstyr & både",
+   "sum": "Test af den finske aluminiumsbåd AMT 165 R, der roser dens robusthed, brugervenlighed og effektivitet med lavt brændstofforbrug."
   },
   {
    "key": "let-graesk-omikron-ot60-er-sejlbaaden-uden-sejl-med-eco-cruise-skrog-til-lav-hastighed",
    "source": "Motorbådsnyt",
    "date": "2026-04-27",
    "title": "Let græsk Omikron OT60 er ’Sejlbåden uden sejl’ med Eco-Cruise skrog til lav hastighed",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/april/article/let-graesk-omikron-ot60-er-sejlbaaden-uden-sejl-med-eco-cruise-skrog-til-lav-hastighed/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/april/article/let-graesk-omikron-ot60-er-sejlbaaden-uden-sejl-med-eco-cruise-skrog-til-lav-hastighed/",
+   "cat": "Udstyr & både",
+   "sum": "Omikron OT60 er en let dreven 60-fods motorbåd med Eco-Cruise skrog, der bruger kun 1,25 liter diesel pr. sømil og har en rækkevidde på 1000 sømil ved 8 knob."
+  },
+  {
+   "key": "dansketursejlere-danske-tursejlere-i-fortsat-bevaegelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-24",
+   "title": "Danske Tursejlere i fortsat bevægelse",
+   "url": "https://dansketursejlere.dk/danske-tursejlere-i-fortsat-bevaegelse/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/Bestyrelsen-2026-2x1-1-1024x512.jpg",
+   "cat": "Tursejlads",
+   "sum": "Danske Tursejlere oplevede i 2025 en nettotilgang på 852 medlemmer og et tilfredsstillende økonomisk resultat, ifølge generalforsamlingen."
   },
   {
    "key": "sejlere-klemt-af-flaadeudvidelse-i-korsoer-mister-vinterpladser",
    "date": "2026-04-23",
    "title": "Sejlere klemt af flådeudvidelse i Korsør: Mister vinterpladser",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/april/article/sejlere-klemt-af-flaadeudvidelse-i-korsoer-mister-vinterpladser/",
-   "source": "Minbåd.dk"
+   "source": "Minbåd.dk",
+   "cat": "Havneliv",
+   "sum": "Korsør Lystbådehavn mister 5.300 kvadratmeter vinteropbevaringsplads på grund af flådeudvidelse. En ny løsning med inddæmning er planlagt, men tidligst klar til vinteren 2027."
   },
   {
    "key": "indsejling-lukket-af-sand-boegeskov-havn-venter-paa-groent-lys-til-oprensning",
    "date": "2026-04-19",
    "title": "Indsejling lukket af sand: Bøgeskov Havn venter på grønt lys til oprensning",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/april/article/indsejling-lukket-af-sand-boegeskov-havn-venter-paa-groent-lys-til-oprensning/",
-   "source": "Minbåd.dk"
+   "source": "Minbåd.dk",
+   "cat": "Sikkerhed",
+   "sum": "Bøgeskov Havn er lukket pga. tilsanding af indsejlingen. Havnen venter på tilladelse til oprensning, mens økonomien er under pres."
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-16",
+   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
+   "cat": "Andet",
+   "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
+  },
+  {
+   "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-15",
+   "title": "Søsportens Sikkerhedsråd gør din sejlads mere sikker med ny podcastsserie",
+   "url": "https://dansketursejlere.dk/soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/7287611-1024x512.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Søsportens Sikkerhedsråd lancerer podcastserien 'Den Sikre Side' med tips om sikkerhed og godt sømandsskab. Serien udkommer fra 1. april 2026."
   },
   {
    "key": "havneassistent-til-roskilde-havn",
@@ -1395,21 +1471,27 @@
    "date": "2026-04-13",
    "title": "Havneassistent til Roskilde Havn",
    "url": "https://flidhavne.dk/havneassistent-til-roskilde-havn/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/04/Roskilde-Havn.jpg"
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/04/Roskilde-Havn.jpg",
+   "cat": "Havneliv",
+   "sum": "Artiklen annoncerer en stilling som havneassistent ved Roskilde Havn."
   },
   {
    "key": "havne-kan-ikke-komme-af-med-sand-ventetid-truer-sejlsaesonen",
    "date": "2026-04-08",
    "title": "Havne kan ikke komme af med sand – ventetid truer sejlsæsonen",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/april/article/havne-kan-ikke-komme-af-med-sand-ventetid-truer-sejlsaesonen/",
-   "source": "Minbåd.dk"
+   "source": "Minbåd.dk",
+   "cat": "Havneliv",
+   "sum": "Usædvanlig østenvind har medført massiv tilsanding i danske lystbådehavne, men Miljøstyrelsens ni måneders sagsbehandling forhindrer hurtig fjernelse, hvilket truer sejlsæsonen og havnens eksistens."
   },
   {
    "key": "vi-tester-finsk-aluminiumskrydser-xo-explr-44-i-luksusklassen",
    "source": "Motorbådsnyt",
    "date": "2026-03-29",
    "title": "Vi tester finsk aluminiumskrydser XO EXPLR 44 i luksusklassen",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/march/article/vi-tester-finsk-aluminiumskrydser-xo-explr-44-i-luksusklassen/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/march/article/vi-tester-finsk-aluminiumskrydser-xo-explr-44-i-luksusklassen/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen tester den finske aluminiumskrydser XO EXPLR 44, der markerer XO Boats' indtog i luksusklassen med militærkvalitet, 1.200 hk og avanceret stabilisering."
   },
   {
    "key": "en-maskinarbejder-med-turbo-paa-gaar-i-havn",
@@ -1417,7 +1499,9 @@
    "date": "2026-03-27",
    "title": "En “maskinarbejder” med turbo på går i havn",
    "url": "https://flidhavne.dk/en-maskinarbejder-med-turbo-paa-gaar-i-havn/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png",
+   "cat": "Udstyr & både",
+   "sum": "En båd med turbo, beskrevet som en maskinarbejder, ankommer til en havn."
   },
   {
    "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
@@ -1425,7 +1509,9 @@
    "date": "2026-03-26",
    "title": "Seks klubber forlod Dansk Sejlunion: Medlemstal falder igen",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/march/article/seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/e/csm_o052A9116_54a12748ca.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/e/csm_o052A9116_54a12748ca.jpg",
+   "cat": "Andet",
+   "sum": "Seks klubber har meldt sig ud af Dansk Sejlunion, hvilket er hovedårsagen til et fald i medlemstallet på 1.787. Samtidig viser udviklingen en tendens til, at større klubber vokser, mens små klubber mister medlemmer."
   },
   {
    "key": "forslag-om-millionstoette-til-sejlsportsligaen-trukket-nu-arbejder-udvalg-videre",
@@ -1433,14 +1519,18 @@
    "date": "2026-03-23",
    "title": "Forslag om millionstøtte til Sejlsportsligaen trukket – nu arbejder udvalg videre",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/march/article/forslag-om-millionstoette-til-sejlsportsligaen-trukket-nu-arbejder-udvalg-videre/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/6/csm_jens_rask_sejlsportsliga_20260321_144945_25ad8d5b76.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/6/csm_jens_rask_sejlsportsliga_20260321_144945_25ad8d5b76.jpg",
+   "cat": "Andet",
+   "sum": "Forslag om årlig millionstøtte til Sejlsportsligaen trukket på Dansk Sejlunions generalforsamling; nyt udvalg arbejder videre med modellen."
   },
   {
    "key": "saadan-goer-du-hvis-du-faar-dieselpest-i-tanken-og-saadan-undgaar-du-det",
    "source": "Motorbådsnyt",
    "date": "2026-03-22",
    "title": "Sådan gør du, hvis du får dieselpest i tanken og sådan undgår du det",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/march/article/saadan-goer-du-hvis-du-faar-dieselpest-i-tanken-og-saadan-undgaar-du-det/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/march/article/saadan-goer-du-hvis-du-faar-dieselpest-i-tanken-og-saadan-undgaar-du-det/",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen forklarer, hvad dieselpest er, hvordan det opstår, og giver råd om forebyggelse og håndtering for at undgå motorstop under sejlads."
   },
   {
    "key": "genvalg-ny-it-strategi-og-debat-om-liga-praeger-generalforsamling-i-dansk-sejlunion",
@@ -1448,7 +1538,9 @@
    "date": "2026-03-21",
    "title": "Genvalg, ny IT-strategi og debat om liga præger generalforsamling i Dansk Sejlunion",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/march/article/genvalg-ny-it-strategi-og-debat-om-liga-praeger-generalforsamling-i-dansk-sejlunion/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/9/csm_ds_unnamed__96__329e4ded06.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/9/csm_ds_unnamed__96__329e4ded06.jpg",
+   "cat": "Andet",
+   "sum": "Generalforsamlingen i Dansk Sejlunion bød på genvalg af bestyrelsen, præsentation af ny IT-strategi og debat om Sejlsportsligaen samt folkeoplysning."
   },
   {
    "key": "joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
@@ -1456,14 +1548,18 @@
    "date": "2026-03-21",
    "title": "Jørn Duffy Villumsen har løftet sejlerskolerne i årtier - får Dansk Sejlunions guldnål",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/march/article/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_joern_duffy_unnamed__94__cd154a8539.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_joern_duffy_unnamed__94__cd154a8539.jpg",
+   "cat": "Andet",
+   "sum": "Jørn Duffy Villumsen fra Aarhus Sejlklub modtog Dansk Sejlunions Guldnål for sin mangeårige indsats for sejlerskolerne i Danmark."
   },
   {
    "key": "21-stjaalne-baadmotorer-tilbage-i-sverige-efter-fund-i-rumaenien-faa-raad-om-at-undgaa-tyveri",
    "source": "Motorbådsnyt",
    "date": "2026-03-19",
    "title": "21 stjålne bådmotorer tilbage i Sverige efter fund i Rumænien - få råd om at undgå tyveri",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/march/article/21-stjaalne-baadmotorer-tilbage-i-sverige-efter-fund-i-rumaenien-faa-raad-om-at-undgaa-tyveri/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/march/article/21-stjaalne-baadmotorer-tilbage-i-sverige-efter-fund-i-rumaenien-faa-raad-om-at-undgaa-tyveri/",
+   "cat": "Sikkerhed",
+   "sum": "21 stjålne bådmotorer fundet i Rumænien returneret til Sverige. Mærkning af motorer fremhæves som afgørende for opklaring, og politiet giver råd til at undgå tyveri."
   },
   {
    "key": "festlig-markering-af-sejlklubs-100-aar-sejlende-borgmester-deltog",
@@ -1471,21 +1567,27 @@
    "date": "2026-03-19",
    "title": "Festlig markering af Rudkøbing Sejlklubs 100 år - sejlende borgmester deltog",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/march/article/festlig-markering-af-sejlklubs-100-aar-sejlende-borgmester-deltog/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/1/csm_rey_unnamed_a339cb491b.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/1/csm_rey_unnamed_a339cb491b.jpg",
+   "cat": "Jubilæum",
+   "sum": "Rudkøbing Sejlklub fejrede sit 100-års jubilæum med reception og taler fra borgmester, æresmedlemmer og Dansk Sejlunion."
   },
   {
    "key": "hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek",
    "source": "Minbåd.dk",
    "date": "2026-03-16",
    "title": "Hallberg-Rassy 370 rammer balancen - vi tester i 14 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/march/article/hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/march/article/hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen tester Hallberg-Rassy 370 i hårdt vejr og fremhæver dens gode sejlegenskaber, nye designløsninger og velegnethed til langtursejlads."
   },
   {
    "key": "ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker",
    "source": "Motorbådsnyt",
    "date": "2026-03-13",
    "title": "Ny elmotor til kajakfiskere: Minn Kota lancerer kompakt Terrova med GPS-anker",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/march/article/ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/march/article/ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker/",
+   "cat": "Udstyr & både",
+   "sum": "Minn Kota lancerer kompakt elmotor til kajakfiskere med GPS-ankerfunktion og integration med moderne elektronik, tilgængelig i Danmark via Comstedt."
   },
   {
    "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
@@ -1493,14 +1595,28 @@
    "date": "2026-03-13",
    "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
    "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Kyst-og-naturturisme-billede-til-PM.jpg"
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Kyst-og-naturturisme-billede-til-PM.jpg",
+   "cat": "Havneliv",
+   "sum": "2-3 ambitiøse havne søges til pilotprojekter, der skal afprøve nye koncepter inden for havnudvikling."
   },
   {
    "key": "jeg-var-helt-blank-nu-forstaar-jeg-min-egen-motor-siger-sejler-efter-watergames-motor-kursus",
    "source": "Motorbådsnyt",
    "date": "2026-03-06",
    "title": "- Jeg var helt blank – nu forstår jeg min egen motor, siger sejler efter Watergames motor-kursus",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/march/article/jeg-var-helt-blank-nu-forstaar-jeg-min-egen-motor-siger-sejler-efter-watergames-motor-kursus/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/march/article/jeg-var-helt-blank-nu-forstaar-jeg-min-egen-motor-siger-sejler-efter-watergames-motor-kursus/",
+   "cat": "Andet",
+   "sum": "Et motor-kursus i Marselisborg giver sejlere lovpligtig viden om motorpasning. Deltageren lærte om motoropbygning og fejlfinding."
+  },
+  {
+   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
+   "source": "Danske Tursejlere",
+   "date": "2026-03-05",
+   "title": "INDKALDELSE TIL GENERALFORSAMLING",
+   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg",
+   "cat": "Havneliv",
+   "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
   },
   {
    "key": "dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025",
@@ -1508,7 +1624,9 @@
    "date": "2026-03-05",
    "title": "Dansk Sejlunion øger egenkapitalen efter overskud i 2025",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/march/article/dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_350368788_1183798959685072_3834032269662491303_n_8eaccec334.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_350368788_1183798959685072_3834032269662491303_n_8eaccec334.jpg",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion opnåede et overskud på 1,23 mio. kr. i 2025 og øgede egenkapitalen til knap 5 mio. kr. En ny kontoplan gav bedre økonomisk overblik og besparelser."
   },
   {
    "key": "stort-jubilaeum-i-rudkoebing-klubstander-har-blafret-i-100-aar",
@@ -1525,7 +1643,9 @@
    "date": "2026-02-25",
    "title": "66th Edition: Registration is now open for Genoa Int. Boat Show",
    "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33934-66th-edition-registration-is-now-open-for-genoa-int-boat-show",
-   "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Tilmeldingen er åben til den 66. udgave af Genoa International Boat Show, der afholdes 1.-6. oktober 2026. Messen er en af verdens største bådudstillinger med over 1.000 både og besøgende fra 45 lande."
   },
   {
    "key": "100-aar-med-sejl-og-sammenhold-i-korsoer",
@@ -1542,7 +1662,19 @@
    "date": "2026-02-18",
    "title": "Dansk Sejlunion: 2025 præget af udvikling og tabet af Line Markert",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/february/article/dansk-sejlunion-2025-praeget-af-udvikling-og-tabet-af-line-markert/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_line_markert_t_svendborg_sund_1b98ab9589.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_line_markert_t_svendborg_sund_1b98ab9589.jpg",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion offentliggør årsberetning for 2025 med fokus på udvikling, klubber og talentarbejde samt tabet af tidligere formand Line Markert."
+  },
+  {
+   "key": "dansketursejlere-thomas-og-tursejlerne-tjekker-redningsvesten",
+   "source": "Danske Tursejlere",
+   "date": "2026-02-11",
+   "title": "Thomas & Tursejlerne – 3 livsfarlige fejl på din redningsvest",
+   "url": "https://dansketursejlere.dk/thomas-og-tursejlerne-tjekker-redningsvesten/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/02/Thomas-og-Tursejlerne-Redningsvest-tjek-1024x512.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen annoncerer et gratis live-webinar om redningsveste, hvor sejlere lærer at tjekke og servicere deres vest for at undgå livsfarlige fejl."
   },
   {
    "key": "marinaguide-fra-faergehavn-til-lystbaadehavn",
@@ -1550,7 +1682,9 @@
    "date": "2026-01-28",
    "title": "Fra færgehavn til lystbådehavn",
    "url": "https://marinaguide.dk/nyhed/fra-faergehavn-til-lystbaadehavn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/b/7/csm_Kolby_Ka__s_-_sommeraften__5323ac6b77.jpg"
+   "img": "https://marinaguide.dk/fileadmin/_processed_/b/7/csm_Kolby_Ka__s_-_sommeraften__5323ac6b77.jpg",
+   "cat": "Havneliv",
+   "sum": "Kolby Kås havn på Samsø gennemgår en større ombygning med nye bølgeværn og 22 nye pladser for at blive mere attraktiv for lystsejlere."
   },
   {
    "key": "boot-2026-var-med-salg-internationalt-publikum-og-spirende-optimisme",
@@ -1558,7 +1692,9 @@
    "date": "2026-01-26",
    "title": "boot 2026 var med salg, internationalt publikum og spirende optimisme",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/january/article/boot-2026-var-med-salg-internationalt-publikum-og-spirende-optimisme/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/e/csm_b_IMG_20260120_180516_b10e66251d.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/e/csm_b_IMG_20260120_180516_b10e66251d.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Boot 2026 i Düsseldorf tiltrak over 200.000 besøgende og prægedes af øget salg og optimisme blandt udstillere, især inden for sejlbåde."
   },
   {
    "key": "marinaguide-holbaek-ny-havn-skal-tiltraekke-nye-gaestesejlere-og-skabe-aktivitet-paa-havneomraadet",
@@ -1566,7 +1702,9 @@
    "date": "2026-01-26",
    "title": "Holbæk Nyhavn skal tiltrække nye gæstesejlere",
    "url": "https://marinaguide.dk/nyhed/holbaek-ny-havn-skal-tiltraekke-nye-gaestesejlere-og-skabe-aktivitet-paa-havneomraadet",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/e/8/csm_Illu_fra_pdf_567f2764ad.jpg"
+   "img": "https://marinaguide.dk/fileadmin/_processed_/e/8/csm_Illu_fra_pdf_567f2764ad.jpg",
+   "cat": "Havneliv",
+   "sum": "Holbæk Nyhavn er en ny bynær havn under opførsel, der skal tiltrække gæstesejlere med moderne faciliteter som brede flydebroer, undervandsbelysning og en flydende servicebygning. Havnen ventes færdig til sejlsæsonen 2026."
   },
   {
    "key": "sirena-60-vinder-best-interior-design-trophy-nordisk-udgave-klar-til-fredericia-udstilling",
@@ -1574,7 +1712,9 @@
    "date": "2026-01-25",
    "title": "Sirena 60 vinder Best Interior Design Trophy – nordisk udgave klar til Fredericia-udstilling",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/january/article/sirena-60-vinder-best-interior-design-trophy-nordisk-udgave-klar-til-fredericia-udstilling/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_si_IMG_20260118_145059_a7b60210c1.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_si_IMG_20260118_145059_a7b60210c1.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Sirena 60 har vundet Best Interior Design Trophy og vises på Boat Show Denmark i Fredericia i en nordisk version med tykkere glas og oliefyr."
   },
   {
    "key": "marex-390-tager-publikum-med-storm-paa-boot-udstilling",
@@ -1582,7 +1722,9 @@
    "date": "2026-01-24",
    "title": "Marex 390 tager publikum med storm på boot-udstilling",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/january/article/marex-390-tager-publikum-med-storm-paa-boot-udstilling/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/8/csm_m_IMG_20260121_131410_d94939f65b.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/8/csm_m_IMG_20260121_131410_d94939f65b.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Marex 390 blev præsenteret på Boot Düsseldorf og trak stor interesse. Modellen er allerede solgt i to eksemplarer, og Reese Marin glæder sig til at vise den i Aabenraa."
   },
   {
    "key": "invitation-til-regionale-havnemoeder-2026",
@@ -1590,7 +1732,9 @@
    "date": "2026-01-23",
    "title": "Invitation til regionale havnemøder 2026",
    "url": "https://flidhavne.dk/invitation-til-regionale-havnemoeder-2026/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2023/01/Regionale-moeder-Rungsted-Havn-28-scaled.jpg"
+   "img": "https://flidhavne.dk/wp-content/uploads/2023/01/Regionale-moeder-Rungsted-Havn-28-scaled.jpg",
+   "cat": "Andet",
+   "sum": "Der er udsendt invitation til regionale havnemøder i 2026 for lystbådehavne og marinaer."
   },
   {
    "key": "delphia-12-sedan-satser-paa-ro-raekkevidde-og-lavt-forbrug",
@@ -1622,6 +1766,22 @@
    "date": "2025-12-31",
    "title": "Nu også i USA: Dragonfly 36 kåret som 2025 Boat of the Year – Best Multihull",
    "url": "https://minbaad.dk/nyhed/archive/2025/31/december/article/nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull/"
+  },
+  {
+   "key": "dansketursejlere-de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app",
+   "source": "Danske Tursejlere",
+   "date": "2025-12-12",
+   "title": "De to søsikkerhedsapps SejlSikkert og SejlSikkert Alarm samles i én app.",
+   "url": "https://dansketursejlere.dk/de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/12/7287611-Credit-Soesportens-Sikkerhedsraad.beskaaret-1024x512.jpg"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2025-er-fundet",
+   "source": "Danske Tursejlere",
+   "date": "2025-11-27",
+   "title": "Årets Havn 2025 er fundet!",
+   "url": "https://dansketursejlere.dk/aarets-havn-2025-er-fundet/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/11/Foto-Danske-Tursejlere-2-1-1024x512.jpg"
   },
   {
    "key": "foerste-marinaer-forbyder-aeldre-baade-at-vaere-i-havnen-frygter-skrotbaade",
