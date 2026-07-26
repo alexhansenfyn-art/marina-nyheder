@@ -10,14 +10,12 @@
     --bg: #f4f7fa; --card: #ffffff; --border: #e2e9f0; --border2: #c8d4e0;
     --text: #1a2332; --muted: #5b6b7f; --muted2: #8593a5;
     --accent: #0b5fa5; --accent-dark: #0a5290; --title: #0b3d66;
-    --brief-bg: #eaf3fb; --brief-border: #c4dcf0;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --bg: #10161f; --card: #1a2230; --border: #263143; --border2: #35435a;
       --text: #e3e9f2; --muted: #93a3b8; --muted2: #6d7d93;
       --accent: #4d9fdd; --accent-dark: #63aee6; --title: #a8cdec;
-      --brief-bg: #16283a; --brief-border: #2a4763;
     }
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -29,15 +27,6 @@
   header.top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
   header.top h1 { font-size: 22px; font-weight: 700; }
   .sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
-  .brief {
-    background: var(--brief-bg); border: 1px solid var(--brief-border); border-radius: 12px;
-    padding: 14px 16px; margin-bottom: 16px; line-height: 1.55;
-  }
-  .brief .blabel {
-    font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
-    color: var(--accent); margin-bottom: 6px;
-  }
-  .brief .btime { font-weight: 400; color: var(--muted2); text-transform: none; letter-spacing: 0; }
   .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
   .chip {
     border: 1px solid var(--border2); background: var(--card); border-radius: 16px; padding: 5px 12px;
@@ -105,10 +94,6 @@
 <div class="wrap">
   <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
   <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
-  <div class="brief" id="brief" style="display:none">
-    <div class="blabel">&#9875; Dagens briefing <span class="btime" id="briefTime"></span></div>
-    <div id="briefText"></div>
-  </div>
   <div class="controls" id="srcRow" style="display:none">
     <span class="lbl">Kilder</span><span id="srcChips"></span>
     <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
@@ -269,17 +254,6 @@
     });
   }
 
-  function showBriefing(b) {
-    if (!b || !b.text) return;
-    document.getElementById("brief").style.display = "";
-    document.getElementById("briefText").textContent = b.text;
-    if (b.generated) {
-      var d = new Date(b.generated);
-      document.getElementById("briefTime").textContent =
-        "· " + d.toLocaleString("da-DK", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
-    }
-  }
-
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(data){
@@ -294,7 +268,6 @@
       });
       state.labels = Object.keys(seenS).sort();
       state.cats = CAT_ORDER.filter(function(c){ return seenC[c]; });
-      showBriefing(data.briefing);
       wireControls();
       render();
     })

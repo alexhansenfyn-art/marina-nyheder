@@ -5,8 +5,8 @@ Kilderne står i sources.json og kan udvides via en issue på GitHub
 (brug "Tilføj kilde"-knappen på websiden). Skriver news.json.
 
 Sættes miljøvariablen DEEPSEEK_API_KEY (GitHub Actions secret), beriges
-nyhederne med AI: kategori og kort resumé pr. artikel samt en samlet
-"dagens briefing". Uden nøglen kører crawleren fint - bare uden AI.
+nyhederne med AI: kategori og kort resumé pr. artikel.
+Uden nøglen kører crawleren fint - bare uden AI.
 
 Køres automatisk af GitHub Actions – se .github/workflows/crawl.yml.
 """
@@ -368,36 +368,6 @@ def enrich_items(items):
     return done
 
 
-def make_briefing(items, old_briefing):
-    """Skriv 'dagens briefing' ud fra de nyeste artikler."""
-    if not os.environ.get("DEEPSEEK_API_KEY", "").strip():
-        return old_briefing
-    top = [i for i in items if i.get("date")][:15]
-    if not top:
-        return old_briefing
-    lines = "\n".join(
-        f"- [{i['date']}] {i['title']}" + (f" — {i['sum']}" if i.get("sum") else "")
-        for i in top)
-    try:
-        text = deepseek([
-            {"role": "system", "content": "Du er redaktør på et dansk nyhedssite om marinaer og lystbådehavne."},
-            {"role": "user", "content":
-                "Skriv 3-4 sætninger på dansk, der opsummerer de vigtigste og nyeste "
-                "havnenyheder herunder. Nøgternt og konkret, ingen indledning, "
-                "ingen punktopstilling.\n\n" + lines},
-        ], max_tokens=400)
-        if text and len(clean(text)) > 40:
-            return {"text": clean(text),
-                    "generated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
-    except Exception as e:  # noqa: BLE001
-        detail = ""
-        resp = getattr(e, "response", None)
-        if resp is not None:
-            detail = f" | HTTP {resp.status_code}: {resp.text[:200]}"
-        note_ai_error(f"briefing: {type(e).__name__}: {e}{detail}")
-    return old_briefing
-
-
 # ---------- Hovedprogram ----------
 
 def main():
@@ -410,12 +380,11 @@ def main():
         except Exception as e:  # noqa: BLE001
             errors.append(f"{s['url']}: {e}")
 
-    old_items, old_briefing = [], None
+    old_items = []
     if NEWS_FILE.exists():
         try:
             old = json.loads(NEWS_FILE.read_text(encoding="utf-8"))
             old_items = old.get("items", [])
-            old_briefing = old.get("briefing")
         except Exception:
             pass
     old_items = [normalize_old(i) for i in old_items]
@@ -445,7 +414,6 @@ def main():
     items = items[:MAX_ITEMS]
 
     enriched = enrich_items(items)
-    briefing = make_briefing(items, old_briefing)
 
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -453,8 +421,6 @@ def main():
         "errors": errors + [f"AI: {e}" for e in AI_ERRORS],
         "items": items,
     }
-    if briefing:
-        out["briefing"] = briefing
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
           f"{enriched} AI-beriget, {len(errors)} fejl")
