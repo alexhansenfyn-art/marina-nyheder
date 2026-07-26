@@ -118,16 +118,31 @@ def find_date(text):
     return None
 
 
+# Billeder der aldrig er artikelfotos: forfatter-avatarer, delings-ikoner,
+# logoer og pladsholdere. Baadmagasinet lægger fx en 20px Gravatar og fire
+# sociale ikoner i samme boks som artiklen - dem må vi ikke forveksle med fotoet.
+IMG_JUNK_RE = re.compile(
+    r"gravatar\.com|/_template/|/templates?/|/icons?/|avatar|sprite|"
+    r"placeholder|spacer|blank\.(gif|png)|logo\.(png|svg|jpg)", re.I)
+
+
 def img_near(a, base_url, levels=3):
-    """Find et artikel-billede i eller omkring et link."""
+    """Find et artikel-billede i eller omkring et link. Springer avatarer,
+    ikoner og logoer over - se IMG_JUNK_RE."""
     node = a
     for _ in range(levels + 1):
         if node is None:
             break
-        img = node.find("img") if hasattr(node, "find") else None
-        if img:
-            src = img.get("src") or img.get("data-src") or ""
-            if src and not src.startswith("data:"):
+        if hasattr(node, "find_all"):
+            for img in node.find_all("img"):
+                src = img.get("src") or img.get("data-src") or ""
+                if not src or src.startswith("data:"):
+                    continue
+                if IMG_JUNK_RE.search(src):
+                    continue
+                css = " ".join(img.get("class") or []).lower()
+                if "author" in css or "avatar" in css:
+                    continue
                 return urljoin(base_url, src)
         node = node.parent
     return None
@@ -330,19 +345,19 @@ def parse_baadmagasinet(html, base_url, label):
         if art_id in items:
             continue
 
-        # Dato fra <time datetime> i artiklens egen container. Vi går kun opad
-        # så længe containeren indeholder præcis én artikel-overskrift - ellers
-        # ville vi hente naboartiklens dato.
-        date, node = None, h
+        # Find artiklens egen boks: gå opad så længe boksen kun indeholder
+        # ÉN artikel-overskrift. Ellers henter vi naboartiklens dato og foto.
+        box = h
         for _ in range(3):
-            t = node.find("time")
-            if t:
-                date = find_date((t.get("datetime") or "")[:10]) or find_date(clean(t.get_text()))
-                if date:
-                    break
-            node = node.parent
-            if node is None or _headings_with_articles(node) > 1:
+            parent = box.parent
+            if parent is None or _headings_with_articles(parent) > 1:
                 break
+            box = parent
+
+        date = None
+        t = box.find("time")
+        if t:
+            date = find_date((t.get("datetime") or "")[:10]) or find_date(clean(t.get_text()))
 
         # Uden dato er linket næsten altid en kategori- eller oversigtsside
         # (fx /nyheder/kapsejlads-2/671-sailgp-2020) og ikke en artikel.
@@ -351,7 +366,7 @@ def parse_baadmagasinet(html, base_url, label):
 
         it = {"key": "baadmagasinet-" + art_id, "source": label,
               "date": date, "title": title, "url": href}
-        img = img_near(h, base_url)
+        img = img_near(box, base_url, levels=0)
         if img:
             it["img"] = img
         items[art_id] = it
