@@ -38,6 +38,8 @@ jobs:
 
       - name: Kør crawler med den nye kilde
         if: steps.add.outputs.ok == 'true'
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python crawler.py
 
       - name: Commit og push
