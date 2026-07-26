@@ -261,12 +261,28 @@ def article_text(url):
     return " ".join(p for p in ps if len(p) > 40)[:3000]
 
 
+AI_ERRORS = []
+
+
+def note_ai_error(msg):
+    """Gem AI-fejl så de kan ses i news.json (uden at afsløre nøglen)."""
+    key = os.environ.get("DEEPSEEK_API_KEY", "")
+    if key:
+        msg = msg.replace(key, "***")
+    msg = msg[:300]
+    if msg not in AI_ERRORS and len(AI_ERRORS) < 5:
+        AI_ERRORS.append(msg)
+    print("AI-fejl:", msg, file=sys.stderr)
+
+
 def enrich_items(items):
     """Giv nye artikler kategori + resumé via DeepSeek. Returnerer antal beriget."""
     if not os.environ.get("DEEPSEEK_API_KEY", "").strip():
+        note_ai_error("DEEPSEEK_API_KEY mangler - AI slået fra")
         return 0
     todo = [i for i in items if not i.get("cat")][:MAX_AI_PER_RUN]
     done = 0
+    failed = 0
     for it in todo:
         try:
             text = article_text(it["url"])
@@ -288,7 +304,14 @@ def enrich_items(items):
                 it["sum"] = summary
             done += 1
         except Exception as e:  # noqa: BLE001
-            print(f"AI-fejl ({it['url']}): {e}", file=sys.stderr)
+            detail = ""
+            resp = getattr(e, "response", None)
+            if resp is not None:
+                detail = f" | HTTP {resp.status_code}: {resp.text[:200]}"
+            note_ai_error(f"{type(e).__name__}: {e}{detail}")
+            failed += 1
+            if failed >= 3 and done == 0:
+                break  # alle kald fejler - spar tid og penge
     return done
 
 
@@ -314,7 +337,11 @@ def make_briefing(items, old_briefing):
             return {"text": clean(text),
                     "generated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     except Exception as e:  # noqa: BLE001
-        print(f"AI-briefing-fejl: {e}", file=sys.stderr)
+        detail = ""
+        resp = getattr(e, "response", None)
+        if resp is not None:
+            detail = f" | HTTP {resp.status_code}: {resp.text[:200]}"
+        note_ai_error(f"briefing: {type(e).__name__}: {e}{detail}")
     return old_briefing
 
 
@@ -370,7 +397,7 @@ def main():
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "count": len(items),
-        "errors": errors,
+        "errors": errors + [f"AI: {e}" for e in AI_ERRORS],
         "items": items,
     }
     if briefing:
