@@ -1,9 +1,7 @@
 {
- "generated": "2026-07-26T09:00:48+00:00",
+ "generated": "2026-07-26T09:03:18+00:00",
  "count": 151,
- "errors": [
-  "https://flidhavne.dk/nyheder/: 415 Client Error: Unsupported Media Type for url: https://flidhavne.dk/nyheder/"
- ],
+ "errors": [],
  "items": [
   {
    "key": "elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet",
@@ -495,7 +493,8 @@
    "source": "FLID Havne",
    "date": "2026-07-06",
    "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/"
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg"
   },
   {
    "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
@@ -629,7 +628,8 @@
    "source": "FLID Havne",
    "date": "2026-06-15",
    "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
-   "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/"
+   "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/06/Aarets-Havn-2026.png"
   },
   {
    "key": "fem-ting-du-skal-tjekke-foer-sommerturen-til-soes",
@@ -676,7 +676,8 @@
    "source": "FLID Havne",
    "date": "2026-06-05",
    "title": "Ny ansøgningsrunde: Redningsstiger fra TrygFonden",
-   "url": "https://flidhavne.dk/ny-ansoegningsrunde-redningsstiger-fra-trygfonden/"
+   "url": "https://flidhavne.dk/ny-ansoegningsrunde-redningsstiger-fra-trygfonden/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/06/TrygFondens-redningsstige-med-lys-Sikker-Havn-scaled.jpg"
   },
   {
    "key": "ocean-collectives-paa-oeresund-vil-goere-baadliv-til-et-abonnement",
@@ -731,7 +732,8 @@
    "source": "FLID Havne",
    "date": "2026-05-28",
    "title": "Ny udgave af populært danmarkskort fås igen på havnen",
-   "url": "https://flidhavne.dk/ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen/"
+   "url": "https://flidhavne.dk/ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/PR-billede-rotated.jpg"
   },
   {
    "key": "svenske-anytec-lancerer-ny-a28-t-i-aluminium",
@@ -777,7 +779,8 @@
    "source": "FLID Havne",
    "date": "2026-05-22",
    "title": "Slut med GTL fuel",
-   "url": "https://flidhavne.dk/slut-med-gtl-fuel/"
+   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -791,7 +794,8 @@
    "source": "FLID Havne",
    "date": "2026-05-20",
    "title": "Bestil gratis materialer – og hjælp os med at minde om sikkerheden på havnen",
-   "url": "https://flidhavne.dk/bestil-gratis-materialer-og-hjaelp-os-med-at-minde-om-sikkerheden-paa-havnen/"
+   "url": "https://flidhavne.dk/bestil-gratis-materialer-og-hjaelp-os-med-at-minde-om-sikkerheden-paa-havnen/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/Gang-paa-bro_skoejter_Soesportens-sikkerhedsraad.png"
   },
   {
    "key": "saadan-bruger-du-dit-anker-bedst",
@@ -897,7 +901,8 @@
    "source": "FLID Havne",
    "date": "2026-04-13",
    "title": "Havneassistent til Roskilde Havn",
-   "url": "https://flidhavne.dk/havneassistent-til-roskilde-havn/"
+   "url": "https://flidhavne.dk/havneassistent-til-roskilde-havn/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/04/Roskilde-Havn.jpg"
   },
   {
    "key": "havne-kan-ikke-komme-af-med-sand-ventetid-truer-sejlsaesonen",
@@ -918,7 +923,8 @@
    "source": "FLID Havne",
    "date": "2026-03-27",
    "title": "En “maskinarbejder” med turbo på går i havn",
-   "url": "https://flidhavne.dk/en-maskinarbejder-med-turbo-paa-gaar-i-havn/"
+   "url": "https://flidhavne.dk/en-maskinarbejder-med-turbo-paa-gaar-i-havn/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
   },
   {
    "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
@@ -993,7 +999,8 @@
    "source": "FLID Havne",
    "date": "2026-03-13",
    "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
-   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/"
+   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Kyst-og-naturturisme-billede-til-PM.jpg"
   },
   {
    "key": "jeg-var-helt-blank-nu-forstaar-jeg-min-egen-motor-siger-sejler-efter-watergames-motor-kursus",
@@ -1063,7 +1070,8 @@
    "source": "FLID Havne",
    "date": "2026-01-23",
    "title": "Invitation til regionale havnemøder 2026",
-   "url": "https://flidhavne.dk/invitation-til-regionale-havnemoeder-2026/"
+   "url": "https://flidhavne.dk/invitation-til-regionale-havnemoeder-2026/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2023/01/Regionale-moeder-Rungsted-Havn-28-scaled.jpg"
   },
   {
    "key": "delphia-12-sedan-satser-paa-ro-raekkevidde-og-lavt-forbrug",
