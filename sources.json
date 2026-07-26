@@ -24,8 +24,20 @@
   "label": "FLID Havne"
  },
  {
-  "url": "https://minbaad.dk/klubber",
-  "label": "Sejlklubber"
+  "url": "https://dansketursejlere.dk/",
+  "label": "Danske Tursejlere"
+ },
+ {
+  "url": "https://www.baadmagasinet.dk/nyheder/tema/havne",
+  "label": "Bådmagasinet"
+ },
+ {
+  "url": "https://www.baadmagasinet.dk/kort-nyt",
+  "label": "Bådmagasinet"
+ },
+ {
+  "url": "https://marinaguide.dk/marinanyheder",
+  "label": "MarinaGuide"
  },
  {
   "url": "https://havneguide.dk",

@@ -55,6 +55,12 @@ DA_MONTHS = {m: i + 1 for i, m in enumerate(
 ARTICLE_RE = re.compile(
     r"/nyhed/archive/(\d{4})/(\d{1,2})/([a-z]+)/article/([^/?#]+)")
 
+# baadmagasinet.dk (Joomla): artikel-URL'er slutter på "<id>-<slug>"
+BAADMAG_RE = re.compile(r"/(\d{3,7})-[a-z0-9-]{6,}/?$", re.I)
+
+# marinaguide.dk (TYPO3): artikel-URL'er er "/nyhed/<slug>"
+MARINAGUIDE_RE = re.compile(r"^/nyhed/([a-z0-9-]{8,})/?$", re.I)
+
 
 def fetch(url):
     last = None
@@ -173,6 +179,103 @@ def parse_flid(html, base_url, label):
     return items
 
 
+def parse_marinaguide(html, base_url, label):
+    """marinaguide.dk/marinanyheder (TYPO3). Hver artikel ligger i en
+    'articletype-'-boks med <time datetime="YYYY-MM-DD"> og titlen i en
+    overskrift. Samme artikel optræder både som billed- og titel-link,
+    så vi holder én post pr. slug."""
+    soup = BeautifulSoup(html, "html.parser")
+    items = {}
+    for a in soup.find_all("a", href=True):
+        m = MARINAGUIDE_RE.match(urlparse(urljoin(base_url, a["href"])).path)
+        if not m:
+            continue
+        slug = m.group(1)
+        title = clean(a.get("title")) or clean(a.get_text())
+        if len(title) < 12 or slug in items:
+            continue
+
+        date, node = None, a
+        for _ in range(4):
+            if node is None:
+                break
+            t = node.find("time") if hasattr(node, "find") else None
+            if t:
+                date = find_date((t.get("datetime") or "")[:10]) or find_date(clean(t.get_text()))
+                if date:
+                    break
+            node = node.parent
+
+        it = {"key": "marinaguide-" + slug, "source": label, "date": date,
+              "title": title, "url": urljoin(base_url, a["href"])}
+        img = img_near(a, base_url)
+        if img:
+            it["img"] = img
+        items[slug] = it
+    return list(items.values())
+
+
+def _headings_with_articles(node):
+    """Antal overskrifter i node der linker til en baadmagasinet-artikel."""
+    n = 0
+    for h in node.find_all(["h1", "h2", "h3", "h4"]):
+        a = h.find("a", href=True)
+        if a and BAADMAG_RE.search(urlparse(a["href"]).path):
+            n += 1
+    return n
+
+
+def parse_baadmagasinet(html, base_url, label):
+    """baadmagasinet.dk (Joomla). Titler i h2>a og h3.qx-media-heading>a.
+    Artikel-URL'er ender på '<id>-<slug>'; datoen står i et <time datetime>
+    inde i artiklens container."""
+    soup = BeautifulSoup(html, "html.parser")
+    items = {}
+    for h in soup.find_all(["h1", "h2", "h3", "h4"]):
+        a = h.find("a", href=True)
+        if not a:
+            continue
+        href = urljoin(base_url, a["href"])
+        if host_of(href) != "baadmagasinet.dk":
+            continue
+        m = BAADMAG_RE.search(urlparse(href).path)
+        if not m:
+            continue
+        title = clean(a.get("title")) or clean(a.get_text())
+        if len(title) < 10:
+            continue
+        art_id = m.group(1)
+        if art_id in items:
+            continue
+
+        # Dato fra <time datetime> i artiklens egen container. Vi går kun opad
+        # så længe containeren indeholder præcis én artikel-overskrift - ellers
+        # ville vi hente naboartiklens dato.
+        date, node = None, h
+        for _ in range(3):
+            t = node.find("time")
+            if t:
+                date = find_date((t.get("datetime") or "")[:10]) or find_date(clean(t.get_text()))
+                if date:
+                    break
+            node = node.parent
+            if node is None or _headings_with_articles(node) > 1:
+                break
+
+        # Uden dato er linket næsten altid en kategori- eller oversigtsside
+        # (fx /nyheder/kapsejlads-2/671-sailgp-2020) og ikke en artikel.
+        if not date:
+            continue
+
+        it = {"key": "baadmagasinet-" + art_id, "source": label,
+              "date": date, "title": title, "url": href}
+        img = img_near(h, base_url)
+        if img:
+            it["img"] = img
+        items[art_id] = it
+    return list(items.values())
+
+
 def parse_generic(html, base_url, label):
     """Generisk parser til vilkårlige nyhedssider: links i overskrifter
     samt links med lang overskrifts-lignende tekst, på samme domæne."""
@@ -232,6 +335,10 @@ def pick_parser(url):
         return parse_typo3
     if "flidhavne.dk" in h:
         return parse_flid
+    if "baadmagasinet.dk" in h:
+        return parse_baadmagasinet
+    if "marinaguide.dk" in h:
+        return parse_marinaguide
     return parse_generic
 
 
