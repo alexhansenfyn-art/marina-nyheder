@@ -19,6 +19,7 @@
     }
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--bg); color: var(--text); padding: 20px; font-size: 14px;
@@ -28,9 +29,12 @@
   header.top h1 { font-size: 22px; font-weight: 700; }
   .sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
   .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+  .controls.col { flex-direction: column; align-items: stretch; gap: 6px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
   .chip {
+    display: inline-flex; align-items: center; white-space: nowrap;
     border: 1px solid var(--border2); background: var(--card); border-radius: 16px; padding: 5px 12px;
-    font-size: 13px; cursor: pointer; user-select: none; color: var(--text);
+    font-size: 13px; line-height: 1.25; cursor: pointer; user-select: none; color: var(--text);
   }
   .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
   .chip.add { border-style: dashed; color: var(--accent); }
@@ -88,6 +92,14 @@
   @keyframes spin { to { transform: rotate(360deg); } }
   footer { margin-top: 24px; font-size: 12px; color: var(--muted2); text-align: center; }
   footer a { color: var(--muted); }
+  @media (max-width: 480px) {
+    body { padding: 12px; }
+    header.top h1 { font-size: 19px; }
+    .chip { font-size: 12px; padding: 4px 10px; }
+    .chips { gap: 5px; }
+    input.search { width: 100%; flex: 1 1 100%; }
+    .thumb { flex: 0 0 68px; width: 68px; height: 52px; }
+  }
 </style>
 </head>
 <body>
@@ -95,12 +107,12 @@
   <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
   <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
   <div class="controls" id="srcRow" style="display:none">
-    <span class="lbl">Kilder</span><span id="srcChips"></span>
-    <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
+    <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
   </div>
-  <div class="controls" id="catRow" style="display:none">
-    <span class="lbl">Emner</span><span id="catChips"></span>
+  <div class="controls col" id="catRow" style="display:none">
+    <span class="lbl">Emner</span>
+    <div class="chips" id="catChips"></div>
   </div>
   <div class="addpanel" id="addPanel">
     <h2>Tilf&oslash;j ny nyhedskilde</h2>
@@ -136,16 +148,15 @@
     "Tursejlads": ["#e0f2f1", "#00695c"], "Udstyr & både": ["#f3e5f5", "#7b1fa2"],
     "Andet": ["#eceff1", "#546e7a"]
   };
-  var state = { items: [], labels: [], cats: [], srcOff: {}, catOff: {}, q: "" };
+  var state = { items: [], labels: [], cats: [], catOff: {}, q: "" };
 
   try {
-    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs3") || "{}");
-    if (saved.srcOff) state.srcOff = saved.srcOff;
+    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs4") || "{}");
     if (saved.catOff) state.catOff = saved.catOff;
   } catch (e) {}
 
   function savePrefs() {
-    try { localStorage.setItem("marina-nyheder-prefs3", JSON.stringify({ srcOff: state.srcOff, catOff: state.catOff })); } catch (e) {}
+    try { localStorage.setItem("marina-nyheder-prefs4", JSON.stringify({ catOff: state.catOff })); } catch (e) {}
   }
 
   function srcColor(label) {
@@ -193,7 +204,6 @@
     var list = document.getElementById("list");
     var q = state.q.toLowerCase();
     var items = state.items.filter(function(it){
-      if (state.srcOff[it.source]) return false;
       if (state.catOff[it.cat || "Andet"]) return false;
       if (q && (it.title + " " + (it.sum || "")).toLowerCase().indexOf(q) === -1) return false;
       return true;
@@ -233,7 +243,6 @@
   function wireControls() {
     document.getElementById("srcRow").style.display = "";
     if (state.cats.length) document.getElementById("catRow").style.display = "";
-    buildChips("srcChips", state.labels, state.srcOff);
     buildChips("catChips", state.cats, state.catOff);
     document.getElementById("q").addEventListener("input", function(e){
       state.q = e.target.value; render();

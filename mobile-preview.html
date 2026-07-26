@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mobilvisning – Marina Nyheder</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f4f7fa; --panel: #ffffff; --border: #c8d4e0; --text: #1a2332;
+    --muted: #5b6b7f; --accent: #0b5fa5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #10161f; --panel: #1a2230; --border: #35435a; --text: #e3e9f2;
+            --muted: #93a3b8; --accent: #4d9fdd; }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--text); padding: 16px; font-size: 14px;
+  }
+  h1 { font-size: 18px; margin-bottom: 2px; }
+  .sub { color: var(--muted); font-size: 12px; margin-bottom: 14px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
+  .lbl { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+  .chip {
+    border: 1px solid var(--border); background: var(--panel); border-radius: 16px;
+    padding: 5px 12px; font-size: 13px; cursor: pointer; user-select: none; color: var(--text);
+  }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  input[type=number], input[type=text] {
+    border: 1px solid var(--border); border-radius: 8px; padding: 6px 9px; font-size: 13px;
+    background: var(--panel); color: var(--text); width: 90px;
+  }
+  input[type=text] { width: 200px; }
+  .stage { display: flex; gap: 20px; align-items: flex-start; overflow-x: auto; padding-bottom: 12px; }
+  .device { flex: 0 0 auto; }
+  .device .cap {
+    font-size: 11px; color: var(--muted); margin-bottom: 6px; text-align: center;
+    font-variant-numeric: tabular-nums;
+  }
+  .frame {
+    border: 10px solid #222; border-radius: 28px; background: #000; overflow: hidden;
+    box-shadow: 0 6px 24px rgba(0,0,0,.28);
+  }
+  .frame.plain { border: 1px solid var(--border); border-radius: 6px; box-shadow: none; }
+  iframe { display: block; border: 0; background: #fff; }
+  .hint { font-size: 12px; color: var(--muted); margin-top: 10px; line-height: 1.5; }
+  code { background: var(--panel); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; }
+</style>
+</head>
+<body>
+  <h1>&#128241; Mobilvisning &ndash; Marina Nyheder</h1>
+  <div class="sub">Live-preview af <code>index.html</code> i flere sk&aelig;rmbredder p&aring; samme tid.</div>
+
+  <div class="bar">
+    <span class="lbl">Enheder</span>
+    <span id="devChips"></span>
+  </div>
+  <div class="bar">
+    <span class="lbl">Egen bredde</span>
+    <input type="number" id="cw" value="390" min="200" max="1400" step="10">
+    <input type="number" id="ch" value="844" min="300" max="2000" step="10">
+    <span class="chip" id="addCustom">&#65291; Tilf&oslash;j</span>
+    <span class="lbl" style="margin-left:12px">Side</span>
+    <input type="text" id="src" value="index.html">
+    <span class="chip" id="reload">&#8635; Genindl&aelig;s alle</span>
+    <span class="chip" id="rotate">&#8646; Rot&eacute;r</span>
+  </div>
+
+  <div class="stage" id="stage"></div>
+
+  <div class="hint">
+    Hver ramme er en rigtig <code>&lt;iframe&gt;</code>, s&aring; CSS-media-queries reagerer p&aring; rammens bredde
+    &mdash; pr&aelig;cis som p&aring; en telefon. Skal du teste den offentliggjorte version, skriv den fulde URL i &quot;Side&quot;.
+    Bem&aelig;rk: <code>index.html</code> henter <code>news.json</code>, s&aring; siden skal k&oslash;re via en webserver
+    (fx <code>python -m http.server</code>) &mdash; ikke fra <code>file://</code>.
+  </div>
+
+<script>
+  var DEVICES = [
+    { name: "iPhone SE",        w: 375, h: 667 },
+    { name: "iPhone 14/15",     w: 390, h: 844 },
+    { name: "iPhone 15 Pro Max",w: 430, h: 932 },
+    { name: "Pixel 8",          w: 412, h: 915 },
+    { name: "Galaxy S23",       w: 360, h: 780 },
+    { name: "iPad mini",        w: 768, h: 1024 },
+    { name: "Desktop",          w: 1280, h: 800 }
+  ];
+  var active = { "iPhone SE": true, "iPhone 14/15": true, "Pixel 8": true };
+  var landscape = false;
+  var custom = [];
+
+  function scale(h) { return Math.min(1, 760 / h); }
+
+  function render() {
+    var stage = document.getElementById("stage");
+    var src = document.getElementById("src").value || "index.html";
+    stage.innerHTML = "";
+    DEVICES.concat(custom).forEach(function (d) {
+      if (!active[d.name]) return;
+      var w = landscape ? d.h : d.w, h = landscape ? d.w : d.h;
+      var s = scale(h);
+      var box = document.createElement("div");
+      box.className = "device";
+      var cap = document.createElement("div");
+      cap.className = "cap";
+      cap.textContent = d.name + " · " + w + "×" + h + (s < 1 ? " (" + Math.round(s * 100) + "%)" : "");
+      var frame = document.createElement("div");
+      frame.className = "frame" + (w > 900 ? " plain" : "");
+      frame.style.width = Math.round(w * s) + "px";
+      frame.style.height = Math.round(h * s) + "px";
+      var f = document.createElement("iframe");
+      f.src = src;
+      f.width = w; f.height = h;
+      f.style.transform = "scale(" + s + ")";
+      f.style.transformOrigin = "top left";
+      frame.appendChild(f);
+      box.appendChild(cap); box.appendChild(frame);
+      stage.appendChild(box);
+    });
+  }
+
+  function chips() {
+    var row = document.getElementById("devChips");
+    row.innerHTML = "";
+    DEVICES.concat(custom).forEach(function (d) {
+      var c = document.createElement("span");
+      c.className = "chip" + (active[d.name] ? " on" : "");
+      c.textContent = d.name;
+      c.onclick = function () { active[d.name] = !active[d.name]; chips(); render(); };
+      row.appendChild(c);
+    });
+  }
+
+  document.getElementById("addCustom").onclick = function () {
+    var w = +document.getElementById("cw").value, h = +document.getElementById("ch").value;
+    if (!w || !h) return;
+    var d = { name: w + "×" + h, w: w, h: h };
+    if (!custom.some(function (x) { return x.name === d.name; })) custom.push(d);
+    active[d.name] = true;
+    chips(); render();
+  };
+  document.getElementById("reload").onclick = render;
+  document.getElementById("rotate").onclick = function () { landscape = !landscape; render(); };
+  document.getElementById("src").onchange = render;
+
+  chips();
+  render();
+</script>
+</body>
+</html>
