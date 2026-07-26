@@ -5,79 +5,117 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Marina Nyheder – danske marinaer og lystbådehavne</title>
 <style>
-  :root { color-scheme: light; }
+  :root {
+    color-scheme: light dark;
+    --bg: #f4f7fa; --card: #ffffff; --border: #e2e9f0; --border2: #c8d4e0;
+    --text: #1a2332; --muted: #5b6b7f; --muted2: #8593a5;
+    --accent: #0b5fa5; --accent-dark: #0a5290; --title: #0b3d66;
+    --brief-bg: #eaf3fb; --brief-border: #c4dcf0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #10161f; --card: #1a2230; --border: #263143; --border2: #35435a;
+      --text: #e3e9f2; --muted: #93a3b8; --muted2: #6d7d93;
+      --accent: #4d9fdd; --accent-dark: #63aee6; --title: #a8cdec;
+      --brief-bg: #16283a; --brief-border: #2a4763;
+    }
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: #f4f7fa; color: #1a2332; padding: 20px; font-size: 14px;
+    background: var(--bg); color: var(--text); padding: 20px; font-size: 14px;
   }
-  .wrap { max-width: 860px; margin: 0 auto; }
+  .wrap { max-width: 880px; margin: 0 auto; }
   header.top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
   header.top h1 { font-size: 22px; font-weight: 700; }
-  .sub { color: #5b6b7f; font-size: 13px; margin-bottom: 14px; }
-  .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+  .brief {
+    background: var(--brief-bg); border: 1px solid var(--brief-border); border-radius: 12px;
+    padding: 14px 16px; margin-bottom: 16px; line-height: 1.55;
+  }
+  .brief .blabel {
+    font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 6px;
+  }
+  .brief .btime { font-weight: 400; color: var(--muted2); text-transform: none; letter-spacing: 0; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
   .chip {
-    border: 1px solid #c8d4e0; background: #fff; border-radius: 16px; padding: 5px 12px;
-    font-size: 13px; cursor: pointer; user-select: none; color: #3a4a5e;
+    border: 1px solid var(--border2); background: var(--card); border-radius: 16px; padding: 5px 12px;
+    font-size: 13px; cursor: pointer; user-select: none; color: var(--text);
   }
-  .chip.on { background: #0b5fa5; border-color: #0b5fa5; color: #fff; }
-  .chip.add { border-style: dashed; color: #0b5fa5; }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip.add { border-style: dashed; color: var(--accent); }
+  .lbl { font-size: 11px; color: var(--muted2); text-transform: uppercase; letter-spacing: .05em; margin-right: 2px; }
   input.search {
-    flex: 1; min-width: 160px; border: 1px solid #c8d4e0; border-radius: 8px;
-    padding: 7px 10px; font-size: 13px; background: #fff; color: #1a2332;
+    flex: 1; min-width: 160px; border: 1px solid var(--border2); border-radius: 8px;
+    padding: 7px 10px; font-size: 13px; background: var(--card); color: var(--text);
   }
-  input.search:focus, .addpanel input:focus { outline: 2px solid #0b5fa5; border-color: #0b5fa5; }
+  input.search:focus, .addpanel input:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
   .addpanel {
-    display: none; background: #fff; border: 1px solid #c8d4e0; border-radius: 10px;
+    display: none; background: var(--card); border: 1px solid var(--border2); border-radius: 10px;
     padding: 14px; margin-bottom: 14px;
   }
   .addpanel.open { display: block; }
   .addpanel h2 { font-size: 15px; margin-bottom: 4px; }
-  .addpanel p { font-size: 12px; color: #5b6b7f; margin-bottom: 10px; }
+  .addpanel p { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
   .addpanel .row { display: flex; gap: 8px; flex-wrap: wrap; }
   .addpanel input {
-    border: 1px solid #c8d4e0; border-radius: 8px; padding: 7px 10px; font-size: 13px;
-    background: #fff; color: #1a2332;
+    border: 1px solid var(--border2); border-radius: 8px; padding: 7px 10px; font-size: 13px;
+    background: var(--card); color: var(--text);
   }
   .addpanel input.u { flex: 2; min-width: 220px; }
   .addpanel input.n { flex: 1; min-width: 140px; }
   .addpanel button {
-    background: #0b5fa5; color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
+    background: var(--accent); color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
     font-size: 13px; cursor: pointer;
   }
-  .addpanel button:hover { background: #0a5290; }
+  .addpanel button:hover { background: var(--accent-dark); }
+  .ghead {
+    font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
+    letter-spacing: .05em; margin: 18px 0 8px 2px;
+  }
   .card {
-    background: #fff; border: 1px solid #e2e9f0; border-radius: 10px;
-    padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: baseline;
+    background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: flex-start;
   }
-  .card:hover { border-color: #0b5fa5; }
-  .date { flex: 0 0 84px; font-size: 12px; color: #5b6b7f; white-space: nowrap; }
-  .card .main { flex: 1; }
-  .card a.title { color: #0b3d66; text-decoration: none; font-weight: 600; font-size: 14px; line-height: 1.35; }
-  .card a.title:hover { text-decoration: underline; }
+  .card:hover { border-color: var(--accent); }
+  .thumb {
+    flex: 0 0 84px; width: 84px; height: 62px; object-fit: cover; border-radius: 8px;
+    background: var(--border);
+  }
+  .card .main { flex: 1; min-width: 0; }
+  .meta { font-size: 12px; color: var(--muted); margin-bottom: 3px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
   .badge {
-    display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; margin-left: 8px;
-    vertical-align: middle; font-weight: 500;
+    display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; font-weight: 500;
   }
-  .loading, .empty { text-align: center; padding: 40px; color: #5b6b7f; }
+  .card a.title { color: var(--title); text-decoration: none; font-weight: 600; font-size: 14px; line-height: 1.35; }
+  .card a.title:hover { text-decoration: underline; }
+  .summary { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.45; }
+  .loading, .empty { text-align: center; padding: 40px; color: var(--muted); }
   .spinner {
-    display: inline-block; width: 22px; height: 22px; border: 3px solid #c8d4e0;
-    border-top-color: #0b5fa5; border-radius: 50%; animation: spin .8s linear infinite; margin-bottom: 8px;
+    display: inline-block; width: 22px; height: 22px; border: 3px solid var(--border2);
+    border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; margin-bottom: 8px;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
-  footer { margin-top: 20px; font-size: 12px; color: #8593a5; text-align: center; }
-  footer a { color: #5b6b7f; }
+  footer { margin-top: 24px; font-size: 12px; color: var(--muted2); text-align: center; }
+  footer a { color: var(--muted); }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
   <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
-  <div class="controls" id="controls" style="display:none">
-    <span id="srcChips"></span>
-    <span class="chip" id="havnOnly">Kun havnenyt</span>
+  <div class="brief" id="brief" style="display:none">
+    <div class="blabel">&#9875; Dagens briefing <span class="btime" id="briefTime"></span></div>
+    <div id="briefText"></div>
+  </div>
+  <div class="controls" id="srcRow" style="display:none">
+    <span class="lbl">Kilder</span><span id="srcChips"></span>
     <span class="chip add" id="addBtn">&#65291; Tilf&oslash;j kilde</span>
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
+  </div>
+  <div class="controls" id="catRow" style="display:none">
+    <span class="lbl">Emner</span><span id="catChips"></span>
   </div>
   <div class="addpanel" id="addPanel">
     <h2>Tilf&oslash;j ny nyhedskilde</h2>
@@ -93,32 +131,39 @@
   <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
   <footer>Kilder tilf&oslash;jes og fjernes i
     <a href="https://github.com/alexhansenfyn-art/marina-nyheder/blob/main/sources.json">sources.json</a>.
-    Opdateres automatisk hver time via GitHub Actions.</footer>
+    Opdateres automatisk hver time via GitHub Actions.
+    Resum&eacute;er og kategorier genereres af DeepSeek AI og kan indeholde fejl.</footer>
 </div>
 <script>
 (function(){
   var REPO = "alexhansenfyn-art/marina-nyheder";
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
-  var HAVN_WORDS = ["havn","marina","lystbåd","sejlklub","bådplads","gæstesejl","mole","kajplads","anker"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
+  var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads","Udstyr & både","Andet"];
   var PALETTE = [
     ["#e3f0fb", "#0b5fa5"], ["#e8f5e9", "#2e7d32"], ["#fff3e0", "#b26a00"],
     ["#f3e5f5", "#7b1fa2"], ["#e0f2f1", "#00695c"], ["#fce4ec", "#c2185b"],
     ["#efebe9", "#5d4037"], ["#e8eaf6", "#303f9f"]
   ];
-  var state = { items: [], labels: [], srcOff: {}, havnOnly: false, q: "", generated: null };
+  var CAT_COLOR = {
+    "Havnepriser": ["#fff3e0", "#b26a00"], "Havneliv": ["#e3f0fb", "#0b5fa5"],
+    "Sikkerhed": ["#fdecea", "#c62828"], "Kapsejlads": ["#e8f5e9", "#2e7d32"],
+    "Tursejlads": ["#e0f2f1", "#00695c"], "Udstyr & både": ["#f3e5f5", "#7b1fa2"],
+    "Andet": ["#eceff1", "#546e7a"]
+  };
+  var state = { items: [], labels: [], cats: [], srcOff: {}, catOff: {}, q: "" };
 
   try {
-    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs2") || "{}");
+    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs3") || "{}");
     if (saved.srcOff) state.srcOff = saved.srcOff;
-    if (typeof saved.havnOnly === "boolean") state.havnOnly = saved.havnOnly;
+    if (saved.catOff) state.catOff = saved.catOff;
   } catch (e) {}
 
   function savePrefs() {
-    try { localStorage.setItem("marina-nyheder-prefs2", JSON.stringify({ srcOff: state.srcOff, havnOnly: state.havnOnly })); } catch (e) {}
+    try { localStorage.setItem("marina-nyheder-prefs3", JSON.stringify({ srcOff: state.srcOff, catOff: state.catOff })); } catch (e) {}
   }
 
-  function colorFor(label) {
+  function srcColor(label) {
     var i = state.labels.indexOf(label);
     return PALETTE[(i < 0 ? 0 : i) % PALETTE.length];
   }
@@ -129,50 +174,71 @@
     return (+p[2]) + ". " + DA_SHORT[+p[1]-1] + " " + p[0];
   }
 
-  function isHavn(title) {
-    var t = title.toLowerCase();
-    return HAVN_WORDS.some(function(w){ return t.indexOf(w) !== -1; });
+  function isoDaysAgo(n) {
+    var d = new Date(); d.setDate(d.getDate() - n);
+    return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
   }
 
   function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+
+  function groupOf(iso, T0, T1, T7) {
+    if (!iso) return "Tidligere";
+    if (iso >= T0) return "I dag";
+    if (iso >= T1) return "I går";
+    if (iso >= T7) return "Denne uge";
+    return "Tidligere";
+  }
+
+  function card(it) {
+    var sc = srcColor(it.source);
+    var cc = CAT_COLOR[it.cat] || CAT_COLOR["Andet"];
+    var html = '<div class="card">';
+    if (it.img) html += '<img class="thumb" loading="lazy" src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
+    html += '<div class="main"><div class="meta"><span>' + fmtDate(it.date) + '</span>' +
+      '<span class="badge" style="background:' + sc[0] + ';color:' + sc[1] + '">' + esc(it.source) + '</span>' +
+      (it.cat ? '<span class="badge" style="background:' + cc[0] + ';color:' + cc[1] + '">' + esc(it.cat) + '</span>' : '') +
+      '</div>' +
+      '<a class="title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.title) + '</a>' +
+      (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
+      '</div></div>';
+    return html;
+  }
 
   function render() {
     var list = document.getElementById("list");
     var q = state.q.toLowerCase();
     var items = state.items.filter(function(it){
       if (state.srcOff[it.source]) return false;
-      if (state.havnOnly && !isHavn(it.title)) return false;
-      if (q && it.title.toLowerCase().indexOf(q) === -1) return false;
+      if (state.catOff[it.cat || "Andet"]) return false;
+      if (q && (it.title + " " + (it.sum || "")).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
-    var gen = state.generated ? new Date(state.generated) : null;
     document.getElementById("subline").textContent =
-      items.length + " nyheder om danske marinaer og lystbådehavne" +
-      (gen ? " · senest opdateret " + gen.toLocaleString("da-DK", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "");
+      items.length + " nyheder om danske marinaer og lystbådehavne";
     if (!items.length) {
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
     }
-    list.innerHTML = items.map(function(it){
-      var c = colorFor(it.source);
-      return '<div class="card">' +
-        '<span class="date">' + fmtDate(it.date) + '</span>' +
-        '<div class="main"><a class="title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' +
-        esc(it.title) + '</a>' +
-        '<span class="badge" style="background:' + c[0] + ';color:' + c[1] + '">' + esc(it.source) + '</span></div></div>';
-    }).join("");
+    var T0 = isoDaysAgo(0), T1 = isoDaysAgo(1), T7 = isoDaysAgo(7);
+    var html = "", lastGroup = null;
+    items.forEach(function(it){
+      var g = groupOf(it.date, T0, T1, T7);
+      if (g !== lastGroup) { html += '<div class="ghead">' + g + '</div>'; lastGroup = g; }
+      html += card(it);
+    });
+    list.innerHTML = html;
   }
 
-  function buildChips() {
-    var holder = document.getElementById("srcChips");
+  function buildChips(holderId, values, offMap, colorFn) {
+    var holder = document.getElementById(holderId);
     holder.innerHTML = "";
-    state.labels.forEach(function(label){
+    values.forEach(function(v){
       var ch = document.createElement("span");
-      ch.className = "chip" + (state.srcOff[label] ? "" : " on");
-      ch.textContent = label;
+      ch.className = "chip" + (offMap[v] ? "" : " on");
+      ch.textContent = v;
       ch.addEventListener("click", function(){
-        state.srcOff[label] = !state.srcOff[label];
-        ch.classList.toggle("on", !state.srcOff[label]);
+        offMap[v] = !offMap[v];
+        ch.classList.toggle("on", !offMap[v]);
         savePrefs(); render();
       });
       holder.appendChild(ch);
@@ -180,15 +246,10 @@
   }
 
   function wireControls() {
-    document.getElementById("controls").style.display = "";
-    buildChips();
-    var ho = document.getElementById("havnOnly");
-    ho.classList.toggle("on", state.havnOnly);
-    ho.addEventListener("click", function(){
-      state.havnOnly = !state.havnOnly;
-      ho.classList.toggle("on", state.havnOnly);
-      savePrefs(); render();
-    });
+    document.getElementById("srcRow").style.display = "";
+    if (state.cats.length) document.getElementById("catRow").style.display = "";
+    buildChips("srcChips", state.labels, state.srcOff);
+    buildChips("catChips", state.cats, state.catOff);
     document.getElementById("q").addEventListener("input", function(e){
       state.q = e.target.value; render();
     });
@@ -208,6 +269,17 @@
     });
   }
 
+  function showBriefing(b) {
+    if (!b || !b.text) return;
+    document.getElementById("brief").style.display = "";
+    document.getElementById("briefText").textContent = b.text;
+    if (b.generated) {
+      var d = new Date(b.generated);
+      document.getElementById("briefTime").textContent =
+        "· " + d.toLocaleString("da-DK", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+    }
+  }
+
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(data){
@@ -215,10 +287,14 @@
         if (!it.source && it.src && LEGACY[it.src]) it.source = LEGACY[it.src];
         return it;
       }).filter(function(it){ return it.source; });
-      var seen = {};
-      state.items.forEach(function(it){ seen[it.source] = true; });
-      state.labels = Object.keys(seen).sort();
-      state.generated = data.generated || null;
+      var seenS = {}, seenC = {};
+      state.items.forEach(function(it){
+        seenS[it.source] = true;
+        if (it.cat) seenC[it.cat] = true;
+      });
+      state.labels = Object.keys(seenS).sort();
+      state.cats = CAT_ORDER.filter(function(c){ return seenC[c]; });
+      showBriefing(data.briefing);
       wireControls();
       render();
     })
