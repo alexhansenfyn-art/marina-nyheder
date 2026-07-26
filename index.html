@@ -57,26 +57,29 @@
     font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
     letter-spacing: .05em; margin: 18px 0 8px 2px;
   }
+  /* Billedet flyder til venstre, så teksten står ved siden af og fortsætter nedenunder. */
   a.card {
     background: var(--card); border: 1px solid var(--border); border-radius: 12px;
-    padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: flex-start;
+    padding: 12px 14px; margin-bottom: 8px; display: block; overflow: hidden;
     min-height: 44px; text-decoration: none; color: inherit;
     -webkit-tap-highlight-color: transparent; transition: border-color .12s, background .12s;
   }
   a.card:hover { border-color: var(--accent); }
   a.card:active { background: var(--bg); border-color: var(--accent); }
   .thumb {
-    flex: 0 0 84px; width: 84px; height: 62px; object-fit: cover; border-radius: 8px;
-    background: var(--border);
+    float: left; width: 168px; height: 124px; margin: 2px 14px 6px 0;
+    object-fit: cover; border-radius: 8px; background: var(--border);
   }
-  .card .main { flex: 1; min-width: 0; }
-  .meta { font-size: 12px; color: var(--muted); margin-bottom: 3px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  /* Blok (ikke flex) – så linjerne selv viger for det flydende billede. */
+  .meta { font-size: 12px; color: var(--muted); margin-bottom: 4px; line-height: 1.7; }
+  .meta > * { margin-right: 7px; }
   .badge {
-    display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; font-weight: 500;
+    display: inline-block; font-size: 11px; border-radius: 4px; padding: 2px 7px; font-weight: 500;
+    white-space: nowrap;
   }
-  .card .title { color: var(--title); font-weight: 600; font-size: 14px; line-height: 1.35; display: block; }
+  .card .title { color: var(--title); font-weight: 600; font-size: 15px; line-height: 1.35; display: block; }
   a.card:hover .title { text-decoration: underline; }
-  .summary { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.45; }
+  .summary { font-size: 13px; color: var(--muted); margin-top: 5px; line-height: 1.5; }
   .sentinel { height: 1px; }
   .more {
     display: block; width: 100%; margin: 12px 0 4px; padding: 12px; border: 1px solid var(--border2);
@@ -99,7 +102,8 @@
     .sub { margin-bottom: 10px; }
     .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
-    .thumb { flex: 0 0 68px; width: 68px; height: 52px; }
+    .thumb { width: 136px; height: 104px; margin: 2px 11px 6px 0; }
+    .card .title { font-size: 14px; }
     .ghead { margin: 14px 0 6px 2px; }
     /* Emner: alle synlige på én skærm – chips fylder rækkerne ud, ingen scroll */
     #catRow .chips { gap: 5px; }
@@ -110,6 +114,7 @@
   }
   @media (max-width: 360px) {
     #catRow .chip { font-size: 11px; padding: 7px 6px; letter-spacing: -.01em; }
+    .thumb { width: 118px; height: 90px; margin-right: 10px; }
   }
 </style>
 </head>
@@ -189,15 +194,15 @@
     var sc = srcColor(it.source);
     var cc = CAT_COLOR[it.cat] || CAT_COLOR["Andet"];
     var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
-    if (it.img) html += '<img class="thumb" loading="lazy" decoding="async" width="84" height="62" ' +
+    if (it.img) html += '<img class="thumb" loading="lazy" decoding="async" width="168" height="124" ' +
       'src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
-    html += '<div class="main"><div class="meta"><span>' + fmtDate(it.date) + '</span>' +
+    html += '<div class="meta"><span>' + fmtDate(it.date) + '</span>' +
       '<span class="badge" style="background:' + sc[0] + ';color:' + sc[1] + '">' + esc(it.source) + '</span>' +
       (it.cat ? '<span class="badge" style="background:' + cc[0] + ';color:' + cc[1] + '">' + esc(it.cat) + '</span>' : '') +
       '</div>' +
       '<span class="title">' + esc(it.title) + '</span>' +
       (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
-      '</div></a>';
+      '</a>';
     return html;
   }
 
