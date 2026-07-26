@@ -14,7 +14,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -81,19 +81,40 @@ def host_of(url):
     return h[4:] if h.startswith("www.") else h
 
 
+def plausible_date(date):
+    """Kasser datoer i fremtiden og urimeligt gamle datoer. En nyhed kan ikke
+    være udgivet i morgen - sker det, har vi fanget en arrangementsdato eller
+    en tilmeldingsfrist i teksten omkring artiklen. Ét døgns slæk for tidszoner."""
+    if not date:
+        return None
+    today = datetime.now(timezone.utc).date()
+    try:
+        d = datetime.strptime(date, "%Y-%m-%d").date()
+    except ValueError:
+        return None
+    if d > today + timedelta(days=1):
+        return None
+    if d.year < 2000:
+        return None
+    return date
+
+
 def find_date(text):
-    """Find en dato i en tekststump. Returnerer 'YYYY-MM-DD' eller None."""
+    """Find en dato i en tekststump. Returnerer 'YYYY-MM-DD' eller None.
+    Datoer i fremtiden kasseres - se plausible_date."""
     m = re.search(
         r"(\d{1,2})\.?\s*(januar|februar|marts|april|maj|juni|juli|august|"
         r"september|oktober|november|december)\s*(\d{4})", text, re.I)
     if m:
-        return f"{int(m.group(3)):04d}-{DA_MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+        return plausible_date(
+            f"{int(m.group(3)):04d}-{DA_MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}")
     m = re.search(r"(\d{4})-(\d{2})-(\d{2})", text)
     if m and 1 <= int(m.group(2)) <= 12 and 1 <= int(m.group(3)) <= 31:
-        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+        return plausible_date(f"{m.group(1)}-{m.group(2)}-{m.group(3)}")
     m = re.search(r"\b(\d{1,2})[./-](\d{1,2})[./-](\d{4})\b", text)
     if m and 1 <= int(m.group(2)) <= 12 and 1 <= int(m.group(1)) <= 31:
-        return f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+        return plausible_date(
+            f"{int(m.group(3)):04d}-{int(m.group(2)):02d}-{int(m.group(1)):02d}")
     return None
 
 
@@ -177,6 +198,62 @@ def parse_flid(html, base_url, label):
             it["img"] = img
         items.append(it)
     return items
+
+
+PUBLISHED_META_RE = re.compile(
+    r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([^"\']+)',
+    re.I)
+
+
+def published_date(url):
+    """Hent artiklens udgivelsesdato fra dens egen side (OpenGraph-metadata).
+    Bruges når oversigtssiden ikke viser datoer. Fejler stille."""
+    try:
+        m = PUBLISHED_META_RE.search(fetch(url))
+        if m:
+            return plausible_date(m.group(1)[:10])
+    except Exception:  # noqa: BLE001
+        pass
+    return None
+
+
+def parse_dansketursejlere(html, base_url, label):
+    """dansketursejlere.dk (WordPress). Nyhederne står i et grid af
+    <article class="uagb-post__inner-wrap"> UDEN datoer - forsiden har ingen.
+    Datoen hentes derfor fra hver artikels egen side. Grid-afgrænsningen
+    holder samtidig oversatte spam-sider (/it/, /en/) ude."""
+    soup = BeautifulSoup(html, "html.parser")
+    items = {}
+    for art in soup.find_all("article", class_="uagb-post__inner-wrap"):
+        h = art.find(["h1", "h2", "h3", "h4", "h5"])
+        a = h.find("a", href=True) if h else None
+        if not a:
+            continue
+        url = urljoin(base_url, a["href"])
+        if host_of(url) != "dansketursejlere.dk":
+            continue
+        path = urlparse(url).path.strip("/")
+        # Nyheder ligger i roden: "/slug/". Alt med undermapper er sprogsider
+        # eller sektioner, ikke artikler.
+        if not path or "/" in path or len(path) < 10:
+            continue
+        title = clean(a.get("title")) or clean(a.get_text())
+        if len(title) < 12 or path in items:
+            continue
+
+        # Kun rigtige artikler har en udgivelsesdato i metadata. Sektionssider
+        # som /tursejleren/ har ingen - og ryger derfor ud her.
+        date = published_date(url)
+        if not date:
+            continue
+
+        it = {"key": "dansketursejlere-" + path, "source": label,
+              "date": date, "title": title, "url": url}
+        img = img_near(art, base_url, levels=0)
+        if img:
+            it["img"] = img
+        items[path] = it
+    return list(items.values())
 
 
 def parse_marinaguide(html, base_url, label):
@@ -339,6 +416,8 @@ def pick_parser(url):
         return parse_baadmagasinet
     if "marinaguide.dk" in h:
         return parse_marinaguide
+    if "dansketursejlere.dk" in h:
+        return parse_dansketursejlere
     return parse_generic
 
 
@@ -352,6 +431,17 @@ def normalize_old(item):
         item["source"] = LEGACY_LABELS[item["src"]]
     item.pop("src", None)
     return item
+
+
+# Kilder der har fået en dedikeret parser med nye nøgler. Arkiverede poster fra
+# den gamle generiske parser har andre nøgler og ville blive dubletter - med
+# forkerte datoer. De kasseres, så de bliver hentet ind igen med rigtig dato.
+REKEYED_SOURCES = {"Danske Tursejlere": "dansketursejlere-"}
+
+
+def is_stale_rekeyed(item):
+    prefix = REKEYED_SOURCES.get(item.get("source"))
+    return bool(prefix) and not str(item.get("key", "")).startswith(prefix)
 
 
 # ---------- DeepSeek AI-berigelse ----------
@@ -495,6 +585,7 @@ def main():
         except Exception:
             pass
     old_items = [normalize_old(i) for i in old_items]
+    old_items = [i for i in old_items if not is_stale_rekeyed(i)]
 
     # Nye først; dedupe på key; smid poster med ugyldige URL'er ud.
     # Dato, kategori, resumé og billede genbruges fra arkivet hvis de mangler.
