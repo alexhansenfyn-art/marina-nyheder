@@ -2,8 +2,16 @@
 <html lang="da">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Marina Nyheder – danske marinaer og lystbådehavne</title>
+<meta name="description" content="Nyheder om danske marinaer og lystbådehavne – opdateret automatisk hver time.">
+<meta name="theme-color" content="#0b5fa5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#10161f" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Marina Nyheder">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
 <style>
   :root {
     color-scheme: light dark;
@@ -22,7 +30,8 @@
   html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    background: var(--bg); color: var(--text); padding: 20px; font-size: 14px;
+    background: var(--bg); color: var(--text); font-size: 14px;
+    padding: 20px calc(20px + env(safe-area-inset-right)) calc(20px + env(safe-area-inset-bottom)) calc(20px + env(safe-area-inset-left));
   }
   .wrap { max-width: 880px; margin: 0 auto; }
   header.top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
@@ -35,6 +44,7 @@
     display: inline-flex; align-items: center; white-space: nowrap;
     border: 1px solid var(--border2); background: var(--card); border-radius: 16px; padding: 5px 12px;
     font-size: 13px; line-height: 1.25; cursor: pointer; user-select: none; color: var(--text);
+    -webkit-tap-highlight-color: transparent;
   }
   .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
   .chip.add { border-style: dashed; color: var(--accent); }
@@ -67,11 +77,14 @@
     font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
     letter-spacing: .05em; margin: 18px 0 8px 2px;
   }
-  .card {
+  a.card {
     background: var(--card); border: 1px solid var(--border); border-radius: 12px;
     padding: 12px 14px; margin-bottom: 8px; display: flex; gap: 12px; align-items: flex-start;
+    min-height: 44px; text-decoration: none; color: inherit;
+    -webkit-tap-highlight-color: transparent; transition: border-color .12s, background .12s;
   }
-  .card:hover { border-color: var(--accent); }
+  a.card:hover { border-color: var(--accent); }
+  a.card:active { background: var(--bg); border-color: var(--accent); }
   .thumb {
     flex: 0 0 84px; width: 84px; height: 62px; object-fit: cover; border-radius: 8px;
     background: var(--border);
@@ -81,9 +94,15 @@
   .badge {
     display: inline-block; font-size: 11px; border-radius: 4px; padding: 1px 6px; font-weight: 500;
   }
-  .card a.title { color: var(--title); text-decoration: none; font-weight: 600; font-size: 14px; line-height: 1.35; }
-  .card a.title:hover { text-decoration: underline; }
+  .card .title { color: var(--title); font-weight: 600; font-size: 14px; line-height: 1.35; display: block; }
+  a.card:hover .title { text-decoration: underline; }
   .summary { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.45; }
+  .sentinel { height: 1px; }
+  .more {
+    display: block; width: 100%; margin: 12px 0 4px; padding: 12px; border: 1px solid var(--border2);
+    background: var(--card); color: var(--accent); border-radius: 10px; font-size: 14px;
+    font-weight: 600; cursor: pointer;
+  }
   .loading, .empty { text-align: center; padding: 40px; color: var(--muted); }
   .spinner {
     display: inline-block; width: 22px; height: 22px; border: 3px solid var(--border2);
@@ -92,13 +111,24 @@
   @keyframes spin { to { transform: rotate(360deg); } }
   footer { margin-top: 24px; font-size: 12px; color: var(--muted2); text-align: center; }
   footer a { color: var(--muted); }
-  @media (max-width: 480px) {
-    body { padding: 12px; }
+  @media (max-width: 560px) {
+    body {
+      padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
+    }
     header.top h1 { font-size: 19px; }
-    .chip { font-size: 12px; padding: 4px 10px; }
-    .chips { gap: 5px; }
-    input.search { width: 100%; flex: 1 1 100%; }
+    .sub { margin-bottom: 10px; }
+    .chip { font-size: 12px; padding: 6px 11px; }
+    input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .thumb { flex: 0 0 68px; width: 68px; height: 52px; }
+    .ghead { margin: 14px 0 6px 2px; }
+    /* Emner: én vandret scroll-række i stedet for flere linjer */
+    #catRow .chips {
+      flex-wrap: nowrap; overflow-x: auto; scroll-snap-type: x proximity;
+      -webkit-overflow-scrolling: touch; scrollbar-width: none;
+      padding-bottom: 2px; margin: 0 -12px; padding-left: 12px; padding-right: 12px;
+    }
+    #catRow .chips::-webkit-scrollbar { display: none; }
+    #catRow .chip { scroll-snap-align: start; }
   }
 </style>
 </head>
@@ -149,6 +179,8 @@
     "Andet": ["#eceff1", "#546e7a"]
   };
   var state = { items: [], labels: [], cats: [], catOff: {}, q: "" };
+  var BATCH = 20;
+  var view = { items: [], shown: 0, lastGroup: null };
 
   try {
     var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs4") || "{}");
@@ -188,15 +220,16 @@
   function card(it) {
     var sc = srcColor(it.source);
     var cc = CAT_COLOR[it.cat] || CAT_COLOR["Andet"];
-    var html = '<div class="card">';
-    if (it.img) html += '<img class="thumb" loading="lazy" src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
+    var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
+    if (it.img) html += '<img class="thumb" loading="lazy" decoding="async" width="84" height="62" ' +
+      'src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
     html += '<div class="main"><div class="meta"><span>' + fmtDate(it.date) + '</span>' +
       '<span class="badge" style="background:' + sc[0] + ';color:' + sc[1] + '">' + esc(it.source) + '</span>' +
       (it.cat ? '<span class="badge" style="background:' + cc[0] + ';color:' + cc[1] + '">' + esc(it.cat) + '</span>' : '') +
       '</div>' +
-      '<a class="title" href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.title) + '</a>' +
+      '<span class="title">' + esc(it.title) + '</span>' +
       (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
-      '</div></div>';
+      '</div></a>';
     return html;
   }
 
@@ -214,14 +247,52 @@
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
     }
+    // Render i portioner: mobilen skal ikke bygge 150+ kort på én gang.
+    view.items = items;
+    view.shown = 0;
+    view.lastGroup = null;
+    list.innerHTML = "";
+    appendBatch();
+  }
+
+  function appendBatch() {
+    var list = document.getElementById("list");
     var T0 = isoDaysAgo(0), T1 = isoDaysAgo(1), T7 = isoDaysAgo(7);
-    var html = "", lastGroup = null;
-    items.forEach(function(it){
+    var slice = view.items.slice(view.shown, view.shown + BATCH);
+    if (!slice.length) return;
+    var html = "";
+    slice.forEach(function(it){
       var g = groupOf(it.date, T0, T1, T7);
-      if (g !== lastGroup) { html += '<div class="ghead">' + g + '</div>'; lastGroup = g; }
+      if (g !== view.lastGroup) { html += '<div class="ghead">' + g + '</div>'; view.lastGroup = g; }
       html += card(it);
     });
-    list.innerHTML = html;
+    view.shown += slice.length;
+
+    var old = document.getElementById("tail");
+    if (old) old.remove();
+    list.insertAdjacentHTML("beforeend", html);
+
+    if (view.shown < view.items.length) {
+      var rest = view.items.length - view.shown;
+      list.insertAdjacentHTML("beforeend",
+        '<div id="tail"><button class="more" id="moreBtn">Vis ' +
+        Math.min(BATCH, rest) + ' flere (' + rest + ' tilbage)</button><div class="sentinel"></div></div>');
+      document.getElementById("moreBtn").addEventListener("click", appendBatch);
+      observeTail();
+    }
+  }
+
+  var io = null;
+  function observeTail() {
+    var s = document.querySelector("#tail .sentinel");
+    if (!s || !("IntersectionObserver" in window)) return;
+    if (!io) {
+      io = new IntersectionObserver(function(entries){
+        entries.forEach(function(e){ if (e.isIntersecting) { io.disconnect(); appendBatch(); } });
+      }, { rootMargin: "600px 0px" });
+    }
+    io.disconnect();
+    io.observe(s);
   }
 
   function buildChips(holderId, values, offMap, colorFn) {
@@ -284,6 +355,13 @@
       document.getElementById("list").innerHTML =
         '<div class="empty">Kunne ikke hente news.json (' + e.message + ').</div>';
     });
+
+  // Service worker: gør siden installerbar og læsbar offline.
+  if ("serviceWorker" in navigator && location.protocol !== "file:") {
+    window.addEventListener("load", function(){
+      navigator.serviceWorker.register("sw.js").catch(function(){});
+    });
+  }
 })();
 </script>
 </body>

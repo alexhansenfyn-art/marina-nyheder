@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Marina Nyheder">
+  <rect width="512" height="512" rx="96" fill="#0b5fa5"/>
+  <g fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="120" r="30"/>
+    <path d="M256 150 V400"/>
+    <path d="M176 196 H336"/>
+    <path d="M120 300 a136 136 0 0 0 272 0"/>
+    <path d="M120 300 h44 M392 300 h-44"/>
+  </g>
+</svg>
