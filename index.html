@@ -83,8 +83,10 @@
     position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; min-width: 268px; max-width: 84vw;
     background: var(--card); border: 1px solid var(--border2); border-radius: 12px; padding: 12px;
     box-shadow: 0 8px 24px rgba(0,0,0,.14);
+    max-height: calc(100vh - 120px); overflow-y: auto; -webkit-overflow-scrolling: touch;
   }
   .ddtop { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; gap: 10px; }
+  .ddtop.ddsep { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--border); }
   .ddall { font-size: 12px; color: var(--accent); cursor: pointer; white-space: nowrap; }
   .ddall:hover { text-decoration: underline; }
   .ghead {
@@ -165,10 +167,15 @@
         </summary>
         <div class="ddpanel">
           <div class="ddtop">
-            <span class="lbl" id="catSummary">Alle emner</span>
+            <span class="lbl">Emner</span>
             <span class="ddall" id="catAll">V&aelig;lg alle</span>
           </div>
           <div class="chips" id="catChips"></div>
+          <div class="ddtop ddsep">
+            <span class="lbl">Kilder</span>
+            <span class="ddall" id="srcAll">V&aelig;lg alle</span>
+          </div>
+          <div class="chips" id="srcChips"></div>
         </div>
       </details>
     </div>
@@ -188,17 +195,21 @@
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
   var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads",
                    "Udstyr & både","Jubilæum","Andet"];
-  var state = { items: [], cats: [], catOff: {}, q: "" };
+  var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "" };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
 
   try {
-    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs4") || "{}");
+    var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs5") || "{}");
     if (saved.catOff) state.catOff = saved.catOff;
+    if (saved.srcOff) state.srcOff = saved.srcOff;
   } catch (e) {}
 
   function savePrefs() {
-    try { localStorage.setItem("marina-nyheder-prefs4", JSON.stringify({ catOff: state.catOff })); } catch (e) {}
+    try {
+      localStorage.setItem("marina-nyheder-prefs5",
+        JSON.stringify({ catOff: state.catOff, srcOff: state.srcOff }));
+    } catch (e) {}
   }
 
   function fmtDate(iso) {
@@ -240,6 +251,7 @@
     var q = state.q.toLowerCase();
     var items = state.items.filter(function(it){
       if (state.catOff[it.cat || "Andet"]) return false;
+      if (state.srcOff[it.source]) return false;
       if (q && (it.title + " " + (it.sum || "")).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
@@ -307,31 +319,42 @@
         offMap[v] = !offMap[v];
         ch.classList.toggle("on", !offMap[v]);
         ch.setAttribute("aria-checked", String(!offMap[v]));
-        savePrefs(); updateCatSummary(); render();
+        savePrefs(); updateFilterDot(); render();
       });
       ch.setAttribute("aria-checked", String(!offMap[v]));
       holder.appendChild(ch);
     });
   }
 
-  function updateCatSummary() {
-    var on = state.cats.filter(function(c){ return !state.catOff[c]; });
-    var el = document.getElementById("catSummary");
-    if (!on.length) el.textContent = "Ingen emner valgt";
-    else if (on.length === state.cats.length) el.textContent = "Alle emner";
-    else if (on.length === 1) el.textContent = on[0];
-    else el.textContent = on.length + " af " + state.cats.length + " emner";
-    // Prik på filter-ikonet når noget er filtreret væk
-    document.getElementById("catBtn")
-      .classList.toggle("active", on.length !== state.cats.length);
+  // Prik på filter-ikonet når et emne ELLER en kilde er filtreret væk
+  function updateFilterDot() {
+    var catOn = state.cats.filter(function(c){ return !state.catOff[c]; }).length;
+    var srcOn = state.sources.filter(function(s){ return !state.srcOff[s]; }).length;
+    var filtreret = catOn !== state.cats.length || srcOn !== state.sources.length;
+    document.getElementById("catBtn").classList.toggle("active", filtreret);
+  }
+
+  // "Vælg alle" slår alle til – eller alle fra, hvis alle allerede er valgt.
+  // Slår op i state ved klik (ikke ved opsætning), så den altid rammer rigtigt.
+  function wireVaelgAlle(linkId, holderId, listKey, offKey) {
+    document.getElementById(linkId).addEventListener("click", function(){
+      var values = state[listKey], offMap = state[offKey];
+      var allOn = values.every(function(v){ return !offMap[v]; });
+      values.forEach(function(v){ offMap[v] = allOn; });
+      buildChips(holderId, values, offMap);
+      savePrefs(); updateFilterDot(); render();
+    });
   }
 
   function wireControls() {
     var tools = document.getElementById("tools");
     tools.style.display = "";
-    if (!state.cats.length) document.getElementById("catDd").style.display = "none";
+    if (!state.cats.length && !state.sources.length) {
+      document.getElementById("catDd").style.display = "none";
+    }
     buildChips("catChips", state.cats, state.catOff);
-    updateCatSummary();
+    buildChips("srcChips", state.sources, state.srcOff);
+    updateFilterDot();
 
     var row = document.getElementById("srcRow");
     var q = document.getElementById("q");
@@ -354,13 +377,8 @@
     });
 
     var dd = document.getElementById("catDd");
-    // "Vælg alle" slår alle til – eller alle fra, hvis alle allerede er valgt.
-    document.getElementById("catAll").addEventListener("click", function(){
-      var allOn = state.cats.every(function(c){ return !state.catOff[c]; });
-      state.cats.forEach(function(c){ state.catOff[c] = allOn; });
-      buildChips("catChips", state.cats, state.catOff);
-      savePrefs(); updateCatSummary(); render();
-    });
+    wireVaelgAlle("catAll", "catChips", "cats", "catOff");
+    wireVaelgAlle("srcAll", "srcChips", "sources", "srcOff");
     // Luk ved klik udenfor og på Escape.
     document.addEventListener("click", function(e){
       if (dd.open && !dd.contains(e.target)) dd.open = false;
@@ -377,9 +395,15 @@
         if (!it.source && it.src && LEGACY[it.src]) it.source = LEGACY[it.src];
         return it;
       }).filter(function(it){ return it.source; });
-      var seenC = {};
-      state.items.forEach(function(it){ if (it.cat) seenC[it.cat] = true; });
+      var seenC = {}, seenS = {};
+      state.items.forEach(function(it){
+        if (it.cat) seenC[it.cat] = true;
+        if (it.source) seenS[it.source] = true;
+      });
       state.cats = CAT_ORDER.filter(function(c){ return seenC[c]; });
+      state.sources = Object.keys(seenS).sort(function(a, b){
+        return a.localeCompare(b, "da");
+      });
       wireControls();
       render();
     })
