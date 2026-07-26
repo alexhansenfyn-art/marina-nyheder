@@ -1,17 +1,17 @@
 {
- "generated": "2026-07-26T13:29:48+00:00",
- "count": 212,
+ "generated": "2026-07-26T13:38:20+00:00",
+ "count": 213,
  "errors": [],
  "items": [
   {
-   "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
+   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
    "source": "Minbåd.dk",
    "date": "2026-07-26",
-   "title": "Politiet: Hvem savner denne sejlbåd på Als?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_2a358a23c1.png",
-   "cat": "Sikkerhed",
-   "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
+   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/f/csm_fyn_rundt_skonn_26_to_unnamed_eaea151848.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer."
   },
   {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
@@ -22,6 +22,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
+  },
+  {
+   "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Politiet: Hvem savner denne sejlbåd på Als?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_bcbb0f77b1.png",
+   "cat": "Sikkerhed",
+   "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
   },
   {
    "key": "baadmagasinet-34297",
@@ -49,7 +59,7 @@
    "date": "2026-07-25",
    "title": "Elliott 35 jagter trimaran mod Bornholm - 3 solosejlere udgået",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_trac_named_-_2026-07-25T221608.132_8e46861541.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_trac_named_-_2026-07-25T221608.132_6011837001.jpg",
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer."
   },
@@ -59,7 +69,7 @@
    "date": "2026-07-25",
    "title": "Elliott 35 i front mod Anholt i Garmin Round Denmark Race",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/a/csm_755405075_18104457830131141_821253983136764203_n_76cd1b398f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/a/csm_755405075_18104457830131141_821253983136764203_n_31ebcdd588.jpg",
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob."
   },
@@ -318,7 +328,7 @@
    "date": "2026-07-20",
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_89a293563f.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png",
    "cat": "Andet",
    "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier."
   },
@@ -388,7 +398,7 @@
    "date": "2026-07-19",
    "title": "Sygeplejerske i husbåd slipper med 3.100 kroner i husleje",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_hus_20260709_153224_84ed3ec31f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_hus_20260709_153224_de03e27ba7.jpg",
    "cat": "Havneliv",
    "sum": "Sygeplejerske Anna bor på husbåd i en kanal, betaler ca. 3.100 kr. om måneden, og fortæller om fordele og ulemper ved livet på vandet."
   },
@@ -458,7 +468,7 @@
    "date": "2026-07-17",
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_e735091899.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
    "cat": "Sikkerhed",
    "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag."
   },
@@ -488,7 +498,7 @@
    "date": "2026-07-16",
    "title": "Et billede af en kvinde ved roret satte ild til Facebook",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_eef4b75445.jpg",
    "cat": "Havneliv",
    "sum": "En Facebook-debat om et billede af en kvinde ved roret udløste diskussion om kønsroller i sejlads. Redaktøren fremhævede, at kvinder sjældent styrer både i havnen, hvilket bør ændres for sikkerhedens skyld."
   },
@@ -538,7 +548,7 @@
    "date": "2026-07-15",
    "title": "Derfor kæntrende Loke, men nu er ny redningsbåd Freja klar i Juelsminde",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_loke_8013719185_3680938822383745555_n_0e835b11e1.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_loke_8013719185_3680938822383745555_n_cad400a0cc.jpg",
    "cat": "Sikkerhed",
    "sum": "Ny redningsbåd Freja er sat i drift i Juelsminde efter kæntring af Loke under redningsaktion; den er større og har lukket styrehus for øget sikkerhed."
   },
@@ -578,7 +588,7 @@
    "date": "2026-07-14",
    "title": "Sådan overlever – og nyder – man livet som sejlende par",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/july/article/saadan-overlever-og-nyder-man-livet-som-sejlende-par/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_eef4b75445.jpg",
    "cat": "Havneliv",
    "sum": "Artiklen giver 12 tips til par, der sejler sammen, med fokus på kommunikation, roller og at give hinanden plads om bord."
   },
@@ -628,7 +638,7 @@
    "date": "2026-07-12",
    "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e2fa306730.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e94337c6b7.jpg",
    "cat": "Tursejlads",
    "sum": "Gratis havnekort fra FLID giver overblik over danske lystbådehavne og afstande til planlægning af sejlture. Kortet kan hentes på de fleste havnekontorer."
   },
@@ -649,7 +659,8 @@
    "title": "Emmeli Gramkov og Sofie Andersen fra Hellerup vinder VM i 29er",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/july/article/emmeli-gramkov-og-sofie-andersen-fra-hellerup-vinder-vm-i-29er/",
    "cat": "Kapsejlads",
-   "sum": "Emmeli Gramkov og Sofie Andersen fra Hellerup Sejlklub vandt VM i 29er for kvinder i Kiel efter 17 sejladser."
+   "sum": "Emmeli Gramkov og Sofie Andersen fra Hellerup Sejlklub vandt VM i 29er for kvinder i Kiel efter 17 sejladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_hel_top_744141535_1018131247270016_3794427761973277652_n_de1946926e.jpg"
   },
   {
    "key": "kolby-kaas-siger-farvel-til-faergerne-og-goddag-til-lystsejlerne",
@@ -668,7 +679,8 @@
    "title": "Moules Frites Festival tilbage i uge 32 på 30 restauranter",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter/",
    "cat": "Andet",
-   "sum": "Moules Frites Festival afholdes i uge 32 (3.-9. august) på over 30 restauranter, herunder flere havnerestauranter. Festivalen byder på muslinger og fritter til 189 kr. Billetsalg starter 8. juli."
+   "sum": "Moules Frites Festival afholdes i uge 32 (3.-9. august) på over 30 restauranter, herunder flere havnerestauranter. Festivalen byder på muslinger og fritter til 189 kr. Billetsalg starter 8. juli.",
+   "img": "https://minbaad.dk/fileadmin/user_upload/Moules_Frites_bannere__9_.png"
   },
   {
    "key": "syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe",
@@ -677,7 +689,8 @@
    "title": "Syg pukkelhval svømmer tæt på Aarhus Ø - se video",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe/",
    "cat": "Sikkerhed",
-   "sum": "Syg pukkelhval set tæt på Aarhus Ø; marinbiolog advarer om stress og fare og opfordrer til at holde afstand."
+   "sum": "Syg pukkelhval set tæt på Aarhus Ø; marinbiolog advarer om stress og fare og opfordrer til at holde afstand.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_9b789f58f7.jpg"
   },
   {
    "key": "sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad",
@@ -686,7 +699,8 @@
    "title": "Sejlere skulle betale fulde havnepenge i Dyvig Bro for at gå i land fra gummibåd",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad/",
    "cat": "Havnepriser",
-   "sum": "Sejlere kritiserer Dyvig Bro for at kræve fulde havnepenge for at gå i land fra gummibåd, selvom de ville betale for faciliteter. Flere beskriver en uvenlig modtagelse."
+   "sum": "Sejlere kritiserer Dyvig Bro for at kræve fulde havnepenge for at gå i land fra gummibåd, selvom de ville betale for faciliteter. Flere beskriver en uvenlig modtagelse.",
+   "img": "https://minbaad.dk/fileadmin/user_upload/dyvig_afsidesg.jpg"
   },
   {
    "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
@@ -705,7 +719,8 @@
    "title": "Sejlere klamrede sig til synkende båd efter grundstødning",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/tre-sejlere-klamrede-sig-til-synkende-baad-efter-grundstoedning/",
    "cat": "Sikkerhed",
-   "sum": "Tre personer reddet fra synkende sejlbåd efter grundstødning syd for Sydkoster. Båden sad fast på klippeskær og tog vand ind."
+   "sum": "Tre personer reddet fra synkende sejlbåd efter grundstødning syd for Sydkoster. Båden sad fast på klippeskær og tog vand ind.",
+   "img": "https://minbaad.dk/fileadmin/user_upload/sejlere_synker_svt.jpg"
   },
   {
    "key": "natsejlads-saa-enkelt-er-det-ikke-faa-tips",
@@ -724,7 +739,8 @@
    "title": "Danmarks hurtigste Albin Express skal findes i Sønderborg",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/july/article/danmarks-hurtigste-albin-express-skal-findes-i-soenderborg/",
    "cat": "Kapsejlads",
-   "sum": "Danmarksmesterskabet for Albin Express afholdes i Sønderborg 14.-15. august med deltagelse af danske og udenlandske besætninger, hvor de forsvarende mestre fra Sydfyn forsvarer titlen."
+   "sum": "Danmarksmesterskabet for Albin Express afholdes i Sønderborg 14.-15. august med deltagelse af danske og udenlandske besætninger, hvor de forsvarende mestre fra Sydfyn forsvarer titlen.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_Albin_Express_DM_61_516b8190dd.png"
   },
   {
    "key": "17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem",
@@ -733,7 +749,8 @@
    "title": "17 klassiske begynderfejl til turssejlads – og hvordan du undgår dem",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/july/article/17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem/",
    "cat": "Tursejlads",
-   "sum": "Artiklen gennemgår 17 typiske begynderfejl ved langtursejlads og giver råd til at undgå dem, baseret på en erfaren sejlers erfaringer."
+   "sum": "Artiklen gennemgår 17 typiske begynderfejl ved langtursejlads og giver råd til at undgå dem, baseret på en erfaren sejlers erfaringer.",
+   "img": "https://minbaad.dk/fileadmin/user_upload/lagune_langtursejlads.jpg"
   },
   {
    "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
@@ -752,7 +769,8 @@
    "title": "Historiske sejlskibe gør klar til folkefest rundt om Fyn",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/",
    "cat": "Kapsejlads",
-   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser."
+   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_FR_Presspefoto_2026_b4de4f6cfb.jpeg"
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
@@ -781,7 +799,8 @@
    "title": "Høj Jensen aldrig træt af at vinde i H-båden - nu 15. DM-guld",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld/",
    "cat": "Kapsejlads",
-   "sum": "Claus Høj Jensen vandt sit 15. DM-guld i H-båden ved Egå med besætningen på Good Speed, trods aflyste sejladser på grund af kraftig blæst."
+   "sum": "Claus Høj Jensen vandt sit 15. DM-guld i H-båden ved Egå med besætningen på Good Speed, trods aflyste sejladser på grund af kraftig blæst.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
@@ -790,7 +809,8 @@
    "title": "Udsolgt ungdomscruise sender 90 unge sejlere ud i uge 29",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/july/article/udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29/",
    "cat": "Tursejlads",
-   "sum": "Ungdomscruise i uge 29 samler 90 unge sejlere i 22 både til en tur fra Vejle over Juelsminde og Korshavn til Odense med fællesskab og aktiviteter som molebajer og temafester."
+   "sum": "Ungdomscruise i uge 29 samler 90 unge sejlere i 22 både til en tur fra Vejle over Juelsminde og Korshavn til Odense med fællesskab og aktiviteter som molebajer og temafester.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/d/csm_t_Emil_Seerup_-_Friendship__186__cf7a20937d.jpg"
   },
   {
    "key": "ferietid-husk-at-vende-gasteskiltet-fra-rod-til-gron-paa-din-havneplads0",
@@ -869,7 +889,8 @@
    "title": "Båden kan også være et lille fitnesscenter",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/july/article/baaden-kan-ogsaa-vaere-et-lille-fitnesscenter/",
    "cat": "Tursejlads",
-   "sum": "Isabelle Alexandersson fortæller, hvordan man kan bruge badestigen, indkøbsposer og cockpittet som træningsredskaber under bådferien."
+   "sum": "Isabelle Alexandersson fortæller, hvordan man kan bruge badestigen, indkøbsposer og cockpittet som træningsredskaber under bådferien.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_baad_marsta_20180728_135457_1714dfb9ee.jpg"
   },
   {
    "key": "sommerhavne-aegte-fiskerstemning-i-sletten",
@@ -1267,7 +1288,8 @@
    "title": "Dramatisk havneindsejling i Klintholm viser Video",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/may/article/dramatisk-havneindsejling-i-klintholm-viser-video/",
    "cat": "Sikkerhed",
-   "sum": "Video af en Hallberg-Rassy 43's dramatiske indsejling i Klintholm Havn i hårdt vejr viser, hvordan brydende bølger kan gøre manøvren farlig."
+   "sum": "Video af en Hallberg-Rassy 43's dramatiske indsejling i Klintholm Havn i hårdt vejr viser, hvordan brydende bølger kan gøre manøvren farlig.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/hr_bf56e612-9ffe-4649-b836-3c3d717a5254.jpg"
   },
   {
    "key": "tysk-tursejler-danske-havnepenge-er-blevet-for-urimeligt-hoje-nu-sejler-jeg-til-polen-i-stedet",
@@ -1296,7 +1318,8 @@
    "title": "Små bådpladser klar i Svanemøllehavnen efter vinterlukning",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/may/article/smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning/",
    "cat": "Havneliv",
-   "sum": "Svanemøllehavnen genåbner efter vinterlukning på grund af tunnelbyggeri og tilbyder pladser til mindre både under 2,20 meter. Havnen satser på faste og gæstesejlere."
+   "sum": "Svanemøllehavnen genåbner efter vinterlukning på grund af tunnelbyggeri og tilbyder pladser til mindre både under 2,20 meter. Havnen satser på faste og gæstesejlere.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/2/csm_svanemoellehavnen_gv20250801_112534_0456b02f0b.jpg"
   },
   {
    "key": "bestil-gratis-materialer-og-hjaelp-os-med-at-minde-om-sikkerheden-paa-havnen",
@@ -1315,7 +1338,8 @@
    "title": "Sådan bruger du dit anker bedst",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/may/article/saadan-bruger-du-dit-anker-bedst/",
    "cat": "Sikkerhed",
-   "sum": "En norsk video giver tips til korrekt ankring: gå op i vinden, bak langsomt, tag pejling, og sørg for tovlængde på 3-4 gange dybden."
+   "sum": "En norsk video giver tips til korrekt ankring: gå op i vinden, bak langsomt, tag pejling, og sørg for tovlængde på 3-4 gange dybden.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/a_bk.jpg"
   },
   {
    "key": "dick-turpin-stik-gor-det-let-at-forlade-havnen-da-knobet-losnes-med-et-ryk-se-hvordan-det-bindes0",
@@ -1324,7 +1348,8 @@
    "title": "Dick Turpin-stik gør det let at forlade havnen - stik løsnes med et ryk - se hvordan det bindes",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/may/article/dick-turpin-stik-gor-det-let-at-forlade-havnen-da-knobet-losnes-med-et-ryk-se-hvordan-det-bindes0/",
    "cat": "Sikkerhed",
-   "sum": "Artiklen forklarer, hvordan man binder et Dick Turpin-stik, et midlertidigt stik til hurtig frigørelse, når man sejler alene ud af havnen."
+   "sum": "Artiklen forklarer, hvordan man binder et Dick Turpin-stik, et midlertidigt stik til hurtig frigørelse, når man sejler alene ud af havnen.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/2/csm_dick_turpin_stik_2144df554e.jpg"
   },
   {
    "key": "efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark",
@@ -1333,7 +1358,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/may/article/efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark/",
    "source": "Minbåd.dk",
    "cat": "Havnepriser",
-   "sum": "Samsøs gæstehavn er efter en prisstigning på 20% blevet den 5. dyreste i Danmark, hvilket får flere sejlere til at overveje at reducere deres besøg."
+   "sum": "Samsøs gæstehavn er efter en prisstigning på 20% blevet den 5. dyreste i Danmark, hvilket får flere sejlere til at overveje at reducere deres besøg.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/6/csm_IMG_20180719_100320_76fee74802.jpg"
   },
   {
    "key": "fortoejning-er-ikke-bare-fortoejning-bloed-line-med-hoej-slidstyrke-fra-robline",
@@ -1342,7 +1368,8 @@
    "title": "Fortøjning er ikke bare fortøjning: Blød line med høj slidstyrke fra Robline",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/may/article/fortoejning-er-ikke-bare-fortoejning-bloed-line-med-hoej-slidstyrke-fra-robline/",
    "cat": "Udstyr & både",
-   "sum": "Robline Rio er en blød fortøjningsline med høj slidstyrke og brudstyrke, velegnet til faste havnepladser og tungere både."
+   "sum": "Robline Rio er en blød fortøjningsline med høj slidstyrke og brudstyrke, velegnet til faste havnepladser og tungere både.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/e/csm_rob_mage_16._maj_2026__08.57.46_f2c0dc5165.png"
   },
   {
    "key": "samsoe-haever-havnetakster-markant-sejler-foeler-sig-presset-vaek",
@@ -1351,7 +1378,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/may/article/samsoe-haever-havnetakster-markant-sejler-foeler-sig-presset-vaek/",
    "source": "Minbåd.dk",
    "cat": "Havnepriser",
-   "sum": "Samsø hæver havnetaksterne med 20% i 2026, hvilket møder kritik fra sejlere, der føler sig presset væk på grund af stigende priser og dårlig vedligeholdelse."
+   "sum": "Samsø hæver havnetaksterne med 20% i 2026, hvilket møder kritik fra sejlere, der føler sig presset væk på grund af stigende priser og dårlig vedligeholdelse.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/0/csm_samsoe_20220719_090118_0720b0e4f7.jpg"
   },
   {
    "key": "ny-marine-kit-foerstehjaelpstaske-til-baadfolket",
@@ -1360,7 +1388,8 @@
    "title": "Ny Marine Kit førstehjælpstaske til bådfolket",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/may/article/ny-marine-kit-foerstehjaelpstaske-til-baadfolket/",
    "cat": "Udstyr & både",
-   "sum": "Palby Marine lancerer en ny førstehjælpstaske til bådejere med indhold opdelt efter skadens alvor. Pris 629 kr."
+   "sum": "Palby Marine lancerer en ny førstehjælpstaske til bådejere med indhold opdelt efter skadens alvor. Pris 629 kr.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_f_aeb22-3059-49b0-9bdf-17a6a1f005d1_a72c835dc4.png"
   },
   {
    "key": "michelin-kro-rykker-ind-paa-bork-festival-med-gourmetmad",
@@ -1369,7 +1398,8 @@
    "title": "Michelin-kro rykker ind på Bork Festival med gourmetmad",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/may/article/michelin-kro-rykker-ind-paa-bork-festival-med-gourmetmad/",
    "cat": "Havneliv",
-   "sum": "Den kendte Nymindegab Kro deltager for første gang på Bork Festival på Bork Havn og tilbyder gourmetmad, mens festivalen stadig serverer traditionelle favoritter."
+   "sum": "Den kendte Nymindegab Kro deltager for første gang på Bork Festival på Bork Havn og tilbyder gourmetmad, mens festivalen stadig serverer traditionelle favoritter.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/d/csm_bor_med_-_2026-05-11T094430.167_3e869d22b0.jpg"
   },
   {
    "key": "hjertmans-faar-ny-italiensk-partner-i-professionel-polering",
@@ -1378,7 +1408,8 @@
    "title": "Hjertmans får ny italiensk partner i professionel polering",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/may/article/hjertmans-faar-ny-italiensk-partner-i-professionel-polering/",
    "cat": "Udstyr & både",
-   "sum": "Hjertmans indgår samarbejde med italienske RUPES for at styrke udvalget af professionelle poler- og slibeløsninger til bådejere og professionelle."
+   "sum": "Hjertmans indgår samarbejde med italienske RUPES for at styrke udvalget af professionelle poler- og slibeløsninger til bådejere og professionelle.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/rupes_hjertmans.jpg"
   },
   {
    "key": "fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet",
@@ -1397,7 +1428,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/may/article/boegeskov-havn-lukket-af-sand-nu-kastebold-mellem-miljoestyrelsen-og-kystdirektoratet/",
    "source": "Minbåd.dk",
    "cat": "Andet",
-   "sum": "Bøgeskov Havn er lukket på grund af tilsanding, og sagen behandles nu af Miljøstyrelsen og Kystdirektoratet. Havnens økonomi og medlemstal er truet."
+   "sum": "Bøgeskov Havn er lukket på grund af tilsanding, og sagen behandles nu af Miljøstyrelsen og Kystdirektoratet. Havnens økonomi og medlemstal er truet.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_boegeskov_havn_tilsanding_21ca60c59d.jpg"
   },
   {
    "key": "vi-tester-den-finske-vinder-amt-165-r-i-alu-du-faar-hvad-du-ser",
