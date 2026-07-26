@@ -34,9 +34,32 @@
     padding: 20px calc(20px + env(safe-area-inset-right)) calc(20px + env(safe-area-inset-bottom)) calc(20px + env(safe-area-inset-left));
   }
   .wrap { max-width: 880px; margin: 0 auto; }
-  header.top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
-  header.top h1 { font-size: 22px; font-weight: 700; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+  header.top {
+    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    margin-bottom: 12px;
+  }
+  header.top h1 { font-size: 22px; font-weight: 700; min-width: 0; }
+  .tools { display: flex; align-items: center; gap: 6px; flex: 0 0 auto; }
+  /* Ikonknapper: søg og filter */
+  .iconbtn {
+    position: relative; display: inline-flex; align-items: center; justify-content: center;
+    width: 40px; height: 40px; padding: 0; border: 1px solid var(--border2); border-radius: 10px;
+    background: var(--card); color: var(--muted); cursor: pointer; list-style: none;
+    -webkit-tap-highlight-color: transparent; transition: color .12s, border-color .12s;
+  }
+  .iconbtn::-webkit-details-marker { display: none; }
+  .iconbtn svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+  .iconbtn:hover { color: var(--accent); border-color: var(--accent); }
+  .iconbtn.on, .dd[open] > .iconbtn { color: #fff; background: var(--accent); border-color: var(--accent); }
+  /* Prik der viser at et filter eller en søgning er aktiv */
+  .iconbtn.active::after {
+    content: ""; position: absolute; top: 6px; right: 6px; width: 7px; height: 7px;
+    border-radius: 50%; background: var(--accent); border: 1.5px solid var(--card);
+  }
+  .iconbtn.on.active::after { background: #fff; border-color: var(--accent); }
+  /* Søgefeltet er skjult indtil man trykker på lupen */
+  .searchrow { display: none; margin-bottom: 10px; }
+  .searchrow.open { display: flex; }
   .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
   .controls.col { flex-direction: column; align-items: stretch; gap: 6px; }
   .chips { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -55,18 +78,9 @@
   input.search:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
   /* Emne-dropdown */
   .dd { position: relative; }
-  .dd > summary {
-    list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
-    border: 1px solid var(--border2); background: var(--card); color: var(--text);
-    border-radius: 8px; padding: 7px 12px; font-size: 13px; min-height: 36px;
-    -webkit-tap-highlight-color: transparent; user-select: none;
-  }
-  .dd > summary::-webkit-details-marker { display: none; }
-  .dd[open] > summary { border-color: var(--accent); color: var(--accent); }
-  .dd .caret { font-size: 10px; color: var(--muted2); transition: transform .15s; }
-  .dd[open] .caret { transform: rotate(180deg); color: var(--accent); }
+  .dd > summary { list-style: none; user-select: none; }
   .ddpanel {
-    position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; min-width: 260px; max-width: 92vw;
+    position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; min-width: 268px; max-width: 84vw;
     background: var(--card); border: 1px solid var(--border2); border-radius: 12px; padding: 12px;
     box-shadow: 0 8px 24px rgba(0,0,0,.14);
   }
@@ -96,11 +110,7 @@
     font-size: 12px; color: var(--muted); line-height: 1.7; clear: none;
     margin-top: 9px; padding-top: 8px; border-top: 1px solid var(--border);
   }
-  .meta > * { margin-right: 7px; }
-  .badge {
-    display: inline-block; font-size: 11px; border-radius: 4px; padding: 2px 7px; font-weight: 500;
-    white-space: nowrap;
-  }
+  .meta .dot { margin: 0 6px; color: var(--muted2); }
   .card .title { color: var(--title); font-weight: 600; font-size: 15px; line-height: 1.35; display: block; }
   a.card:hover .title { text-decoration: underline; }
   .summary { font-size: 13px; color: var(--muted); margin-top: 5px; line-height: 1.5; }
@@ -123,43 +133,48 @@
       padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
     }
     header.top h1 { font-size: 19px; }
-    .sub { margin-bottom: 10px; }
     .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .thumb { width: 136px; height: 104px; margin: 2px 11px 6px 0; }
     .card .title { font-size: 14px; }
     .ghead { margin: 14px 0 6px 2px; }
     /* Emner: alle synlige på én skærm – chips fylder rækkerne ud, ingen scroll */
-    #catRow .chips { gap: 5px; }
-    #catRow .chip {
+    .ddpanel .chips { gap: 5px; }
+    .ddpanel .chip {
       flex: 1 1 auto; justify-content: center; font-size: 12px;
       padding: 7px 8px; min-height: 32px;
     }
   }
   @media (max-width: 360px) {
-    #catRow .chip { font-size: 11px; padding: 7px 6px; letter-spacing: -.01em; }
+    .ddpanel .chip { font-size: 11px; padding: 7px 6px; letter-spacing: -.01em; }
     .thumb { width: 118px; height: 90px; margin-right: 10px; }
   }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header class="top"><h1>&#9875; Marina Nyheder</h1></header>
-  <div class="sub" id="subline">Nyheder om danske marinaer og lystb&aring;dehavne</div>
-  <div class="controls" id="srcRow" style="display:none">
-    <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
-  </div>
-  <div class="controls" id="catRow" style="display:none">
-    <details class="dd" id="catDd">
-      <summary><span id="catSummary">Alle emner</span><span class="caret" aria-hidden="true">&#9662;</span></summary>
-      <div class="ddpanel">
-        <div class="ddtop">
-          <span class="lbl">Filtrer p&aring; emne</span>
-          <span class="ddall" id="catAll">V&aelig;lg alle</span>
+  <header class="top">
+    <h1>&#9875; Marina Nyheder</h1>
+    <div class="tools" id="tools" style="display:none">
+      <button class="iconbtn" id="searchBtn" type="button" aria-label="S&oslash;g i overskrifter" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 L21 21"/></svg>
+      </button>
+      <details class="dd" id="catDd">
+        <summary class="iconbtn" id="catBtn" aria-label="Filtrer p&aring; emne" title="Filtrer p&aring; emne">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16"/><path d="M7 12h10"/><path d="M10 18h4"/></svg>
+        </summary>
+        <div class="ddpanel">
+          <div class="ddtop">
+            <span class="lbl" id="catSummary">Alle emner</span>
+            <span class="ddall" id="catAll">V&aelig;lg alle</span>
+          </div>
+          <div class="chips" id="catChips"></div>
         </div>
-        <div class="chips" id="catChips"></div>
-      </div>
-    </details>
+      </details>
+    </div>
+  </header>
+  <div class="searchrow" id="srcRow">
+    <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
   </div>
   <div id="list"><div class="loading"><div class="spinner"></div><div>Henter nyheder&hellip;</div></div></div>
   <footer>Kilder tilf&oslash;jes og fjernes i
@@ -171,19 +186,9 @@
 (function(){
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
-  var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads","Udstyr & både","Andet"];
-  var PALETTE = [
-    ["#e3f0fb", "#0b5fa5"], ["#e8f5e9", "#2e7d32"], ["#fff3e0", "#b26a00"],
-    ["#f3e5f5", "#7b1fa2"], ["#e0f2f1", "#00695c"], ["#fce4ec", "#c2185b"],
-    ["#efebe9", "#5d4037"], ["#e8eaf6", "#303f9f"]
-  ];
-  var CAT_COLOR = {
-    "Havnepriser": ["#fff3e0", "#b26a00"], "Havneliv": ["#e3f0fb", "#0b5fa5"],
-    "Sikkerhed": ["#fdecea", "#c62828"], "Kapsejlads": ["#e8f5e9", "#2e7d32"],
-    "Tursejlads": ["#e0f2f1", "#00695c"], "Udstyr & både": ["#f3e5f5", "#7b1fa2"],
-    "Andet": ["#eceff1", "#546e7a"]
-  };
-  var state = { items: [], labels: [], cats: [], catOff: {}, q: "" };
+  var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads",
+                   "Udstyr & både","Jubilæum","Andet"];
+  var state = { items: [], cats: [], catOff: {}, q: "" };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
 
@@ -194,11 +199,6 @@
 
   function savePrefs() {
     try { localStorage.setItem("marina-nyheder-prefs4", JSON.stringify({ catOff: state.catOff })); } catch (e) {}
-  }
-
-  function srcColor(label) {
-    var i = state.labels.indexOf(label);
-    return PALETTE[(i < 0 ? 0 : i) % PALETTE.length];
   }
 
   function fmtDate(iso) {
@@ -223,16 +223,13 @@
   }
 
   function card(it) {
-    var sc = srcColor(it.source);
-    var cc = CAT_COLOR[it.cat] || CAT_COLOR["Andet"];
     var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
     if (it.img) html += '<img class="thumb" loading="lazy" decoding="async" width="168" height="124" ' +
       'src="' + esc(it.img) + '" alt="" onerror="this.style.display=\'none\'">';
     html += '<span class="title">' + esc(it.title) + '</span>' +
       (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
-      '<div class="meta"><span>' + fmtDate(it.date) + '</span>' +
-      '<span class="badge" style="background:' + sc[0] + ';color:' + sc[1] + '">' + esc(it.source) + '</span>' +
-      (it.cat ? '<span class="badge" style="background:' + cc[0] + ';color:' + cc[1] + '">' + esc(it.cat) + '</span>' : '') +
+      '<div class="meta">' + fmtDate(it.date) +
+      '<span class="dot">&middot;</span>' + esc(it.source) +
       '</div>' +
       '</a>';
     return html;
@@ -246,8 +243,6 @@
       if (q && (it.title + " " + (it.sum || "")).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
-    document.getElementById("subline").textContent =
-      items.length + " nyheder om danske marinaer og lystbådehavne";
     if (!items.length) {
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
@@ -326,15 +321,36 @@
     else if (on.length === state.cats.length) el.textContent = "Alle emner";
     else if (on.length === 1) el.textContent = on[0];
     else el.textContent = on.length + " af " + state.cats.length + " emner";
+    // Prik på filter-ikonet når noget er filtreret væk
+    document.getElementById("catBtn")
+      .classList.toggle("active", on.length !== state.cats.length);
   }
 
   function wireControls() {
-    document.getElementById("srcRow").style.display = "";
-    if (state.cats.length) document.getElementById("catRow").style.display = "";
+    var tools = document.getElementById("tools");
+    tools.style.display = "";
+    if (!state.cats.length) document.getElementById("catDd").style.display = "none";
     buildChips("catChips", state.cats, state.catOff);
     updateCatSummary();
-    document.getElementById("q").addEventListener("input", function(e){
-      state.q = e.target.value; render();
+
+    var row = document.getElementById("srcRow");
+    var q = document.getElementById("q");
+    var sBtn = document.getElementById("searchBtn");
+    q.addEventListener("input", function(e){
+      state.q = e.target.value;
+      sBtn.classList.toggle("active", !!state.q);
+      render();
+    });
+    // Lupen slår søgefeltet ud og ind. Lukkes den med tekst i, nulstilles søgningen.
+    sBtn.addEventListener("click", function(){
+      var open = row.classList.toggle("open");
+      sBtn.classList.toggle("on", open);
+      sBtn.setAttribute("aria-expanded", String(open));
+      if (open) { q.focus(); }
+      else if (state.q) { q.value = ""; state.q = ""; sBtn.classList.remove("active"); render(); }
+    });
+    q.addEventListener("keydown", function(e){
+      if (e.key === "Escape") { sBtn.click(); sBtn.focus(); }
     });
 
     var dd = document.getElementById("catDd");
@@ -361,12 +377,8 @@
         if (!it.source && it.src && LEGACY[it.src]) it.source = LEGACY[it.src];
         return it;
       }).filter(function(it){ return it.source; });
-      var seenS = {}, seenC = {};
-      state.items.forEach(function(it){
-        seenS[it.source] = true;
-        if (it.cat) seenC[it.cat] = true;
-      });
-      state.labels = Object.keys(seenS).sort();
+      var seenC = {};
+      state.items.forEach(function(it){ if (it.cat) seenC[it.cat] = true; });
       state.cats = CAT_ORDER.filter(function(c){ return seenC[c]; });
       wireControls();
       render();
