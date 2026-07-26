@@ -1,7 +1,11 @@
 {
- "generated": "2026-07-26T09:23:50+00:00",
+ "generated": "2026-07-26T09:32:22+00:00",
  "count": 151,
- "errors": [],
+ "errors": [
+  "https://flidhavne.dk/nyheder/: 415 Client Error: Unsupported Media Type for url: https://flidhavne.dk/nyheder/",
+  "AI: HTTPError: 400 Client Error: Bad Request for url: https://api.deepseek.com/chat/completions | HTTP 400: {\"error\":{\"message\":\"The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_request_erro",
+  "AI: briefing: HTTPError: 400 Client Error: Bad Request for url: https://api.deepseek.com/chat/completions | HTTP 400: {\"error\":{\"message\":\"The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"invalid_re"
+ ],
  "items": [
   {
    "key": "elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet",
