@@ -1,27 +1,77 @@
 {
- "generated": "2026-07-26T20:36:16+00:00",
- "count": 213,
+ "generated": "2026-07-27T17:24:12+00:00",
+ "count": 220,
  "errors": [],
  "items": [
   {
-   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Minbåd.dk",
-   "date": "2026-07-26",
-   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/0/csm_northern_grace_fyn_rundt_amed_8caddac54f.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer."
+   "date": "2026-07-27",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_Sejlerliv__2tyu__de69c04ac5.jpg",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
-   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
+   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
    "source": "Motorbådsnyt",
-   "date": "2026-07-26",
-   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
+   "date": "2026-07-27",
+   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_posidonia-bl_8695b050ee.jpg",
+   "cat": "Andet",
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
+  },
+  {
+   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_soevn564_2329625584449182_1559160043995149163_n_98e0e9321d.jpg",
+   "cat": "Sikkerhed",
+   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
+  },
+  {
+   "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Elliott 35 SS knækker masten og søger i sikkerhed i Gedser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_mast_top_861_18104707238131141_913644762217562748_n_d2cb82194a.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
+  },
+  {
+   "key": "baadmagasinet-34300",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "Sehested & Co. fik tiltrængt oprejsning til sidst - er Rindom mon definitivt ude?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/sehested.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
+  },
+  {
+   "key": "baadmagasinet-34299",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "GRDR: Endnu en favorit ude - Elliott 35SS 'Palby Marine' smider masten",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34299-grdr-eliott-35ss-palby-marine-smider-masten-og-er-ude",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/palby_mast.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser."
+  },
+  {
+   "key": "baadmagasinet-34293",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "Talemåde: Hvorfor knob og sømil stadig giver mening",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34293-talemade-hvorfor-knob-og-somil-stadig-giver-mening",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/chiplog_digiinstrument_ai-genereret_danibsen.jpg",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer historien bag knob og sømil som måleenheder i sejlsporten og hvorfor de fortsat giver mening for sejlere."
   },
   {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
@@ -29,9 +79,29 @@
    "date": "2026-07-26",
    "title": "Politiet: Hvem savner denne sejlbåd på Als?",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_bcbb0f77b1.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_44cf5fa91d.png",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
+  },
+  {
+   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/0/csm_northern_grace_fyn_rundt_amed_8c8118978e.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer."
+  },
+  {
+   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_a3499f74c6.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
   },
   {
    "key": "baadmagasinet-34297",
@@ -59,7 +129,7 @@
    "date": "2026-07-25",
    "title": "Elliott 35 jagter trimaran mod Bornholm - 3 solosejlere udgået",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_trac_named_-_2026-07-25T221608.132_6011837001.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_trac_named_-_2026-07-25T221608.132_8e46861541.jpg",
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer."
   },
@@ -84,16 +154,6 @@
    "sum": "Jan B. Hansen måtte udgå af Garmin Round Denmark Race på The Beast efter et totalt strømsvigt i hård vind og mørke. Løbet fortsætter med en tæt frontgruppe nær Falsterbo."
   },
   {
-   "key": "baadmagasinet-34291",
-   "source": "Bådmagasinet",
-   "date": "2026-07-25",
-   "title": "Anna Munch slutter sekser i Los Angeles",
-   "url": "https://www.baadmagasinet.dk/ol/34291-anna-munch-slutter-som-nr-6-i-los-angeles",
-   "img": "https://www.baadmagasinet.dk/images/-----juli26/anna-munch_san-pedro-ocr_2026_01.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch sluttede som nummer 6 i ILCA 6 ved San Pedro Olympic Class Regatta i Los Angeles, hvor hun fik vigtig erfaring til OL."
-  },
-  {
    "key": "baadmagasinet-34289",
    "source": "Bådmagasinet",
    "date": "2026-07-25",
@@ -102,6 +162,16 @@
    "img": "https://www.baadmagasinet.dk/images/-----juli26/onboard_pix.jpg",
    "cat": "Sikkerhed",
    "sum": "Onboard-appen, der skulle samle sejler-apps, møder massiv kritik fra brugere, der savner den tidligere SejlSikkert-app."
+  },
+  {
+   "key": "baadmagasinet-34291",
+   "source": "Bådmagasinet",
+   "date": "2026-07-25",
+   "title": "Anna Munch slutter sekser i Los Angeles",
+   "url": "https://www.baadmagasinet.dk/ol/34291-anna-munch-slutter-som-nr-6-i-los-angeles",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/anna-munch_san-pedro-ocr_2026_01.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch sluttede som nummer 6 i ILCA 6 ved San Pedro Olympic Class Regatta i Los Angeles, hvor hun fik vigtig erfaring til OL."
   },
   {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
@@ -203,16 +273,6 @@
    "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet."
   },
   {
-   "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Miljøvenlig Hanse 410 vinder tysk pris som årets sejlbåd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_hanse_410_boot_754119c622.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept."
-  },
-  {
    "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
    "source": "Minbåd.dk",
    "date": "2026-07-22",
@@ -223,12 +283,22 @@
    "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport."
   },
   {
+   "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "Miljøvenlig Hanse 410 vinder tysk pris som årets sejlbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_hanse_410_boot_c3e3eb28e7.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept."
+  },
+  {
    "key": "21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-07-22",
    "title": "21 både klar til Garmin Round Denmark Race 2026 i Aarhus",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_start_dk_rundt_25_A9884_44c79402ca.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_start_dk_rundt_25_A9884_7d3a96d0d0.jpg",
    "cat": "Kapsejlads",
    "sum": "21 både deltager i Garmin Round Denmark Race 2026, der starter den 24. juli fra Aarhus og strækker sig over 680 sømil omkring Danmark."
   },
@@ -328,17 +398,17 @@
    "date": "2026-07-20",
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_89a293563f.png",
    "cat": "Andet",
    "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier."
   },
   {
    "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-07-20",
    "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_blaest_883_1061481683068870_4549359916828841597_n_87e87db713.jpg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/1/csm_blaest_883_1061481683068870_4549359916828841597_n_d580a52cbc.jpg",
    "cat": "Sikkerhed",
    "sum": "En 45 fods Princess-motorbåd fik motorproblemer i kuling tæt på T-ruten i Samsøbælt og blev slæbt til Ballen Havn af Dansk Søredningstjeneste."
   },
@@ -388,7 +458,7 @@
    "date": "2026-07-19",
    "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_87ff44dc04.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_34fb67a06e.jpg",
    "cat": "Havneliv",
    "sum": "Artiklen beskriver reglerne for, at inderste båd skal acceptere udenpåliggende både i fyldte havne, og at havnemyndigheden bestemmer, hvornår det er nødvendigt."
   },
@@ -408,7 +478,7 @@
    "date": "2026-07-19",
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_csm_sup_pr_adcd90dadf_2b2d62b4a0.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_csm_sup_pr_adcd90dadf_cbeee69ff4.jpg",
    "cat": "Sikkerhed",
    "sum": "Artiklen advarer om sikkerhedsrisici ved SUP i fralandsvind og opfordrer til grundig forberedelse, kurser og korrekt udstyr som svømmevest og leash."
   },
@@ -418,7 +488,7 @@
    "date": "2026-07-19",
    "title": "Sommerhavne: På Nyord må byens gæster droppe bilen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/july/article/sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/0/csm_nyord_bdea7cbe6a.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/0/csm_nyord_ba20a45117.jpg",
    "cat": "Havneliv",
    "sum": "Nyord Havn er en lille, charmerende havn på en fredet ø med få faciliteter, men unik natur og ro. Sejlere roser den billige pris og hyggelige atmosfære."
   },
@@ -468,7 +538,7 @@
    "date": "2026-07-17",
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_e735091899.jpg",
    "cat": "Sikkerhed",
    "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag."
   },
@@ -498,7 +568,7 @@
    "date": "2026-07-16",
    "title": "Et billede af en kvinde ved roret satte ild til Facebook",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_eef4b75445.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg",
    "cat": "Havneliv",
    "sum": "En Facebook-debat om et billede af en kvinde ved roret udløste diskussion om kønsroller i sejlads. Redaktøren fremhævede, at kvinder sjældent styrer både i havnen, hvilket bør ændres for sikkerhedens skyld."
   },
@@ -508,7 +578,7 @@
    "date": "2026-07-16",
    "title": "Seks gode råd hvis du vil sejle med hund",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/gode-raad-hvis-du-vil-sejle-med-hund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_f2e2e82035.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_83c46eef78.jpg",
    "cat": "Tursejlads",
    "sum": "Artiklen giver råd til at sejle med hund, herunder at vænne hunden til båden, bruge redningsvest og skabe et trygt sted ombord."
   },
@@ -548,7 +618,7 @@
    "date": "2026-07-15",
    "title": "Derfor kæntrende Loke, men nu er ny redningsbåd Freja klar i Juelsminde",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_loke_8013719185_3680938822383745555_n_cad400a0cc.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_loke_8013719185_3680938822383745555_n_0e835b11e1.jpg",
    "cat": "Sikkerhed",
    "sum": "Ny redningsbåd Freja er sat i drift i Juelsminde efter kæntring af Loke under redningsaktion; den er større og har lukket styrehus for øget sikkerhed."
   },
@@ -578,7 +648,7 @@
    "date": "2026-07-14",
    "title": "Norsk vikingeskib Saga Farmann vækker opsigt i Kolby Kås",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/july/article/norsk-vikingeskib-saga-farmann-vaekker-opsigt-i-kolby-kaas/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_n_IMG_20260714_122006_e6f403f3ea.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_n_IMG_20260714_122006_a9f1d63aba.jpg",
    "cat": "Havneliv",
    "sum": "Vikingeskibet Saga Farmann ligger i Kolby Kås Havn og tiltrækker opmærksomhed. Man kan sejle med for 4.500 norske kroner."
   },
@@ -588,9 +658,19 @@
    "date": "2026-07-14",
    "title": "Sådan overlever – og nyder – man livet som sejlende par",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/july/article/saadan-overlever-og-nyder-man-livet-som-sejlende-par/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_eef4b75445.jpg",
    "cat": "Havneliv",
-   "sum": "Artiklen giver 12 tips til par, der sejler sammen, med fokus på kommunikation, roller og at give hinanden plads om bord."
+   "sum": "Artiklen giver 12 tips til par, der sejler sammen, med fokus på kommunikation, roller og at give hinanden plads om bord.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_eef4b75445.jpg"
+  },
+  {
+   "key": "olga-henneberg-blev-bedste-kvinde-ved-contender-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-07-13",
+   "title": "Olga Henneberg blev bedste kvinde ved Contender-VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/olga-henneberg-blev-bedste-kvinde-ved-contender-vm/",
+   "cat": "Kapsejlads",
+   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_c_oto54_bac4dbf5a2.jpg"
   },
   {
    "key": "grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund",
@@ -598,7 +678,7 @@
    "date": "2026-07-13",
    "title": "Grundstødt sejler betalte redningsfolk med kiks men manden sejlede tilbage til grunden",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_baad_grund_3_2293645541443826_2475832148515561780_n_4d411d78a8.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_baad_grund_3_2293645541443826_2475832148515561780_n_2f42a90765.jpg",
    "cat": "Sikkerhed",
    "sum": "En mørklagt sejlbåd grundstødte ved Lynæs. Redningsfolkene fik båden fri og modtog kiks som tak, men sejleren sejlede straks tilbage på grunden."
   },
@@ -608,19 +688,9 @@
    "date": "2026-07-13",
    "title": "Motorbåd i voldsomme flammer ved Sluseholmen",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/motorbaad-i-voldsomme-flammer-ved-sluseholmen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_brand_jpg_-a022-5463-b8f7-18d1f32b7a69_984523cc5f.jpg",
    "cat": "Sikkerhed",
-   "sum": "En motorbåd brød i brand ved Sluseholmen i København, og personer om bord blev reddet i land af forbipasserende. Branden blev slukket, men båden er totalskadet."
-  },
-  {
-   "key": "olga-henneberg-blev-bedste-kvinde-ved-contender-vm",
-   "source": "Minbåd.dk",
-   "date": "2026-07-13",
-   "title": "Olga Henneberg blev bedste kvinde ved Contender-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/olga-henneberg-blev-bedste-kvinde-ved-contender-vm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_c_oto54_bac4dbf5a2.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49."
+   "sum": "En motorbåd brød i brand ved Sluseholmen i København, og personer om bord blev reddet i land af forbipasserende. Branden blev slukket, men båden er totalskadet.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_brand_jpg_-a022-5463-b8f7-18d1f32b7a69_984523cc5f.jpg"
   },
   {
    "key": "moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad",
@@ -668,7 +738,7 @@
    "date": "2026-07-11",
    "title": "Kolby Kås siger farvel til færgerne og goddag til lystsejlerne",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/july/article/kolby-kaas-siger-farvel-til-faergerne-og-goddag-til-lystsejlerne/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/3/csm_kolby_IMG_20260716_094837_36de8c6709.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/3/csm_kolby_IMG_20260716_094837_ef7e80fd1b.jpg",
    "cat": "Havneliv",
    "sum": "Kolby Kås havn på Samsø ombygges fra færgehavn til lystbådehavn med nye bølgeværn og 22 pælepladser. Havnen står klar til sommeren 2026."
   },
@@ -683,16 +753,6 @@
    "img": "https://minbaad.dk/fileadmin/user_upload/Moules_Frites_bannere__9_.png"
   },
   {
-   "key": "syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe",
-   "source": "Minbåd.dk",
-   "date": "2026-07-10",
-   "title": "Syg pukkelhval svømmer tæt på Aarhus Ø - se video",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe/",
-   "cat": "Sikkerhed",
-   "sum": "Syg pukkelhval set tæt på Aarhus Ø; marinbiolog advarer om stress og fare og opfordrer til at holde afstand.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_9b789f58f7.jpg"
-  },
-  {
    "key": "sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad",
    "source": "Minbåd.dk",
    "date": "2026-07-10",
@@ -701,6 +761,16 @@
    "cat": "Havnepriser",
    "sum": "Sejlere kritiserer Dyvig Bro for at kræve fulde havnepenge for at gå i land fra gummibåd, selvom de ville betale for faciliteter. Flere beskriver en uvenlig modtagelse.",
    "img": "https://minbaad.dk/fileadmin/user_upload/dyvig_afsidesg.jpg"
+  },
+  {
+   "key": "syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe",
+   "source": "Minbåd.dk",
+   "date": "2026-07-10",
+   "title": "Syg pukkelhval svømmer tæt på Aarhus Ø - se video",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe/",
+   "cat": "Sikkerhed",
+   "sum": "Syg pukkelhval set tæt på Aarhus Ø; marinbiolog advarer om stress og fare og opfordrer til at holde afstand.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_9b789f58f7.jpg"
   },
   {
    "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
@@ -713,6 +783,16 @@
    "sum": "Artiklen giver gode råd til sikkerhed i havnen, som at forberede fortøjninger, tage hensyn til vind og bede om hjælp fra andre sejlere."
   },
   {
+   "key": "natsejlads-saa-enkelt-er-det-ikke-faa-tips",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-09",
+   "title": "Natsejlads, så enkelt er det ikke - få tips",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/july/article/natsejlads-saa-enkelt-er-det-ikke-faa-tips/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/4/csm_natsejlads_09bdc1f6fc.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen giver råd til natsejlads med fokus på navigation, sikkerhedsudstyr som redningsveste og lys, samt vigtigheden af planlægning og kommunikation."
+  },
+  {
    "key": "tre-sejlere-klamrede-sig-til-synkende-baad-efter-grundstoedning",
    "source": "Minbåd.dk",
    "date": "2026-07-09",
@@ -721,16 +801,6 @@
    "cat": "Sikkerhed",
    "sum": "Tre personer reddet fra synkende sejlbåd efter grundstødning syd for Sydkoster. Båden sad fast på klippeskær og tog vand ind.",
    "img": "https://minbaad.dk/fileadmin/user_upload/sejlere_synker_svt.jpg"
-  },
-  {
-   "key": "natsejlads-saa-enkelt-er-det-ikke-faa-tips",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-09",
-   "title": "Natsejlads, så enkelt er det ikke - få tips",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/july/article/natsejlads-saa-enkelt-er-det-ikke-faa-tips/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/4/csm_natsejlads_fcbde61673.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen giver råd til natsejlads med fokus på navigation, sikkerhedsudstyr som redningsveste og lys, samt vigtigheden af planlægning og kommunikation."
   },
   {
    "key": "danmarks-hurtigste-albin-express-skal-findes-i-soenderborg",
@@ -763,16 +833,6 @@
    "sum": "Garmin lancerer LiveScope 2-serie med live-sonar, der giver højere opløsning, bredere dækning og længere rækkevidde, og som ikke længere kræver en separat sort boks."
   },
   {
-   "key": "historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-07",
-   "title": "Historiske sejlskibe gør klar til folkefest rundt om Fyn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/",
-   "cat": "Kapsejlads",
-   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_FR_Presspefoto_2026_b4de4f6cfb.jpeg"
-  },
-  {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
    "source": "Motorbådsnyt",
    "date": "2026-07-07",
@@ -793,6 +853,16 @@
    "sum": "Ungdomscruise samler 90 unge sejlere i uge 29 til en uge med sejlads og aktiviteter mellem Vejle, Juelsminde, Korshavn og Odense. Deltagelse kræver hverken egen båd eller stor erfaring."
   },
   {
+   "key": "historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn",
+   "source": "Minbåd.dk",
+   "date": "2026-07-07",
+   "title": "Historiske sejlskibe gør klar til folkefest rundt om Fyn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/",
+   "cat": "Kapsejlads",
+   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_FR_Presspefoto_2026_b4de4f6cfb.jpeg"
+  },
+  {
    "key": "hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld",
    "source": "Minbåd.dk",
    "date": "2026-07-07",
@@ -801,16 +871,6 @@
    "cat": "Kapsejlads",
    "sum": "Claus Høj Jensen vandt sit 15. DM-guld i H-båden ved Egå med besætningen på Good Speed, trods aflyste sejladser på grund af kraftig blæst.",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
-  },
-  {
-   "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
-   "source": "Minbåd.dk",
-   "date": "2026-07-06",
-   "title": "Udsolgt ungdomscruise sender 90 unge sejlere ud i uge 29",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/july/article/udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29/",
-   "cat": "Tursejlads",
-   "sum": "Ungdomscruise i uge 29 samler 90 unge sejlere i 22 både til en tur fra Vejle over Juelsminde og Korshavn til Odense med fællesskab og aktiviteter som molebajer og temafester.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/d/csm_t_Emil_Seerup_-_Friendship__186__cf7a20937d.jpg"
   },
   {
    "key": "ferietid-husk-at-vende-gasteskiltet-fra-rod-til-gron-paa-din-havneplads0",
@@ -841,6 +901,16 @@
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
    "cat": "Andet",
    "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
+  },
+  {
+   "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
+   "source": "Minbåd.dk",
+   "date": "2026-07-06",
+   "title": "Udsolgt ungdomscruise sender 90 unge sejlere ud i uge 29",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/july/article/udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29/",
+   "cat": "Tursejlads",
+   "sum": "Ungdomscruise i uge 29 samler 90 unge sejlere i 22 både til en tur fra Vejle over Juelsminde og Korshavn til Odense med fællesskab og aktiviteter som molebajer og temafester.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/d/csm_t_Emil_Seerup_-_Friendship__186__cf7a20937d.jpg"
   },
   {
    "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
@@ -908,7 +978,7 @@
    "date": "2026-06-30",
    "title": "CAROSS-jumpstarter kan blive redningen, når bådmotoren ikke vil start",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/june/article/caross-jumpstarter-kan-blive-redningen-naar-baadmotoren-ikke-vil-start/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_CAROSS_baadhavn_motor_b199859b00.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_CAROSS_baadhavn_motor_a4263a763d.png",
    "cat": "Udstyr & både",
    "sum": "CAROSS har udviklet intelligente jumpstartere til både, der kan genstarte motoren ved afladet batteri langt fra havnen. Systemet guider sikker tilslutning."
   },
@@ -928,7 +998,7 @@
    "date": "2026-06-29",
    "title": "Hankø70-jakke fra Elvstrøm Sailwear til skiftende vejr ved kysten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/june/article/hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/5/csm_DSC01222_a046959315.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/5/csm_DSC01222_ff02b9b7ae.jpg",
    "cat": "Udstyr & både",
    "sum": "Elvstrøm SailWear lancerer Hankø70-jakken, en let og vandtæt jakke designet til sejlere og aktivt brug i skiftende vejr ved kysten, til en pris på 1.450 kr."
   },
@@ -1008,7 +1078,7 @@
    "date": "2026-06-18",
    "title": "Søren kasserede hver fjerde oppustelige redningsvest, der manglede service eller var for gammel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/june/article/soeren-kasserede-hver-fjerde-oppustelige-redningsvest-der-manglende-service-eller-var-for-gammel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/d/csm_uduelig_vest_5513_afd63ceff0.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/d/csm_uduelig_vest_5513_2709a2f345.jpg",
    "cat": "Sikkerhed",
    "sum": "Søren Simonsen tjekkede 228 oppustelige redningsveste og fandt, at kun 13 procent var korrekt servicerede, mens næsten 28 procent skulle kasseres."
   },
@@ -1038,7 +1108,7 @@
    "date": "2026-06-16",
    "title": "Tyve stjal sukker og hældte det i båds benzintank i Grønland",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/june/article/tyve-stjal-sukker-og-haeldte-det-i-baads-benzintank-i-groenland/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/b/csm_groe_dab4a50e6e.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/b/csm_groe_f5d4dd332e.jpg",
    "cat": "Sikkerhed",
    "sum": "To personer er anholdt for at have stjålet sukker og hældt det i benzintanken på en jolle i Grønland. Politihund fandt dem gemt ved havnen."
   },
@@ -1108,7 +1178,7 @@
    "date": "2026-06-11",
    "title": "Sommerhavne: Glem alt om de rigtige sejlersko i Guldborg",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/june/article/sommerhavne-glem-alt-om-de-rigtige-sejlersko-i-guldborgsund/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/8/csm_mette_baade_0bc946b19a.jpeg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/8/csm_mette_baade_e6bdc48b5e.jpeg",
    "cat": "Havneliv",
    "sum": "Mette Juhl roser Guldborg Falster Bådebrolaug for den gæstfrie og afslappede stemning, lave priser og naturskønne omgivelser, men bekymrer sig om planer om at lukke Frederik IX's bro."
   },
@@ -1128,7 +1198,7 @@
    "date": "2026-06-10",
    "title": "Nyt funktionelt Helly Hansen-tøj til liv på og ved vandet",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/june/article/nyt-funktionelt-helly-hansen-toej-til-liv-paa-og-ved-vandet/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/a/csm_h_top_54529_098_1dcbe845da.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/a/csm_h_top_54529_098_ea9753be29.jpg",
    "cat": "Udstyr & både",
    "sum": "Helly Hansen lancerer ny funktionel tøjkollektion til livet på og ved vandet, med lette poloer, striktrøjer og lagdelingsløsninger til både mænd og kvinder."
   },
