@@ -629,6 +629,80 @@ def enrich_items(items):
     return done
 
 
+# ---------- Statisk HTML til søgemaskiner ----------
+
+INDEX_FILE = ROOT / "index.html"
+SITEMAP_FILE = ROOT / "sitemap.xml"
+SITE_URL = "https://marinanyheder.dk/"
+PRERENDER_COUNT = 40      # antal nyheder der skrives fast ind i index.html
+
+NEWS_BLOCK_RE = re.compile(r"(<!--NEWS_START-->)(.*?)(<!--NEWS_END-->)", re.S)
+
+DA_MONTH_SHORT = ["jan", "feb", "mar", "apr", "maj", "jun",
+                  "jul", "aug", "sep", "okt", "nov", "dec"]
+
+
+def esc(text):
+    return (str(text).replace("&", "&amp;").replace("<", "&lt;")
+            .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def da_date(iso):
+    try:
+        y, m, d = iso.split("-")
+        return f"{int(d)}. {DA_MONTH_SHORT[int(m) - 1]} {y}"
+    except Exception:  # noqa: BLE001
+        return iso or ""
+
+
+def prerender_index(items):
+    """Skriv de nyeste nyheder som rigtig HTML ind i index.html.
+
+    Uden det ser Google (og alle andre robotter) en tom side, fordi
+    nyhederne først hentes med JavaScript. JavaScript'et overskriver
+    blokken med det samme ved indlæsning, så brugerne mærker intet.
+    """
+    if not INDEX_FILE.exists():
+        return 0
+    html = INDEX_FILE.read_text(encoding="utf-8")
+    if not NEWS_BLOCK_RE.search(html):
+        note_ai_error("index.html mangler NEWS_START/NEWS_END-markører")
+        return 0
+
+    parts = []
+    for it in items[:PRERENDER_COUNT]:
+        img = ""
+        if it.get("img"):
+            img = (f'<img class="thumb" src="{esc(it["img"])}" alt="" '
+                   f'width="168" height="124" loading="lazy">')
+        summary = (f'<div class="summary">{esc(it["sum"])}</div>'
+                   if it.get("sum") else "")
+        parts.append(
+            f'<a class="card" href="{esc(it["url"])}" target="_blank" rel="noopener">'
+            f'{img}<span class="title">{esc(it["title"])}</span>{summary}'
+            f'<div class="meta">{da_date(it.get("date"))}'
+            f'<span class="dot">&middot;</span>{esc(it.get("source", ""))}</div></a>')
+
+    block = "\n" + "\n".join(parts) + "\n"
+    new_html = NEWS_BLOCK_RE.sub(
+        lambda m: m.group(1) + block + m.group(3), html, count=1)
+    if new_html != html:
+        INDEX_FILE.write_text(new_html, encoding="utf-8")
+    return len(parts)
+
+
+def write_sitemap():
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+           f"  <url>\n    <loc>{SITE_URL}</loc>\n"
+           f"    <lastmod>{today}</lastmod>\n"
+           "    <changefreq>hourly</changefreq>\n"
+           "    <priority>1.0</priority>\n  </url>\n"
+           "</urlset>\n")
+    SITEMAP_FILE.write_text(xml, encoding="utf-8")
+
+
 # ---------- Hovedprogram ----------
 
 def main():
@@ -685,8 +759,11 @@ def main():
         "items": items,
     }
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    prerendered = prerender_index(items)
+    write_sitemap()
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
-          f"{enriched} AI-beriget, {backfilled} billeder efterhentet, {len(errors)} fejl")
+          f"{enriched} AI-beriget, {backfilled} billeder efterhentet, "
+          f"{prerendered} skrevet i HTML, {len(errors)} fejl")
     for e in errors:
         print("FEJL:", e, file=sys.stderr)
 
