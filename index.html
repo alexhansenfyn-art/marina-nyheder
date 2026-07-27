@@ -69,18 +69,22 @@
     border-radius: 50%; background: var(--accent); border: 1.5px solid var(--card);
   }
   .iconbtn.on.active::after { background: #fff; border-color: var(--accent); }
-  /* Sponsorbjælke. Logoet findes kun i hvid, derfor den blå bund. */
+  /* Sponsorbjælke. Logoet findes kun i hvid, derfor den blå bund.
+     Den lyse kant og pilen viser at hele bjælken er en knap. */
   .sponsor {
-    display: flex; align-items: center; justify-content: center; gap: 14px;
+    display: flex; align-items: center; gap: 14px;
     background: var(--accent); color: #fff; text-decoration: none;
-    border-radius: 10px; padding: 10px 16px; margin-bottom: 12px;
-    -webkit-tap-highlight-color: transparent; transition: background .12s;
+    border: 2px solid rgba(255,255,255,.55); border-radius: 10px;
+    padding: 9px 14px; margin-bottom: 12px;
+    -webkit-tap-highlight-color: transparent;
+    transition: background .12s, border-color .12s;
   }
-  .sponsor:hover { background: var(--accent-dark); }
+  .sponsor:hover { background: var(--accent-dark); border-color: #fff; }
   .sponsor img { height: 26px; width: auto; display: block; flex: 0 0 auto; }
-  .sponsor span {
+  .sponsor > span:first-of-type {
     font-size: 13px; font-weight: 600; letter-spacing: .01em;
   }
+  .sponsorpil { margin-left: auto; font-size: 17px; line-height: 1; flex: 0 0 auto; }
   /* Søgefeltet er skjult indtil man trykker på lupen */
   .searchrow { display: none; margin-bottom: 10px; }
   .searchrow.open { display: flex; }
@@ -159,9 +163,10 @@
       padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
     }
     header.top h1 { font-size: 19px; }
-    .sponsor { gap: 10px; padding: 9px 12px; }
+    .sponsor { gap: 10px; padding: 8px 11px; }
     .sponsor img { height: 22px; }
-    .sponsor span { font-size: 12px; }
+    .sponsor > span:first-of-type { font-size: 12px; }
+    .sponsorpil { font-size: 15px; }
     .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .thumb { width: 136px; height: 104px; margin: 2px 11px 6px 0; }
@@ -186,6 +191,7 @@
     <img src="https://assens-marina.dk/wp-content/uploads/2026/07/assens-marina-logo-hvid.svg"
          alt="Assens Marina" width="150" height="33" loading="lazy">
     <span>-&nbsp;&nbsp;&nbsp;&nbsp;Placeret i MidtpunktsDanmark</span>
+    <span class="sponsorpil" aria-hidden="true">&#8599;</span>
   </a>
   <header class="top">
     <h1>&#9875; Marina og HavneNyheder</h1>
