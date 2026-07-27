@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Marina Nyheder – danske marinaer og lystbådehavne</title>
+<title>Marina og HavneNyheder – danske marinaer og lystbådehavne</title>
 <meta name="description" content="Nyheder om danske marinaer og lystbådehavne – opdateret automatisk hver time.">
 <meta name="theme-color" content="#0b5fa5" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#10161f" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Marina Nyheder">
+<meta name="apple-mobile-web-app-title" content="Marina og HavneNyheder">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icon-180.png">
@@ -57,6 +57,18 @@
     border-radius: 50%; background: var(--accent); border: 1.5px solid var(--card);
   }
   .iconbtn.on.active::after { background: #fff; border-color: var(--accent); }
+  /* Sponsorbjælke. Logoet findes kun i hvid, derfor den blå bund. */
+  .sponsor {
+    display: flex; align-items: center; justify-content: center; gap: 14px;
+    background: var(--accent); color: #fff; text-decoration: none;
+    border-radius: 10px; padding: 10px 16px; margin-bottom: 12px;
+    -webkit-tap-highlight-color: transparent; transition: background .12s;
+  }
+  .sponsor:hover { background: var(--accent-dark); }
+  .sponsor img { height: 26px; width: auto; display: block; flex: 0 0 auto; }
+  .sponsor span {
+    font-size: 13px; font-weight: 600; letter-spacing: .01em;
+  }
   /* Søgefeltet er skjult indtil man trykker på lupen */
   .searchrow { display: none; margin-bottom: 10px; }
   .searchrow.open { display: flex; }
@@ -135,6 +147,9 @@
       padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
     }
     header.top h1 { font-size: 19px; }
+    .sponsor { gap: 10px; padding: 9px 12px; }
+    .sponsor img { height: 22px; }
+    .sponsor span { font-size: 12px; }
     .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .thumb { width: 136px; height: 104px; margin: 2px 11px 6px 0; }
@@ -156,7 +171,7 @@
 <body>
 <div class="wrap">
   <header class="top">
-    <h1>&#9875; Marina Nyheder</h1>
+    <h1>&#9875; Marina og HavneNyheder</h1>
     <div class="tools" id="tools" style="display:none">
       <button class="iconbtn" id="searchBtn" type="button" aria-label="S&oslash;g i overskrifter" aria-expanded="false">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 L21 21"/></svg>
@@ -180,6 +195,11 @@
       </details>
     </div>
   </header>
+  <a class="sponsor" href="https://assens-marina.dk/" target="_blank" rel="noopener">
+    <img src="https://assens-marina.dk/wp-content/uploads/2026/07/assens-marina-logo-hvid.svg"
+         alt="Assens Marina" width="150" height="33" loading="lazy">
+    <span>Sponseret af Assens Marina</span>
+  </a>
   <div class="searchrow" id="srcRow">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
   </div>
