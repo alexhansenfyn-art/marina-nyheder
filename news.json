@@ -1,27 +1,57 @@
 {
- "generated": "2026-07-26T20:36:16+00:00",
- "count": 213,
+ "generated": "2026-07-27T10:53:21+00:00",
+ "count": 217,
  "errors": [],
  "items": [
+  {
+   "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Elliott 35 SS knækker masten og søger i sikkerhed i Gedser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_mast_top_861_18104707238131141_913644762217562748_n_d2cb82194a.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
+  },
+  {
+   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-27",
+   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_posidonia-bl_8695b050ee.jpg",
+   "cat": "Andet",
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
+  },
+  {
+   "key": "baadmagasinet-34299",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "GRDR: Endnu en favorit ude - Elliott 35SS 'Palby Marine' smider masten",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34299-grdr-eliott-35ss-palby-marine-smider-masten-og-er-ude",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/palby_mast.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser."
+  },
+  {
+   "key": "baadmagasinet-34293",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "Talemåde: Hvorfor knob og sømil stadig giver mening",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34293-talemade-hvorfor-knob-og-somil-stadig-giver-mening",
+   "img": "https://www.baadmagasinet.dk/images/-----juli26/chiplog_digiinstrument_ai-genereret_danibsen.jpg",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer historien bag knob og sømil som måleenheder i sejlsporten og hvorfor de fortsat giver mening for sejlere."
+  },
   {
    "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
    "source": "Minbåd.dk",
    "date": "2026-07-26",
    "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/0/csm_northern_grace_fyn_rundt_amed_8caddac54f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/0/csm_northern_grace_fyn_rundt_amed_8c8118978e.jpg",
    "cat": "Kapsejlads",
    "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer."
-  },
-  {
-   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-26",
-   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
   },
   {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
@@ -29,9 +59,19 @@
    "date": "2026-07-26",
    "title": "Politiet: Hvem savner denne sejlbåd på Als?",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_bcbb0f77b1.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/6/csm_vand_soend_ec-fd46-4ea2-bca3-2e5522946bff_44cf5fa91d.png",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
+  },
+  {
+   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_a3499f74c6.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
   },
   {
    "key": "baadmagasinet-34297",
@@ -388,7 +428,7 @@
    "date": "2026-07-19",
    "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_87ff44dc04.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_34fb67a06e.jpg",
    "cat": "Havneliv",
    "sum": "Artiklen beskriver reglerne for, at inderste båd skal acceptere udenpåliggende både i fyldte havne, og at havnemyndigheden bestemmer, hvornår det er nødvendigt."
   },
@@ -458,7 +498,7 @@
    "date": "2026-07-17",
    "title": "Sådan vælger du SUP-board – og undgår fejlkøb",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Christian_Andersen_DM_2024_gFoto_Cathrine_Yde_91480ccb58.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Christian_Andersen_DM_2024_gFoto_Cathrine_Yde_3021d31f93.jpg",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver råd om valg af SUP-board, herunder forskelle på oppustelige og faste boards, betydning af volumen og bredde, samt sikkerhedsaspekter."
   },
@@ -468,7 +508,7 @@
    "date": "2026-07-17",
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_e735091899.jpg",
    "cat": "Sikkerhed",
    "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag."
   },
@@ -538,7 +578,7 @@
    "date": "2026-07-15",
    "title": "Sejlere dropper Norge efter kontrol fra Kystvakten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/sejlere-dropper-norge-efter-kontrol-fra-kystvakten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_norge_fyr_20260701_112856_f9f9b4bed7.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_norge_fyr_20260701_112856_6c67b5dd70.jpg",
    "cat": "Sikkerhed",
    "sum": "Udenlandske sejlere oplever omfattende kontrol og bureaukrati i Norge, hvilket får mange til at undgå landet. En erfaren sejler råder til at slukke AIS for at undgå overvågning."
   },
@@ -578,7 +618,7 @@
    "date": "2026-07-14",
    "title": "Norsk vikingeskib Saga Farmann vækker opsigt i Kolby Kås",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/july/article/norsk-vikingeskib-saga-farmann-vaekker-opsigt-i-kolby-kaas/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_n_IMG_20260714_122006_e6f403f3ea.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_n_IMG_20260714_122006_a9f1d63aba.jpg",
    "cat": "Havneliv",
    "sum": "Vikingeskibet Saga Farmann ligger i Kolby Kås Havn og tiltrækker opmærksomhed. Man kan sejle med for 4.500 norske kroner."
   },
@@ -618,9 +658,9 @@
    "date": "2026-07-13",
    "title": "Olga Henneberg blev bedste kvinde ved Contender-VM",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/olga-henneberg-blev-bedste-kvinde-ved-contender-vm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_c_oto54_bac4dbf5a2.jpg",
    "cat": "Kapsejlads",
-   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49."
+   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_c_oto54_bac4dbf5a2.jpg"
   },
   {
    "key": "moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad",
@@ -763,16 +803,6 @@
    "sum": "Garmin lancerer LiveScope 2-serie med live-sonar, der giver højere opløsning, bredere dækning og længere rækkevidde, og som ikke længere kræver en separat sort boks."
   },
   {
-   "key": "historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-07",
-   "title": "Historiske sejlskibe gør klar til folkefest rundt om Fyn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/",
-   "cat": "Kapsejlads",
-   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_FR_Presspefoto_2026_b4de4f6cfb.jpeg"
-  },
-  {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
    "source": "Motorbådsnyt",
    "date": "2026-07-07",
@@ -791,6 +821,16 @@
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/DJI_20250718114813_0077_D-1024x512.jpg",
    "cat": "Tursejlads",
    "sum": "Ungdomscruise samler 90 unge sejlere i uge 29 til en uge med sejlads og aktiviteter mellem Vejle, Juelsminde, Korshavn og Odense. Deltagelse kræver hverken egen båd eller stor erfaring."
+  },
+  {
+   "key": "historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn",
+   "source": "Minbåd.dk",
+   "date": "2026-07-07",
+   "title": "Historiske sejlskibe gør klar til folkefest rundt om Fyn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/july/article/historiske-sejlskibe-goer-klar-til-folkefest-rundt-om-fyn/",
+   "cat": "Kapsejlads",
+   "sum": "Fyn Rundt samler op mod 60 historiske sejlskibe i Assens den 19. juli, der sejler til Haderslev, Marstal, Faaborg og Svendborg under uge 30. Arrangementet er en folkefest med mulighed for gæstepladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_FR_Presspefoto_2026_b4de4f6cfb.jpeg"
   },
   {
    "key": "hoej-jensen-aldrig-traet-af-at-vinde-i-h-baaden-nu-15-dm-guld",
