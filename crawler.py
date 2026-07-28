@@ -671,15 +671,11 @@ def prerender_index(items):
 
     parts = []
     for it in items[:PRERENDER_COUNT]:
-        img = ""
-        if it.get("img"):
-            img = (f'<img class="thumb" src="{esc(it["img"])}" alt="" '
-                   f'width="168" height="124" loading="lazy">')
         summary = (f'<div class="summary">{esc(it["sum"])}</div>'
                    if it.get("sum") else "")
         parts.append(
             f'<a class="card" href="{esc(it["url"])}" target="_blank" rel="noopener">'
-            f'{img}<span class="title">{esc(it["title"])}</span>{summary}'
+            f'<span class="title">{esc(it["title"])}</span>{summary}'
             f'<div class="meta">{da_date(it.get("date"))}'
             f'<span class="dot">&middot;</span>{esc(it.get("source", ""))}</div></a>')
 
@@ -749,8 +745,11 @@ def main():
     items.sort(key=lambda i: i.get("date") or "0000-00-00", reverse=True)
     items = items[:MAX_ITEMS]
 
+    # Billeder gemmes ikke: retten til pressefotos følger ikke med et link til artiklen.
+    for it in items:
+        it.pop("img", None)
+
     enriched = enrich_items(items)
-    backfilled = backfill_images(items, BACKFILL_IMAGES_SINCE)
 
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -762,7 +761,7 @@ def main():
     prerendered = prerender_index(items)
     write_sitemap()
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
-          f"{enriched} AI-beriget, {backfilled} billeder efterhentet, "
+          f"{enriched} AI-beriget, "
           f"{prerendered} skrevet i HTML, {len(errors)} fejl")
     for e in errors:
         print("FEJL:", e, file=sys.stderr)
