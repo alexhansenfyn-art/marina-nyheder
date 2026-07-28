@@ -1,8 +1,17 @@
 {
- "generated": "2026-07-28T08:01:52+00:00",
- "count": 223,
+ "generated": "2026-07-28T16:15:32+00:00",
+ "count": 226,
  "errors": [],
  "items": [
+  {
+   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer."
+  },
   {
    "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
    "source": "Minbåd.dk",
@@ -11,6 +20,24 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
    "cat": "Tursejlads",
    "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
+  },
+  {
+   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-28",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
+  },
+  {
+   "key": "baadmagasinet-34304",
+   "source": "Bådmagasinet",
+   "date": "2026-07-28",
+   "title": "Dramatisk eftersøgning i Hanstholm: Tysk surfer fundet i god behold",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34304-dramatisk-eftersogning-i-hanstholm-tysk-surfer-fundet-i-god-behold",
+   "cat": "Sikkerhed",
+   "sum": "En 61-årig tysk surfer udløste en stor eftersøgning ud for Hanstholm, men blev fundet i god behold sent på aftenen."
   },
   {
    "key": "baadmagasinet-34303",
@@ -40,15 +67,6 @@
    "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
-   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
-  },
-  {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -56,6 +74,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
    "cat": "Sikkerhed",
    "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
+  },
+  {
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
@@ -760,15 +787,6 @@
    "sum": "Danmarksmesterskabet for Albin Express afholdes i Sønderborg 14.-15. august med deltagelse af danske og udenlandske besætninger, hvor de forsvarende mestre fra Sydfyn forsvarer titlen."
   },
   {
-   "key": "17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem",
-   "source": "Minbåd.dk",
-   "date": "2026-07-08",
-   "title": "17 klassiske begynderfejl til turssejlads – og hvordan du undgår dem",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/july/article/17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem/",
-   "cat": "Tursejlads",
-   "sum": "Artiklen gennemgår 17 typiske begynderfejl ved langtursejlads og giver råd til at undgå dem, baseret på en erfaren sejlers erfaringer."
-  },
-  {
    "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
    "source": "Motorbådsnyt",
    "date": "2026-07-08",
@@ -776,6 +794,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/",
    "cat": "Udstyr & både",
    "sum": "Garmin lancerer LiveScope 2-serie med live-sonar, der giver højere opløsning, bredere dækning og længere rækkevidde, og som ikke længere kræver en separat sort boks."
+  },
+  {
+   "key": "17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem",
+   "source": "Minbåd.dk",
+   "date": "2026-07-08",
+   "title": "17 klassiske begynderfejl til turssejlads – og hvordan du undgår dem",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/july/article/17-klassiske-begynderfejl-til-langturssejlads-og-hvordan-du-undgaar-dem/",
+   "cat": "Tursejlads",
+   "sum": "Artiklen gennemgår 17 typiske begynderfejl ved langtursejlads og giver råd til at undgå dem, baseret på en erfaren sejlers erfaringer."
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
