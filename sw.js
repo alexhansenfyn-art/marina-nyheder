@@ -1,4 +1,4 @@
-/* Marina og HavneNyheder – service worker.
+/* Marina- og HavneNyheder – service worker.
    Skallen caches (app kan åbnes offline). news.json hentes altid fra nettet
    først, med cache som reserve, så man aldrig ser gamle nyheder online. */
 const CACHE = "marina-v2";
