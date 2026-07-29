@@ -1,8 +1,35 @@
 {
- "generated": "2026-07-29T00:15:50+00:00",
- "count": 227,
- "errors": [],
+ "generated": "2026-07-29T10:18:06+00:00",
+ "count": 230,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
+   "source": "Minbåd.dk",
+   "date": "2026-07-29",
+   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
+   "cat": "Andet",
+   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt."
+  },
+  {
+   "key": "baadmagasinet-34296",
+   "source": "Bådmagasinet",
+   "date": "2026-07-29",
+   "title": "Nyt bådhus med faciliteter til sejlere og friluftsfolk",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34296-nyt-badhus-ved-gudenaen-abner-med-faciliteter-til-sejlere-og-friluftsfolk",
+   "cat": "Havneliv",
+   "sum": "Nyt bådhus ved Ry på Gudenåen byder på toilet, bad, ladeplads og hængekøjehotel for sejlere og friluftsfolk."
+  },
+  {
+   "key": "baadmagasinet-34302",
+   "source": "Bådmagasinet",
+   "date": "2026-07-29",
+   "title": "Fyn Rundt samlede 55 bevaringsværdige sejlskibe - og de havde en 'fest'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34302-fyn-rundt-samlede-55-bevaringsvaerdige-sejlskibe"
+  },
   {
    "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
    "source": "Minbåd.dk",
@@ -31,15 +58,6 @@
    "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   },
   {
-   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-28",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
-  },
-  {
    "key": "baadmagasinet-34304",
    "source": "Bådmagasinet",
    "date": "2026-07-28",
@@ -65,6 +83,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34301-nyt-og-hyggeligt-spil-skal-skabe-staerkere-faellesskaber-om-bord",
    "cat": "Havneliv",
    "sum": "Spillet Sejlerliv lanceres af Danske Tursejlere i samarbejde med SNAKSPIL for at styrke samtaler og fællesskab om bord på både."
+  },
+  {
+   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-28",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
   },
   {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
@@ -157,15 +184,6 @@
    "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
   },
   {
-   "key": "baadmagasinet-34297",
-   "source": "Bådmagasinet",
-   "date": "2026-07-26",
-   "title": "Nyt format, 6 forskellige vindere – kan Sehested & Co. rejse sig fra jumbopladsen? Link til Live kl. 17:30",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34297-nyt-format-gav-6-forskellige-vindere-sehested-co-skal-rejse-sig-fra-jumbopladsen",
-   "cat": "Kapsejlads",
-   "sum": "SailGP i Portsmouth bød på seks forskellige vindere i det nye gruppeformat. Det danske team med Nicolai Sehested havde en svær dag og deler sidstepladsen."
-  },
-  {
    "key": "baadmagasinet-34295",
    "source": "Bådmagasinet",
    "date": "2026-07-26",
@@ -173,6 +191,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34295-politiet-efterlyser-ejeren-hvem-savner-en-bad-ved-klinting-hoved-pa-als",
    "cat": "Sikkerhed",
    "sum": "Politiet efterlyser ejer af en herreløs båd, der er drevet i land ved Klinting Hoved på Als. Båden ligger fredeligt, men kan tage skade ved vejrændring."
+  },
+  {
+   "key": "baadmagasinet-34297",
+   "source": "Bådmagasinet",
+   "date": "2026-07-26",
+   "title": "Nyt format, 6 forskellige vindere – kan Sehested & Co. rejse sig fra jumbopladsen? Link til Live kl. 17:30",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34297-nyt-format-gav-6-forskellige-vindere-sehested-co-skal-rejse-sig-fra-jumbopladsen",
+   "cat": "Kapsejlads",
+   "sum": "SailGP i Portsmouth bød på seks forskellige vindere i det nye gruppeformat. Det danske team med Nicolai Sehested havde en svær dag og deler sidstepladsen."
   },
   {
    "key": "elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet",
@@ -301,15 +328,6 @@
    "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare."
   },
   {
-   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "8-årig pige drev til havs på paddleboard",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
-   "cat": "Sikkerhed",
-   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet."
-  },
-  {
    "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
    "source": "Minbåd.dk",
    "date": "2026-07-22",
@@ -328,6 +346,15 @@
    "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept."
   },
   {
+   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "8-årig pige drev til havs på paddleboard",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
+   "cat": "Sikkerhed",
+   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet."
+  },
+  {
    "key": "21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-07-22",
@@ -338,10 +365,10 @@
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner en ny ansøgningsrunde for redningsstiger i danske havne. Havne, kommuner og grundejerforeninger kan søge frem til 1. september 2026."
   },
@@ -373,6 +400,15 @@
    "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere."
   },
   {
+   "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-21",
+   "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
+   "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
+   "cat": "Havneliv",
+   "sum": "Vedbæk Havn har fået nye hyggelige toilet- og badefaciliteter med skandinavisk design, hvilket har skabt begejstring blandt gæster og faste brugere."
+  },
+  {
    "key": "baadmagasinet-34274",
    "source": "Bådmagasinet",
    "date": "2026-07-21",
@@ -389,15 +425,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34278-drama-og-stjernestov-i-monaco-se-dramatisk-finale-og-optakten-pa-video-her",
    "cat": "Kapsejlads",
    "sum": "I Monaco vandt Team Drogba sin første E1-sejr, mens Team Brady overtog VM-føringen. Drama og styrt prægede løbet."
-  },
-  {
-   "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-21",
-   "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
-   "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "cat": "Havneliv",
-   "sum": "Vedbæk Havn har fået nye hyggelige toilet- og badefaciliteter med skandinavisk design, hvilket har skabt begejstring blandt gæster og faste brugere."
   },
   {
    "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
@@ -733,15 +760,6 @@
    "sum": "Kolby Kås havn på Samsø ombygges fra færgehavn til lystbådehavn med nye bølgeværn og 22 pælepladser. Havnen står klar til sommeren 2026."
   },
   {
-   "key": "moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter",
-   "source": "Minbåd.dk",
-   "date": "2026-07-10",
-   "title": "Moules Frites Festival tilbage i uge 32 på 30 restauranter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter/",
-   "cat": "Andet",
-   "sum": "Moules Frites Festival afholdes i uge 32 (3.-9. august) på over 30 restauranter, herunder flere havnerestauranter. Festivalen byder på muslinger og fritter til 189 kr. Billetsalg starter 8. juli."
-  },
-  {
    "key": "sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad",
    "source": "Minbåd.dk",
    "date": "2026-07-10",
@@ -749,6 +767,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/sejlere-skulle-betale-fulde-havnepenge-i-dyvig-bro-for-at-gaa-i-land-fra-gummibaad/",
    "cat": "Havnepriser",
    "sum": "Sejlere kritiserer Dyvig Bro for at kræve fulde havnepenge for at gå i land fra gummibåd, selvom de ville betale for faciliteter. Flere beskriver en uvenlig modtagelse."
+  },
+  {
+   "key": "moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter",
+   "source": "Minbåd.dk",
+   "date": "2026-07-10",
+   "title": "Moules Frites Festival tilbage i uge 32 på 30 restauranter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/july/article/moules-frites-festival-tilbage-i-uge-32-paa-30-restauranter/",
+   "cat": "Andet",
+   "sum": "Moules Frites Festival afholdes i uge 32 (3.-9. august) på over 30 restauranter, herunder flere havnerestauranter. Festivalen byder på muslinger og fritter til 189 kr. Billetsalg starter 8. juli."
   },
   {
    "key": "syg-pukkelhval-svoemmer-helt-taet-paa-aarhus-oe",
@@ -859,15 +886,6 @@
    "sum": "Artiklen opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, for at frigøre pladser til gæster og sikre indtægter til havnen."
   },
   {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "cat": "Tursejlads",
-   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
-  },
-  {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
@@ -875,6 +893,15 @@
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "cat": "Andet",
    "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
+  },
+  {
+   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
+   "source": "FLID Havne",
+   "date": "2026-07-06",
+   "title": "90 unge i 22 både indtager havnene i uge 29",
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "cat": "Tursejlads",
+   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
@@ -1093,15 +1120,6 @@
    "sum": "Artiklen fremhæver Hundested Havn som en børnefamiliefavorit med minigolf, krabbefiskeri og strand. Havnen roses for sin organiserede atmosfære og tæt placerede faciliteter."
   },
   {
-   "key": "aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
-   "source": "FLID Havne",
-   "date": "2026-06-15",
-   "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
-   "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
-   "cat": "Havnepriser",
-   "sum": "Årets Havn 2026 kårer de bedste havneoplevelser i Danmark. Prisen hylder havne, der udmærker sig på service, faciliteter og atmosfære."
-  },
-  {
    "key": "baadmagasinet-34186",
    "source": "Bådmagasinet",
    "date": "2026-06-15",
@@ -1109,6 +1127,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34186-hvilken-havn-fortjener-titlen-som-arets-havn-2026",
    "cat": "Havneliv",
    "sum": "Artiklen annoncerer afstemningen om Årets Havn 2026, hvor sejlere kan stemme på danske lystbådehavne. Der uddeles også Årets Skulderklap til en havn med særlig gæstfrihed."
+  },
+  {
+   "key": "aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
+   "source": "FLID Havne",
+   "date": "2026-06-15",
+   "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
+   "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
+   "cat": "Havnepriser",
+   "sum": "Årets Havn 2026 kårer de bedste havneoplevelser i Danmark. Prisen hylder havne, der udmærker sig på service, faciliteter og atmosfære."
   },
   {
    "key": "fem-ting-du-skal-tjekke-foer-sommerturen-til-soes",
