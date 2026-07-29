@@ -1,10 +1,26 @@
 {
- "generated": "2026-07-29T10:18:06+00:00",
- "count": 230,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "generated": "2026-07-29T16:17:51+00:00",
+ "count": 232,
+ "errors": [],
  "items": [
+  {
+   "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
+   "source": "Minbåd.dk",
+   "date": "2026-07-29",
+   "title": "Lars Olsen fylder 70: Fra L 23 til toppen af dansk båddesign",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign/",
+   "cat": "Andet",
+   "sum": "Bådekonstruktør Lars Olsen fylder 70 år. Han har sat markante spor i dansk og nordisk sejlsport med ikoniske både som L23 og CDE 850."
+  },
+  {
+   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-29",
+   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
+   "cat": "Havneliv",
+   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning."
+  },
   {
    "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
    "source": "Minbåd.dk",
@@ -28,7 +44,18 @@
    "source": "Bådmagasinet",
    "date": "2026-07-29",
    "title": "Fyn Rundt samlede 55 bevaringsværdige sejlskibe - og de havde en 'fest'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34302-fyn-rundt-samlede-55-bevaringsvaerdige-sejlskibe"
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34302-fyn-rundt-samlede-55-bevaringsvaerdige-sejlskibe",
+   "cat": "Kapsejlads",
+   "sum": "55 bevaringsværdige sejlskibe deltog i årets Fyn Rundt, der trods vejrændringer blev en festlig afslutning i Svendborg."
+  },
+  {
+   "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
+   "cat": "Tursejlads",
+   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   },
   {
    "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
@@ -49,13 +76,13 @@
    "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer."
   },
   {
-   "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
-   "source": "Minbåd.dk",
+   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Danske Tursejlere",
    "date": "2026-07-28",
-   "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
-   "cat": "Tursejlads",
-   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
   },
   {
    "key": "baadmagasinet-34304",
@@ -85,24 +112,6 @@
    "sum": "Spillet Sejlerliv lanceres af Danske Tursejlere i samarbejde med SNAKSPIL for at styrke samtaler og fællesskab om bord på både."
   },
   {
-   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-28",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
-  },
-  {
-   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-27",
-   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
-   "cat": "Andet",
-   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
-  },
-  {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -130,6 +139,15 @@
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
   },
   {
+   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
+   "cat": "Andet",
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
+  },
+  {
    "key": "baadmagasinet-34300",
    "source": "Bådmagasinet",
    "date": "2026-07-27",
@@ -139,15 +157,6 @@
    "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
   },
   {
-   "key": "baadmagasinet-34299",
-   "source": "Bådmagasinet",
-   "date": "2026-07-27",
-   "title": "GRDR: Endnu en favorit ude - Elliott 35SS 'Palby Marine' smider masten",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34299-grdr-eliott-35ss-palby-marine-smider-masten-og-er-ude",
-   "cat": "Kapsejlads",
-   "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser."
-  },
-  {
    "key": "baadmagasinet-34293",
    "source": "Bådmagasinet",
    "date": "2026-07-27",
@@ -155,6 +164,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34293-talemade-hvorfor-knob-og-somil-stadig-giver-mening",
    "cat": "Andet",
    "sum": "Artiklen forklarer historien bag knob og sømil som måleenheder i sejlsporten og hvorfor de fortsat giver mening for sejlere."
+  },
+  {
+   "key": "baadmagasinet-34299",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "GRDR: Endnu en favorit ude - Elliott 35SS 'Palby Marine' smider masten",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34299-grdr-eliott-35ss-palby-marine-smider-masten-og-er-ude",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser."
   },
   {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
@@ -886,15 +904,6 @@
    "sum": "Artiklen opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, for at frigøre pladser til gæster og sikre indtægter til havnen."
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "cat": "Andet",
-   "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
-  },
-  {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
@@ -902,6 +911,15 @@
    "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
    "cat": "Tursejlads",
    "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
+  },
+  {
+   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-06",
+   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "cat": "Andet",
+   "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
@@ -1120,15 +1138,6 @@
    "sum": "Artiklen fremhæver Hundested Havn som en børnefamiliefavorit med minigolf, krabbefiskeri og strand. Havnen roses for sin organiserede atmosfære og tæt placerede faciliteter."
   },
   {
-   "key": "baadmagasinet-34186",
-   "source": "Bådmagasinet",
-   "date": "2026-06-15",
-   "title": "Årets Havn: Hvem løber med titlen?",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34186-hvilken-havn-fortjener-titlen-som-arets-havn-2026",
-   "cat": "Havneliv",
-   "sum": "Artiklen annoncerer afstemningen om Årets Havn 2026, hvor sejlere kan stemme på danske lystbådehavne. Der uddeles også Årets Skulderklap til en havn med særlig gæstfrihed."
-  },
-  {
    "key": "aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
    "source": "FLID Havne",
    "date": "2026-06-15",
@@ -1136,6 +1145,15 @@
    "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
    "cat": "Havnepriser",
    "sum": "Årets Havn 2026 kårer de bedste havneoplevelser i Danmark. Prisen hylder havne, der udmærker sig på service, faciliteter og atmosfære."
+  },
+  {
+   "key": "baadmagasinet-34186",
+   "source": "Bådmagasinet",
+   "date": "2026-06-15",
+   "title": "Årets Havn: Hvem løber med titlen?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34186-hvilken-havn-fortjener-titlen-som-arets-havn-2026",
+   "cat": "Havneliv",
+   "sum": "Artiklen annoncerer afstemningen om Årets Havn 2026, hvor sejlere kan stemme på danske lystbådehavne. Der uddeles også Årets Skulderklap til en havn med særlig gæstfrihed."
   },
   {
    "key": "fem-ting-du-skal-tjekke-foer-sommerturen-til-soes",
