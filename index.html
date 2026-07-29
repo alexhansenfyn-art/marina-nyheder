@@ -24,6 +24,9 @@
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icon-180.png">
+<!-- Umami: besøgsstatistik uden cookies og uden personoplysninger -->
+<script defer src="https://cloud.umami.is/script.js"
+        data-website-id="c8aaad00-8be0-4a30-8e57-21e75ea7c756"></script>
 <style>
   :root {
     color-scheme: light dark;
@@ -90,6 +93,20 @@
     position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
     font-size: 17px; line-height: 1;
   }
+  #anker { cursor: pointer; user-select: none; -webkit-tap-highlight-color: transparent; }
+  /* Skjult tællerpanel */
+  .statpanel {
+    background: var(--card); border: 1px solid var(--border2); border-radius: 12px;
+    padding: 12px 14px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.10);
+  }
+  .statpanel[hidden] { display: none; }
+  .statrow {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
+    font-size: 13px; padding: 4px 0;
+  }
+  .statrow + .statrow { border-top: 1px solid var(--border); }
+  .statrow b { font-size: 16px; color: var(--accent); font-variant-numeric: tabular-nums; }
+  .statnote { font-size: 11px; color: var(--muted2); margin-top: 8px; line-height: 1.5; }
   /* Søgefeltet er skjult indtil man trykker på lupen */
   .searchrow { display: none; margin-bottom: 10px; }
   .searchrow.open { display: flex; }
@@ -184,14 +201,15 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="sponsor" href="https://assens-marina.dk/" target="_blank" rel="noopener">
+  <a class="sponsor" href="https://assens-marina.dk/" target="_blank" rel="noopener"
+     data-umami-event="Klik til Assens Marina">
     <img src="https://assens-marina.dk/wp-content/uploads/2026/07/assens-marina-logo-hvid.svg"
          alt="Assens Marina" width="150" height="33" loading="lazy">
     <span>-&nbsp;&nbsp;&nbsp;&nbsp;I centrum af Lilleb&aelig;lt</span>
     <span class="sponsorpil" aria-hidden="true">&#8599;</span>
   </a>
   <header class="top">
-    <h1>&#9875; Marina- og HavneNyheder</h1>
+    <h1><span id="anker" title="">&#9875;</span> Marina- og HavneNyheder</h1>
     <div class="tools" id="tools" style="display:none">
       <button class="iconbtn" id="searchBtn" type="button" aria-label="S&oslash;g i overskrifter" aria-expanded="false">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 L21 21"/></svg>
@@ -215,6 +233,12 @@
       </details>
     </div>
   </header>
+  <!-- Skjult tællerpanel. Vises ved tre klik på ankeret inden for fem sekunder. -->
+  <div class="statpanel" id="statPanel" hidden>
+    <div class="statrow"><span>Har klikket videre til Assens Marina</span><b id="statSponsor">0</b></div>
+    <div class="statrow"><span>Besøg på siden i alt</span><b id="statBesoeg">0</b></div>
+    <div class="statnote" id="statNote"></div>
+  </div>
   <div class="searchrow" id="srcRow">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
   </div>
@@ -502,6 +526,74 @@
       document.getElementById("list").innerHTML =
         '<div class="empty">Kunne ikke hente news.json (' + e.message + ').</div>';
     });
+
+  // ---- Skjult tæller ----------------------------------------------------
+  // Tællingen sker udelukkende i browseren og gælder derfor kun denne enhed.
+  var TAEL_NOEGLE = "marina-nyheder-tael";
+
+  function taelLaes() {
+    try {
+      var t = JSON.parse(localStorage.getItem(TAEL_NOEGLE) || "{}");
+      return { besoeg: t.besoeg || 0, sponsor: t.sponsor || 0, foerste: t.foerste || null };
+    } catch (e) { return { besoeg: 0, sponsor: 0, foerste: null }; }
+  }
+
+  function taelGem(t) {
+    try { localStorage.setItem(TAEL_NOEGLE, JSON.stringify(t)); } catch (e) {}
+  }
+
+  function taelOp(felt) {
+    var t = taelLaes();
+    t[felt] = (t[felt] || 0) + 1;
+    if (!t.foerste) t.foerste = new Date().toISOString().slice(0, 10);
+    taelGem(t);
+    return t;
+  }
+
+  function wireTaeller() {
+    var t = taelOp("besoeg");           // dette sidebesøg tælles med det samme
+    var panel = document.getElementById("statPanel");
+    var anker = document.getElementById("anker");
+    var sponsor = document.querySelector("a.sponsor");
+    if (!panel || !anker) return;
+
+    if (sponsor) {
+      sponsor.addEventListener("click", function(){ taelOp("sponsor"); });
+    }
+
+    function visPanel() {
+      var t = taelLaes();
+      document.getElementById("statSponsor").textContent = t.sponsor;
+      document.getElementById("statBesoeg").textContent = t.besoeg;
+      var note = "Tælles kun på denne enhed";
+      if (t.foerste) {
+        var p = t.foerste.split("-");
+        note += " – siden " + (+p[2]) + ". " + DA_SHORT[+p[1]-1] + " " + p[0];
+      }
+      document.getElementById("statNote").textContent = note + ".";
+      panel.hidden = false;
+    }
+
+    // Tre klik på ankeret inden for fem sekunder åbner panelet.
+    var klik = [];
+    anker.addEventListener("click", function(e){
+      e.stopPropagation();
+      var nu = Date.now();
+      klik.push(nu);
+      klik = klik.filter(function(k){ return nu - k <= 5000; });
+      if (klik.length >= 3) { klik = []; visPanel(); }
+    });
+
+    // Luk ved klik udenfor og på Escape.
+    document.addEventListener("click", function(e){
+      if (!panel.hidden && !panel.contains(e.target)) panel.hidden = true;
+    });
+    document.addEventListener("keydown", function(e){
+      if (e.key === "Escape") panel.hidden = true;
+    });
+  }
+
+  wireTaeller();
 
   // Service worker: gør siden installerbar og læsbar offline.
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
