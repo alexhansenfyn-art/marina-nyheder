@@ -94,29 +94,18 @@
     font-size: 17px; line-height: 1;
   }
   #anker { cursor: pointer; user-select: none; -webkit-tap-highlight-color: transparent; }
-  /* Skjult tællerpanel */
+  /* Skjult genvej til statistikken */
   .statpanel {
     background: var(--card); border: 1px solid var(--border2); border-radius: 12px;
-    padding: 12px 14px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.10);
+    padding: 10px 12px; margin-bottom: 12px; box-shadow: 0 6px 18px rgba(0,0,0,.10);
   }
   .statpanel[hidden] { display: none; }
-  .statrow {
-    display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
-    font-size: 13px; padding: 4px 0;
-  }
-  .statrow + .statrow { border-top: 1px solid var(--border); }
-  .statlbl {
-    font-size: 11px; text-transform: uppercase; letter-spacing: .05em;
-    color: var(--muted2); margin-bottom: 2px;
-  }
   .statlink {
-    display: block; margin-top: 12px; padding: 9px 12px; border-radius: 8px;
+    display: block; padding: 9px 12px; border-radius: 8px;
     background: var(--accent); color: #fff; text-decoration: none;
     font-size: 13px; font-weight: 600; text-align: center;
   }
   .statlink:hover { background: var(--accent-dark); }
-  .statrow b { font-size: 16px; color: var(--accent); font-variant-numeric: tabular-nums; }
-  .statnote { font-size: 11px; color: var(--muted2); margin-top: 8px; line-height: 1.5; }
   /* Søgefeltet er skjult indtil man trykker på lupen */
   .searchrow { display: none; margin-bottom: 10px; }
   .searchrow.open { display: flex; }
@@ -245,12 +234,8 @@
   </header>
   <!-- Skjult tællerpanel. Vises ved tre klik på ankeret inden for fem sekunder. -->
   <div class="statpanel" id="statPanel" hidden>
-    <div class="statlbl">Kun denne enhed</div>
-    <div class="statrow"><span>Har bes&oslash;gt siden</span><b id="statBesoeg">0</b></div>
-    <div class="statrow"><span>Har klikket videre til Assens Marina</span><b id="statSponsor">0</b></div>
     <a class="statlink" href="https://cloud.umami.is/share/tBhoDEHX10HRb1yN"
        target="_blank" rel="noopener">Se tal for alle bes&oslash;gende &#8599;</a>
-    <div class="statnote" id="statNote"></div>
   </div>
   <div class="searchrow" id="srcRow">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
@@ -540,63 +525,20 @@
         '<div class="empty">Kunne ikke hente news.json (' + e.message + ').</div>';
     });
 
-  // ---- Skjult tæller ----------------------------------------------------
-  // Tællingen sker udelukkende i browseren og gælder derfor kun denne enhed.
-  var TAEL_NOEGLE = "marina-nyheder-tael";
-
-  function taelLaes() {
-    try {
-      var t = JSON.parse(localStorage.getItem(TAEL_NOEGLE) || "{}");
-      return { besoeg: t.besoeg || 0, sponsor: t.sponsor || 0, foerste: t.foerste || null };
-    } catch (e) { return { besoeg: 0, sponsor: 0, foerste: null }; }
-  }
-
-  function taelGem(t) {
-    try { localStorage.setItem(TAEL_NOEGLE, JSON.stringify(t)); } catch (e) {}
-  }
-
-  function taelOp(felt) {
-    var t = taelLaes();
-    t[felt] = (t[felt] || 0) + 1;
-    if (!t.foerste) t.foerste = new Date().toISOString().slice(0, 10);
-    taelGem(t);
-    return t;
-  }
-
+  // ---- Skjult genvej til statistikken --------------------------------
+  // Tre klik på ankeret inden for fem sekunder viser knappen til Umami.
   function wireTaeller() {
-    var t = taelOp("besoeg");           // dette sidebesøg tælles med det samme
     var panel = document.getElementById("statPanel");
     var anker = document.getElementById("anker");
-    var sponsor = document.querySelector("a.sponsor");
     if (!panel || !anker) return;
 
-    if (sponsor) {
-      sponsor.addEventListener("click", function(){ taelOp("sponsor"); });
-    }
-
-    function visPanel() {
-      var t = taelLaes();
-      document.getElementById("statSponsor").textContent = t.sponsor;
-      document.getElementById("statBesoeg").textContent = t.besoeg;
-
-      var note = "";
-      if (t.foerste) {
-        var p = t.foerste.split("-");
-        note = "Talt her siden " + (+p[2]) + ". " + DA_SHORT[+p[1]-1] + " " + p[0] + ". ";
-      }
-      note += "Samlede tal for alle enheder findes hos Umami.";
-      document.getElementById("statNote").textContent = note;
-      panel.hidden = false;
-    }
-
-    // Tre klik på ankeret inden for fem sekunder åbner panelet.
     var klik = [];
     anker.addEventListener("click", function(e){
       e.stopPropagation();
       var nu = Date.now();
       klik.push(nu);
       klik = klik.filter(function(k){ return nu - k <= 5000; });
-      if (klik.length >= 3) { klik = []; visPanel(); }
+      if (klik.length >= 3) { klik = []; panel.hidden = false; }
     });
 
     // Luk ved klik udenfor og på Escape.
