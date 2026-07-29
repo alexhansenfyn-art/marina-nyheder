@@ -1,8 +1,17 @@
 {
- "generated": "2026-07-28T20:47:01+00:00",
- "count": 226,
+ "generated": "2026-07-29T00:15:50+00:00",
+ "count": 227,
  "errors": [],
  "items": [
+  {
+   "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Fynske danmarksmestre tog sølv ved Folkebådenes Gold Cup",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
+   "cat": "Kapsejlads",
+   "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog."
+  },
   {
    "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
    "source": "Minbåd.dk",
@@ -607,15 +616,6 @@
    "sum": "Udenlandske sejlere oplever omfattende kontrol og bureaukrati i Norge, hvilket får mange til at undgå landet. En erfaren sejler råder til at slukke AIS for at undgå overvågning."
   },
   {
-   "key": "derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "Derfor kæntrende Loke, men nu er ny redningsbåd Freja klar i Juelsminde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde/",
-   "cat": "Sikkerhed",
-   "sum": "Ny redningsbåd Freja er sat i drift i Juelsminde efter kæntring af Loke under redningsaktion; den er større og har lukket styrehus for øget sikkerhed."
-  },
-  {
    "key": "26-aarige-veronica-nyder-at-bo-alene-i-sin-42-fods-sejlbaad-i-nordnorge-hus-frister-ikke",
    "source": "Motorbådsnyt",
    "date": "2026-07-15",
@@ -632,6 +632,15 @@
    "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere tilbyder en gratis grejtrailer med maritime aktivitetsudstyr, som sejlklubber og havne kan låne til arrangementer for børn og familier."
+  },
+  {
+   "key": "derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde",
+   "source": "Minbåd.dk",
+   "date": "2026-07-15",
+   "title": "Derfor kæntrende Loke, men nu er ny redningsbåd Freja klar i Juelsminde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/derfor-kaentrende-loke-men-nu-er-ny-redningsbaad-freja-klar-i-juelsminde/",
+   "cat": "Sikkerhed",
+   "sum": "Ny redningsbåd Freja er sat i drift i Juelsminde efter kæntring af Loke under redningsaktion; den er større og har lukket styrehus for øget sikkerhed."
   },
   {
    "key": "norsk-vikingeskib-saga-farmann-vaekker-opsigt-i-kolby-kaas",
