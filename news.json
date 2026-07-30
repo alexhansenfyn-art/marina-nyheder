@@ -1,8 +1,17 @@
 {
- "generated": "2026-07-29T20:34:54+00:00",
- "count": 232,
+ "generated": "2026-07-30T06:44:30+00:00",
+ "count": 233,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34305",
+   "source": "Bådmagasinet",
+   "date": "2026-07-30",
+   "title": "Det maritime modersmål: Fra viking til vigepligt",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34305-det-maritime-modersmal-fra-viking-til-vigepligt",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer oprindelsen og betydningen af gamle maritime udtryk som styrbord, bagbord og halse, og hvordan de stadig bruges i dag til navigation og sikkerhed."
+  },
   {
    "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
    "source": "Minbåd.dk",
@@ -148,15 +157,6 @@
    "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
-   "key": "baadmagasinet-34300",
-   "source": "Bådmagasinet",
-   "date": "2026-07-27",
-   "title": "Sehested & Co. fik tiltrængt oprejsning til sidst - er Rindom mon definitivt ude?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
-   "cat": "Kapsejlads",
-   "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
-  },
-  {
    "key": "baadmagasinet-34293",
    "source": "Bådmagasinet",
    "date": "2026-07-27",
@@ -164,6 +164,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34293-talemade-hvorfor-knob-og-somil-stadig-giver-mening",
    "cat": "Andet",
    "sum": "Artiklen forklarer historien bag knob og sømil som måleenheder i sejlsporten og hvorfor de fortsat giver mening for sejlere."
+  },
+  {
+   "key": "baadmagasinet-34300",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "Sehested & Co. fik tiltrængt oprejsning til sidst - er Rindom mon definitivt ude?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
+   "cat": "Kapsejlads",
+   "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
   },
   {
    "key": "baadmagasinet-34299",
