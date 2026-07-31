@@ -524,17 +524,41 @@
     });
   }
 
-  // Tidspunktet står i news.json som UTC. Browseren viser det i brugerens
-  // egen tid, så tallet passer med det ur, han sidder og kigger på.
+  // "for 12 minutter siden" siger mere end et klokkeslæt: man kan se, at
+  // siden er levende, uden at skulle regne baglæns. Det nøjagtige tidspunkt
+  // ligger som titel, så det kan læses ved at holde musen over.
+  var opdateretTid = null;
+
+  function tidSiden(d) {
+    var min = Math.round((Date.now() - d.getTime()) / 60000);
+    if (min < 1) return "lige nu";
+    if (min === 1) return "for 1 minut siden";
+    if (min < 60) return "for " + min + " minutter siden";
+    var t = Math.round(min / 60);
+    if (t === 1) return "for 1 time siden";
+    if (t < 24) return "for " + t + " timer siden";
+    var dg = Math.round(t / 24);
+    return dg === 1 ? "i g\u00e5r" : "for " + dg + " dage siden";
+  }
+
   function visOpdateret(iso) {
     var el = document.getElementById("opdateret");
-    if (!el || !iso) return;
-    var d = new Date(iso);
-    if (isNaN(d)) return;
-    el.textContent = d.getDate() + ". " + DA_SHORT[d.getMonth()] + " " +
-      d.getFullYear() + " kl. " + String(d.getHours()).padStart(2, "0") +
-      "." + String(d.getMinutes()).padStart(2, "0");
+    if (!el) return;
+    if (iso) {
+      var d = new Date(iso);
+      if (isNaN(d)) return;
+      opdateretTid = d;
+    }
+    if (!opdateretTid) return;
+    el.textContent = tidSiden(opdateretTid);
+    el.title = opdateretTid.getDate() + ". " + DA_SHORT[opdateretTid.getMonth()] +
+      " " + opdateretTid.getFullYear() + " kl. " +
+      String(opdateretTid.getHours()).padStart(2, "0") + "." +
+      String(opdateretTid.getMinutes()).padStart(2, "0");
   }
+
+  // Tæl med, mens siden står åben
+  setInterval(function(){ visOpdateret(null); }, 60000);
 
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
