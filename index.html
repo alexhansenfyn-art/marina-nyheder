@@ -51,12 +51,12 @@
   }
   .wrap { max-width: 880px; margin: 0 auto; }
   header.top {
-    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    display: flex; align-items: flex-end; justify-content: space-between; gap: 10px;
     margin-bottom: 12px;
   }
   /* --ind er bredden af ankeret. Den bruges begge steder, så "Samlet"
      flugter med "Marina" uanset skriftstørrelse. */
-  .titel { min-width: 0; --ind: 28px; }
+  .titel { min-width: 0; --ind: 36px; }
   header.top h1 { font-size: 22px; font-weight: 700; min-width: 0; }
   header.top h1 #anker { display: inline-block; width: var(--ind); }
   .antal { font-size: 12px; line-height: 1.5; color: var(--muted); margin-top: 2px; padding-left: var(--ind); }
@@ -183,7 +183,7 @@
     body {
       padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
     }
-    .titel { --ind: 25px; }
+    .titel { --ind: 32px; }
     header.top h1 { font-size: 19px; }
     .antal { font-size: 11px; }
     .sponsor { gap: 10px; padding: 8px 12px; }
@@ -212,7 +212,7 @@
      data-umami-event="Klik til Assens Marina">
     <img src="https://assens-marina.dk/wp-content/uploads/2026/07/assens-marina-logo-hvid.svg"
          alt="Assens Marina" width="150" height="33" loading="lazy">
-    <span>-&nbsp;&nbsp;&nbsp;&nbsp;I centrum af Lilleb&aelig;lt&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;klik
+    <span>-&nbsp;&nbsp;&nbsp;I centrum af Lilleb&aelig;lt&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;klik
       <span class="sponsorpil" aria-hidden="true">&#8599;</span></span>
   </a>
   <header class="top">
