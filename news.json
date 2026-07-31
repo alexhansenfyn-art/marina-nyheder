@@ -1,16 +1,34 @@
 {
- "generated": "2026-07-30T22:19:20+00:00",
- "count": 237,
- "errors": [],
+ "generated": "2026-07-31T09:51:56+00:00",
+ "count": 240,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
   {
-   "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
+   "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
    "source": "Minbåd.dk",
-   "date": "2026-07-30",
-   "title": "Hallberg-Rassy sank om natten - sejler reddet på klippe",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe/",
+   "date": "2026-07-31",
+   "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
    "cat": "Sikkerhed",
-   "sum": "En solosejler i en Hallberg-Rassy sank efter grundstødning ud for Bretagne. Skipperen blev reddet af fransk marinehelikopter efter at have søgt tilflugt på en klippe."
+   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning."
+  },
+  {
+   "key": "baadmagasinet-34310",
+   "source": "Bådmagasinet",
+   "date": "2026-07-31",
+   "title": "The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord"
+  },
+  {
+   "key": "baadmagasinet-34309",
+   "source": "Bådmagasinet",
+   "date": "2026-07-31",
+   "title": "Spækhuggere angriber fire sejlbåde på én dag – én sank",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34309-spaekhuggere-angriber-fire-sejlbade-pa-en-dag-en-sank",
+   "cat": "Sikkerhed",
+   "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene."
   },
   {
    "key": "motorbaade-har-to-oekonomiske-fartomraader",
@@ -20,6 +38,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
    "cat": "Andet",
    "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt."
+  },
+  {
+   "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
+   "source": "Minbåd.dk",
+   "date": "2026-07-30",
+   "title": "Hallberg-Rassy sank om natten - sejler reddet på klippe",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe/",
+   "cat": "Sikkerhed",
+   "sum": "En solosejler i en Hallberg-Rassy sank efter grundstødning ud for Bretagne. Skipperen blev reddet af fransk marinehelikopter efter at have søgt tilflugt på en klippe."
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -139,15 +166,6 @@
    "sum": "En 61-årig tysk surfer udløste en stor eftersøgning ud for Hanstholm, men blev fundet i god behold sent på aftenen."
   },
   {
-   "key": "baadmagasinet-34303",
-   "source": "Bådmagasinet",
-   "date": "2026-07-28",
-   "title": "Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34303-haspa-hamburg-saetter-ny-rekord-i-garmin-round-denmark-race",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske JV52 Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race med en tid på 85 timer 33 minutter og 34 sekunder, en forbedring på over 5 timer."
-  },
-  {
    "key": "baadmagasinet-34301",
    "source": "Bådmagasinet",
    "date": "2026-07-28",
@@ -155,6 +173,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34301-nyt-og-hyggeligt-spil-skal-skabe-staerkere-faellesskaber-om-bord",
    "cat": "Havneliv",
    "sum": "Spillet Sejlerliv lanceres af Danske Tursejlere i samarbejde med SNAKSPIL for at styrke samtaler og fællesskab om bord på både."
+  },
+  {
+   "key": "baadmagasinet-34303",
+   "source": "Bådmagasinet",
+   "date": "2026-07-28",
+   "title": "Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34303-haspa-hamburg-saetter-ny-rekord-i-garmin-round-denmark-race",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske JV52 Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race med en tid på 85 timer 33 minutter og 34 sekunder, en forbedring på over 5 timer."
   },
   {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
@@ -166,15 +193,6 @@
    "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
   },
   {
-   "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "Elliott 35 SS knækker masten og søger i sikkerhed i Gedser",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
-   "cat": "Kapsejlads",
-   "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
-  },
-  {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -182,6 +200,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+  },
+  {
+   "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Elliott 35 SS knækker masten og søger i sikkerhed i Gedser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
   },
   {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
@@ -625,15 +652,6 @@
    "sum": "FLID har lanceret en ny kortfunktion på Havneguide.dk, der gør det nemt for sejlere at finde nærmeste havn og faciliteter via mobil, tablet eller computer."
   },
   {
-   "key": "saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb",
-   "source": "Minbåd.dk",
-   "date": "2026-07-17",
-   "title": "Sådan vælger du SUP-board – og undgår fejlkøb",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb/",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver råd om valg af SUP-board, herunder forskelle på oppustelige og faste boards, betydning af volumen og bredde, samt sikkerhedsaspekter."
-  },
-  {
    "key": "politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok",
    "source": "Minbåd.dk",
    "date": "2026-07-17",
@@ -659,6 +677,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34273-nu-kan-din-havn-igen-soge-gratis-redningsstiger",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner ny ansøgningsrunde om gratis redningsstiger med solcelledrevet lys til danske havne og kajområder. Der er allerede opsat 175 nye stiger i år, og ansøgningsfristen er 1. september 2026."
+  },
+  {
+   "key": "saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb",
+   "source": "Minbåd.dk",
+   "date": "2026-07-17",
+   "title": "Sådan vælger du SUP-board – og undgår fejlkøb",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen giver råd om valg af SUP-board, herunder forskelle på oppustelige og faste boards, betydning af volumen og bredde, samt sikkerhedsaspekter."
   },
   {
    "key": "et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook",
