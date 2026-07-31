@@ -21,6 +21,7 @@
 <meta name="theme-color" content="#10161f" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Marina- og HavneNyheder">
+<link rel="alternate" type="application/rss+xml" title="Marina- og HavneNyheder" href="feed.xml">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icon-180.png">
@@ -58,7 +59,7 @@
   .titel { min-width: 0; --ind: 28px; }
   header.top h1 { font-size: 22px; font-weight: 700; min-width: 0; }
   header.top h1 #anker { display: inline-block; width: var(--ind); }
-  .antal { font-size: 12px; color: var(--muted); margin-top: 2px; padding-left: var(--ind); }
+  .antal { font-size: 12px; line-height: 1.5; color: var(--muted); margin-top: 2px; padding-left: var(--ind); }
   .tools { display: flex; align-items: center; gap: 6px; flex: 0 0 auto; }
   /* Ikonknapper: søg og filter */
   .iconbtn {
@@ -213,7 +214,8 @@
   <header class="top">
     <div class="titel">
       <h1><span id="anker" title="">&#9875;</span>Marina- og HavneNyheder</h1>
-      <p class="antal">Samlet antal nyheder: <span id="antal"><!--ANTAL_START-->240<!--ANTAL_END--></span></p>
+      <p class="antal">Samlet antal nyheder: <span id="antal"><!--ANTAL_START-->240<!--ANTAL_END--></span><br>
+        Sidst opdateret: <span id="opdateret"><!--OPDATERET_START-->31. jul 2026 kl. 16.29<!--OPDATERET_END--></span></p>
     </div>
     <div class="tools" id="tools" style="display:none">
       <button class="iconbtn" id="searchBtn" type="button" aria-label="S&oslash;g i overskrifter" aria-expanded="false">
@@ -507,6 +509,18 @@
     });
   }
 
+  // Tidspunktet står i news.json som UTC. Browseren viser det i brugerens
+  // egen tid, så tallet passer med det ur, han sidder og kigger på.
+  function visOpdateret(iso) {
+    var el = document.getElementById("opdateret");
+    if (!el || !iso) return;
+    var d = new Date(iso);
+    if (isNaN(d)) return;
+    el.textContent = d.getDate() + ". " + DA_SHORT[d.getMonth()] + " " +
+      d.getFullYear() + " kl. " + String(d.getHours()).padStart(2, "0") +
+      "." + String(d.getMinutes()).padStart(2, "0");
+  }
+
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(data){
@@ -525,6 +539,7 @@
       });
       var antal = document.getElementById("antal");
       if (antal) antal.textContent = state.items.length;
+      visOpdateret(data.generated);
       wireControls();
       render();
     })

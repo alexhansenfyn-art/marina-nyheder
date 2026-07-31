@@ -686,9 +686,115 @@ def prerender_index(items):
     new_html = re.sub(r"(<!--ANTAL_START-->)\d*(<!--ANTAL_END-->)",
                       lambda m: m.group(1) + str(len(items)) + m.group(2),
                       new_html, count=1)
+    dk = dansk_tid(datetime.now(timezone.utc))
+    stempel = (f"{dk.day}. {DA_MONTH_SHORT[dk.month - 1]} {dk.year} "
+               f"kl. {dk.hour:02d}.{dk.minute:02d}")
+    new_html = re.sub(r"(<!--OPDATERET_START-->).*?(<!--OPDATERET_END-->)",
+                      lambda m: m.group(1) + stempel + m.group(2),
+                      new_html, count=1)
     if new_html != html:
         INDEX_FILE.write_text(new_html, encoding="utf-8")
     return len(parts)
+
+
+FEED_FILE = ROOT / "feed.xml"
+FEED_COUNT = 50           # antal nyheder i RSS-feedet
+STALE_DAYS = 30           # kilde uden nyheder så længe = noget er galt
+WATCHDOG_FILE = ROOT / "vagthund.txt"
+
+RFC822_DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+RFC822_MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                 "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+def rfc822(iso):
+    """Dato til RSS-format. Feedlæsere kræver engelske forkortelser."""
+    try:
+        d = datetime.strptime(iso, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except Exception:
+        d = datetime.now(timezone.utc)
+    return (f"{RFC822_DAYS[d.weekday()]}, {d.day:02d} "
+            f"{RFC822_MONTHS[d.month - 1]} {d.year} 08:00:00 +0000")
+
+
+def dansk_tid(dt):
+    """UTC til dansk tid. Danmark er UTC+1, og UTC+2 fra sidste søndag i
+    marts til sidste søndag i oktober. Regnet ud i hånden, så crawleren
+    ikke afhænger af tidszonedata på serveren."""
+    def sidste_soendag(aar, maaned):
+        d = datetime(aar, maaned, 31, tzinfo=timezone.utc)
+        return d - timedelta(days=(d.weekday() + 1) % 7)
+    start = sidste_soendag(dt.year, 3).replace(hour=1)
+    slut = sidste_soendag(dt.year, 10).replace(hour=1)
+    return dt + timedelta(hours=2 if start <= dt < slut else 1)
+
+
+def write_feed(items):
+    """RSS-feed, så folk kan følge siden i deres egen nyhedslæser."""
+    nu = datetime.now(timezone.utc)
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+        "<channel>",
+        "<title>Marina- og HavneNyheder</title>",
+        f"<link>{SITE_URL}</link>",
+        "<description>Nyheder om danske marinaer, lystbådehavne og "
+        "gæstehavne. Opdateres automatisk hver time.</description>",
+        "<language>da-dk</language>",
+        f"<lastBuildDate>{rfc822(nu.strftime('%Y-%m-%d'))}</lastBuildDate>",
+        f'<atom:link href="{SITE_URL}feed.xml" rel="self" '
+        'type="application/rss+xml"/>',
+    ]
+    for it in items[:FEED_COUNT]:
+        kilde = esc(it.get("source", ""))
+        tekst = esc(it.get("sum") or "")
+        beskrivelse = f"{tekst} (Kilde: {kilde})" if tekst else f"Kilde: {kilde}"
+        parts += [
+            "<item>",
+            f'<title>{esc(it["title"])}</title>',
+            f'<link>{esc(it["url"])}</link>',
+            f'<guid isPermaLink="true">{esc(it["url"])}</guid>',
+            f"<pubDate>{rfc822(it.get('date'))}</pubDate>",
+            f"<description>{beskrivelse}</description>",
+            "</item>",
+        ]
+    parts += ["</channel>", "</rss>", ""]
+    FEED_FILE.write_text("\n".join(parts), encoding="utf-8")
+
+
+def check_sources(items):
+    """Vagthund: en kilde, der ikke har leveret i en måned, er sandsynligvis
+    lagt om, så parseren er gået i stykker. Skriv en besked, som workflowet
+    kan sende videre."""
+    nyeste = {}
+    for it in items:
+        k, d = it.get("source"), it.get("date") or ""
+        if k and d > nyeste.get(k, ""):
+            nyeste[k] = d
+    graense = (datetime.now(timezone.utc) - timedelta(days=STALE_DAYS)).strftime("%Y-%m-%d")
+
+    doede = []
+    for s in load_sources():
+        navn = s.get("label") or host_of(s["url"])
+        sidst = nyeste.get(navn)
+        if not sidst or sidst < graense:
+            doede.append((navn, s["url"], sidst))
+
+    if not doede:
+        # Tøm en gammel besked, så workflowet ikke sender den igen
+        if WATCHDOG_FILE.exists():
+            WATCHDOG_FILE.write_text("", encoding="utf-8")
+        return []
+
+    linjer = [f"Disse kilder har ikke leveret nyheder i {STALE_DAYS} dage.",
+              "Som regel betyder det, at hjemmesiden er lagt om, og at "
+              "parseren i crawler.py skal rettes.", ""]
+    for navn, url, sidst in sorted(set(doede)):
+        linjer.append(f"- {navn} ({url}) - sidste nyhed: {sidst or 'ingen'}")
+    linjer += ["", f"Tjekket {datetime.now(timezone.utc):%d-%m-%Y %H:%M} UTC.",
+               "Se selv efter på marinanyheder.dk"]
+    WATCHDOG_FILE.write_text("\n".join(linjer) + "\n", encoding="utf-8")
+    return doede
 
 
 def write_sitemap():
@@ -764,9 +870,14 @@ def main():
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     prerendered = prerender_index(items)
     write_sitemap()
+    write_feed(items)
+    doede = check_sources(items)
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
           f"{enriched} AI-beriget, "
           f"{prerendered} skrevet i HTML, {len(errors)} fejl")
+    if doede:
+        print("VAGTHUND: kilder uden nyheder i "
+              f"{STALE_DAYS} dage: " + ", ".join(sorted({d[0] for d in doede})))
     for e in errors:
         print("FEJL:", e, file=sys.stderr)
 

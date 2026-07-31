@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-31T14:14:59+00:00",
+ "generated": "2026-07-31T14:29:18+00:00",
  "count": 240,
  "errors": [
   "https://minbaad.dk/forside: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /forside (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
