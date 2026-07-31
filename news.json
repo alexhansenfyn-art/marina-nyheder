@@ -1,8 +1,89 @@
 {
- "generated": "2026-07-29T16:17:51+00:00",
- "count": 232,
- "errors": [],
+ "generated": "2026-07-31T09:51:56+00:00",
+ "count": 240,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
+   "source": "Minbåd.dk",
+   "date": "2026-07-31",
+   "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
+   "cat": "Sikkerhed",
+   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning."
+  },
+  {
+   "key": "baadmagasinet-34310",
+   "source": "Bådmagasinet",
+   "date": "2026-07-31",
+   "title": "The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord"
+  },
+  {
+   "key": "baadmagasinet-34309",
+   "source": "Bådmagasinet",
+   "date": "2026-07-31",
+   "title": "Spækhuggere angriber fire sejlbåde på én dag – én sank",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34309-spaekhuggere-angriber-fire-sejlbade-pa-en-dag-en-sank",
+   "cat": "Sikkerhed",
+   "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene."
+  },
+  {
+   "key": "motorbaade-har-to-oekonomiske-fartomraader",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-30",
+   "title": "Motorbåde har to økonomiske fartområder",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt."
+  },
+  {
+   "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
+   "source": "Minbåd.dk",
+   "date": "2026-07-30",
+   "title": "Hallberg-Rassy sank om natten - sejler reddet på klippe",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe/",
+   "cat": "Sikkerhed",
+   "sum": "En solosejler i en Hallberg-Rassy sank efter grundstødning ud for Bretagne. Skipperen blev reddet af fransk marinehelikopter efter at have søgt tilflugt på en klippe."
+  },
+  {
+   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
+   "source": "Minbåd.dk",
+   "date": "2026-07-30",
+   "title": "Sådan får du et friskere indeklima i båden",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "cat": "Udstyr & både",
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
+  },
+  {
+   "key": "baadmagasinet-34298",
+   "source": "Bådmagasinet",
+   "date": "2026-07-30",
+   "title": "Norsk ekstremsejler udforsker Arktis: Følg den nervepirrende færd mod Kvitøya og Nordpolens is",
+   "url": "https://www.baadmagasinet.dk/tursejlads/34298-norsk-ekstremsejler-udforsker-arktis-folg-den-nervepirrende-faerd-mod-kvitoya-og-nordpolens-is",
+   "cat": "Tursejlads",
+   "sum": "Norsk ekstremsejler Erik Aanderaa sejler mod Kvitøya i Arktis og deler sin nervepirrende færd på sociale medier efter dramatisk møde med iskanten."
+  },
+  {
+   "key": "baadmagasinet-34305",
+   "source": "Bådmagasinet",
+   "date": "2026-07-30",
+   "title": "Det maritime modersmål: Fra viking til vigepligt",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34305-det-maritime-modersmal-fra-viking-til-vigepligt",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer oprindelsen og betydningen af gamle maritime udtryk som styrbord, bagbord og halse, og hvordan de stadig bruges i dag til navigation og sikkerhed."
+  },
+  {
+   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
+   "source": "Minbåd.dk",
+   "date": "2026-07-29",
+   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
+   "cat": "Andet",
+   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt."
+  },
   {
    "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
    "source": "Minbåd.dk",
@@ -14,21 +95,12 @@
   },
   {
    "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-29",
-   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
-   "cat": "Havneliv",
-   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning."
-  },
-  {
-   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
    "source": "Minbåd.dk",
    "date": "2026-07-29",
-   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
-   "cat": "Andet",
-   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt."
+   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
+   "cat": "Havneliv",
+   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning."
   },
   {
    "key": "baadmagasinet-34296",
@@ -94,15 +166,6 @@
    "sum": "En 61-årig tysk surfer udløste en stor eftersøgning ud for Hanstholm, men blev fundet i god behold sent på aftenen."
   },
   {
-   "key": "baadmagasinet-34303",
-   "source": "Bådmagasinet",
-   "date": "2026-07-28",
-   "title": "Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34303-haspa-hamburg-saetter-ny-rekord-i-garmin-round-denmark-race",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske JV52 Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race med en tid på 85 timer 33 minutter og 34 sekunder, en forbedring på over 5 timer."
-  },
-  {
    "key": "baadmagasinet-34301",
    "source": "Bådmagasinet",
    "date": "2026-07-28",
@@ -110,6 +173,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34301-nyt-og-hyggeligt-spil-skal-skabe-staerkere-faellesskaber-om-bord",
    "cat": "Havneliv",
    "sum": "Spillet Sejlerliv lanceres af Danske Tursejlere i samarbejde med SNAKSPIL for at styrke samtaler og fællesskab om bord på både."
+  },
+  {
+   "key": "baadmagasinet-34303",
+   "source": "Bådmagasinet",
+   "date": "2026-07-28",
+   "title": "Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34303-haspa-hamburg-saetter-ny-rekord-i-garmin-round-denmark-race",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske JV52 Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race med en tid på 85 timer 33 minutter og 34 sekunder, en forbedring på over 5 timer."
   },
   {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
@@ -148,15 +220,6 @@
    "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
-   "key": "baadmagasinet-34300",
-   "source": "Bådmagasinet",
-   "date": "2026-07-27",
-   "title": "Sehested & Co. fik tiltrængt oprejsning til sidst - er Rindom mon definitivt ude?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
-   "cat": "Kapsejlads",
-   "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
-  },
-  {
    "key": "baadmagasinet-34293",
    "source": "Bådmagasinet",
    "date": "2026-07-27",
@@ -164,6 +227,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34293-talemade-hvorfor-knob-og-somil-stadig-giver-mening",
    "cat": "Andet",
    "sum": "Artiklen forklarer historien bag knob og sømil som måleenheder i sejlsporten og hvorfor de fortsat giver mening for sejlere."
+  },
+  {
+   "key": "baadmagasinet-34300",
+   "source": "Bådmagasinet",
+   "date": "2026-07-27",
+   "title": "Sehested & Co. fik tiltrængt oprejsning til sidst - er Rindom mon definitivt ude?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
+   "cat": "Kapsejlads",
+   "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid."
   },
   {
    "key": "baadmagasinet-34299",
@@ -319,15 +391,6 @@
    "sum": "Artiklen omhandler salg og udlejning af bådpladser i danske havne."
   },
   {
-   "key": "flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen",
-   "source": "Minbåd.dk",
-   "date": "2026-07-23",
-   "title": "Flere efterladte bådvrag - lovpligtig ansvarsforsikring er løsningen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/",
-   "cat": "Sikkerhed",
-   "sum": "Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet."
-  },
-  {
    "key": "gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade",
    "source": "Minbåd.dk",
    "date": "2026-07-23",
@@ -337,11 +400,20 @@
    "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande."
   },
   {
-   "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
+   "key": "flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen",
    "source": "Minbåd.dk",
    "date": "2026-07-23",
+   "title": "Flere efterladte bådvrag - lovpligtig ansvarsforsikring er løsningen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/",
+   "cat": "Sikkerhed",
+   "sum": "Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet."
+  },
+  {
+   "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-23",
    "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
    "cat": "Sikkerhed",
    "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare."
   },
@@ -580,15 +652,6 @@
    "sum": "FLID har lanceret en ny kortfunktion på Havneguide.dk, der gør det nemt for sejlere at finde nærmeste havn og faciliteter via mobil, tablet eller computer."
   },
   {
-   "key": "saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb",
-   "source": "Minbåd.dk",
-   "date": "2026-07-17",
-   "title": "Sådan vælger du SUP-board – og undgår fejlkøb",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb/",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver råd om valg af SUP-board, herunder forskelle på oppustelige og faste boards, betydning af volumen og bredde, samt sikkerhedsaspekter."
-  },
-  {
    "key": "politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok",
    "source": "Minbåd.dk",
    "date": "2026-07-17",
@@ -614,6 +677,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34273-nu-kan-din-havn-igen-soge-gratis-redningsstiger",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner ny ansøgningsrunde om gratis redningsstiger med solcelledrevet lys til danske havne og kajområder. Der er allerede opsat 175 nye stiger i år, og ansøgningsfristen er 1. september 2026."
+  },
+  {
+   "key": "saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb",
+   "source": "Minbåd.dk",
+   "date": "2026-07-17",
+   "title": "Sådan vælger du SUP-board – og undgår fejlkøb",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/saadan-vaelger-du-sup-board-og-undgaar-fejlkoeb/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen giver råd om valg af SUP-board, herunder forskelle på oppustelige og faste boards, betydning af volumen og bredde, samt sikkerhedsaspekter."
   },
   {
    "key": "et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook",
@@ -724,15 +796,6 @@
    "sum": "En mørklagt sejlbåd grundstødte ved Lynæs. Redningsfolkene fik båden fri og modtog kiks som tak, men sejleren sejlede straks tilbage på grunden."
   },
   {
-   "key": "motorbaad-i-voldsomme-flammer-ved-sluseholmen",
-   "source": "Minbåd.dk",
-   "date": "2026-07-13",
-   "title": "Motorbåd i voldsomme flammer ved Sluseholmen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/motorbaad-i-voldsomme-flammer-ved-sluseholmen/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd brød i brand ved Sluseholmen i København, og personer om bord blev reddet i land af forbipasserende. Branden blev slukket, men båden er totalskadet."
-  },
-  {
    "key": "moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad",
    "source": "Motorbådsnyt",
    "date": "2026-07-13",
@@ -740,6 +803,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/july/article/moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad/",
    "cat": "Udstyr & både",
    "sum": "Yachtbasen og 56 North viser Sirena 48 i Ballen Havn og Sirena 60 i Båstad i uge 29. Åbent skib dagligt med mulighed for privat fremvisning."
+  },
+  {
+   "key": "motorbaad-i-voldsomme-flammer-ved-sluseholmen",
+   "source": "Minbåd.dk",
+   "date": "2026-07-13",
+   "title": "Motorbåd i voldsomme flammer ved Sluseholmen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/motorbaad-i-voldsomme-flammer-ved-sluseholmen/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd brød i brand ved Sluseholmen i København, og personer om bord blev reddet i land af forbipasserende. Branden blev slukket, men båden er totalskadet."
   },
   {
    "key": "planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort",
