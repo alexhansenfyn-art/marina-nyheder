@@ -138,6 +138,10 @@
   }
   .ddtop { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; gap: 10px; }
   .ddtop.ddsep { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .ddom { font-size: 12px; line-height: 1.55; color: var(--muted); margin-bottom: 8px; }
+  .ddom:last-child { margin-bottom: 0; }
+  .ddom a { color: var(--accent); text-decoration: none; white-space: nowrap; }
+  .ddom a:hover { text-decoration: underline; }
   .ddall { font-size: 12px; color: var(--accent); cursor: pointer; white-space: nowrap; }
   .ddall:hover { text-decoration: underline; }
   .ghead {
@@ -236,6 +240,17 @@
             <span class="ddall" id="srcAll">V&aelig;lg alle</span>
           </div>
           <div class="chips" id="srcChips"></div>
+          <div class="ddtop ddsep">
+            <span class="lbl">Om siden</span>
+          </div>
+          <p class="ddom">Marina- og HavneNyheder samler nyheder om danske
+            marinaer, lyst&shy;b&aring;de&shy;havne og g&aelig;stehavne
+            &eacute;t sted. Listen opdateres automatisk hver time, og hver
+            overskrift linker videre til kilden, hvor du kan l&aelig;se hele
+            artiklen.</p>
+          <p class="ddom">Siden drives af Assens Marina og er gratis at bruge.
+            <a href="feed.xml">F&oslash;lg som RSS</a> &middot;
+            <a href="mailto:amba@assens-marina.dk">Skriv til os</a></p>
         </div>
       </details>
     </div>
