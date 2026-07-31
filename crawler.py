@@ -682,6 +682,10 @@ def prerender_index(items):
     block = "\n" + "\n".join(parts) + "\n"
     new_html = NEWS_BLOCK_RE.sub(
         lambda m: m.group(1) + block + m.group(3), html, count=1)
+    # Samlet antal nyheder i overskriften, så tallet også står der uden JavaScript
+    new_html = re.sub(r"(<!--ANTAL_START-->)\d*(<!--ANTAL_END-->)",
+                      lambda m: m.group(1) + str(len(items)) + m.group(2),
+                      new_html, count=1)
     if new_html != html:
         INDEX_FILE.write_text(new_html, encoding="utf-8")
     return len(parts)

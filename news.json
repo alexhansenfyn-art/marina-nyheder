@@ -1,8 +1,19 @@
 {
- "generated": "2026-07-31T09:51:56+00:00",
+ "generated": "2026-07-31T14:14:59+00:00",
  "count": 240,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "https://minbaad.dk/forside: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /forside (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://minbaad.dk/havne: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://minbaad.dk/kort-nyt: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://motorbaadsnyt.dk/: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://motorbaadsnyt.dk/havne: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://flidhavne.dk/nyheder/: HTTPSConnectionPool(host='flidhavne.dk', port=443): Max retries exceeded with url: /nyheder/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://www.baadmagasinet.dk/nyheder/tema/havne: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /nyheder/tema/havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://www.baadmagasinet.dk/kort-nyt: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://marinaguide.dk/marinanyheder: HTTPSConnectionPool(host='marinaguide.dk', port=443): Max retries exceeded with url: /marinanyheder (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "https://havneguide.dk: HTTPSConnectionPool(host='havneguide.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
+  "AI: DEEPSEEK_API_KEY mangler - AI slået fra"
  ],
  "items": [
   {
