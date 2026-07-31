@@ -1,21 +1,17 @@
 {
- "generated": "2026-07-31T14:29:18+00:00",
- "count": 240,
- "errors": [
-  "https://minbaad.dk/forside: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /forside (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://minbaad.dk/havne: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://minbaad.dk/kort-nyt: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://motorbaadsnyt.dk/: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://motorbaadsnyt.dk/havne: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://flidhavne.dk/nyheder/: HTTPSConnectionPool(host='flidhavne.dk', port=443): Max retries exceeded with url: /nyheder/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://www.baadmagasinet.dk/nyheder/tema/havne: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /nyheder/tema/havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://www.baadmagasinet.dk/kort-nyt: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://marinaguide.dk/marinanyheder: HTTPSConnectionPool(host='marinaguide.dk', port=443): Max retries exceeded with url: /marinanyheder (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://havneguide.dk: HTTPSConnectionPool(host='havneguide.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "AI: DEEPSEEK_API_KEY mangler - AI slået fra"
- ],
+ "generated": "2026-07-31T16:28:02+00:00",
+ "count": 241,
+ "errors": [],
  "items": [
+  {
+   "key": "shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt",
+   "source": "Minbåd.dk",
+   "date": "2026-07-31",
+   "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
+   "cat": "Kapsejlads",
+   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus."
+  },
   {
    "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
    "source": "Minbåd.dk",
@@ -30,7 +26,9 @@
    "source": "Bådmagasinet",
    "date": "2026-07-31",
    "title": "The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord"
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord",
+   "cat": "Kapsejlads",
+   "sum": "The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster."
   },
   {
    "key": "baadmagasinet-34309",
@@ -348,15 +346,6 @@
    "sum": "Anna Munch sluttede som nummer 6 i ILCA 6 ved San Pedro Olympic Class Regatta i Los Angeles, hvor hun fik vigtig erfaring til OL."
   },
   {
-   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "cat": "Havnepriser",
-   "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge."
-  },
-  {
    "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
@@ -375,11 +364,20 @@
    "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm."
   },
   {
-   "key": "10-gode-raad-for-du-kober-brugt-baad",
+   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
+   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
+   "cat": "Havnepriser",
+   "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge."
+  },
+  {
+   "key": "10-gode-raad-for-du-kober-brugt-baad",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-24",
    "title": "10 gode råd før du køber brugt båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum."
   },
