@@ -79,8 +79,7 @@
     display: flex; align-items: center; justify-content: center; gap: 14px;
     background: var(--accent); color: #fff; text-decoration: none;
     border: 2px solid rgba(255,255,255,.55); border-radius: 10px;
-    /* ekstra luft i højre side, så den centrerede tekst aldrig løber ind i pilen */
-    padding: 9px 34px; margin-bottom: 12px;
+    padding: 9px 16px; margin-bottom: 12px;
     -webkit-tap-highlight-color: transparent;
     transition: background .12s, border-color .12s;
   }
@@ -89,10 +88,7 @@
   .sponsor > span:first-of-type {
     font-size: 13px; font-weight: 600; letter-spacing: .01em;
   }
-  .sponsorpil {
-    position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
-    font-size: 17px; line-height: 1;
-  }
+  .sponsorpil { font-size: 16px; line-height: 1; margin-left: 3px; }
   #anker { cursor: pointer; user-select: none; -webkit-tap-highlight-color: transparent; }
   /* Skjult genvej til statistikken */
   .statpanel {
@@ -178,10 +174,10 @@
       padding: 12px calc(12px + env(safe-area-inset-right)) calc(16px + env(safe-area-inset-bottom)) calc(12px + env(safe-area-inset-left));
     }
     header.top h1 { font-size: 19px; }
-    .sponsor { gap: 10px; padding: 8px 26px; }
+    .sponsor { gap: 10px; padding: 8px 12px; }
     .sponsor img { height: 22px; }
     .sponsor > span:first-of-type { font-size: 12px; }
-    .sponsorpil { font-size: 15px; right: 9px; }
+    .sponsorpil { font-size: 14px; }
     .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .card .title { font-size: 14px; }
@@ -204,8 +200,8 @@
      data-umami-event="Klik til Assens Marina">
     <img src="https://assens-marina.dk/wp-content/uploads/2026/07/assens-marina-logo-hvid.svg"
          alt="Assens Marina" width="150" height="33" loading="lazy">
-    <span>-&nbsp;&nbsp;&nbsp;&nbsp;I centrum af Lilleb&aelig;lt</span>
-    <span class="sponsorpil" aria-hidden="true">&#8599;</span>
+    <span>-&nbsp;&nbsp;&nbsp;&nbsp;I centrum af Lilleb&aelig;lt&nbsp;&nbsp;-&nbsp;&nbsp;klik
+      <span class="sponsorpil" aria-hidden="true">&#8599;</span></span>
   </a>
   <header class="top">
     <h1><span id="anker" title="">&#9875;</span> Marina- og HavneNyheder</h1>
