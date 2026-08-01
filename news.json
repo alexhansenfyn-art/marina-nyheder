@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-01T06:48:17+00:00",
- "count": 244,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "generated": "2026-08-01T14:48:18+00:00",
+ "count": 245,
+ "errors": [],
  "items": [
   {
    "key": "eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper",
    "source": "Minbåd.dk",
    "date": "2026-08-01",
    "title": "Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35 SS'eren Palby Marine førte Garmin Round Denmark Race, men masten knækkede kort før Gedser. Ingen kom til skade, og sejren gik til tyske Haspa Hamburg."
   },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
@@ -20,6 +20,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
    "cat": "Tursejlads",
    "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere."
+  },
+  {
+   "key": "baadmagasinet-34313",
+   "source": "Bådmagasinet",
+   "date": "2026-08-01",
+   "title": "Helt gratis: 27 fods klinkbygget træbåd søger nye ejere",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34313-gratis-27-fods-klinkbygget-traebad-soger-nye-ejere",
+   "cat": "Udstyr & både",
+   "sum": "En 27 fods klinkbygget træbåd fra 1966 gives væk til den rette ejer. Båden kræver istandsættelse og står i Fjællebroen Havn på Sydfyn."
   },
   {
    "key": "baadmagasinet-34307",
