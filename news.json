@@ -1,13 +1,40 @@
 {
- "generated": "2026-07-31T20:51:35+00:00",
- "count": 241,
- "errors": [],
+ "generated": "2026-08-01T06:48:17+00:00",
+ "count": 244,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper",
+   "source": "Minbåd.dk",
+   "date": "2026-08-01",
+   "title": "Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/"
+  },
+  {
+   "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-01",
+   "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
+   "cat": "Tursejlads",
+   "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere."
+  },
+  {
+   "key": "baadmagasinet-34307",
+   "source": "Bådmagasinet",
+   "date": "2026-08-01",
+   "title": "Ungdoms-VM, ILCA: Verdenseliten samles – 51 nationer klar i Aarhus",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34307-verdenseliten-samles-til-ungdoms-vm-i-ilca-51-nationer-klar-i-aarhus",
+   "cat": "Kapsejlads",
+   "sum": "Ungdoms-VM i ILCA 4 og 6 afholdes i Aarhus med deltagelse af omkring 1.000 sejlere fra 51 nationer. Danske talenter får hjemmebanefordel."
+  },
   {
    "key": "shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt",
    "source": "Minbåd.dk",
    "date": "2026-07-31",
-   "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt",
+   "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt - nu video",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
    "cat": "Kapsejlads",
    "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus."
@@ -40,15 +67,6 @@
    "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene."
   },
   {
-   "key": "motorbaade-har-to-oekonomiske-fartomraader",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-30",
-   "title": "Motorbåde har to økonomiske fartområder",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
-   "cat": "Andet",
-   "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt."
-  },
-  {
    "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
    "source": "Minbåd.dk",
    "date": "2026-07-30",
@@ -65,6 +83,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
    "cat": "Udstyr & både",
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
+  },
+  {
+   "key": "motorbaade-har-to-oekonomiske-fartomraader",
+   "source": "Minbåd.dk",
+   "date": "2026-07-30",
+   "title": "Motorbåde har to økonomiske fartområder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
+   "cat": "Andet",
+   "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt."
   },
   {
    "key": "baadmagasinet-34298",
@@ -202,15 +229,6 @@
    "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
   },
   {
-   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
-  },
-  {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -218,6 +236,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
+  },
+  {
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
