@@ -2,8 +2,20 @@ name: Crawl marina nyheder
 
 on:
   schedule:
-    - cron: "17 * * * *"   # hver time, 17 min over
-  workflow_dispatch:        # kan også startes manuelt
+    # Hver halve time. Bevidst 17 og 47 og ikke 0 og 30: GitHubs planlagte
+    # koersler ligger i en lavprioritetskoe, og de runde minuttal er de mest
+    # belastede, fordi alle andre ogsaa bruger dem. Skaeve minutter rammer
+    # oftere igennem. Planlagte koersler er stadig "best effort" - de kan
+    # blive forsinket eller sprunget over uden varsel.
+    - cron: "17,47 * * * *"
+  workflow_dispatch:        # kan ogsaa startes manuelt
+
+# To koersler maa aldrig overlappe: de skriver til den samme news.json og
+# pusher til main, og saa knaekker rebasen. Er en koersel i gang, staar den
+# naeste i koe i stedet for at blive kasseret.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -46,7 +58,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json index.html sitemap.xml feed.xml
-          git diff --cached --quiet || git commit -m "Opdater nyheder ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          # Hent evt. nye commits ind først, så et samtidigt commit ikke spolerer kørslen
-          git pull --rebase origin main
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Opdater nyheder ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          # Push kan fejle, hvis en anden koersel naaede at pushe imens.
+          # Proev igen med en frisk rebase i stedet for at lade koerslen doe.
+          for forsoeg in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push mislykkedes (forsoeg $forsoeg), proever igen om 10 sekunder"
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          echo "Kunne ikke pushe efter 3 forsoeg" >&2
+          exit 1
+
