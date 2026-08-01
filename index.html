@@ -538,6 +538,27 @@
     return dg === 1 ? "i g\u00e5r" : "for " + dg + " dage siden";
   }
 
+ // "1. aug 2026 kl. 08.48" - samme format som crawlerens stempel i HTML'en.
+  // Altid dansk tid, uanset hvor laeseren befinder sig, saa teksten ikke
+  // skifter udseende naar JavaScriptet overtager fra den forudrenderede HTML.
+  function datoTid(d) {
+    try {
+      var p = {};
+      new Intl.DateTimeFormat("da-DK", {
+        timeZone: "Europe/Copenhagen",
+        day: "numeric", month: "numeric", year: "numeric",
+        hour: "2-digit", minute: "2-digit", hour12: false
+      }).formatToParts(d).forEach(function(x){ p[x.type] = x.value; });
+      return p.day + ". " + DA_SHORT[+p.month - 1] + " " + p.year +
+        " kl. " + p.hour + "." + p.minute;
+    } catch (e) {
+      // Reserve for browsere uden tidszonestoette: laeserens egen lokaltid.
+      return d.getDate() + ". " + DA_SHORT[d.getMonth()] + " " + d.getFullYear() +
+        " kl. " + String(d.getHours()).padStart(2, "0") + "." +
+        String(d.getMinutes()).padStart(2, "0");
+    }
+  }
+
   function visOpdateret(iso) {
     var el = document.getElementById("opdateret");
     if (!el) return;
@@ -547,11 +568,8 @@
       opdateretTid = d;
     }
     if (!opdateretTid) return;
-    el.textContent = tidSiden(opdateretTid);
-    el.title = opdateretTid.getDate() + ". " + DA_SHORT[opdateretTid.getMonth()] +
-      " " + opdateretTid.getFullYear() + " kl. " +
-      String(opdateretTid.getHours()).padStart(2, "0") + "." +
-      String(opdateretTid.getMinutes()).padStart(2, "0");
+    el.textContent = datoTid(opdateretTid);
+    el.title = tidSiden(opdateretTid);
   }
 
   // Tæl med, mens siden står åben
