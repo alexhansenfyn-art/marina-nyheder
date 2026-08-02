@@ -235,6 +235,114 @@ def published_date(url):
     return None
 
 
+def og_meta(html, prop):
+    """Hent en OpenGraph-værdi fra en artikelside. Metafelterne er
+    maskinskrevne og langt mere pålidelige end tekst plukket fra siden."""
+    m = re.search(
+        r'<meta[^>]+(?:property|name)=["\']' + re.escape(prop) +
+        r'["\'][^>]+content=["\']([^"\']*)', html, re.I)
+    return m.group(1).strip() if m else ""
+
+
+# ---- RSS ---------------------------------------------------------------
+# Et feed er langt at foretrække frem for at skrabe HTML: titel, link og
+# udgivelsesdato staar praecist angivet i stedet for at skulle gaettes ud
+# af sidens opbygning - og feedet gaar ikke i stykker, naar de skifter tema.
+
+def rss_dato(tekst):
+    """RSS bruger RFC822 ("Fri, 31 Jul 2026 08:00:00 +0000"), Atom bruger
+    ISO ("2026-07-31T08:00:00Z"). Begge ender som YYYY-MM-DD."""
+    tekst = (tekst or "").strip()
+    if not tekst:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        return plausible_date(parsedate_to_datetime(tekst).strftime("%Y-%m-%d"))
+    except Exception:  # noqa: BLE001
+        pass
+    return plausible_date(tekst[:10])
+
+
+def parse_rss(xml_text, base_url, label):
+    import xml.etree.ElementTree as ET
+    NS = "{http://www.w3.org/2005/Atom}"
+    try:
+        rod = ET.fromstring(xml_text.lstrip("\ufeff \r\n\t"))
+    except ET.ParseError as e:
+        raise ValueError(f"ugyldigt feed: {e}") from e
+
+    poster = rod.findall(".//item") or rod.findall(f".//{NS}entry")
+    ud = []
+    for post in poster[:MAX_PER_GENERIC_SOURCE]:
+        def txt(*navne):
+            for n in navne:
+                el = post.find(n)
+                if el is not None and (el.text or "").strip():
+                    return el.text.strip()
+            return ""
+
+        title = clean(txt("title", f"{NS}title"))
+        url = txt("link", "guid")
+        if not url:                       # Atom: <link href="...">
+            el = post.find(f"{NS}link")
+            url = (el.get("href") or "").strip() if el is not None else ""
+        if not title or not url.startswith("http") or len(title) < 12:
+            continue
+
+        dato = rss_dato(txt("pubDate", "{http://purl.org/dc/elements/1.1/}date",
+                            f"{NS}published", f"{NS}updated"))
+        path = urlparse(url).path.rstrip("/")
+        ud.append({"key": host_of(url) + path, "source": label,
+                   "date": dato, "title": title, "url": url})
+    return ud
+
+
+# ---- Dansk Sejlunion ---------------------------------------------------
+DSU_ARTIKEL_RE = re.compile(r"^/nyheder/(19|20)\d{2}/[a-z0-9-]{8,}/?$", re.I)
+DSU_AJOUR_RE = re.compile(r"Senest ajourf\u00f8rt d\.\s*([^<\n]{6,30})", re.I)
+
+
+def parse_dansksejlunion(html, base_url, label):
+    """dansksejlunion.dk (Umbraco). Oversigten viser hverken rene overskrifter
+    eller datoer - linkteksten er overskrift og manchet slaaet sammen. Derfor
+    hentes titel og dato fra artiklens egen side. Artikler kendes paa stien
+    /nyheder/<aarstal>/<slug>."""
+    soup = BeautifulSoup(html, "html.parser")
+    fundet, ud = set(), []
+    for a in soup.find_all("a", href=True):
+        url = urljoin(base_url, a["href"])
+        if host_of(url) != host_of(base_url):
+            continue
+        path = urlparse(url).path
+        if not DSU_ARTIKEL_RE.match(path) or path in fundet:
+            continue
+        fundet.add(path)
+
+        title, dato = clean(a.get_text())[:140], None
+        try:
+            side = fetch(url)
+            title = clean(og_meta(side, "og:title")) or title
+            m = DSU_AJOUR_RE.search(side)
+            if m:
+                dato = plausible_date(find_date(m.group(1)) or "")
+            if not dato:
+                # og:updated_time staar som 15.06.2026 06.39.02
+                u = og_meta(side, "og:updated_time")
+                d = re.match(r"(\d{2})\.(\d{2})\.((?:19|20)\d{2})", u)
+                if d:
+                    dato = plausible_date(f"{d.group(3)}-{d.group(2)}-{d.group(1)}")
+        except Exception as e:  # noqa: BLE001
+            note_ai_error(f"dansksejlunion: {url}: {type(e).__name__}: {e}")
+
+        if len(title) < 12:
+            continue
+        ud.append({"key": host_of(url) + path.rstrip("/"), "source": label,
+                   "date": dato, "title": title, "url": url})
+        if len(ud) >= MAX_PER_GENERIC_SOURCE:
+            break
+    return ud
+
+
 DT_NOT_ARTICLES = {
     "nyhedsbrev-fra-marinaguide", "nyhedsbrev", "tursejleren", "arrangementer",
     "tips-og-tricks", "bliv-medlem", "medlemsfordele", "kontakt", "om-os",
@@ -440,6 +548,12 @@ def pick_parser(url):
         return parse_marinaguide
     if "dansketursejlere.dk" in h:
         return parse_dansketursejlere
+    if "dansksejlunion.dk" in h:
+        return parse_dansksejlunion
+    # Feed-adresser kendes paa stien, ikke paa domaenet
+    sti = urlparse(url).path.lower()
+    if sti.endswith(("/feed", "/feed/", ".xml", ".rss")) or "feed=" in (urlparse(url).query or ""):
+        return parse_rss
     return parse_generic
 
 

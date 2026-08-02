@@ -42,5 +42,17 @@
  {
   "url": "https://havneguide.dk",
   "label": "Havneguide"
+ },
+ {
+  "url": "https://dansksejlunion.dk/nyheder",
+  "label": "Dansk Sejlunion"
+ },
+ {
+  "url": "https://baadbladet.dk/feed/",
+  "label": "Bådbladet"
+ },
+ {
+  "url": "https://boatery.dk/feed/",
+  "label": "Boatery"
  }
 ]
