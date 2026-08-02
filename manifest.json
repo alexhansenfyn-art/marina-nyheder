@@ -1,7 +1,7 @@
 {
   "name": "Marina- og HavneNyheder",
   "short_name": "Marina",
-  "description": "Nyheder om danske marinaer og lystbådehavne – opdateret automatisk hver time.",
+  "description": "Nyheder om danske marinaer og lystbådehavne – opdateret automatisk flere gange om dagen.",
   "lang": "da",
   "start_url": "./index.html",
   "scope": "./",

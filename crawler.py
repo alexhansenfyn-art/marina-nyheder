@@ -739,7 +739,7 @@ def write_feed(items):
         "<title>Marina- og HavneNyheder</title>",
         f"<link>{SITE_URL}</link>",
         "<description>Nyheder om danske marinaer, lystbådehavne og "
-        "gæstehavne. Opdateres automatisk hver time.</description>",
+        "gæstehavne. Opdateres automatisk flere gange om dagen.</description>",
         "<language>da-dk</language>",
         f"<lastBuildDate>{rfc822(nu.strftime('%Y-%m-%d'))}</lastBuildDate>",
         f'<atom:link href="{SITE_URL}feed.xml" rel="self" '
