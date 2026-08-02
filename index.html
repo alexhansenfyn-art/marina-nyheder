@@ -113,14 +113,21 @@
   .searchrow.open { display: flex; }
   .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
   .controls.col { flex-direction: column; align-items: stretch; gap: 6px; }
-  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  /* Afkrydsningsfelter. To spalter, saa hele listen kan ses uden at rulle.
+     Et flueben er utvetydigt: markeret = vises. Farvede knapper kunne
+     laeses som "den jeg sidst trykkede paa" i stedet for "den, der er valgt". */
+  .chips { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px 8px; }
   .chip {
-    display: inline-flex; align-items: center; white-space: nowrap;
-    border: 1px solid var(--border2); background: var(--card); border-radius: 16px; padding: 5px 12px;
+    display: flex; align-items: center; gap: 8px; min-height: 32px; padding: 4px 0;
     font-size: 13px; line-height: 1.25; cursor: pointer; user-select: none; color: var(--text);
     -webkit-tap-highlight-color: transparent;
   }
-  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip input {
+    flex: 0 0 auto; width: 17px; height: 17px; margin: 0;
+    accent-color: var(--accent); cursor: pointer;
+  }
+  .chip span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .chip:hover span { color: var(--accent); }
   .lbl { font-size: 11px; color: var(--muted2); text-transform: uppercase; letter-spacing: .05em; margin-right: 2px; }
   input.search {
     flex: 1; min-width: 160px; border: 1px solid var(--border2); border-radius: 8px;
@@ -131,7 +138,7 @@
   .dd { position: relative; }
   .dd > summary { list-style: none; user-select: none; }
   .ddpanel {
-    position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; min-width: 268px; max-width: 84vw;
+    position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; min-width: 300px; max-width: 88vw;
     background: var(--card); border: 1px solid var(--border2); border-radius: 12px; padding: 12px;
     box-shadow: 0 8px 24px rgba(0,0,0,.14);
     max-height: calc(100vh - 120px); overflow-y: auto; -webkit-overflow-scrolling: touch;
@@ -188,19 +195,16 @@
     .sponsor img { height: 22px; }
     .sponsor > span:first-of-type { font-size: 12px; }
     .sponsorpil { font-size: 14px; }
-    .chip { font-size: 12px; padding: 6px 11px; }
     input.search { width: 100%; flex: 1 1 100%; font-size: 16px; }
     .card .title { font-size: 14px; }
     .ghead { margin: 14px 0 6px 2px; }
-    /* Emner: alle synlige på én skærm – chips fylder rækkerne ud, ingen scroll */
-    .ddpanel .chips { gap: 5px; }
-    .ddpanel .chip {
-      flex: 1 1 auto; justify-content: center; font-size: 12px;
-      padding: 7px 8px; min-height: 32px;
-    }
+    /* Alle emner og kilder skal kunne ses på én skærm uden at rulle */
+    .ddpanel .chip { font-size: 12px; gap: 7px; min-height: 30px; }
   }
+  /* Under 360px er der ikke plads til to spalter uden at navnene
+     bliver klippet af, så går den ned i én. */
   @media (max-width: 360px) {
-    .ddpanel .chip { font-size: 11px; padding: 7px 6px; letter-spacing: -.01em; }
+    .ddpanel .chips { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -327,8 +331,6 @@
 (function(){
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
-  var CAT_ORDER = ["Havnepriser","Havneliv","Sikkerhed","Kapsejlads","Tursejlads",
-                   "Udstyr & både","Jubilæum","Andet"];
   var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "" };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
@@ -440,22 +442,31 @@
     io.observe(s);
   }
 
+  // Rigtige afkrydsningsfelter i en <label>, så både fluebenet og teksten
+  // kan trykkes, og så skærmlæsere og tastatur virker uden ekstra kode.
   function buildChips(holderId, values, offMap) {
     var holder = document.getElementById(holderId);
     holder.innerHTML = "";
     values.forEach(function(v){
-      var ch = document.createElement("span");
-      ch.className = "chip" + (offMap[v] ? "" : " on");
-      ch.setAttribute("role", "checkbox");
-      ch.textContent = v;
-      ch.addEventListener("click", function(){
-        offMap[v] = !offMap[v];
-        ch.classList.toggle("on", !offMap[v]);
-        ch.setAttribute("aria-checked", String(!offMap[v]));
+      var lab = document.createElement("label");
+      lab.className = "chip";
+      lab.title = v;               // hele navnet, hvis spalten klipper det af
+
+      var box = document.createElement("input");
+      box.type = "checkbox";
+      box.checked = !offMap[v];
+
+      var txt = document.createElement("span");
+      txt.textContent = v;
+
+      box.addEventListener("change", function(){
+        offMap[v] = !box.checked;
         savePrefs(); updateFilterDot(); render();
       });
-      ch.setAttribute("aria-checked", String(!offMap[v]));
-      holder.appendChild(ch);
+
+      lab.appendChild(box);
+      lab.appendChild(txt);
+      holder.appendChild(lab);
     });
   }
 
@@ -587,10 +598,10 @@
         if (it.cat) seenC[it.cat] = true;
         if (it.source) seenS[it.source] = true;
       });
-      state.cats = CAT_ORDER.filter(function(c){ return seenC[c]; });
-      state.sources = Object.keys(seenS).sort(function(a, b){
-        return a.localeCompare(b, "da");
-      });
+      // Alfabetisk, dansk sortering: æ, ø og å kommer bagerst som de skal.
+      function daSort(a, b) { return a.localeCompare(b, "da"); }
+      state.cats = Object.keys(seenC).sort(daSort);
+      state.sources = Object.keys(seenS).sort(daSort);
       var antal = document.getElementById("antal");
       if (antal) antal.textContent = state.items.length;
       visOpdateret(data.generated);
