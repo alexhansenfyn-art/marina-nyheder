@@ -128,7 +128,10 @@
   }
   .chip span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .chip:hover span { color: var(--accent); }
-  .lbl { font-size: 11px; color: var(--muted2); text-transform: uppercase; letter-spacing: .05em; margin-right: 2px; }
+  .lbl {
+    font-size: 11px; font-weight: 700; color: var(--muted);
+    text-transform: uppercase; letter-spacing: .05em; margin-right: 2px;
+  }
   input.search {
     flex: 1; min-width: 160px; border: 1px solid var(--border2); border-radius: 8px;
     padding: 7px 10px; font-size: 13px; background: var(--card); color: var(--text);
