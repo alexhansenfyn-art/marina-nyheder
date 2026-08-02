@@ -911,6 +911,58 @@ def check_sources(items):
     return doede
 
 
+# ---- Døde links --------------------------------------------------------
+# Vi gemmer kun overskrift, resumé, dato og et link - aldrig selve artiklen.
+# Fjerner kilden artiklen, er der intet at falde tilbage på, og kortet på
+# siden bliver et blindt link. Derfor tjekkes en portion links hver kørsel.
+LINK_CHECK_PER_RUN = 40    # antal links der tjekkes pr. kørsel
+LINK_CHECK_INTERVAL = 30   # dage mellem to tjek af samme link
+LINK_MIN_AGE_DAYS = 7      # helt nye artikler får fred: kilder flytter rundt
+
+
+def link_er_vaek(url):
+    """Kun et klart 'findes ikke' tæller. Timeout, 403 og serverfejl kan være
+    forbigående, og en artikel må ikke ryge, fordi kilden havde en dårlig dag."""
+    for metode in (requests.head, requests.get):
+        try:
+            r = metode(url, headers=HEADERS, timeout=15, allow_redirects=True)
+        except Exception:  # noqa: BLE001
+            return False
+        if r.status_code in (404, 410):
+            return True
+        if r.status_code < 400:
+            return False
+    return False
+
+
+def fjern_doede_links(items):
+    """Tjek en portion links og smid dem ud, kilden har fjernet.
+    Feltet 'tjek' husker hvornår hvert link sidst blev set efter."""
+    idag = datetime.now(timezone.utc).date()
+    forfalden = (idag - timedelta(days=LINK_CHECK_INTERVAL)).isoformat()
+    ung = (idag - timedelta(days=LINK_MIN_AGE_DAYS)).isoformat()
+
+    kandidater = [it for it in items
+                  if (it.get("date") or "9999") <= ung
+                  and (it.get("tjek") or "") <= forfalden]
+    # Dem der aldrig er tjekket, og ellers de længst uberørte, kommer først
+    kandidater.sort(key=lambda it: it.get("tjek") or "")
+
+    doede = []
+    for it in kandidater[:LINK_CHECK_PER_RUN]:
+        if link_er_vaek(it["url"]):
+            doede.append(it)
+        else:
+            it["tjek"] = idag.isoformat()
+
+    if doede:
+        vaek = {id(x) for x in doede}
+        items[:] = [it for it in items if id(it) not in vaek]
+        for it in doede:
+            print(f"DØDT LINK fjernet: {it['url']}", file=sys.stderr)
+    return len(doede), min(len(kandidater), LINK_CHECK_PER_RUN)
+
+
 def write_sitemap():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -973,6 +1025,7 @@ def main():
     for it in items:
         it.pop("img", None)
 
+    doede, tjekkede = fjern_doede_links(items)
     enriched = enrich_items(items)
 
     out = {
@@ -988,7 +1041,9 @@ def main():
     doede = check_sources(items)
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
           f"{enriched} AI-beriget, "
-          f"{prerendered} skrevet i HTML, {len(errors)} fejl")
+          f"{prerendered} skrevet i HTML, "
+          f"{tjekkede} links tjekket, {doede} d\u00f8de fjernet, "
+          f"{len(errors)} fejl")
     if doede:
         print("VAGTHUND: kilder uden nyheder i "
               f"{STALE_DAYS} dage: " + ", ".join(sorted({d[0] for d in doede})))
