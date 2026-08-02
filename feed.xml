@@ -3,10 +3,17 @@
 <channel>
 <title>Marina- og HavneNyheder</title>
 <link>https://marinanyheder.dk/</link>
-<description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk hver time.</description>
+<description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Sat, 01 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Kommentar: Når selv de stærkeste kæmper...</title>
+<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34290-kommentar-nar-selv-de-staerkeste-kaemper-markedet-er-svaert-men-mulighederne-storre-end-laenge</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34290-kommentar-nar-selv-de-staerkeste-kaemper-markedet-er-svaert-men-mulighederne-storre-end-laenge</guid>
+<pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
+<description>X-Yachts har igen underskud og flytter produktion til Polen. Artiklen analyserer bådbranchens generelle udfordringer med faldende salg og økonomisk usikkerhed. (Kilde: Bådmagasinet)</description>
+</item>
 <item>
 <title>Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper</title>
 <link>https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/</link>
@@ -155,18 +162,18 @@
 <description>Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer. (Kilde: Minbåd.dk)</description>
 </item>
 <item>
-<title>Nyt samtalespil skal skabe stærkere fællesskaber ombord</title>
-<link>https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/</link>
-<guid isPermaLink="true">https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/</guid>
-<pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-<description>Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord. (Kilde: Danske Tursejlere)</description>
-</item>
-<item>
 <title>Dramatisk eftersøgning i Hanstholm: Tysk surfer fundet i god behold</title>
 <link>https://www.baadmagasinet.dk/nyheder/kortnyt/34304-dramatisk-eftersogning-i-hanstholm-tysk-surfer-fundet-i-god-behold</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34304-dramatisk-eftersogning-i-hanstholm-tysk-surfer-fundet-i-god-behold</guid>
 <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
 <description>En 61-årig tysk surfer udløste en stor eftersøgning ud for Hanstholm, men blev fundet i god behold sent på aftenen. (Kilde: Bådmagasinet)</description>
+</item>
+<item>
+<title>Nyt samtalespil skal skabe stærkere fællesskaber ombord</title>
+<link>https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/</link>
+<guid isPermaLink="true">https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/</guid>
+<pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+<description>Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord. (Kilde: Danske Tursejlere)</description>
 </item>
 <item>
 <title>Nyt og hyggeligt spil skal skabe stærkere fællesskaber om bord</title>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/23/july/article/gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade/</guid>
 <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
 <description>Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande. (Kilde: Minbåd.dk)</description>
-</item>
-<item>
-<title>Flere efterladte bådvrag - lovpligtig ansvarsforsikring er løsningen</title>
-<link>https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/</link>
-<guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/</guid>
-<pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-<description>Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet. (Kilde: Minbåd.dk)</description>
 </item>
 </channel>
 </rss>
