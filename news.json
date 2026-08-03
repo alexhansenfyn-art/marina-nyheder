@@ -1,9 +1,8 @@
 {
- "generated": "2026-08-03T12:40:31+00:00",
- "count": 293,
+ "generated": "2026-08-03T19:00:46+00:00",
+ "count": 294,
  "errors": [
-  "https://baadbladet.dk/feed/: 429 Client Error: Too Many Requests for url: https://baadbladet.dk/feed/",
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "https://baadbladet.dk/feed/: 429 Client Error: Too Many Requests for url: https://baadbladet.dk/feed/"
  ],
  "items": [
   {
@@ -16,11 +15,22 @@
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne."
   },
   {
+   "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-03",
+   "title": "Sæt kurs mod en kulinarisk parferie i Mariager Fjord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
+   "cat": "Havneliv",
+   "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro."
+  },
+  {
    "key": "1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-08-03",
    "title": "1.000 unge sejlere samles til dobbelt-VM i Aarhus",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus/",
+   "cat": "Kapsejlads",
+   "sum": "Aarhus er vært for ungdoms-VM i ILCA 4 og ILCA 6 med op mod 1.000 sejlere fra 51 nationer i august 2026. Det er første gang, de to mesterskaber afholdes direkte efter hinanden i byen."
   },
   {
    "key": "baadmagasinet-34311",
@@ -50,15 +60,6 @@
    "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk."
   },
   {
-   "key": "her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor",
-   "source": "Minbåd.dk",
-   "date": "2026-08-02",
-   "title": "Kvinder klarede selv havari i Albin Vega",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor/",
-   "cat": "Sikkerhed",
-   "sum": "To kvinder fik problemer med riggen på en Albin Vega nær Helsingør, men nåede selv i havn. Et sallingshorn var knækket, og redningsfolk hjalp med at stabilisere masten, hvorefter de fortsatte mod Sverige."
-  },
-  {
    "key": "mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt",
    "source": "Minbåd.dk",
    "date": "2026-08-02",
@@ -66,6 +67,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt/",
    "cat": "Sikkerhed",
    "sum": "En norsk familie blev ramt af et lastskib ved Tjörn i Sverige. Mor og datter omkom, mens far og søn blev reddet. Den russiske kaptajn er anholdt mistænkt for uagtsomhed."
+  },
+  {
+   "key": "her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor",
+   "source": "Minbåd.dk",
+   "date": "2026-08-02",
+   "title": "Kvinder klarede selv havari i Albin Vega",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor/",
+   "cat": "Sikkerhed",
+   "sum": "To kvinder fik problemer med riggen på en Albin Vega nær Helsingør, men nåede selv i havn. Et sallingshorn var knækket, og redningsfolk hjalp med at stabilisere masten, hvorefter de fortsatte mod Sverige."
   },
   {
    "key": "baadmagasinet-34290",
@@ -248,15 +258,6 @@
    "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   },
   {
-   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer."
-  },
-  {
    "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
    "source": "Minbåd.dk",
    "date": "2026-07-28",
@@ -264,6 +265,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
    "cat": "Kapsejlads",
    "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog."
+  },
+  {
+   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer."
   },
   {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -302,16 +312,6 @@
    "sum": "Den tyske JV52 Haspa Hamburg sætter ny rekord i Garmin Round Denmark Race med en tid på 85 timer 33 minutter og 34 sekunder, en forbedring på over 5 timer."
   },
   {
-   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
-   "cat": "Sikkerhed",
-   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
-   "tjek": "2026-08-03"
-  },
-  {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -319,6 +319,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-08-03"
+  },
+  {
+   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
+   "cat": "Sikkerhed",
+   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
    "tjek": "2026-08-03"
   },
   {
@@ -818,7 +828,8 @@
    "title": "Find nærmeste havn på få sekunder på havneguide.dk",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk/",
    "cat": "Tursejlads",
-   "sum": "FLID har lanceret en ny kortfunktion på Havneguide.dk, der gør det nemt for sejlere at finde nærmeste havn og faciliteter via mobil, tablet eller computer."
+   "sum": "FLID har lanceret en ny kortfunktion på Havneguide.dk, der gør det nemt for sejlere at finde nærmeste havn og faciliteter via mobil, tablet eller computer.",
+   "tjek": "2026-08-03"
   },
   {
    "key": "politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok",
@@ -827,7 +838,8 @@
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
    "cat": "Sikkerhed",
-   "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag."
+   "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag.",
+   "tjek": "2026-08-03"
   },
   {
    "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
@@ -836,7 +848,8 @@
    "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
    "cat": "Udstyr & både",
-   "sum": "Motorbaadsnyt.dk tester den tyrkiskbyggede luksusyacht Sirena 60 til 23 mio. kr. på Aarhus Bugt og roser byggekvalitet, komfort og sejlegenskaber."
+   "sum": "Motorbaadsnyt.dk tester den tyrkiskbyggede luksusyacht Sirena 60 til 23 mio. kr. på Aarhus Bugt og roser byggekvalitet, komfort og sejlegenskaber.",
+   "tjek": "2026-08-03"
   },
   {
    "key": "baadmagasinet-34273",
