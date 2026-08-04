@@ -1,8 +1,35 @@
 {
- "generated": "2026-08-04T08:10:00+00:00",
- "count": 296,
+ "generated": "2026-08-04T16:25:23+00:00",
+ "count": 299,
  "errors": [],
  "items": [
+  {
+   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+  },
+  {
+   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-04",
+   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
+   "cat": "Andet",
+   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
+  },
+  {
+   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
+   "cat": "Sikkerhed",
+   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning."
+  },
   {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
    "source": "Minbåd.dk",
@@ -14,10 +41,10 @@
   },
   {
    "key": "brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute",
-   "source": "Motorbådsnyt",
+   "source": "Minbåd.dk",
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne."
   },
@@ -29,6 +56,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34308-ny-sensor-ved-avernako-havn-giver-sejlere-live-data-om-vanddybde-og-bolger",
    "cat": "Sikkerhed",
    "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
+  },
+  {
+   "key": "baadmagasinet-34316",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Sejlsporten har mistet sin største fotograf",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34316-sejlsporten-har-mistet-sin-storste-fotograf",
+   "cat": "Andet",
+   "sum": "Mindeord om den italienske sejlsportsfotograf Carlo Borlenghi, der er gået bort. Han dokumenterede verdens største kapsejladser i næsten 50 år."
   },
   {
    "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
@@ -265,16 +301,6 @@
    "sum": "55 bevaringsværdige sejlskibe deltog i årets Fyn Rundt, der trods vejrændringer blev en festlig afslutning i Svendborg."
   },
   {
-   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
-   "tjek": "2026-08-04"
-  },
-  {
    "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
    "source": "Minbåd.dk",
    "date": "2026-07-28",
@@ -282,6 +308,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
    "cat": "Kapsejlads",
    "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog.",
+   "tjek": "2026-08-04"
+  },
+  {
+   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
    "tjek": "2026-08-04"
   },
   {
@@ -821,7 +857,8 @@
    "title": "Sommerhavne: På Nyord må byens gæster droppe bilen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/july/article/sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen/",
    "cat": "Havneliv",
-   "sum": "Nyord Havn er en lille, charmerende havn på en fredet ø med få faciliteter, men unik natur og ro. Sejlere roser den billige pris og hyggelige atmosfære."
+   "sum": "Nyord Havn er en lille, charmerende havn på en fredet ø med få faciliteter, men unik natur og ro. Sejlere roser den billige pris og hyggelige atmosfære.",
+   "tjek": "2026-08-04"
   },
   {
    "key": "anholt-igen-samlingspunkt-for-solo-og-doublehandsejlere-start-fra-egen-havn",
@@ -830,7 +867,8 @@
    "title": "Anholt igen samlingspunkt for solo- og doublehandsejlere - start fra egen havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/july/article/anholt-igen-samlingspunkt-for-solo-og-doublehandsejlere-start-fra-egen-havn/",
    "cat": "Sikkerhed",
-   "sum": "Anholt Lone Star arrangement den 20. august samler solo- og doublehandsejlere med fokus på godt sømandskab, sikkerhed og erfaringsudveksling. Deltagerne starter fra egen havn og sejler mod Anholt."
+   "sum": "Anholt Lone Star arrangement den 20. august samler solo- og doublehandsejlere med fokus på godt sømandskab, sikkerhed og erfaringsudveksling. Deltagerne starter fra egen havn og sejler mod Anholt.",
+   "tjek": "2026-08-04"
   },
   {
    "key": "dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app",
@@ -839,7 +877,8 @@
    "title": "På My Maritime app er dit speedbådbevis og andre digitale beviser",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/",
    "cat": "Sikkerhed",
-   "sum": "Artiklen beskriver, hvordan man kan bruge My Maritime app til at vise digitale beviser som speedbådbevis, og nævner bøder for manglende redningsvest og VHF-certifikat."
+   "sum": "Artiklen beskriver, hvordan man kan bruge My Maritime app til at vise digitale beviser som speedbådbevis, og nævner bøder for manglende redningsvest og VHF-certifikat.",
+   "tjek": "2026-08-04"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -1446,15 +1485,6 @@
    "sum": "Danske Tursejlere og samarbejdspartnere lancerer konkurrencen 'Årets Havn 2026', hvor sejlere kan stemme på deres favorithavn fra 15. juni til 30. september. Vinderen offentliggøres på FLIDs Havnemesse i november."
   },
   {
-   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
-   "source": "Minbåd.dk",
-   "date": "2026-06-15",
-   "title": "Hvilken havn fortjener din stemme? Jagten på Årets Havn 2026 begynder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/june/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
-  },
-  {
    "key": "sommerhavne-hundested-bornenes-favorit",
    "source": "Motorbådsnyt",
    "date": "2026-06-15",
@@ -1769,6 +1799,15 @@
    "sum": "En norsk video giver tips til korrekt ankring: gå op i vinden, bak langsomt, tag pejling, og sørg for tovlængde på 3-4 gange dybden."
   },
   {
+   "key": "efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark",
+   "source": "Minbåd.dk",
+   "date": "2026-05-18",
+   "title": "Efter 20 procents stigning er Samsø 5. dyreste gæstehavn i Danmark",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/may/article/efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark/",
+   "cat": "Havnepriser",
+   "sum": "Samsøs gæstehavn er efter en prisstigning på 20% blevet den 5. dyreste i Danmark, hvilket får flere sejlere til at overveje at reducere deres besøg."
+  },
+  {
    "key": "dick-turpin-stik-gor-det-let-at-forlade-havnen-da-knobet-losnes-med-et-ryk-se-hvordan-det-bindes0",
    "source": "Motorbådsnyt",
    "date": "2026-05-18",
@@ -1776,15 +1815,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/may/article/dick-turpin-stik-gor-det-let-at-forlade-havnen-da-knobet-losnes-med-et-ryk-se-hvordan-det-bindes0/",
    "cat": "Sikkerhed",
    "sum": "Artiklen forklarer, hvordan man binder et Dick Turpin-stik, et midlertidigt stik til hurtig frigørelse, når man sejler alene ud af havnen."
-  },
-  {
-   "key": "efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark",
-   "date": "2026-05-18",
-   "title": "Efter 20 procents stigning er Samsø 5. dyreste gæstehavn i Danmark",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/may/article/efter-20-procents-stigning-er-samsoe-5-dyreste-gaestehavn-i-danmark/",
-   "source": "Minbåd.dk",
-   "cat": "Havnepriser",
-   "sum": "Samsøs gæstehavn er efter en prisstigning på 20% blevet den 5. dyreste i Danmark, hvilket får flere sejlere til at overveje at reducere deres besøg."
   },
   {
    "key": "fortoejning-er-ikke-bare-fortoejning-bloed-line-med-hoej-slidstyrke-fra-robline",
