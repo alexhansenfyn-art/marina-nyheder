@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-04T16:25:23+00:00",
- "count": 299,
+ "generated": "2026-08-04T21:01:00+00:00",
+ "count": 301,
  "errors": [],
  "items": [
   {
@@ -58,6 +58,15 @@
    "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
   },
   {
+   "key": "baadmagasinet-34317",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Copenhagen Boat Show præsenterer nogle af sommerens mest omtalte både",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34317-copenhagen-boat-show-praesenterer-nogle-af-sommerens-mest-omtalte-bade",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum med gratis adgang og udstiller bl.a. kapsejladssbåden First 36 og motorkatamaranen Aquila 42 Coupé."
+  },
+  {
    "key": "baadmagasinet-34316",
    "source": "Bådmagasinet",
    "date": "2026-08-04",
@@ -65,6 +74,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34316-sejlsporten-har-mistet-sin-storste-fotograf",
    "cat": "Andet",
    "sum": "Mindeord om den italienske sejlsportsfotograf Carlo Borlenghi, der er gået bort. Han dokumenterede verdens største kapsejladser i næsten 50 år."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-04",
+   "title": "Hj&#xE6;lp kloden p&#xE5; World Clean Up Day",
+   "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "cat": "Havneliv",
+   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
   },
   {
    "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
