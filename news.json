@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-05T13:11:45+00:00",
- "count": 305,
+ "generated": "2026-08-05T18:15:13+00:00",
+ "count": 307,
  "errors": [],
  "items": [
   {
@@ -11,6 +11,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
    "cat": "Sikkerhed",
    "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
+  },
+  {
+   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-05",
+   "title": "Motorbåd røg af trailer og ramte trækkende bil",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
   },
   {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
@@ -31,6 +40,15 @@
    "sum": "Nexø Havn er forvandlet fra fiskerihavn til populær lystbådehavn med flere og større gæstebåde. Havnedirektøren mærker en klar tendens mod længere ophold og højere indtjening."
   },
   {
+   "key": "baadmagasinet-34320",
+   "source": "Bådmagasinet",
+   "date": "2026-08-05",
+   "title": "VM i H-båd skydes i gang – kan Claus Høj-Jensen gå hele vejen?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34320-vm-i-h-bad-skydes-i-gang-kan-claus-hoj-jensen-ga-hele-vejen",
+   "cat": "Kapsejlads",
+   "sum": "VM i H-båd er i gang i Stenungsund, Sverige, med 57 både fra ni nationer. Danske Claus Høj-Jensen jagter sin 11. titel mod forsvarende mester Flavio Favini."
+  },
+  {
    "key": "baadmagasinet-34319",
    "source": "Bådmagasinet",
    "date": "2026-08-05",
@@ -38,15 +56,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34319-em-far-og-son-to-generationer-pa-samme-bane",
    "cat": "Kapsejlads",
    "sum": "Danmark deltager med fire sejlere ved EM i Europe-jolle i Biscarrosse, hvor Jesper Dietz og sønnen Eske Dietz konkurrerer i hver deres mesterskab. Stævnet blev truet af skovbrande, men gennemføres som planlagt."
-  },
-  {
-   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-04",
-   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
   },
   {
    "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
@@ -83,6 +92,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne."
+  },
+  {
+   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
+   "cat": "Andet",
+   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
   },
   {
    "key": "baadmagasinet-34308",
@@ -139,15 +157,6 @@
    "sum": "Aarhus er vært for ungdoms-VM i ILCA 4 og ILCA 6 med op mod 1.000 sejlere fra 51 nationer i august 2026. Det er første gang, de to mesterskaber afholdes direkte efter hinanden i byen."
   },
   {
-   "key": "baadmagasinet-34311",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Kom nu ud af starthullerne - DH-DM kalder...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34311-kom-nu-ud-af-starthullerne-dh-dm-kalder",
-   "cat": "Kapsejlads",
-   "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både."
-  },
-  {
    "key": "baadmagasinet-34314",
    "source": "Bådmagasinet",
    "date": "2026-08-03",
@@ -164,6 +173,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34312-vil-sla-verdensrekord-i-kobenhavns-havn-jagter-mere-end-1-105-kajakker-til-kaempe-parade",
    "cat": "Havneliv",
    "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk."
+  },
+  {
+   "key": "baadmagasinet-34311",
+   "source": "Bådmagasinet",
+   "date": "2026-08-03",
+   "title": "Kom nu ud af starthullerne - DH-DM kalder...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34311-kom-nu-ud-af-starthullerne-dh-dm-kalder",
+   "cat": "Kapsejlads",
+   "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både."
   },
   {
    "key": "mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt",
