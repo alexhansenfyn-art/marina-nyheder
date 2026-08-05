@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-05T06:45:04+00:00",
- "count": 303,
+ "generated": "2026-08-05T13:11:45+00:00",
+ "count": 305,
  "errors": [],
  "items": [
+  {
+   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
+   "source": "Minbåd.dk",
+   "date": "2026-08-05",
+   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
+   "cat": "Sikkerhed",
+   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
+  },
   {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
    "source": "Minbåd.dk",
@@ -22,6 +31,15 @@
    "sum": "Nexø Havn er forvandlet fra fiskerihavn til populær lystbådehavn med flere og større gæstebåde. Havnedirektøren mærker en klar tendens mod længere ophold og højere indtjening."
   },
   {
+   "key": "baadmagasinet-34319",
+   "source": "Bådmagasinet",
+   "date": "2026-08-05",
+   "title": "EM: Far og søn – to generationer på samme bane",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34319-em-far-og-son-to-generationer-pa-samme-bane",
+   "cat": "Kapsejlads",
+   "sum": "Danmark deltager med fire sejlere ved EM i Europe-jolle i Biscarrosse, hvor Jesper Dietz og sønnen Eske Dietz konkurrerer i hver deres mesterskab. Stævnet blev truet af skovbrande, men gennemføres som planlagt."
+  },
+  {
    "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
    "source": "Motorbådsnyt",
    "date": "2026-08-04",
@@ -31,15 +49,6 @@
    "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
   },
   {
-   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
-  },
-  {
    "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
    "source": "Minbåd.dk",
    "date": "2026-08-04",
@@ -47,6 +56,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
    "cat": "Sikkerhed",
    "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning."
+  },
+  {
+   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
   },
   {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
@@ -292,16 +310,6 @@
    "sum": "Norsk ekstremsejler Erik Aanderaa sejler mod Kvitøya i Arktis og deler sin nervepirrende færd på sociale medier efter dramatisk møde med iskanten."
   },
   {
-   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
-   "source": "Minbåd.dk",
-   "date": "2026-07-29",
-   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
-   "cat": "Andet",
-   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
-   "tjek": "2026-08-05"
-  },
-  {
    "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
    "source": "Minbåd.dk",
    "date": "2026-07-29",
@@ -312,11 +320,21 @@
    "tjek": "2026-08-05"
   },
   {
-   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
+   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
    "source": "Minbåd.dk",
    "date": "2026-07-29",
+   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
+   "cat": "Andet",
+   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
+   "tjek": "2026-08-05"
+  },
+  {
+   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-29",
    "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
    "cat": "Havneliv",
    "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning.",
    "tjek": "2026-08-05"
@@ -878,7 +896,8 @@
    "title": "Sygeplejerske i husbåd slipper med 3.100 kroner i husleje",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje/",
    "cat": "Havneliv",
-   "sum": "Sygeplejerske Anna bor på husbåd i en kanal, betaler ca. 3.100 kr. om måneden, og fortæller om fordele og ulemper ved livet på vandet."
+   "sum": "Sygeplejerske Anna bor på husbåd i en kanal, betaler ca. 3.100 kr. om måneden, og fortæller om fordele og ulemper ved livet på vandet.",
+   "tjek": "2026-08-05"
   },
   {
    "key": "farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind",
@@ -887,7 +906,8 @@
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
    "cat": "Sikkerhed",
-   "sum": "Artiklen advarer om sikkerhedsrisici ved SUP i fralandsvind og opfordrer til grundig forberedelse, kurser og korrekt udstyr som svømmevest og leash."
+   "sum": "Artiklen advarer om sikkerhedsrisici ved SUP i fralandsvind og opfordrer til grundig forberedelse, kurser og korrekt udstyr som svømmevest og leash.",
+   "tjek": "2026-08-05"
   },
   {
    "key": "sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen",
