@@ -1,8 +1,35 @@
 {
- "generated": "2026-08-06T08:06:39+00:00",
- "count": 309,
- "errors": [],
+ "generated": "2026-08-07T01:46:29+00:00",
+ "count": 314,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
+   "cat": "Tursejlads",
+   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil."
+  },
+  {
+   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-06",
+   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
+   "cat": "Sikkerhed",
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
+  },
+  {
+   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/"
+  },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
@@ -22,13 +49,31 @@
    "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
   },
   {
-   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
-   "source": "Motorbådsnyt",
+   "key": "baadmagasinet-34318",
+   "source": "Bådmagasinet",
+   "date": "2026-08-06",
+   "title": "Sjældent vejrfænomen ramte Nordsøen: Fisker filmer 'meteotsunami'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34318-sjaeldent-vejrfaenomen-ramte-nordsoen-fisker-filmer-meteotsunami",
+   "cat": "Andet",
+   "sum": "En fisker ved Hanstholm filmede en sjælden meteotsunami, en bølge forårsaget af pludselige trykændringer. Fænomenet er ufarligt i Danmark."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "N&#xE5;r sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "cat": "Andet",
+   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
+  },
+  {
+   "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
+   "source": "Minbåd.dk",
    "date": "2026-08-05",
-   "title": "Motorbåd røg af trailer og ramte trækkende bil",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
+   "title": "Klassiske 12mR-både trak mange tilskuere til Gilleleje",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
+   "cat": "Kapsejlads",
+   "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen."
   },
   {
    "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
@@ -40,13 +85,13 @@
    "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
   },
   {
-   "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
+   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
    "source": "Minbåd.dk",
    "date": "2026-08-05",
-   "title": "Klassiske 12mR-både trak mange tilskuere til Gilleleje",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
-   "cat": "Kapsejlads",
-   "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen."
+   "title": "Motorbåd røg af trailer og ramte trækkende bil",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
   },
   {
    "key": "baadmagasinet-34315",
@@ -271,7 +316,8 @@
    "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
    "cat": "Sikkerhed",
-   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning."
+   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt",
@@ -280,7 +326,8 @@
    "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt - nu video",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
    "cat": "Kapsejlads",
-   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus."
+   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34310",
@@ -289,7 +336,8 @@
    "title": "The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord",
    "cat": "Kapsejlads",
-   "sum": "The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster."
+   "sum": "The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34309",
@@ -298,7 +346,8 @@
    "title": "Spækhuggere angriber fire sejlbåde på én dag – én sank",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34309-spaekhuggere-angriber-fire-sejlbade-pa-en-dag-en-sank",
    "cat": "Sikkerhed",
-   "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene."
+   "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
@@ -308,7 +357,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe/",
    "cat": "Sikkerhed",
    "sum": "En solosejler i en Hallberg-Rassy sank efter grundstødning ud for Bretagne. Skipperen blev reddet af fransk marinehelikopter efter at have søgt tilflugt på en klippe.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -318,17 +367,17 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
    "cat": "Udstyr & både",
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "motorbaade-har-to-oekonomiske-fartomraader",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-07-30",
    "title": "Motorbåde har to økonomiske fartområder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
    "cat": "Andet",
    "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34305",
@@ -358,7 +407,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign/",
    "cat": "Andet",
    "sum": "Bådekonstruktør Lars Olsen fylder 70 år. Han har sat markante spor i dansk og nordisk sejlsport med ikoniske både som L23 og CDE 850.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
@@ -368,7 +417,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
    "cat": "Andet",
    "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
@@ -378,7 +427,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
    "cat": "Havneliv",
    "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34296",
@@ -408,7 +457,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
    "cat": "Kapsejlads",
    "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
@@ -418,7 +467,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
    "cat": "Kapsejlads",
    "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
@@ -428,7 +477,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
    "cat": "Tursejlads",
    "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -438,7 +487,7 @@
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34304",
@@ -478,7 +527,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
@@ -488,7 +537,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
    "cat": "Sikkerhed",
    "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
@@ -498,7 +547,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
@@ -508,7 +557,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
    "cat": "Andet",
    "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34293",
@@ -548,7 +597,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
    "cat": "Kapsejlads",
    "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
@@ -558,7 +607,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
@@ -568,7 +617,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34295",
@@ -598,7 +647,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet/",
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race",
@@ -608,7 +657,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race/",
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34289",
@@ -648,7 +697,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
    "cat": "Havneliv",
    "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
@@ -658,7 +707,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/",
    "cat": "Kapsejlads",
    "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
@@ -668,7 +717,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
    "cat": "Havnepriser",
    "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -678,7 +727,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
@@ -688,7 +737,7 @@
    "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "cat": "Sikkerhed",
    "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "havneguide.dk/baadpladser",
@@ -698,7 +747,7 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Artiklen omhandler salg og udlejning af bådpladser i danske havne.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade",
@@ -708,7 +757,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade/",
    "cat": "Tursejlads",
    "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen",
@@ -718,7 +767,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/",
    "cat": "Sikkerhed",
    "sum": "Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
@@ -728,37 +777,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
    "cat": "Sikkerhed",
    "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare.",
-   "tjek": "2026-08-06"
-  },
-  {
-   "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Granada 31 sælges for 5.000 kroner efter grundstødning",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/granada-31-saelges-for-5000-kroner-efter-grundstoedning/",
-   "cat": "Udstyr & både",
-   "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport.",
-   "tjek": "2026-08-06"
-  },
-  {
-   "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Miljøvenlig Hanse 410 vinder tysk pris som årets sejlbåd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
-   "cat": "Udstyr & både",
-   "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept.",
-   "tjek": "2026-08-06"
-  },
-  {
-   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "8-årig pige drev til havs på paddleboard",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
-   "cat": "Sikkerhed",
-   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus",
@@ -768,7 +787,37 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus/",
    "cat": "Kapsejlads",
    "sum": "21 både deltager i Garmin Round Denmark Race 2026, der starter den 24. juli fra Aarhus og strækker sig over 680 sømil omkring Danmark.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "Granada 31 sælges for 5.000 kroner efter grundstødning",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/granada-31-saelges-for-5000-kroner-efter-grundstoedning/",
+   "cat": "Udstyr & både",
+   "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport.",
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "Miljøvenlig Hanse 410 vinder tysk pris som årets sejlbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
+   "cat": "Udstyr & både",
+   "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept.",
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "8-årig pige drev til havs på paddleboard",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
+   "cat": "Sikkerhed",
+   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
@@ -778,7 +827,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner en ny ansøgningsrunde for redningsstiger i danske havne. Havne, kommuner og grundejerforeninger kan søge frem til 1. september 2026.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34284",
@@ -791,16 +840,6 @@
    "tjek": "2026-08-02"
   },
   {
-   "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
-   "source": "Minbåd.dk",
-   "date": "2026-07-21",
-   "title": "Sejlbåd har ligget på stranden siden maj – hvem ejer båden?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
-   "cat": "Sikkerhed",
-   "sum": "En sejlbåd har ligget på stranden ved Sliphavn i Nyborg siden maj. Politiet leder efter ejeren, mens vind og bølger spreder inventar langs kysten.",
-   "tjek": "2026-08-06"
-  },
-  {
    "key": "erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig",
    "source": "Minbåd.dk",
    "date": "2026-07-21",
@@ -808,7 +847,17 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig/",
    "cat": "Tursejlads",
    "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
+   "source": "Minbåd.dk",
+   "date": "2026-07-21",
+   "title": "Sejlbåd har ligget på stranden siden maj – hvem ejer båden?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
+   "cat": "Sikkerhed",
+   "sum": "En sejlbåd har ligget på stranden ved Sliphavn i Nyborg siden maj. Politiet leder efter ejeren, mens vind og bølger spreder inventar langs kysten.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
@@ -818,7 +867,7 @@
    "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
    "cat": "Havneliv",
    "sum": "Vedbæk Havn har fået nye hyggelige toilet- og badefaciliteter med skandinavisk design, hvilket har skabt begejstring blandt gæster og faste brugere.",
-   "tjek": "2026-08-06"
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34274",
@@ -847,8 +896,7 @@
    "title": "Myndigheder stopper fynbos tømmerflådetur til Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
    "cat": "Sikkerhed",
-   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn.",
-   "tjek": "2026-08-06"
+   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn."
   },
   {
    "key": "modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade",
@@ -857,8 +905,7 @@
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
    "cat": "Andet",
-   "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier.",
-   "tjek": "2026-08-06"
+   "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier."
   },
   {
    "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
