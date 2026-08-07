@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07T09:44:23+00:00",
- "count": 317,
+ "generated": "2026-08-07T12:04:26+00:00",
+ "count": 318,
  "errors": [],
  "items": [
   {
@@ -20,6 +20,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm/",
    "cat": "Kapsejlads",
    "sum": "Danske mestre ligger nummer fire efter fem sejladser ved Ynglinge-VM i Norge. Jørgen Ring hædret for sit 50. VM i Yngling-klassen."
+  },
+  {
+   "key": "baadmagasinet-34323",
+   "source": "Bådmagasinet",
+   "date": "2026-08-07",
+   "title": "Tag på havsafari i sensommeren: Oplev sæler, marsvin og tun i de danske farvande",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34323-tag-pa-havsafari-i-sensommeren-oplev-saeler-marsvin-og-tun-i-de-danske-farvande",
+   "cat": "Tursejlads",
+   "sum": "Sensommeren byder på naturoplevelser til søs, hvor man kan opleve sæler, marsvin og tun i danske farvande. Artiklen guider til gode steder og ture, herunder tunsafari i Øresund."
   },
   {
    "key": "baadmagasinet-34306",
@@ -943,7 +952,8 @@
    "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
    "cat": "Sikkerhed",
-   "sum": "En 45 fods Princess-motorbåd fik motorproblemer i kuling tæt på T-ruten i Samsøbælt og blev slæbt til Ballen Havn af Dansk Søredningstjeneste."
+   "sum": "En 45 fods Princess-motorbåd fik motorproblemer i kuling tæt på T-ruten i Samsøbælt og blev slæbt til Ballen Havn af Dansk Søredningstjeneste.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "baadmagasinet-34280",
