@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-07T06:02:53+00:00",
- "count": 315,
+ "generated": "2026-08-07T09:44:23+00:00",
+ "count": 317,
  "errors": [],
  "items": [
+  {
+   "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
+   "cat": "Tursejlads",
+   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget."
+  },
+  {
+   "key": "danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Danske mestre presset ved Ynglinge-VM – Jørgen Ring hædret for 50. VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm/",
+   "cat": "Kapsejlads",
+   "sum": "Danske mestre ligger nummer fire efter fem sejladser ved Ynglinge-VM i Norge. Jørgen Ring hædret for sit 50. VM i Yngling-klassen."
+  },
   {
    "key": "baadmagasinet-34306",
    "source": "Bådmagasinet",
@@ -13,15 +31,6 @@
    "sum": "John Mynderup udskiftede sin sejlbåd med vikingeskibet Havhingsten på en uges sommertogt fra Roskilde til Rørvig. Han beskriver oplevelsen som en vidunderlig fornemmelse og en oplevelse for livet."
   },
   {
-   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
-   "cat": "Tursejlads",
-   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil."
-  },
-  {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
    "source": "Motorbådsnyt",
    "date": "2026-08-06",
@@ -29,6 +38,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
    "cat": "Sikkerhed",
    "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
+  },
+  {
+   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
+   "cat": "Tursejlads",
+   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil."
   },
   {
    "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
@@ -319,16 +337,6 @@
    "sum": "Ungdoms-VM i ILCA 4 og 6 afholdes i Aarhus med deltagelse af omkring 1.000 sejlere fra 51 nationer. Danske talenter får hjemmebanefordel."
   },
   {
-   "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
-   "source": "Minbåd.dk",
-   "date": "2026-07-31",
-   "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
-   "cat": "Sikkerhed",
-   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning.",
-   "tjek": "2026-08-07"
-  },
-  {
    "key": "shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt",
    "source": "Minbåd.dk",
    "date": "2026-07-31",
@@ -336,6 +344,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
    "cat": "Kapsejlads",
    "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus.",
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
+   "source": "Minbåd.dk",
+   "date": "2026-07-31",
+   "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
+   "cat": "Sikkerhed",
+   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning.",
    "tjek": "2026-08-07"
   },
   {
@@ -819,16 +837,6 @@
    "tjek": "2026-08-07"
   },
   {
-   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "8-årig pige drev til havs på paddleboard",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
-   "cat": "Sikkerhed",
-   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet.",
-   "tjek": "2026-08-07"
-  },
-  {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
    "source": "Motorbådsnyt",
    "date": "2026-07-22",
@@ -836,6 +844,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner en ny ansøgningsrunde for redningsstiger i danske havne. Havne, kommuner og grundejerforeninger kan søge frem til 1. september 2026.",
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "8-årig pige drev til havs på paddleboard",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
+   "cat": "Sikkerhed",
+   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet.",
    "tjek": "2026-08-07"
   },
   {
@@ -915,7 +933,8 @@
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
    "cat": "Andet",
-   "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier."
+   "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
