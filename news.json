@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-07T20:24:48+00:00",
+ "generated": "2026-08-07T22:28:25+00:00",
  "count": 319,
  "errors": [],
  "items": [
+  {
+   "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
+   "cat": "Tursejlads",
+   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen."
+  },
   {
    "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
    "source": "Minbåd.dk",
@@ -20,15 +29,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm/",
    "cat": "Kapsejlads",
    "sum": "Danske mestre ligger nummer fire efter fem sejladser ved Ynglinge-VM i Norge. Jørgen Ring hædret for sit 50. VM i Yngling-klassen."
-  },
-  {
-   "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
-   "source": "Minbåd.dk",
-   "date": "2026-08-07",
-   "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
-   "cat": "Tursejlads",
-   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen."
   },
   {
    "key": "baadmagasinet-34323",
@@ -795,16 +795,6 @@
    "tjek": "2026-08-07"
   },
   {
-   "key": "gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade",
-   "source": "Minbåd.dk",
-   "date": "2026-07-23",
-   "title": "Gratis Sailserver app viser 17.000 ankerpladser og målinger fra både",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade/",
-   "cat": "Tursejlads",
-   "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande.",
-   "tjek": "2026-08-07"
-  },
-  {
    "key": "flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen",
    "source": "Minbåd.dk",
    "date": "2026-07-23",
@@ -822,6 +812,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
    "cat": "Sikkerhed",
    "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare.",
+   "tjek": "2026-08-07"
+  },
+  {
+   "key": "gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade",
+   "source": "Minbåd.dk",
+   "date": "2026-07-23",
+   "title": "Gratis Sailserver app viser 17.000 ankerpladser og målinger fra både",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade/",
+   "cat": "Tursejlads",
+   "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande.",
    "tjek": "2026-08-07"
   },
   {
@@ -971,7 +971,8 @@
    "title": "En dansk sommerklassiker: Fyldte havne - og debatten koger!",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34280-en-dansk-sommerklassiker-fyldte-havne-og-fendere-klar-til-brug",
    "cat": "Havneliv",
-   "sum": "Artiklen behandler den årlige debat om, hvorvidt man må sige nej til, at andre lægger sig udenpå i fyldte havne, med henvisning til regler og god havneetikette."
+   "sum": "Artiklen behandler den årlige debat om, hvorvidt man må sige nej til, at andre lægger sig udenpå i fyldte havne, med henvisning til regler og god havneetikette.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "ulykkerne-sker-taet-paa-land-reddningsvesten-er-stadig-det-vigtigste-sikkerhedsudstyr-ombord",
