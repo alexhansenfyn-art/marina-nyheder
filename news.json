@@ -1,10 +1,17 @@
 {
- "generated": "2026-08-07T01:46:29+00:00",
- "count": 314,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "generated": "2026-08-07T06:02:53+00:00",
+ "count": 315,
+ "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34306",
+   "source": "Bådmagasinet",
+   "date": "2026-08-07",
+   "title": "Fra Furesøen til Havhingsten: 'Vidunderlig fornemmelse' - anbefaler tur med vikingeskib",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34306-furesoen-til-havhingsten-journalist-anbefaler-tur-med-vikingeskib",
+   "cat": "Tursejlads",
+   "sum": "John Mynderup udskiftede sin sejlbåd med vikingeskibet Havhingsten på en uges sommertogt fra Roskilde til Rørvig. Han beskriver oplevelsen som en vidunderlig fornemmelse og en oplevelse for livet."
+  },
   {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
    "source": "Minbåd.dk",
@@ -28,7 +35,9 @@
    "source": "Minbåd.dk",
    "date": "2026-08-06",
    "title": "Klassiske træskibe fylder Helsingør - kom om bord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
+   "cat": "Havneliv",
+   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum."
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -175,15 +184,6 @@
    "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
   },
   {
-   "key": "baadmagasinet-34317",
-   "source": "Bådmagasinet",
-   "date": "2026-08-04",
-   "title": "Copenhagen Boat Show præsenterer nogle af sommerens mest omtalte både",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34317-copenhagen-boat-show-praesenterer-nogle-af-sommerens-mest-omtalte-bade",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum med gratis adgang og udstiller bl.a. kapsejladssbåden First 36 og motorkatamaranen Aquila 42 Coupé."
-  },
-  {
    "key": "baadmagasinet-34316",
    "source": "Bådmagasinet",
    "date": "2026-08-04",
@@ -200,6 +200,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
+  },
+  {
+   "key": "baadmagasinet-34317",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Copenhagen Boat Show præsenterer nogle af sommerens mest omtalte både",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34317-copenhagen-boat-show-praesenterer-nogle-af-sommerens-mest-omtalte-bade",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum med gratis adgang og udstiller bl.a. kapsejladssbåden First 36 og motorkatamaranen Aquila 42 Coupé."
   },
   {
    "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
@@ -896,7 +905,8 @@
    "title": "Myndigheder stopper fynbos tømmerflådetur til Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
    "cat": "Sikkerhed",
-   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn."
+   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn.",
+   "tjek": "2026-08-07"
   },
   {
    "key": "modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade",
