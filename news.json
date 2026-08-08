@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-08T00:05:22+00:00",
- "count": 319,
+ "generated": "2026-08-08T04:34:00+00:00",
+ "count": 320,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34322",
+   "source": "Bådmagasinet",
+   "date": "2026-08-08",
+   "title": "Skagen: Havnefoged må pakke bådene i op til otte lag",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
+   "cat": "Havneliv",
+   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
+  },
   {
    "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
    "source": "Minbåd.dk",
@@ -945,7 +954,8 @@
    "title": "Myndigheder stopper fynbos tømmerflådetur til Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
    "cat": "Sikkerhed",
-   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn."
+   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn.",
+   "tjek": "2026-08-08"
   },
   {
    "key": "modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade",
