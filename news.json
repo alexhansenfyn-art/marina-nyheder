@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-08T09:58:09+00:00",
- "count": 321,
+ "generated": "2026-08-08T11:49:23+00:00",
+ "count": 323,
  "errors": [],
  "items": [
+  {
+   "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
+   "source": "Minbåd.dk",
+   "date": "2026-08-08",
+   "title": "Det skal der være i værktøjskassen på en sejlbåd? Læserne har talt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/august/article/det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt/",
+   "cat": "Udstyr & både",
+   "sum": "En bådejer havde kun en spisekniv som værktøj. Læsere giver råd om vigtigt værktøj til motor, el og rig, samt gaffatape og strips."
+  },
+  {
+   "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-08",
+   "title": "Videoklip: Her går det helt galt for bådfolket.",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
+   "cat": "Sikkerhed",
+   "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket."
+  },
   {
    "key": "baadmagasinet-34322",
    "source": "Bådmagasinet",
@@ -67,15 +85,6 @@
    "sum": "John Mynderup udskiftede sin sejlbåd med vikingeskibet Havhingsten på en uges sommertogt fra Roskilde til Rørvig. Han beskriver oplevelsen som en vidunderlig fornemmelse og en oplevelse for livet."
   },
   {
-   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-06",
-   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
-   "cat": "Sikkerhed",
-   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
-  },
-  {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -101,6 +110,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
+  },
+  {
+   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
+   "cat": "Sikkerhed",
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
   },
   {
    "key": "baadmagasinet-34321",
@@ -348,10 +366,10 @@
   },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-08-01",
    "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
    "cat": "Tursejlads",
    "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere.",
    "tjek": "2026-08-08"
@@ -1225,15 +1243,6 @@
    "sum": "Artiklen giver 12 tips til par, der sejler sammen, med fokus på kommunikation, roller og at give hinanden plads om bord."
   },
   {
-   "key": "olga-henneberg-blev-bedste-kvinde-ved-contender-vm",
-   "source": "Minbåd.dk",
-   "date": "2026-07-13",
-   "title": "Olga Henneberg blev bedste kvinde ved Contender-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/olga-henneberg-blev-bedste-kvinde-ved-contender-vm/",
-   "cat": "Kapsejlads",
-   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49."
-  },
-  {
    "key": "grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund",
    "source": "Minbåd.dk",
    "date": "2026-07-13",
@@ -1250,6 +1259,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/july/article/moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad/",
    "cat": "Udstyr & både",
    "sum": "Yachtbasen og 56 North viser Sirena 48 i Ballen Havn og Sirena 60 i Båstad i uge 29. Åbent skib dagligt med mulighed for privat fremvisning."
+  },
+  {
+   "key": "olga-henneberg-blev-bedste-kvinde-ved-contender-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-07-13",
+   "title": "Olga Henneberg blev bedste kvinde ved Contender-VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/olga-henneberg-blev-bedste-kvinde-ved-contender-vm/",
+   "cat": "Kapsejlads",
+   "sum": "Olga Henneberg fra Hellerup Sejlklub genvandt titlen som bedste kvindelige Contendersejler ved VM på IJsselmeer, hvor hun sluttede som nummer 49."
   },
   {
    "key": "motorbaad-i-voldsomme-flammer-ved-sluseholmen",
