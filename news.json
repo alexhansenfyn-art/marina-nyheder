@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-08T17:53:43+00:00",
- "count": 323,
+ "generated": "2026-08-08T19:49:05+00:00",
+ "count": 324,
  "errors": [],
  "items": [
   {
@@ -29,6 +29,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
    "cat": "Havneliv",
    "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
+  },
+  {
+   "key": "baadmagasinet-34327",
+   "source": "Bådmagasinet",
+   "date": "2026-08-08",
+   "title": "Gammel kærlighed ruster aldrig – Team Ginger missede VM-podiet med ét sølle point",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34327-gammel-kaerlighed-ruster-aldrig-team-ginger-missede-vm-podiet-med-et-solle-point",
+   "cat": "Kapsejlads",
+   "sum": "Team Ginger missede VM-bronzen med ét point efter diskvalifikation. Bedste danske båd ved Yngling-VM i Norge, hvor værterne tog alle medaljer."
   },
   {
    "key": "baadmagasinet-34324",
