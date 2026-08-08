@@ -1,7 +1,9 @@
 {
- "generated": "2026-08-08T04:34:00+00:00",
- "count": 320,
- "errors": [],
+ "generated": "2026-08-08T07:37:53+00:00",
+ "count": 321,
+ "errors": [
+  "AI: dansksejlunion: https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ ],
  "items": [
   {
    "key": "baadmagasinet-34322",
@@ -11,6 +13,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
    "cat": "Havneliv",
    "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
+  },
+  {
+   "key": "baadmagasinet-34324",
+   "source": "Bådmagasinet",
+   "date": "2026-08-08",
+   "title": "Ungdoms EM: Suveræn sejr til Eske Dietz fra Hellerup Sejlklub",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34324-ungdoms-em-suveraen-sejr-til-eske-dietz-fra-hellerup",
+   "cat": "Kapsejlads",
+   "sum": "Eske Dietz fra Hellerup Sejlklub er blevet ungdoms Europamester efter en suveræn serie på fire førstepladser."
   },
   {
    "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
@@ -115,7 +126,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
-   "title": "N&#xE5;r sejlklubben skal forklare sin identitet",
+   "title": "Når sejlklubben skal forklare sin identitet Nye afgørelser fra Ankestyrelsen og andre principielle sager rejser en række spørgsmål, som fler",
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
