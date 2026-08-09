@@ -1,16 +1,25 @@
 {
- "generated": "2026-08-09T08:03:27+00:00",
- "count": 324,
+ "generated": "2026-08-09T10:07:36+00:00",
+ "count": 326,
  "errors": [],
  "items": [
   {
-   "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
+   "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
    "source": "Minbåd.dk",
-   "date": "2026-08-08",
-   "title": "Det skal der være i værktøjskassen på en sejlbåd - læserne har talt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/august/article/det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt/",
-   "cat": "Udstyr & både",
-   "sum": "En bådejer havde kun en spisekniv som værktøj. Læsere giver råd om vigtigt værktøj til motor, el og rig, samt gaffatape og strips."
+   "date": "2026-08-09",
+   "title": "Italiensk dominans fortsætter – Høj Jensen tog VM-sølv i H-båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
+   "cat": "Kapsejlads",
+   "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk."
+  },
+  {
+   "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
+   "source": "Minbåd.dk",
+   "date": "2026-08-09",
+   "title": "Yngling-VM: Sundby-hold missede bronzen med ét point efter stærkt comeback",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback/",
+   "cat": "Kapsejlads",
+   "sum": "Sundby-holdet missede bronze med ét point ved Yngling-VM efter en tyvstart i første sejlads og en stærk afslutning. De sluttede femte, mens Norge tog alle medaljer."
   },
   {
    "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
@@ -20,6 +29,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
    "cat": "Sikkerhed",
    "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket."
+  },
+  {
+   "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
+   "source": "Minbåd.dk",
+   "date": "2026-08-08",
+   "title": "Det skal der være i værktøjskassen på en sejlbåd - læserne har talt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/august/article/det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt/",
+   "cat": "Udstyr & både",
+   "sum": "En bådejer havde kun en spisekniv som værktøj. Læsere giver råd om vigtigt værktøj til motor, el og rig, samt gaffatape og strips."
   },
   {
    "key": "baadmagasinet-34322",
@@ -49,15 +67,6 @@
    "sum": "Eske Dietz fra Hellerup Sejlklub er blevet ungdoms Europamester efter en suveræn serie på fire førstepladser."
   },
   {
-   "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
-   "source": "Minbåd.dk",
-   "date": "2026-08-07",
-   "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
-   "cat": "Tursejlads",
-   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen."
-  },
-  {
    "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
    "source": "Minbåd.dk",
    "date": "2026-08-07",
@@ -65,6 +74,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
    "cat": "Tursejlads",
    "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget."
+  },
+  {
+   "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
+   "cat": "Tursejlads",
+   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen."
   },
   {
    "key": "danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm",
@@ -787,16 +805,6 @@
    "tjek": "2026-08-02"
   },
   {
-   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
-   "cat": "Havneliv",
-   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen.",
-   "tjek": "2026-08-09"
-  },
-  {
    "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
@@ -814,6 +822,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
    "cat": "Havnepriser",
    "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge.",
+   "tjek": "2026-08-09"
+  },
+  {
+   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
+   "cat": "Havneliv",
+   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen.",
    "tjek": "2026-08-09"
   },
   {
