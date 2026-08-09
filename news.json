@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T04:49:58+00:00",
+ "generated": "2026-08-09T08:03:27+00:00",
  "count": 324,
  "errors": [],
  "items": [
@@ -7,7 +7,7 @@
    "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
    "source": "Minbåd.dk",
    "date": "2026-08-08",
-   "title": "Det skal der være i værktøjskassen på en sejlbåd? Læserne har talt",
+   "title": "Det skal der være i værktøjskassen på en sejlbåd - læserne har talt",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/august/article/det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt/",
    "cat": "Udstyr & både",
    "sum": "En bådejer havde kun en spisekniv som værktøj. Læsere giver råd om vigtigt værktøj til motor, el og rig, samt gaffatape og strips."
@@ -337,16 +337,6 @@
    "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både."
   },
   {
-   "key": "mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt",
-   "source": "Minbåd.dk",
-   "date": "2026-08-02",
-   "title": "Mor og datter døde, da handelsskib ramte motorbåd – russisk kaptajn anholdt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt/",
-   "cat": "Sikkerhed",
-   "sum": "En norsk familie blev ramt af et lastskib ved Tjörn i Sverige. Mor og datter omkom, mens far og søn blev reddet. Den russiske kaptajn er anholdt mistænkt for uagtsomhed.",
-   "tjek": "2026-08-09"
-  },
-  {
    "key": "her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor",
    "source": "Minbåd.dk",
    "date": "2026-08-02",
@@ -354,6 +344,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor/",
    "cat": "Sikkerhed",
    "sum": "To kvinder fik problemer med riggen på en Albin Vega nær Helsingør, men nåede selv i havn. Et sallingshorn var knækket, og redningsfolk hjalp med at stabilisere masten, hvorefter de fortsatte mod Sverige.",
+   "tjek": "2026-08-09"
+  },
+  {
+   "key": "mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt",
+   "source": "Minbåd.dk",
+   "date": "2026-08-02",
+   "title": "Mor og datter døde, da handelsskib ramte motorbåd – russisk kaptajn anholdt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/mor-og-datter-doede-da-handelsskib-ramte-baad-russisk-kaptajn-anholdt/",
+   "cat": "Sikkerhed",
+   "sum": "En norsk familie blev ramt af et lastskib ved Tjörn i Sverige. Mor og datter omkom, mens far og søn blev reddet. Den russiske kaptajn er anholdt mistænkt for uagtsomhed.",
    "tjek": "2026-08-09"
   },
   {
