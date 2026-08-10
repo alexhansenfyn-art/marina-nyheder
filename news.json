@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-10T17:41:42+00:00",
- "count": 334,
+ "generated": "2026-08-10T20:08:01+00:00",
+ "count": 335,
  "errors": [],
  "items": [
   {
-   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
+   "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
-   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm."
+   "title": "Svenske Hansson-Mild slog to danskere ved OK-NM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/svenske-hansson-mild-slog-to-danskere-ved-ok-nm/",
+   "cat": "Kapsejlads",
+   "sum": "Svenske Thomas Hansson-Mild vandt NM i OK-joller i Kristinehamn. Danskerne Bo Petersen og Steen Christensen tog henholdsvis sølv og bronze."
   },
   {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
@@ -20,6 +20,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
    "cat": "Sikkerhed",
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
+  },
+  {
+   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-10",
+   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm."
   },
   {
    "key": "448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm",
@@ -882,16 +891,6 @@
    "tjek": "2026-08-02"
   },
   {
-   "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "ViewRegatta med AI og mobil skal gøre kapsejlads til en publikumssport",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/",
-   "cat": "Kapsejlads",
-   "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm.",
-   "tjek": "2026-08-10"
-  },
-  {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
    "source": "Minbåd.dk",
    "date": "2026-07-24",
@@ -939,6 +938,16 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Artiklen omhandler salg og udlejning af bådpladser i danske havne.",
+   "tjek": "2026-08-10"
+  },
+  {
+   "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "ViewRegatta med AI og mobil skal gøre kapsejlads til en publikumssport",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/",
+   "cat": "Kapsejlads",
+   "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm.",
    "tjek": "2026-08-10"
   },
   {
@@ -1038,7 +1047,8 @@
    "title": "Erik Aanderaa nåede nord for Svalbard: Iskanten kom pludselig",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig/",
    "cat": "Tursejlads",
-   "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere."
+   "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere.",
+   "tjek": "2026-08-10"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
@@ -1047,7 +1057,8 @@
    "title": "Sejlbåd har ligget på stranden siden maj – hvem ejer båden?",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
    "cat": "Sikkerhed",
-   "sum": "En sejlbåd har ligget på stranden ved Sliphavn i Nyborg siden maj. Politiet leder efter ejeren, mens vind og bølger spreder inventar langs kysten."
+   "sum": "En sejlbåd har ligget på stranden ved Sliphavn i Nyborg siden maj. Politiet leder efter ejeren, mens vind og bølger spreder inventar langs kysten.",
+   "tjek": "2026-08-10"
   },
   {
    "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
