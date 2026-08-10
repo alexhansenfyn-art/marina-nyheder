@@ -5,8 +5,22 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Sun, 09 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ORC-EM: Dansk medaljejagt i Litauen - med en ny dreng i klassen</title>
+<link>https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34329-to-danske-bade-klar-til-orc-em</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34329-to-danske-bade-klar-til-orc-em</guid>
+<pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
+<description>To danske både deltager i ORC-EM i Litauen: Dixi med Jesper Radich og den nye MAT 11 Stony X. Der er forventninger om danske medaljer. (Kilde: Bådmagasinet)</description>
+</item>
+<item>
+<title>Ungdoms-VM, ILCA 4: Sluttede i suverænt sejlvejr - nu venter ILCA 6 VM</title>
+<link>https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34328-ungdoms-vm-ilca-4-sluttet-af-i-suveraent-sejlvejr-i-aarhus-nu-venter-ilca-6-vm</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34328-ungdoms-vm-ilca-4-sluttet-af-i-suveraent-sejlvejr-i-aarhus-nu-venter-ilca-6-vm</guid>
+<pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
+<description>Ungdoms-VM i ILCA 4 i Aarhus afsluttet med guld til Grækenland og Schweiz. Dansk fjerdeplads i U16. ILCA 6 VM starter i samme by. (Kilde: Bådmagasinet)</description>
+</item>
 <item>
 <title>Dolmer og Bekking vinder Copa del Rey i Cape 31</title>
 <link>https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/</link>
@@ -342,20 +356,6 @@
 <guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/</guid>
 <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
 <description>Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus. (Kilde: Minbåd.dk)</description>
-</item>
-<item>
-<title>Sejlbåde ramt af spækhuggere – én sank ud for Spanien</title>
-<link>https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/</link>
-<guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/</guid>
-<pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
-<description>Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning. (Kilde: Minbåd.dk)</description>
-</item>
-<item>
-<title>The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'</title>
-<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord</link>
-<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord</guid>
-<pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
-<description>The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster. (Kilde: Bådmagasinet)</description>
 </item>
 </channel>
 </rss>
