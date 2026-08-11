@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-11T08:36:15+00:00",
- "count": 337,
- "errors": [],
+ "generated": "2026-08-11T11:32:21+00:00",
+ "count": 339,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/"
+  },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
@@ -11,6 +20,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "cat": "Tursejlads",
    "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
+  },
+  {
+   "key": "baadmagasinet-34331",
+   "source": "Bådmagasinet",
+   "date": "2026-08-11",
+   "title": "87-årig sejler solo mod Kap Horn til efteråret",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34331-87-arig-sejler-solo-mod-kap-horn-til-efteraret",
+   "cat": "Tursejlads",
+   "sum": "Den 87-årige svenske solosejler Sven Yrvind planlægger at sejle fra Spanien mod Kap Horn i sin selvbyggede 5,2 meter båd. Han forventer ikke at kunne runde Kap Horn, men vil opleve områdets storme."
   },
   {
    "key": "baadmagasinet-34326",
@@ -31,15 +49,6 @@
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
   },
   {
-   "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "Svenske Hansson-Mild slog danskere ved OK-NM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/svenske-hansson-mild-slog-to-danskere-ved-ok-nm/",
-   "cat": "Kapsejlads",
-   "sum": "Svenske Thomas Hansson-Mild vandt NM i OK-joller i Kristinehamn. Danskerne Bo Petersen og Steen Christensen tog henholdsvis sølv og bronze."
-  },
-  {
    "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
@@ -47,6 +56,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
    "cat": "Sikkerhed",
    "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm."
+  },
+  {
+   "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-10",
+   "title": "Svenske Hansson-Mild slog danskere ved OK-NM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/svenske-hansson-mild-slog-to-danskere-ved-ok-nm/",
+   "cat": "Kapsejlads",
+   "sum": "Svenske Thomas Hansson-Mild vandt NM i OK-joller i Kristinehamn. Danskerne Bo Petersen og Steen Christensen tog henholdsvis sølv og bronze."
   },
   {
    "key": "448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm",
@@ -348,6 +366,16 @@
    "tjek": "2026-08-11"
   },
   {
+   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
+   "cat": "Andet",
+   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav",
+   "tjek": "2026-08-11"
+  },
+  {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
    "source": "Minbåd.dk",
    "date": "2026-08-04",
@@ -359,22 +387,12 @@
   },
   {
    "key": "brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne.",
-   "tjek": "2026-08-11"
-  },
-  {
-   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav",
    "tjek": "2026-08-11"
   },
   {
@@ -758,16 +776,6 @@
    "tjek": "2026-08-11"
   },
   {
-   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
-   "cat": "Sikkerhed",
-   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
-   "tjek": "2026-08-11"
-  },
-  {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -775,6 +783,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser.",
+   "tjek": "2026-08-11"
+  },
+  {
+   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
+   "cat": "Sikkerhed",
+   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
    "tjek": "2026-08-11"
   },
   {
@@ -954,7 +972,8 @@
    "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
    "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "cat": "Sikkerhed",
-   "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed."
+   "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed.",
+   "tjek": "2026-08-11"
   },
   {
    "key": "havneguide.dk/baadpladser",
@@ -1004,15 +1023,6 @@
    "tjek": "2026-08-07"
   },
   {
-   "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Granada 31 sælges for 5.000 kroner efter grundstødning",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/granada-31-saelges-for-5000-kroner-efter-grundstoedning/",
-   "cat": "Udstyr & både",
-   "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport."
-  },
-  {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
    "source": "Motorbådsnyt",
    "date": "2026-07-22",
@@ -1020,6 +1030,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
    "cat": "Sikkerhed",
    "sum": "TrygFonden åbner en ny ansøgningsrunde for redningsstiger i danske havne. Havne, kommuner og grundejerforeninger kan søge frem til 1. september 2026."
+  },
+  {
+   "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
+   "source": "Minbåd.dk",
+   "date": "2026-07-22",
+   "title": "Granada 31 sælges for 5.000 kroner efter grundstødning",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/granada-31-saelges-for-5000-kroner-efter-grundstoedning/",
+   "cat": "Udstyr & både",
+   "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport."
   },
   {
    "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
@@ -2049,15 +2068,6 @@
    "sum": "Anytec lancerer den nye A28-T aluminiumsbåd med T-top, opdateret skrog og priser fra cirka 1,53 mio. kroner."
   },
   {
-   "key": "de-20-dyreste-gaestehavne-i-danmark-2026",
-   "source": "Minbåd.dk",
-   "date": "2026-05-26",
-   "title": "De 20 dyreste gæstehavne i Danmark 2026",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/may/article/de-20-dyreste-gaestehavne-i-danmark-2026/",
-   "cat": "Havnepriser",
-   "sum": "Oversigt over de dyreste gæstehavne i Danmark i 2026, baseret på en gennemgang af takster for en 11 meter sejlbåd. Priserne varierer med sæson, strøm- og badefaciliteter, og nogle havne inkluderer disse i lejen."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/udskiftning-paa-landsholdet-jonas-warrer-stopper-samarbejdet-med-mathias-sletten",
    "source": "Dansk Sejlunion",
    "date": "2026-05-26",
@@ -2065,6 +2075,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/udskiftning-paa-landsholdet-jonas-warrer-stopper-samarbejdet-med-mathias-sletten",
    "cat": "Kapsejlads",
    "sum": "Jonas Warrer og Mathias Sletten stopper samarbejdet i 49er-klassen. Mads Fuglbjerg bliver ny gast. Sidste år vandt de VM-bronze, men VM 2024 endte som nr. 17."
+  },
+  {
+   "key": "de-20-dyreste-gaestehavne-i-danmark-2026",
+   "source": "Minbåd.dk",
+   "date": "2026-05-26",
+   "title": "De 20 dyreste gæstehavne i Danmark 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/may/article/de-20-dyreste-gaestehavne-i-danmark-2026/",
+   "cat": "Havnepriser",
+   "sum": "Oversigt over de dyreste gæstehavne i Danmark i 2026, baseret på en gennemgang af takster for en 11 meter sejlbåd. Priserne varierer med sæson, strøm- og badefaciliteter, og nogle havne inkluderer disse i lejen."
   },
   {
    "key": "voksne-boer-kunne-svoemme-200-meter-uden-stop",
