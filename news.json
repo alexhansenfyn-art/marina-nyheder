@@ -1,9 +1,7 @@
 {
- "generated": "2026-08-11T15:29:14+00:00",
+ "generated": "2026-08-11T18:41:33+00:00",
  "count": 342,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
    "key": "ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg",
@@ -46,7 +44,9 @@
    "source": "Bådmagasinet",
    "date": "2026-08-11",
    "title": "Surf, Kite, SUP m.fl.: Ny app holder øje med vejret – og fortæller dig, hvornår du skal på vandet",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34332-surf-kite-sup-m-fl-ny-app-holder-oje-med-vejret-og-fortaeller-dig-hvornar-du-skal-pa-vandet"
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34332-surf-kite-sup-m-fl-ny-app-holder-oje-med-vejret-og-fortaeller-dig-hvornar-du-skal-pa-vandet",
+   "cat": "Udstyr & både",
+   "sum": "En ny app, SurfSignal, hjælper surf- og kitesurfere med at finde de rette vind- og bølgeforhold ved at overvåge vejrudsigter og sende besked, når forholdene matcher brugerens ønsker."
   },
   {
    "key": "baadmagasinet-34331",
