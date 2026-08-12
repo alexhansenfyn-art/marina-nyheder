@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T00:06:26+00:00",
+ "generated": "2026-08-12T03:23:47+00:00",
  "count": 342,
  "errors": [],
  "items": [
@@ -313,7 +313,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
-   "title": "N&#xE5;r sejlklubben skal forklare sin identitet",
+   "title": "Når sejlklubben skal forklare sin identitet",
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
@@ -452,7 +452,7 @@
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "source": "Dansk Sejlunion",
    "date": "2026-08-04",
-   "title": "Hj&#xE6;lp kloden p&#xE5; World Clean Up Day",
+   "title": "Hjælp kloden på World Clean Up Day",
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet.",
@@ -766,7 +766,7 @@
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord.",
-   "tjek": "2026-08-11"
+   "tjek": "2026-08-12"
   },
   {
    "key": "baadmagasinet-34304",
@@ -925,7 +925,8 @@
    "title": "Elliott 35 jagter trimaran mod Bornholm - 3 solosejlere udgået",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-jagter-trimaran-mod-bornholm-3-solosejlere-udgaaet/",
    "cat": "Kapsejlads",
-   "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer."
+   "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer.",
+   "tjek": "2026-08-12"
   },
   {
    "key": "elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race",
@@ -1620,15 +1621,6 @@
    "sum": "Artiklen opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, for at frigøre pladser til gæster og sikre indtægter til havnen."
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "cat": "Andet",
-   "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
-  },
-  {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
@@ -1636,6 +1628,15 @@
    "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
    "cat": "Tursejlads",
    "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
+  },
+  {
+   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-06",
+   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "cat": "Andet",
+   "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
@@ -1695,7 +1696,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
    "source": "Dansk Sejlunion",
    "date": "2026-07-02",
-   "title": "EM venter: Sejlerlandsholdet jagter topplaceringer i Eckernf&#xF6;rde",
+   "title": "EM venter: Sejlerlandsholdet jagter topplaceringer i Eckernförde",
    "url": "https://dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
    "cat": "Kapsejlads",
    "sum": "Sejlerlandsholdet deltager i EM i Eckernförde i 49er, 49erFX og Nacra 17 efter blandede resultater ved Kieler Woche. Målet er topplaceringer og medaljer."
@@ -1731,7 +1732,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
    "source": "Dansk Sejlunion",
    "date": "2026-06-30",
-   "title": "Indsamlingskampagner via Dansk Sejlunion oph&#xF8;rer",
+   "title": "Indsamlingskampagner via Dansk Sejlunion ophører",
    "url": "https://dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
    "cat": "Andet",
    "sum": "Dansk Sejlunion lukker for oprettelse af nye indsamlingskampagner via BetterNow fra 1. juli 2026. Eksisterende kampagner lukkes 30. juni 2026, og donationer indberettes stadig til Skattestyrelsen."
@@ -1785,7 +1786,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-ungdoms-dm-2026-er-aaben",
    "source": "Dansk Sejlunion",
    "date": "2026-06-25",
-   "title": "Tilmeldingen til Ungdoms-DM 2026 er &#xE5;ben",
+   "title": "Tilmeldingen til Ungdoms-DM 2026 er åben",
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-ungdoms-dm-2026-er-aaben",
    "cat": "Kapsejlads",
    "sum": "Tilmeldingen til Ungdoms-DM 2026 er åben. Stævnet afholdes 12.-13. september i Rungsted, hvor unge sejlere fra hele landet dyster om DM-medaljer og fællesskab."
@@ -1839,7 +1840,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/danske-sejlere-staar-foran-vigtig-test-i-kiel",
    "source": "Dansk Sejlunion",
    "date": "2026-06-19",
-   "title": "Danske sejlere st&#xE5;r foran vigtig test i Kiel",
+   "title": "Danske sejlere står foran vigtig test i Kiel",
    "url": "https://dansksejlunion.dk/nyheder/2026/danske-sejlere-staar-foran-vigtig-test-i-kiel",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions udviklingsgruppe og landshold deltager i Kieler Woche. Udviklingsgruppen skal omsætte træning til præstation, mens landsholdet jagter medaljer."
@@ -1929,7 +1930,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/stem-paa-aarets-havn-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-06-12",
-   "title": "Stem p&#xE5; &#xC5;rets Havn 2026",
+   "title": "Stem på Årets Havn 2026",
    "url": "https://dansksejlunion.dk/nyheder/2026/stem-paa-aarets-havn-2026",
    "cat": "Havneliv",
    "sum": "Afstemningen om Årets Havn 2026 er åben fra 15. juni til 30. september. Sejlere kan stemme på deres favorit, og vinderen kåres på FLIDs Havnemesse i november."
@@ -1974,7 +1975,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-tager-sejlsportens-stemme-med-til-folkemoedet",
    "source": "Dansk Sejlunion",
    "date": "2026-06-08",
-   "title": "Dansk Sejlunion tager sejlsportens stemme med til Folkem&#xF8;det",
+   "title": "Dansk Sejlunion tager sejlsportens stemme med til Folkemødet",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-tager-sejlsportens-stemme-med-til-folkemoedet",
    "cat": "Andet",
    "sum": "Dansk Sejlunion deltager på Folkemødet på Bornholm for at sætte fokus på rammevilkår for sejlsport, foreningsliv og adgang til naturen. Direktør Anders Kristensen debatterer og netværker med politikere og sejlere."
@@ -2099,7 +2100,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/udskiftning-paa-landsholdet-jonas-warrer-stopper-samarbejdet-med-mathias-sletten",
    "source": "Dansk Sejlunion",
    "date": "2026-05-26",
-   "title": "Udskiftning p&#xE5; landsholdet: Jonas Warrer stopper samarbejdet med Mathias Sletten",
+   "title": "Udskiftning på landsholdet: Jonas Warrer stopper samarbejdet med Mathias Sletten",
    "url": "https://dansksejlunion.dk/nyheder/2026/udskiftning-paa-landsholdet-jonas-warrer-stopper-samarbejdet-med-mathias-sletten",
    "cat": "Kapsejlads",
    "sum": "Jonas Warrer og Mathias Sletten stopper samarbejdet i 49er-klassen. Mads Fuglbjerg bliver ny gast. Sidste år vandt de VM-bronze, men VM 2024 endte som nr. 17."
@@ -2144,19 +2145,10 @@
    "key": "dansksejlunion.dk/nyheder/2026/johan-soee-vinder-em-soelv-i-portugal",
    "source": "Dansk Sejlunion",
    "date": "2026-05-23",
-   "title": "Johan S&#xF8;e vinder EM-s&#xF8;lv i Portugal",
+   "title": "Johan Søe vinder EM-sølv i Portugal",
    "url": "https://dansksejlunion.dk/nyheder/2026/johan-soee-vinder-em-soelv-i-portugal",
    "cat": "Kapsejlads",
    "sum": "Johan Søe vandt EM-sølv i iQFOiL i Portimão, Portugal. Danskeren sejlede stabilt hele ugen og sluttede nummer to efter finalen."
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "source": "Dansk Sejlunion",
-   "date": "2026-05-22",
-   "title": "Tilmeldingen til DH-DM 2026 er &#xE5;ben",
-   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "cat": "Kapsejlads",
-   "sum": "Tilmeldingen til DH-DM 2026 i Middelfart er åben. Kølbådskapsejlere kan tilmelde sig mesterskabet, der afvikles 4.-6. september med distancesejlads og banesejladser."
   },
   {
    "key": "slut-med-gtl-fuel",
@@ -2166,6 +2158,15 @@
    "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
    "cat": "Udstyr & både",
    "sum": "GTL-brændstof udfases til både. Sejlere skal finde alternative brændstoftyper."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "source": "Dansk Sejlunion",
+   "date": "2026-05-22",
+   "title": "Tilmeldingen til DH-DM 2026 er åben",
+   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "cat": "Kapsejlads",
+   "sum": "Tilmeldingen til DH-DM 2026 i Middelfart er åben. Kølbådskapsejlere kan tilmelde sig mesterskabet, der afvikles 4.-6. september med distancesejlads og banesejladser."
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -2297,7 +2298,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-soeger-staevnearrangoerer-til-ungdoms-dm",
    "source": "Dansk Sejlunion",
    "date": "2026-05-06",
-   "title": "Dansk Sejlunion s&#xF8;ger st&#xE6;vnearrang&#xF8;rer til Ungdoms-DM",
+   "title": "Dansk Sejlunion søger stævnearrangører til Ungdoms-DM",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-soeger-staevnearrangoerer-til-ungdoms-dm",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion søger arrangørklubber til Ungdoms-DM i 2027-2029. Frist for ansøgning er 1. juli 2026."
@@ -2306,7 +2307,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/anne-marie-rindom-tester-formen-paa-aarhusbugten",
    "source": "Dansk Sejlunion",
    "date": "2026-05-01",
-   "title": "Anne-Marie Rindom tester formen p&#xE5; Aarhusbugten",
+   "title": "Anne-Marie Rindom tester formen på Aarhusbugten",
    "url": "https://dansksejlunion.dk/nyheder/2026/anne-marie-rindom-tester-formen-paa-aarhusbugten",
    "cat": "Andet",
    "sum": "Anne-Marie Rindom er tilbage i ILCA 6-jollen og overvejer en ny OL-satsning, men familieliv og træningssetup skal falde på plads."
@@ -2333,7 +2334,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/omt-maritime-design-cup-2026-kom-med-paa-vandet-i-skovshoved",
    "source": "Dansk Sejlunion",
    "date": "2026-04-27",
-   "title": "OMT Maritime Design Cup 2026: Kom med p&#xE5; vandet i Skovshoved",
+   "title": "OMT Maritime Design Cup 2026: Kom med på vandet i Skovshoved",
    "url": "https://dansksejlunion.dk/nyheder/2026/omt-maritime-design-cup-2026-kom-med-paa-vandet-i-skovshoved",
    "cat": "Kapsejlads",
    "sum": "Studerende inviteres til OMT Maritime Design Cup 2026 i Skovshoved Havn den 11. september. Arrangementet byder på matchrace med landsholdssejlere, og ingen sejlererfaring er nødvendig."
@@ -2351,7 +2352,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/aabent-brev-til-norge",
    "source": "Dansk Sejlunion",
    "date": "2026-04-23",
-   "title": "&#xC5;bent brev til Norge",
+   "title": "Åbent brev til Norge",
    "url": "https://dansksejlunion.dk/nyheder/2026/aabent-brev-til-norge",
    "cat": "Tursejlads",
    "sum": "Danske lystsejlere over 15 meter møder nye norske meldepligt-regler, som opleves som chikane. Dansk Sejlunion beder nu norske organisationer om hjælp til en mere lempelig ordning."
@@ -2369,7 +2370,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-fulgte-world-sailings-neutralitetslinje-om-rusland",
    "source": "Dansk Sejlunion",
    "date": "2026-04-19",
-   "title": "Europ&#xE6;iske sejlforbund fulgte World Sailings neutralitetslinje om Rusland",
+   "title": "Europæiske sejlforbund fulgte World Sailings neutralitetslinje om Rusland",
    "url": "https://dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-fulgte-world-sailings-neutralitetslinje-om-rusland",
    "cat": "Andet",
    "sum": "Dansk Sejlunion stemte for fortsat udelukkelse af russiske og belarusiske sejlere, men EuroSaf flertal valgte at følge World Sailings neutralitetslinje. Rusland og Belarus kan nu deltage som neutrale atleter."
@@ -2384,15 +2385,6 @@
    "sum": "Bøgeskov Havn er lukket pga. tilsanding af indsejlingen. Havnen venter på tilladelse til oprensning, mens økonomien er under pres."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-04-16",
-   "title": "Dansk Sejlunion foresl&#xE5;r vision&#xE6;re &#xE6;ndringer af OL-programmet i sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
-  },
-  {
    "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
    "source": "Danske Tursejlere",
    "date": "2026-04-16",
@@ -2400,6 +2392,15 @@
    "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
    "cat": "Andet",
    "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-04-16",
+   "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
   },
   {
    "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
@@ -2414,7 +2415,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-skal-tage-stilling-til-russeres-mulige-tilbagekomst",
    "source": "Dansk Sejlunion",
    "date": "2026-04-14",
-   "title": "Europ&#xE6;iske sejlforbund skal tage stilling til russeres mulige tilbagekomst",
+   "title": "Europæiske sejlforbund skal tage stilling til russeres mulige tilbagekomst",
    "url": "https://dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-skal-tage-stilling-til-russeres-mulige-tilbagekomst",
    "cat": "Andet",
    "sum": "Dansk Sejlunion siger nej til russiske sejlere i europæiske konkurrencer, så længe Ukraine-krigen varer. De stemmer imod forslaget og opfordrer andre forbund til at gøre det samme."
@@ -2441,7 +2442,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
    "source": "Dansk Sejlunion",
    "date": "2026-04-04",
-   "title": "St&#xE6;rke danske takter i Palma trods manglende medaljer",
+   "title": "Stærke danske takter i Palma trods manglende medaljer",
    "url": "https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
    "cat": "Kapsejlads",
    "sum": "Ved sæsonåbningen i Palma leverede danske sejlere stærke præstationer uden medaljer. Flere besætninger viste medaljepotentiale, hvilket giver optimisme for resten af sæsonen."
@@ -2459,7 +2460,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/sejlerlandsholdet-aabner-saesonen-paa-mallorca",
    "source": "Dansk Sejlunion",
    "date": "2026-03-28",
-   "title": "Sejlerlandsholdet &#xE5;bner s&#xE6;sonen p&#xE5; Mallorca",
+   "title": "Sejlerlandsholdet åbner sæsonen på Mallorca",
    "url": "https://dansksejlunion.dk/nyheder/2026/sejlerlandsholdet-aabner-saesonen-paa-mallorca",
    "cat": "Kapsejlads",
    "sum": "Det danske sejlerlandshold indleder sæsonen ved Prinsesse Sofia Cup på Mallorca. Sportschefen har høje forventninger efter en stærk sidste sæson med EM-guld og VM-bronze."
@@ -2486,7 +2487,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/medlemstal-afsloerer-ny-udvikling-i-sejlsporten",
    "source": "Dansk Sejlunion",
    "date": "2026-03-26",
-   "title": "Medlemstal afsl&#xF8;rer ny udvikling i sejlsporten",
+   "title": "Medlemstal afslører ny udvikling i sejlsporten",
    "url": "https://dansksejlunion.dk/nyheder/2026/medlemstal-afsloerer-ny-udvikling-i-sejlsporten",
    "cat": "Andet",
    "sum": "Artiklen beskriver Dansk Sejlunions medlemsfald i 2025, men med stabilisering blandt børn og unge. Direktør peger på aktiviteter og klubbernes folkeoplysende status som afgørende faktorer."
@@ -2495,7 +2496,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-inviterer-til-klubmoeder-om-talent-og-eliteudvikling",
    "source": "Dansk Sejlunion",
    "date": "2026-03-24",
-   "title": "Dansk Sejlunion inviterer til klubm&#xF8;der om talent- og eliteudvikling",
+   "title": "Dansk Sejlunion inviterer til klubmøder om talent- og eliteudvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-inviterer-til-klubmoeder-om-talent-og-eliteudvikling",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer klubber til dialogmøder i april om talent- og eliteudvikling. Sportschef Peter Hansen præsenterer strategi og vil høre klubbernes perspektiver."
@@ -2522,7 +2523,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
    "source": "Dansk Sejlunion",
    "date": "2026-03-21",
-   "title": "J&#xF8;rn Duffy Villumsen h&#xE6;dres med Dansk Sejlunions guldn&#xE5;l",
+   "title": "Jørn Duffy Villumsen hædres med Dansk Sejlunions guldnål",
    "url": "https://dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
    "cat": "Andet",
    "sum": "Jørn Duffy Villumsen modtager Dansk Sejlunions guldnål for sin markante indsats for danske sejlerskoler og undervisning af nye sejlere."
@@ -2591,15 +2592,6 @@
    "sum": "Minn Kota lancerer kompakt elmotor til kajakfiskere med GPS-ankerfunktion og integration med moderne elektronik, tilgængelig i Danmark via Comstedt."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
-   "source": "Dansk Sejlunion",
-   "date": "2026-03-13",
-   "title": "DM i eSailing 2026 afg&#xF8;res ved DM-ugen i Herning",
-   "url": "https://dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
-   "cat": "Kapsejlads",
-   "sum": "DM i eSailing 2026 afvikles ved DM-ugen i Herning, hvor kvalifikationen foregår online, og finalerne finder sted på Herning Ny Teater."
-  },
-  {
    "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
    "source": "FLID Havne",
    "date": "2026-03-13",
@@ -2609,10 +2601,19 @@
    "sum": "2-3 ambitiøse havne søges til pilotprojekter, der skal afprøve nye koncepter inden for havnudvikling."
   },
   {
+   "key": "dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
+   "source": "Dansk Sejlunion",
+   "date": "2026-03-13",
+   "title": "DM i eSailing 2026 afgøres ved DM-ugen i Herning",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
+   "cat": "Kapsejlads",
+   "sum": "DM i eSailing 2026 afvikles ved DM-ugen i Herning, hvor kvalifikationen foregår online, og finalerne finder sted på Herning Ny Teater."
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-er-aaben-til-aarets-foerste-grandprix-staevne",
    "source": "Dansk Sejlunion",
    "date": "2026-03-12",
-   "title": "Tilmeldingen er &#xE5;ben til &#xE5;rets f&#xF8;rste grandprix-st&#xE6;vne",
+   "title": "Tilmeldingen er åben til årets første grandprix-stævne",
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-er-aaben-til-aarets-foerste-grandprix-staevne",
    "cat": "Kapsejlads",
    "sum": "Tilmeldingen er åben til Aarhus Spring Regatta, årets første grandprix-stævne, der sejles i Kaløvig 9.-10. maj. Unge sejlere fra hele landet samles til kapsejlads og fællesskab."
@@ -2627,15 +2628,6 @@
    "sum": "Et motor-kursus i Marselisborg giver sejlere lovpligtig viden om motorpasning. Deltageren lærte om motoropbygning og fejlfinding."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-03-05",
-   "title": "Vinderne af Dansk Sejlunions Grandprix-serie 2025 er fundet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
-  },
-  {
    "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
    "source": "Danske Tursejlere",
    "date": "2026-03-05",
@@ -2643,6 +2635,15 @@
    "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
    "cat": "Havneliv",
    "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-03-05",
+   "title": "Vinderne af Dansk Sejlunions Grandprix-serie 2025 er fundet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
   },
   {
    "key": "dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025",
@@ -2691,7 +2692,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/ansoeg-om-deltagelse-i-youth-match-racing-vm-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-02-20",
-   "title": "Ans&#xF8;g om deltagelse i Youth Match Racing VM 2026",
+   "title": "Ansøg om deltagelse i Youth Match Racing VM 2026",
    "url": "https://dansksejlunion.dk/nyheder/2026/ansoeg-om-deltagelse-i-youth-match-racing-vm-2026",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion åbner for ansøgninger til Youth Match Racing VM 2026 i Middelfart. Unge sejlere født 2003 eller senere kan søge om at repræsentere Danmark, frist 7. april."
@@ -2700,7 +2701,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-goer-status-laes-aarsberetningen-for-2025",
    "source": "Dansk Sejlunion",
    "date": "2026-02-18",
-   "title": "Dansk Sejlunion g&#xF8;r status: L&#xE6;s &#xE5;rsberetningen for 2025",
+   "title": "Dansk Sejlunion gør status: Læs årsberetningen for 2025",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-goer-status-laes-aarsberetningen-for-2025",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har offentliggjort årsberetningen for 2025 om resultater og prioriteter, herunder nye initiativer, klubfokus og mindet om Line Markert."
@@ -2817,7 +2818,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-re-godkendt-som-proeveudbyder",
    "source": "Dansk Sejlunion",
    "date": "2026-01-16",
-   "title": "Dansk Sejlunion re-godkendt som pr&#xF8;veudbyder",
+   "title": "Dansk Sejlunion re-godkendt som prøveudbyder",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-re-godkendt-som-proeveudbyder",
    "cat": "Andet",
    "sum": "Dansk Sejlunion er igen godkendt som prøveudbyder for Søfartsstyrelsen. Prøverne fortsætter, men betaling sker nu direkte til Dansk Sejlunion, og nye prøvekrav forventes i 2026."
@@ -2844,7 +2845,7 @@
    "key": "dansksejlunion.dk/nyheder/2026/ansoeg-om-deltagelse-i-team-racing-vm-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-01-08",
-   "title": "Ans&#xF8;g om deltagelse i Team Racing VM 2026",
+   "title": "Ansøg om deltagelse i Team Racing VM 2026",
    "url": "https://dansksejlunion.dk/nyheder/2026/ansoeg-om-deltagelse-i-team-racing-vm-2026",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion søger ansøgninger til Team Racing VM 2026 i Stockholm. Frist 1. februar, hold på otte sejlere med mindst to af hvert køn. Sejler i J/80'ere."
