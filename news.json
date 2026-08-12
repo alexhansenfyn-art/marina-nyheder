@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-12T14:35:48+00:00",
- "count": 347,
+ "generated": "2026-08-12T18:05:24+00:00",
+ "count": 348,
  "errors": [],
  "items": [
+  {
+   "key": "foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne",
+   "source": "Minbåd.dk",
+   "date": "2026-08-12",
+   "title": "Førte solosejlads men sov gennem alarmen og endte på klipperne",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne/",
+   "cat": "Kapsejlads",
+   "sum": "Den irske singlehand-sejler Tom Dolan ramte under Solitaire du Figaro klipperne ved Île de Sein, efter han sov gennem alarmen midt i etapen. Han førte løbet, men måtte udgå efter grundstødningen."
+  },
   {
    "key": "vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas",
    "source": "Minbåd.dk",
@@ -374,16 +383,6 @@
    "tjek": "2026-08-12"
   },
   {
-   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
-   "source": "Minbåd.dk",
-   "date": "2026-08-05",
-   "title": "Motorbåd røg af trailer og ramte trækkende bil",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods.",
-   "tjek": "2026-08-12"
-  },
-  {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
    "source": "Minbåd.dk",
    "date": "2026-08-05",
@@ -391,6 +390,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
    "cat": "Kapsejlads",
    "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen.",
+   "tjek": "2026-08-12"
+  },
+  {
+   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-05",
+   "title": "Motorbåd røg af trailer og ramte trækkende bil",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods.",
    "tjek": "2026-08-12"
   },
   {
@@ -914,16 +923,6 @@
    "tjek": "2026-08-03"
   },
   {
-   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
-   "source": "Minbåd.dk",
-   "date": "2026-07-26",
-   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
-   "cat": "Kapsejlads",
-   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer.",
-   "tjek": "2026-08-12"
-  },
-  {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
    "source": "Minbåd.dk",
    "date": "2026-07-26",
@@ -941,6 +940,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse.",
+   "tjek": "2026-08-12"
+  },
+  {
+   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
+   "cat": "Kapsejlads",
+   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer.",
    "tjek": "2026-08-12"
   },
   {
@@ -1030,7 +1039,8 @@
    "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
    "cat": "Havneliv",
-   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen."
+   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen.",
+   "tjek": "2026-08-12"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
