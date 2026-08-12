@@ -10,6 +10,7 @@ Uden nøglen kører crawleren fint - bare uden AI.
 
 Køres automatisk af GitHub Actions – se .github/workflows/crawl.yml.
 """
+import html as html_mod
 import json
 import os
 import re
