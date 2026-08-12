@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-12T03:23:47+00:00",
- "count": 342,
+ "generated": "2026-08-12T05:51:33+00:00",
+ "count": 343,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34333",
+   "source": "Bådmagasinet",
+   "date": "2026-08-12",
+   "title": "Nykøbing Falster: Omfattende havneplan møder kritik og skepsis fra sejlerne",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
+   "cat": "Havneliv",
+   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
+  },
   {
    "key": "ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg",
    "source": "Minbåd.dk",
@@ -1720,15 +1729,6 @@
    "sum": "CAROSS har udviklet intelligente jumpstartere til både, der kan genstarte motoren ved afladet batteri langt fra havnen. Systemet guider sikker tilslutning."
   },
   {
-   "key": "baadmagasinet-34228",
-   "source": "Bådmagasinet",
-   "date": "2026-06-30",
-   "title": "Rungsted Havn får et historisk løft – men visionerne blev på land",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34228-rungsted-havn-far-et-historisk-loft-men-visionerne-blev-pa-land",
-   "cat": "Sikkerhed",
-   "sum": "Rungsted Havn får 211 mio. kr. til klimasikring og modernisering, men uden nye bådpladser. Indsejlingen forbedres for øget sikkerhed."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
    "source": "Dansk Sejlunion",
    "date": "2026-06-30",
@@ -1736,6 +1736,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
    "cat": "Andet",
    "sum": "Dansk Sejlunion lukker for oprettelse af nye indsamlingskampagner via BetterNow fra 1. juli 2026. Eksisterende kampagner lukkes 30. juni 2026, og donationer indberettes stadig til Skattestyrelsen."
+  },
+  {
+   "key": "baadmagasinet-34228",
+   "source": "Bådmagasinet",
+   "date": "2026-06-30",
+   "title": "Rungsted Havn får et historisk løft – men visionerne blev på land",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34228-rungsted-havn-far-et-historisk-loft-men-visionerne-blev-pa-land",
+   "cat": "Sikkerhed",
+   "sum": "Rungsted Havn får 211 mio. kr. til klimasikring og modernisering, men uden nye bådpladser. Indsejlingen forbedres for øget sikkerhed."
   },
   {
    "key": "hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten",
