@@ -76,7 +76,21 @@ def fetch(url):
 
 
 def clean(text):
-    return re.sub(r"\s+", " ", text or "").strip()
+    """Normaliser mellemrum og afkod HTML-entiteter.
+
+    og_meta() plukker meta-tags ud med et regulaert udtryk, og regex afkoder
+    ikke entiteter, som BeautifulSoup ellers ville have gjort. Skriver en
+    kilde content="N&#xE5;r ..." i sin HTML, ender teksten paa siden som
+    "N&#xE5;r", fordi den bliver escapet igen ved udskrivning. Vi afkoder
+    indtil teksten staar stille, saa ogsaa dobbelt-escapede feeds klarer sig.
+    """
+    t = text or ""
+    for _ in range(3):
+        afkodet = html_mod.unescape(t)
+        if afkodet == t:
+            break
+        t = afkodet
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def host_of(url):
@@ -567,6 +581,11 @@ def normalize_old(item):
     if "source" not in item and item.get("src") in LEGACY_LABELS:
         item["source"] = LEGACY_LABELS[item["src"]]
     item.pop("src", None)
+    # Poster hentet foer entitets-rettelsen har "N&#xE5;r" staaende i titel
+    # eller resume. clean() afkoder dem nu, saa arkivet retter sig selv.
+    for felt in ("title", "sum"):
+        if item.get(felt):
+            item[felt] = clean(item[felt])
     return item
 
 
