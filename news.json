@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-12T05:51:33+00:00",
- "count": 343,
+ "generated": "2026-08-12T09:50:00+00:00",
+ "count": 344,
  "errors": [],
  "items": [
+  {
+   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-12",
+   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
+   "cat": "Sikkerhed",
+   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet."
+  },
   {
    "key": "baadmagasinet-34333",
    "source": "Bådmagasinet",
@@ -13,15 +22,6 @@
    "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
   },
   {
-   "key": "ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "OK-jollen boomer blandt 50-plus-sejlere – 77 klar til DM i Faaborg",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg/",
-   "cat": "Kapsejlads",
-   "sum": "77 sejlere er tilmeldt DM i OK-joller i Faaborg 20.-22. august. Klassen vokser blandt 50-plus-sejlere, og der indføres nyt koncept med sejlløb torsdag-lørdag og fest lørdag aften."
-  },
-  {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
    "source": "Motorbådsnyt",
    "date": "2026-08-11",
@@ -29,6 +29,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
    "cat": "Udstyr & både",
    "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
+  },
+  {
+   "key": "ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "OK-jollen boomer blandt 50-plus-sejlere – 77 klar til DM i Faaborg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg/",
+   "cat": "Kapsejlads",
+   "sum": "77 sejlere er tilmeldt DM i OK-joller i Faaborg 20.-22. august. Klassen vokser blandt 50-plus-sejlere, og der indføres nyt koncept med sejlløb torsdag-lørdag og fest lørdag aften."
   },
   {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
@@ -148,15 +157,6 @@
    "sum": "Ungdoms-VM i ILCA 4 i Aarhus afsluttet med guld til Grækenland og Schweiz. Dansk fjerdeplads i U16. ILCA 6 VM starter i samme by."
   },
   {
-   "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Dolmer og Bekking vinder Copa del Rey i Cape 31",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking."
-  },
-  {
    "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
    "source": "Minbåd.dk",
    "date": "2026-08-09",
@@ -164,6 +164,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
    "cat": "Kapsejlads",
    "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk."
+  },
+  {
+   "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
+   "source": "Minbåd.dk",
+   "date": "2026-08-09",
+   "title": "Dolmer og Bekking vinder Copa del Rey i Cape 31",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking."
   },
   {
    "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
@@ -398,16 +407,6 @@
    "tjek": "2026-08-12"
   },
   {
-   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav",
-   "tjek": "2026-08-12"
-  },
-  {
    "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
    "source": "Minbåd.dk",
    "date": "2026-08-04",
@@ -425,6 +424,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/",
    "cat": "Andet",
    "sum": "Carlo Borlenghi, en af verdens førende sejlsportsfotografer, er død som 70-årig. Han dokumenterede i fire årtier store kapsejladser som America's Cup og Rolex-serien.",
+   "tjek": "2026-08-12"
+  },
+  {
+   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-04",
+   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
+   "cat": "Andet",
+   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav",
    "tjek": "2026-08-12"
   },
   {
@@ -1342,15 +1351,6 @@
    "tjek": "2026-08-02"
   },
   {
-   "key": "gode-raad-hvis-du-vil-sejle-med-hund",
-   "source": "Minbåd.dk",
-   "date": "2026-07-16",
-   "title": "Seks gode råd hvis du vil sejle med hund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/gode-raad-hvis-du-vil-sejle-med-hund/",
-   "cat": "Tursejlads",
-   "sum": "Artiklen giver råd til at sejle med hund, herunder at vænne hunden til båden, bruge redningsvest og skabe et trygt sted ombord."
-  },
-  {
    "key": "et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook",
    "source": "Minbåd.dk",
    "date": "2026-07-16",
@@ -1367,6 +1367,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34270-trygfonden-og-radet-for-storre-bade-og-vandsikkerhed-lovgiv-om-havnesikkerhed-nu",
    "cat": "Sikkerhed",
    "sum": "TrygFonden og Rådet for Større Bade- og Vandsikkerhed opfordrer til lovgivning om sikkerhed i nye havnebyrum, da det ikke bør overlades til tilfældigheder."
+  },
+  {
+   "key": "gode-raad-hvis-du-vil-sejle-med-hund",
+   "source": "Minbåd.dk",
+   "date": "2026-07-16",
+   "title": "Seks gode råd hvis du vil sejle med hund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/gode-raad-hvis-du-vil-sejle-med-hund/",
+   "cat": "Tursejlads",
+   "sum": "Artiklen giver råd til at sejle med hund, herunder at vænne hunden til båden, bruge redningsvest og skabe et trygt sted ombord."
   },
   {
    "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
