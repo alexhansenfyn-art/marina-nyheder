@@ -1,8 +1,44 @@
 {
- "generated": "2026-08-13T05:24:47+00:00",
- "count": 349,
- "errors": [],
+ "generated": "2026-08-13T09:46:28+00:00",
+ "count": 353,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
+   "cat": "Kapsejlads",
+   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
+  },
+  {
+   "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-13",
+   "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
+   "cat": "Tursejlads",
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+  },
+  {
+   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
+  },
+  {
+   "key": "baadmagasinet-34336",
+   "source": "Bådmagasinet",
+   "date": "2026-08-13",
+   "title": "Vegvisir strammer sikkerheden: Seks timers tvungen hvile - men skipper bestemmer selv hvornår",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34336-vegvisir-strammer-sikkerheden-seks-timers-tvungen-hvile-pa-200-somil"
+  },
   {
    "key": "baadmagasinet-34335",
    "source": "Bådmagasinet",
@@ -11,6 +47,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34335-j-70-mixed-plus-worlds-familien-mohr-i-front",
    "cat": "Kapsejlads",
    "sum": "Ved J/70 Mixed-VM i Skovshoved fører familien Mohr med Danmark. De overlevede en protest og beholdte føringen; sejladserne fortsætter til lørdag."
+  },
+  {
+   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-12",
+   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
+   "cat": "Sikkerhed",
+   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet."
   },
   {
    "key": "foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne",
@@ -29,15 +74,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas/",
    "cat": "Udstyr & både",
    "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat."
-  },
-  {
-   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-12",
-   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
-   "cat": "Sikkerhed",
-   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet."
   },
   {
    "key": "baadmagasinet-34333",
@@ -67,15 +103,6 @@
    "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
   },
   {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "cat": "Udstyr & både",
-   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
-  },
-  {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -101,6 +128,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
    "cat": "Havneliv",
    "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
+  },
+  {
+   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "cat": "Udstyr & både",
+   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
   },
   {
    "key": "baadmagasinet-34332",
@@ -166,15 +202,6 @@
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
   },
   {
-   "key": "baadmagasinet-34330",
-   "source": "Bådmagasinet",
-   "date": "2026-08-10",
-   "title": "Jørgen Ring hædret for en helt enestående VM-indsats",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34330-jorgen-ring-blev-haedret-for-en-helt-enestaende-vm-indsats",
-   "cat": "Kapsejlads",
-   "sum": "Jørgen Ring fra Taarbæk er hædret for at have deltaget i sit 50. VM i Yngling, en enestående præstation. Han modtager det gyldne Y i sejlet."
-  },
-  {
    "key": "baadmagasinet-34325",
    "source": "Bådmagasinet",
    "date": "2026-08-10",
@@ -182,6 +209,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34325-sjaeldent-syn-i-vendsyssel-en-haj-skabte-postyr-ved-albaek-havn",
    "cat": "Havneliv",
    "sum": "En brugde, verdens næststørste haj, svømmede torsdag eftermiddag tæt på kysten og ind ved Ålbæk Havn, hvilket skabte postyr blandt badegæster og havnebesøgende."
+  },
+  {
+   "key": "baadmagasinet-34330",
+   "source": "Bådmagasinet",
+   "date": "2026-08-10",
+   "title": "Jørgen Ring hædret for en helt enestående VM-indsats",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34330-jorgen-ring-blev-haedret-for-en-helt-enestaende-vm-indsats",
+   "cat": "Kapsejlads",
+   "sum": "Jørgen Ring fra Taarbæk er hædret for at have deltaget i sit 50. VM i Yngling, en enestående præstation. Han modtager det gyldne Y i sejlet."
   },
   {
    "key": "baadmagasinet-34329",
@@ -202,15 +238,6 @@
    "sum": "Ungdoms-VM i ILCA 4 i Aarhus afsluttet med guld til Grækenland og Schweiz. Dansk fjerdeplads i U16. ILCA 6 VM starter i samme by."
   },
   {
-   "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Italiensk dominans fortsætter – Høj Jensen tog VM-sølv i H-båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
-   "cat": "Kapsejlads",
-   "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk."
-  },
-  {
    "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
    "source": "Minbåd.dk",
    "date": "2026-08-09",
@@ -218,6 +245,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
    "cat": "Kapsejlads",
    "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking."
+  },
+  {
+   "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
+   "source": "Minbåd.dk",
+   "date": "2026-08-09",
+   "title": "Italiensk dominans fortsætter – Høj Jensen tog VM-sølv i H-båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
+   "cat": "Kapsejlads",
+   "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk."
   },
   {
    "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
@@ -329,6 +365,16 @@
    "tjek": "2026-08-13"
   },
   {
+   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
+   "cat": "Sikkerhed",
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
+   "tjek": "2026-08-13"
+  },
+  {
    "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -346,16 +392,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere.",
-   "tjek": "2026-08-13"
-  },
-  {
-   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
-   "cat": "Sikkerhed",
-   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
    "tjek": "2026-08-13"
   },
   {
@@ -888,15 +924,6 @@
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
-   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
-   "cat": "Sikkerhed",
-   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
-  },
-  {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
    "source": "Motorbådsnyt",
    "date": "2026-07-27",
@@ -904,6 +931,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
    "cat": "Andet",
    "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
+  },
+  {
+   "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-07-27",
+   "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
+   "cat": "Sikkerhed",
+   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
   },
   {
    "key": "baadmagasinet-34293",
@@ -936,15 +972,6 @@
    "tjek": "2026-08-03"
   },
   {
-   "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
-   "source": "Minbåd.dk",
-   "date": "2026-07-26",
-   "title": "Politiet: Hvem savner denne sejlbåd på Als?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
-   "cat": "Sikkerhed",
-   "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
-  },
-  {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
    "source": "Motorbådsnyt",
    "date": "2026-07-26",
@@ -952,6 +979,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
+  },
+  {
+   "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
+   "source": "Minbåd.dk",
+   "date": "2026-07-26",
+   "title": "Politiet: Hvem savner denne sejlbåd på Als?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
+   "cat": "Sikkerhed",
+   "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både."
   },
   {
    "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
