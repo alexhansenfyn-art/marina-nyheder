@@ -1,9 +1,7 @@
 {
- "generated": "2026-08-13T09:46:28+00:00",
- "count": 353,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "generated": "2026-08-13T12:10:37+00:00",
+ "count": 354,
+ "errors": [],
  "items": [
   {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
@@ -33,11 +31,22 @@
    "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
   },
   {
+   "key": "baadmagasinet-34337",
+   "source": "Bådmagasinet",
+   "date": "2026-08-13",
+   "title": "Copenhagen Boat Show: Nu under 14 dage…",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34337-copenhagen-boat-show-praecis-14-dage",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum på Ishøj Havn med gratis entre. Udstillingen finder sted fra torsdag til søndag med udstillere fra flere lande."
+  },
+  {
    "key": "baadmagasinet-34336",
    "source": "Bådmagasinet",
    "date": "2026-08-13",
-   "title": "Vegvisir strammer sikkerheden: Seks timers tvungen hvile - men skipper bestemmer selv hvornår",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34336-vegvisir-strammer-sikkerheden-seks-timers-tvungen-hvile-pa-200-somil"
+   "title": "Vegvisir strammer sikkerheden: Seks timers tvungen hvile - skipper bestemmer selv hvornår",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34336-vegvisir-strammer-sikkerheden-seks-timers-tvungen-hvile-pa-200-somil",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører ny regel: max 36 timers sejlads i træk, derefter mindst seks timers hvile. Skipperen vælger selv, hvornår hvilen lægges, og der er særregler tæt på mål."
   },
   {
    "key": "baadmagasinet-34335",
