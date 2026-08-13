@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-13T12:10:37+00:00",
- "count": 354,
+ "generated": "2026-08-13T15:38:35+00:00",
+ "count": 355,
  "errors": [],
  "items": [
   {
-   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
+   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
-   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
-   "cat": "Kapsejlads",
-   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
+   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -20,6 +20,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
    "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+  },
+  {
+   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
+   "cat": "Kapsejlads",
+   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
   },
   {
    "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
@@ -754,16 +763,6 @@
    "tjek": "2026-08-13"
   },
   {
-   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
-   "source": "Minbåd.dk",
-   "date": "2026-07-30",
-   "title": "Sådan får du et friskere indeklima i båden",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "cat": "Udstyr & både",
-   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
-   "tjek": "2026-08-13"
-  },
-  {
    "key": "motorbaade-har-to-oekonomiske-fartomraader",
    "source": "Motorbådsnyt",
    "date": "2026-07-30",
@@ -771,6 +770,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
    "cat": "Andet",
    "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt.",
+   "tjek": "2026-08-13"
+  },
+  {
+   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
+   "source": "Minbåd.dk",
+   "date": "2026-07-30",
+   "title": "Sådan får du et friskere indeklima i båden",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "cat": "Udstyr & både",
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
    "tjek": "2026-08-13"
   },
   {
@@ -930,7 +939,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-08-13"
   },
   {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
