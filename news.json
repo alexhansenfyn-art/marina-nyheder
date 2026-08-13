@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T15:38:35+00:00",
+ "generated": "2026-08-13T18:43:00+00:00",
  "count": 355,
  "errors": [],
  "items": [
@@ -373,16 +373,6 @@
    "sum": "John Mynderup udskiftede sin sejlbåd med vikingeskibet Havhingsten på en uges sommertogt fra Roskilde til Rørvig. Han beskriver oplevelsen som en vidunderlig fornemmelse og en oplevelse for livet."
   },
   {
-   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
-   "cat": "Tursejlads",
-   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
-   "tjek": "2026-08-13"
-  },
-  {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -390,6 +380,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
    "cat": "Sikkerhed",
    "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
+   "tjek": "2026-08-13"
+  },
+  {
+   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
+   "cat": "Tursejlads",
+   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
    "tjek": "2026-08-13"
   },
   {
