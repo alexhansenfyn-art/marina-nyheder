@@ -5,8 +5,15 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Wed, 12 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>J/70 Mixed-Plus Worlds: Familien Mohr i front med VMs yngste deltager om bord</title>
+<link>https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34335-j-70-mixed-plus-worlds-familien-mohr-i-front</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34335-j-70-mixed-plus-worlds-familien-mohr-i-front</guid>
+<pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+<description>Ved J/70 Mixed-VM i Skovshoved fører familien Mohr med Danmark. De overlevede en protest og beholdte føringen; sejladserne fortsætter til lørdag. (Kilde: Bådmagasinet)</description>
+</item>
 <item>
 <title>Førte solosejlads men sov gennem alarmen og endte på klipperne</title>
 <link>https://minbaad.dk/nyhed/archive/2026/12/august/article/foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/</guid>
 <pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
 <description>Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning. (Kilde: Minbåd.dk)</description>
-</item>
-<item>
-<title>Carlo Borlenghi er død – sejlsporten mister sin største fotograf</title>
-<link>https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/</link>
-<guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/</guid>
-<pubDate>Tue, 04 Aug 2026 08:00:00 +0000</pubDate>
-<description>Carlo Borlenghi, en af verdens førende sejlsportsfotografer, er død som 70-årig. Han dokumenterede i fire årtier store kapsejladser som America's Cup og Rolex-serien. (Kilde: Minbåd.dk)</description>
 </item>
 </channel>
 </rss>
