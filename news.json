@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-13T18:43:00+00:00",
- "count": 355,
+ "generated": "2026-08-13T21:29:26+00:00",
+ "count": 356,
  "errors": [],
  "items": [
   {
-   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
+   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
-   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
+   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
+   "cat": "Sikkerhed",
+   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -20,6 +20,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
    "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+  },
+  {
+   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
   {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
@@ -373,16 +382,6 @@
    "sum": "John Mynderup udskiftede sin sejlbåd med vikingeskibet Havhingsten på en uges sommertogt fra Roskilde til Rørvig. Han beskriver oplevelsen som en vidunderlig fornemmelse og en oplevelse for livet."
   },
   {
-   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
-   "cat": "Sikkerhed",
-   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
-   "tjek": "2026-08-13"
-  },
-  {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -410,6 +409,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere.",
+   "tjek": "2026-08-13"
+  },
+  {
+   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-06",
+   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
+   "cat": "Sikkerhed",
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
    "tjek": "2026-08-13"
   },
   {
@@ -933,6 +942,16 @@
    "tjek": "2026-08-13"
   },
   {
+   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-27",
+   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
+   "cat": "Andet",
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs.",
+   "tjek": "2026-08-13"
+  },
+  {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -941,15 +960,6 @@
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
    "tjek": "2026-08-13"
-  },
-  {
-   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-27",
-   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
-   "cat": "Andet",
-   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
