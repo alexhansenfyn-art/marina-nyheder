@@ -1,9 +1,7 @@
 {
- "generated": "2026-08-14T15:12:28+00:00",
+ "generated": "2026-08-14T18:11:16+00:00",
  "count": 364,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
    "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
@@ -46,7 +44,9 @@
    "source": "Bådmagasinet",
    "date": "2026-08-14",
    "title": "DM i CB66: Dirty Diana jagtes af lokale udfordrere i Hornbæk",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34341-dm-i-cb66-dirty-diana-jagtes-af-lokale-udfordrere-i-hornbaek"
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34341-dm-i-cb66-dirty-diana-jagtes-af-lokale-udfordrere-i-hornbaek",
+   "cat": "Kapsejlads",
+   "sum": "CB66-klassen sejler DM i Hornbæk fra 14.-16. august. Forsvarende mester Dirty Diana er favorit, men lokale både fra Helsingør og svenske besætninger udfordrer."
   },
   {
    "key": "baadmagasinet-34340",
@@ -1054,7 +1054,8 @@
    "title": "80-årig faldt i søvn – endte på rev - skulle besøge mor på 101 år",
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar/",
    "cat": "Sikkerhed",
-   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering."
+   "sum": "En 80-årig amerikansk sejler faldt i søvn under en solo-sejlads og strandede på et rev på Bahamas. Han blev reddet og behandlet for dehydrering.",
+   "tjek": "2026-08-14"
   },
   {
    "key": "baadmagasinet-34293",
