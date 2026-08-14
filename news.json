@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-14T00:03:54+00:00",
- "count": 356,
+ "generated": "2026-08-14T05:51:49+00:00",
+ "count": 358,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34339",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "ORC-EM: Stony X har kurs mod podiet i klasse C - Dixi 5 fortsætter i suveræn stil i klasse AB",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34339-orc-em-stony-x-med-kurs-mod-podiet-dixi-5-fortsaetter-i-suveraen-stil",
+   "cat": "Kapsejlads",
+   "sum": "Ved ORC-EM i"
+  },
+  {
+   "key": "baadmagasinet-34338",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "20 år med sejlerne som Søværnets ekstra øjne",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34338-20-ar-med-sejlerne-som-sovaernets-ekstra-ojne",
+   "cat": "Jubilæum",
+   "sum": "Havmiljøvogterne fejrer 20 år med frivillige fra sejlerverdenen, der startede som øjne mod olieforurening og i dag tæller knap 32.000 frivillige. Jubilæet markeres med åbent skib ved Amaliehaven."
+  },
   {
    "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
    "source": "Minbåd.dk",
@@ -166,15 +184,6 @@
    "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
   },
   {
-   "key": "baadmagasinet-34332",
-   "source": "Bådmagasinet",
-   "date": "2026-08-11",
-   "title": "Surf, Kite, SUP m.fl.: Ny app holder øje med vejret – og fortæller dig, hvornår du skal på vandet",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34332-surf-kite-sup-m-fl-ny-app-holder-oje-med-vejret-og-fortaeller-dig-hvornar-du-skal-pa-vandet",
-   "cat": "Udstyr & både",
-   "sum": "En ny app, SurfSignal, hjælper surf- og kitesurfere med at finde de rette vind- og bølgeforhold ved at overvåge vejrudsigter og sende besked, når forholdene matcher brugerens ønsker."
-  },
-  {
    "key": "baadmagasinet-34331",
    "source": "Bådmagasinet",
    "date": "2026-08-11",
@@ -182,6 +191,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34331-87-arig-sejler-solo-mod-kap-horn-til-efteraret",
    "cat": "Tursejlads",
    "sum": "Den 87-årige svenske solosejler Sven Yrvind planlægger at sejle fra Spanien mod Kap Horn i sin selvbyggede 5,2 meter båd. Han forventer ikke at kunne runde Kap Horn, men vil opleve områdets storme."
+  },
+  {
+   "key": "baadmagasinet-34332",
+   "source": "Bådmagasinet",
+   "date": "2026-08-11",
+   "title": "Surf, Kite, SUP m.fl.: Ny app holder øje med vejret – og fortæller dig, hvornår du skal på vandet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34332-surf-kite-sup-m-fl-ny-app-holder-oje-med-vejret-og-fortaeller-dig-hvornar-du-skal-pa-vandet",
+   "cat": "Udstyr & både",
+   "sum": "En ny app, SurfSignal, hjælper surf- og kitesurfere med at finde de rette vind- og bølgeforhold ved at overvåge vejrudsigter og sende besked, når forholdene matcher brugerens ønsker."
   },
   {
    "key": "baadmagasinet-34326",
@@ -883,7 +901,8 @@
    "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
    "cat": "Kapsejlads",
-   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer."
+   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
+   "tjek": "2026-08-14"
   },
   {
    "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
