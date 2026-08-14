@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-14T05:51:49+00:00",
- "count": 358,
- "errors": [],
+ "generated": "2026-08-14T09:46:03+00:00",
+ "count": 360,
+ "errors": [
+  "https://baadbladet.dk/feed/: HTTPSConnectionPool(host='baadbladet.dk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='baadbladet.dk', port=443) at 0x7f77fcec14c0>, 'Connection to baadbladet.dk timed out. (connect timeout=30)'))"
+ ],
  "items": [
+  {
+   "key": "kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "Kim Christensen toer ved J/70-VM Mix – presser forsvarende verdensmester",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører."
+  },
   {
    "key": "baadmagasinet-34339",
    "source": "Bådmagasinet",
@@ -22,15 +33,6 @@
    "sum": "Havmiljøvogterne fejrer 20 år med frivillige fra sejlerverdenen, der startede som øjne mod olieforurening og i dag tæller knap 32.000 frivillige. Jubilæet markeres med åbent skib ved Amaliehaven."
   },
   {
-   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
-   "cat": "Sikkerhed",
-   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
-  },
-  {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
    "source": "Motorbådsnyt",
    "date": "2026-08-13",
@@ -38,6 +40,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
    "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+  },
+  {
+   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
+   "cat": "Sikkerhed",
+   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
   },
   {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
@@ -173,6 +184,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
    "cat": "Havneliv",
    "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
+  },
+  {
+   "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
+   "cat": "Kapsejlads",
+   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler."
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -835,6 +855,16 @@
    "tjek": "2026-08-06"
   },
   {
+   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-29",
+   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
+   "cat": "Havneliv",
+   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning.",
+   "tjek": "2026-08-14"
+  },
+  {
    "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
    "source": "Minbåd.dk",
    "date": "2026-07-29",
@@ -852,16 +882,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
    "cat": "Andet",
    "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
-   "tjek": "2026-08-14"
-  },
-  {
-   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-29",
-   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
-   "cat": "Havneliv",
-   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning.",
    "tjek": "2026-08-14"
   },
   {
@@ -911,7 +931,8 @@
    "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
    "cat": "Tursejlads",
-   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
+   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning.",
+   "tjek": "2026-08-14"
   },
   {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -920,7 +941,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
+   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord.",
+   "tjek": "2026-08-14"
   },
   {
    "key": "baadmagasinet-34304",
