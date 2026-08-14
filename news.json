@@ -1,10 +1,17 @@
 {
- "generated": "2026-08-14T09:46:03+00:00",
- "count": 360,
- "errors": [
-  "https://baadbladet.dk/feed/: HTTPSConnectionPool(host='baadbladet.dk', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='baadbladet.dk', port=443) at 0x7f77fcec14c0>, 'Connection to baadbladet.dk timed out. (connect timeout=30)'))"
- ],
+ "generated": "2026-08-14T12:03:49+00:00",
+ "count": 362,
+ "errors": [],
  "items": [
+  {
+   "key": "ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "Ungdoms-VM i Aarhus – byen er på det internationale søkort",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort/",
+   "cat": "Kapsejlads",
+   "sum": "Ungdoms-VM i ILCA 4 og ILCA 6 samler 900 unge sejlere fra 50 nationer i Aarhus. Mesterskabet viser byens styrke som international sejlsportsby."
+  },
   {
    "key": "kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester",
    "source": "Minbåd.dk",
@@ -13,6 +20,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
    "cat": "Kapsejlads",
    "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører."
+  },
+  {
+   "key": "baadmagasinet-34340",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "Verdens ældste skoleskib lægger til i Kolding: Kom ombord på Georg Stage i weekenden",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34340-verdens-aeldste-skoleskib-laegger-til-i-kolding-kom-ombord-pa-georg-stage-i-weekenden",
+   "cat": "Havneliv",
+   "sum": "Skoleskibet Georg Stage lægger til i Kolding Havn den 15.-16. august med åbent skib og mulighed for at møde elever og høre om livet til søs."
   },
   {
    "key": "baadmagasinet-34339",
@@ -303,15 +319,6 @@
    "sum": "Ungdoms-VM i ILCA 4 i Aarhus afsluttet med guld til Grækenland og Schweiz. Dansk fjerdeplads i U16. ILCA 6 VM starter i samme by."
   },
   {
-   "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Dolmer og Bekking vinder Copa del Rey i Cape 31",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking."
-  },
-  {
    "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
    "source": "Minbåd.dk",
    "date": "2026-08-09",
@@ -319,6 +326,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
    "cat": "Kapsejlads",
    "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk."
+  },
+  {
+   "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
+   "source": "Minbåd.dk",
+   "date": "2026-08-09",
+   "title": "Dolmer og Bekking vinder Copa del Rey i Cape 31",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
+   "cat": "Kapsejlads",
+   "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking."
   },
   {
    "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
@@ -375,16 +391,6 @@
    "sum": "Eske Dietz fra Hellerup Sejlklub er blevet ungdoms Europamester efter en suveræn serie på fire førstepladser."
   },
   {
-   "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
-   "source": "Minbåd.dk",
-   "date": "2026-08-07",
-   "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
-   "cat": "Tursejlads",
-   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget.",
-   "tjek": "2026-08-14"
-  },
-  {
    "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
    "source": "Minbåd.dk",
    "date": "2026-08-07",
@@ -392,6 +398,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
    "cat": "Tursejlads",
    "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen.",
+   "tjek": "2026-08-14"
+  },
+  {
+   "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
+   "cat": "Tursejlads",
+   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget.",
    "tjek": "2026-08-14"
   },
   {
@@ -975,6 +991,16 @@
    "tjek": "2026-08-04"
   },
   {
+   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-27",
+   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
+   "cat": "Andet",
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs.",
+   "tjek": "2026-08-14"
+  },
+  {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
    "source": "Minbåd.dk",
    "date": "2026-07-27",
@@ -982,15 +1008,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser/",
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser."
-  },
-  {
-   "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-27",
-   "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
-   "cat": "Andet",
-   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
