@@ -1,11 +1,35 @@
 {
- "generated": "2026-08-16T19:06:17+00:00",
- "count": 370,
- "errors": [
-  "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
-  "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt"
- ],
+ "generated": "2026-08-16T19:51:11+00:00",
+ "count": 372,
+ "errors": [],
  "items": [
+  {
+   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-16",
+   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
+   "cat": "Havneliv",
+   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn."
+  },
+  {
+   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-16",
+   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
+  },
+  {
+   "key": "baadmagasinet-34345",
+   "source": "Bådmagasinet",
+   "date": "2026-08-16",
+   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
+   "cat": "Kapsejlads",
+   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads."
+  },
   {
    "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
    "source": "Dansk Sejlunion",
@@ -23,15 +47,6 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2025",
    "cat": "Havneliv",
    "sum": "200 deltagere mødtes til Klubkonference 2025 i Aarhus. Næste konference er planlagt til 14. november 2026."
-  },
-  {
-   "key": "baadmagasinet-34345",
-   "source": "Bådmagasinet",
-   "date": "2026-08-16",
-   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
-   "cat": "Kapsejlads",
-   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads."
   },
   {
    "key": "stannows-xr-41-hold-to-em-guld-vil-nu-vinde-vm-i-koebenhavn",
@@ -70,15 +85,6 @@
    "sum": "Ved ORC EM sikrer begge danske både medaljer: Dixi5 bliver europamester i klasse AB, mens StonyX tager bronze i klasse C."
   },
   {
-   "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-14",
-   "title": "HH sejlersko satser på letvægter med maksimalt greb",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
-   "cat": "Udstyr & både",
-   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
-  },
-  {
    "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
    "source": "Minbåd.dk",
    "date": "2026-08-14",
@@ -104,6 +110,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
    "cat": "Kapsejlads",
    "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører."
+  },
+  {
+   "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "HH sejlersko satser på letvægter med maksimalt greb",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
+   "cat": "Udstyr & både",
+   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
   },
   {
    "key": "baadmagasinet-34341",
@@ -241,15 +256,6 @@
    "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-12",
-   "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
-  },
-  {
    "key": "baadmagasinet-34333",
    "source": "Bådmagasinet",
    "date": "2026-08-12",
@@ -257,6 +263,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
    "cat": "Havneliv",
    "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-12",
+   "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
   },
   {
    "key": "baadmagasinet-34334",
@@ -358,15 +373,6 @@
    "sum": "Svenske Thomas Hansson-Mild vandt NM i OK-joller i Kristinehamn. Danskerne Bo Petersen og Steen Christensen tog henholdsvis sølv og bronze."
   },
   {
-   "key": "448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "448 sejlere rundede ILCA 4-VM af i Aarhus – nu venter ILCA 6-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm/",
-   "cat": "Kapsejlads",
-   "sum": "448 unge sejlere gennemførte ILCA 4-VM i Aarhus. Grækenland og Schweiz tog titlerne. Nu starter ILCA 6-VM."
-  },
-  {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
@@ -374,6 +380,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
    "cat": "Sikkerhed",
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
+  },
+  {
+   "key": "448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-10",
+   "title": "448 sejlere rundede ILCA 4-VM af i Aarhus – nu venter ILCA 6-VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm/",
+   "cat": "Kapsejlads",
+   "sum": "448 unge sejlere gennemførte ILCA 4-VM i Aarhus. Grækenland og Schweiz tog titlerne. Nu starter ILCA 6-VM."
   },
   {
    "key": "baadmagasinet-34325",
@@ -582,16 +597,6 @@
    "tjek": "2026-08-16"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-06",
-   "title": "Når sejlklubben skal forklare sin identitet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "cat": "Andet",
-   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår.",
-   "tjek": "2026-08-16"
-  },
-  {
    "key": "baadmagasinet-34321",
    "source": "Bådmagasinet",
    "date": "2026-08-06",
@@ -609,6 +614,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34318-sjaeldent-vejrfaenomen-ramte-nordsoen-fisker-filmer-meteotsunami",
    "cat": "Andet",
    "sum": "En fisker ved Hanstholm filmede en sjælden meteotsunami, en bølge forårsaget af pludselige trykændringer. Fænomenet er ufarligt i Danmark.",
+   "tjek": "2026-08-16"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "Når sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "cat": "Andet",
+   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår.",
    "tjek": "2026-08-16"
   },
   {
@@ -722,16 +737,6 @@
    "tjek": "2026-08-16"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-04",
-   "title": "Hjælp kloden på World Clean Up Day",
-   "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
-   "cat": "Havneliv",
-   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet.",
-   "tjek": "2026-08-16"
-  },
-  {
    "key": "baadmagasinet-34308",
    "source": "Bådmagasinet",
    "date": "2026-08-04",
@@ -752,6 +757,16 @@
    "tjek": "2026-08-16"
   },
   {
+   "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-04",
+   "title": "Hjælp kloden på World Clean Up Day",
+   "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "cat": "Havneliv",
+   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet.",
+   "tjek": "2026-08-16"
+  },
+  {
    "key": "baadmagasinet-34317",
    "source": "Bådmagasinet",
    "date": "2026-08-04",
@@ -762,16 +777,6 @@
    "tjek": "2026-08-11"
   },
   {
-   "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-03",
-   "title": "Sæt kurs mod en kulinarisk parferie i Mariager Fjord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
-   "cat": "Havneliv",
-   "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro.",
-   "tjek": "2026-08-16"
-  },
-  {
    "key": "1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-08-03",
@@ -779,6 +784,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus/",
    "cat": "Kapsejlads",
    "sum": "Aarhus er vært for ungdoms-VM i ILCA 4 og ILCA 6 med op mod 1.000 sejlere fra 51 nationer i august 2026. Det er første gang, de to mesterskaber afholdes direkte efter hinanden i byen.",
+   "tjek": "2026-08-16"
+  },
+  {
+   "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-03",
+   "title": "Sæt kurs mod en kulinarisk parferie i Mariager Fjord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
+   "cat": "Havneliv",
+   "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro.",
    "tjek": "2026-08-16"
   },
   {
@@ -1038,8 +1053,7 @@
    "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
    "cat": "Tursejlads",
-   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning.",
-   "tjek": "2026-08-16"
+   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   },
   {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -1048,8 +1062,7 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord.",
-   "tjek": "2026-08-16"
+   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
   },
   {
    "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
@@ -1098,8 +1111,7 @@
    "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
    "cat": "Andet",
-   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs.",
-   "tjek": "2026-08-16"
+   "sum": "Fransk domstol idømte bådejer fængsel, bøde og erstatning på over 110.000 euro for at have efterladt vrag, der ødelagde 200 m² beskyttet havgræs."
   },
   {
    "key": "elliott-35-ss-knaekker-masten-og-soeger-i-sikkerhed-i-gedser",
@@ -1168,8 +1180,7 @@
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "cat": "Udstyr & både",
-   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse.",
-   "tjek": "2026-08-16"
+   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
   },
   {
    "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
@@ -1268,8 +1279,7 @@
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
    "cat": "Havnepriser",
-   "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge.",
-   "tjek": "2026-08-16"
+   "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge."
   },
   {
    "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
@@ -1278,8 +1288,7 @@
    "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
    "cat": "Havneliv",
-   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen.",
-   "tjek": "2026-08-16"
+   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen."
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -1288,8 +1297,7 @@
    "title": "10 gode råd før du køber brugt båd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
    "cat": "Udstyr & både",
-   "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum.",
-   "tjek": "2026-08-16"
+   "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum."
   },
   {
    "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
@@ -1298,8 +1306,7 @@
    "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
    "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "cat": "Sikkerhed",
-   "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed.",
-   "tjek": "2026-08-16"
+   "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed."
   },
   {
    "key": "havneguide.dk/baadpladser",
@@ -1407,15 +1414,6 @@
    "tjek": "2026-08-02"
   },
   {
-   "key": "erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig",
-   "source": "Minbåd.dk",
-   "date": "2026-07-21",
-   "title": "Erik Aanderaa nåede nord for Svalbard: Iskanten kom pludselig",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig/",
-   "cat": "Tursejlads",
-   "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere."
-  },
-  {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
    "source": "Minbåd.dk",
    "date": "2026-07-21",
@@ -1432,6 +1430,15 @@
    "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
    "cat": "Havneliv",
    "sum": "Vedbæk Havn har fået nye hyggelige toilet- og badefaciliteter med skandinavisk design, hvilket har skabt begejstring blandt gæster og faste brugere."
+  },
+  {
+   "key": "erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig",
+   "source": "Minbåd.dk",
+   "date": "2026-07-21",
+   "title": "Erik Aanderaa nåede nord for Svalbard: Iskanten kom pludselig",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig/",
+   "cat": "Tursejlads",
+   "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere."
   },
   {
    "key": "baadmagasinet-34274",
