@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-16T07:49:45+00:00",
- "count": 368,
+ "generated": "2026-08-16T09:15:37+00:00",
+ "count": 369,
  "errors": [],
  "items": [
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-16",
+   "title": "Kæmpe sejlerfest i Aarhus",
+   "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-16",
+   "title": "Klubkonference 2025",
+   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2025",
+   "cat": "Havneliv",
+   "sum": "200 deltagere mødtes til Klubkonference 2025 i Aarhus. Næste konference er planlagt til 14. november 2026."
+  },
   {
    "key": "stannows-xr-41-hold-to-em-guld-vil-nu-vinde-vm-i-koebenhavn",
    "source": "Minbåd.dk",
@@ -3081,15 +3099,6 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/mere-ens-regler-for-sejlads-i-300-meter-zonen",
    "cat": "Sikkerhed",
    "sum": "Dansk Sejlunion og Danske Tursejlere har arbejdet for mere ensartede sejladsregler i 300 meter zonen. Flere politikredse har nu tilpasset reglerne, men der er fortsat forskelle på tværs af landet."
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
-   "source": "Dansk Sejlunion",
-   "date": "2026-01-12",
-   "title": "Klubkonference 2025",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2025",
-   "cat": "Havneliv",
-   "sum": "200 deltagere mødtes til Klubkonference 2025 i Aarhus. Næste konference er planlagt til 14. november 2026."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ansoeg-om-deltagelse-i-team-racing-vm-2026",
