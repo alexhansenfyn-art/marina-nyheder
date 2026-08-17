@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-17T12:00:08+00:00",
- "count": 376,
+ "generated": "2026-08-17T14:03:38+00:00",
+ "count": 378,
  "errors": [],
  "items": [
+  {
+   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubfællesskaber. Hun skal bl.a. udvikle DM-ugen og Sejlergallaen."
+  },
   {
    "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
    "source": "Minbåd.dk",
@@ -11,6 +20,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens/",
    "cat": "Kapsejlads",
    "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
+  },
+  {
+   "key": "baadmagasinet-34348",
+   "source": "Bådmagasinet",
+   "date": "2026-08-17",
+   "title": "DM: Og vinderne er...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34348-dm-og-vinderne-er",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark."
   },
   {
    "key": "baadmagasinet-34347",
@@ -22,15 +40,6 @@
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber."
   },
   {
-   "key": "baadmagasinet-34344",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-08-17",
@@ -38,6 +47,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
+  },
+  {
+   "key": "baadmagasinet-34344",
+   "source": "Bådmagasinet",
+   "date": "2026-08-17",
+   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
   },
   {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
@@ -947,7 +965,8 @@
    "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt - nu video",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
    "cat": "Kapsejlads",
-   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus."
+   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus.",
+   "tjek": "2026-08-17"
   },
   {
    "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
