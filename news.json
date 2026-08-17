@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-17T10:08:13+00:00",
- "count": 374,
+ "generated": "2026-08-17T11:13:26+00:00",
+ "count": 376,
  "errors": [],
  "items": [
   {
@@ -13,6 +13,15 @@
    "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
   },
   {
+   "key": "baadmagasinet-34347",
+   "source": "Bådmagasinet",
+   "date": "2026-08-17",
+   "title": "Dansk Sejlunion opruster på events og klubliv - Sophie Kirkegaard tiltræder ny stilling",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34347-dansk-sejlunion-opruster-pa-events-og-klubliv",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber."
+  },
+  {
    "key": "baadmagasinet-34344",
    "source": "Bådmagasinet",
    "date": "2026-08-17",
@@ -20,6 +29,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
   },
   {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
@@ -773,16 +791,6 @@
    "tjek": "2026-08-17"
   },
   {
-   "key": "baadmagasinet-34316",
-   "source": "Bådmagasinet",
-   "date": "2026-08-04",
-   "title": "Sejlsporten har mistet sin største fotograf",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34316-sejlsporten-har-mistet-sin-storste-fotograf",
-   "cat": "Andet",
-   "sum": "Mindeord om den italienske sejlsportsfotograf Carlo Borlenghi, der er gået bort. Han dokumenterede verdens største kapsejladser i næsten 50 år.",
-   "tjek": "2026-08-17"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "source": "Dansk Sejlunion",
    "date": "2026-08-04",
@@ -790,6 +798,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet.",
+   "tjek": "2026-08-17"
+  },
+  {
+   "key": "baadmagasinet-34316",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Sejlsporten har mistet sin største fotograf",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34316-sejlsporten-har-mistet-sin-storste-fotograf",
+   "cat": "Andet",
+   "sum": "Mindeord om den italienske sejlsportsfotograf Carlo Borlenghi, der er gået bort. Han dokumenterede verdens største kapsejladser i næsten 50 år.",
    "tjek": "2026-08-17"
   },
   {
@@ -899,7 +917,8 @@
    "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
    "cat": "Tursejlads",
-   "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere."
+   "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere.",
+   "tjek": "2026-08-17"
   },
   {
    "key": "baadmagasinet-34313",
