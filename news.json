@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-17T08:06:14+00:00",
- "count": 373,
+ "generated": "2026-08-17T10:08:13+00:00",
+ "count": 374,
  "errors": [],
  "items": [
+  {
+   "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Kim Christensen tog VM-sølv i J/70 Mix på Øresund - var hurtig på læns",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
+  },
   {
    "key": "baadmagasinet-34344",
    "source": "Bådmagasinet",
@@ -13,15 +22,6 @@
    "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
   },
   {
-   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
-   "source": "Minbåd.dk",
-   "date": "2026-08-16",
-   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
-   "cat": "Havneliv",
-   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn."
-  },
-  {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
    "source": "Motorbådsnyt",
    "date": "2026-08-16",
@@ -29,6 +29,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
    "cat": "Sikkerhed",
    "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
+  },
+  {
+   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-16",
+   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
+   "cat": "Havneliv",
+   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn."
   },
   {
    "key": "baadmagasinet-34345",
@@ -175,6 +184,15 @@
    "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
   },
   {
+   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
+  },
+  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
@@ -191,15 +209,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
    "cat": "Kapsejlads",
    "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
-  },
-  {
-   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
-   "cat": "Kapsejlads",
-   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -364,16 +373,6 @@
    "sum": "Ny distancesejlads fra Fur i Limfjorden den 26. september. Arrangeret af Skive Sejlklub, Maritim Center Skive og Fuur Baadlaug for både kapsejlere og tursejlere."
   },
   {
-   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm.",
-   "tjek": "2026-08-17"
-  },
-  {
    "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
@@ -384,13 +383,13 @@
    "tjek": "2026-08-17"
   },
   {
-   "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
+   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
-   "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
+   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
    "cat": "Sikkerhed",
-   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land.",
+   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm.",
    "tjek": "2026-08-17"
   },
   {
@@ -401,6 +400,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm/",
    "cat": "Kapsejlads",
    "sum": "448 unge sejlere gennemførte ILCA 4-VM i Aarhus. Grækenland og Schweiz tog titlerne. Nu starter ILCA 6-VM.",
+   "tjek": "2026-08-17"
+  },
+  {
+   "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-10",
+   "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
+   "cat": "Sikkerhed",
+   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land.",
    "tjek": "2026-08-17"
   },
   {
@@ -2377,15 +2386,6 @@
    "sum": "Elvstrøm Sails præsenterer fire sejldugsteknologier - polyester, laminat, membran og komposit - og vejleder sejlere i at vælge det rette sejl til deres behov og budget."
   },
   {
-   "key": "garmins-nye-vhf-radio-er-med-touchskaerm-og-ais-i-kompakt-format",
-   "source": "Motorbådsnyt",
-   "date": "2026-05-28",
-   "title": "Garmins nye VHF-radio er med touchskærm og AIS i kompakt format",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/may/article/garmins-nye-vhf-radio-er-med-touchskaerm-og-ais-i-kompakt-format/",
-   "cat": "Udstyr & både",
-   "sum": "Garmin lancerer to nye VHF-radioer med touchskærm, AIS (topmodel) og støjreduktion; fås fra juni 2026."
-  },
-  {
    "key": "ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen",
    "source": "FLID Havne",
    "date": "2026-05-28",
@@ -2393,6 +2393,15 @@
    "url": "https://flidhavne.dk/ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen/",
    "cat": "Tursejlads",
    "sum": "Den nye udgave af det populære danmarkskort er igen tilgængelig på havnen."
+  },
+  {
+   "key": "garmins-nye-vhf-radio-er-med-touchskaerm-og-ais-i-kompakt-format",
+   "source": "Motorbådsnyt",
+   "date": "2026-05-28",
+   "title": "Garmins nye VHF-radio er med touchskærm og AIS i kompakt format",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/may/article/garmins-nye-vhf-radio-er-med-touchskaerm-og-ais-i-kompakt-format/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin lancerer to nye VHF-radioer med touchskærm, AIS (topmodel) og støjreduktion; fås fra juni 2026."
   },
   {
    "key": "svenske-anytec-lancerer-ny-a28-t-i-aluminium",
