@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-18T03:14:19+00:00",
- "count": 378,
+ "generated": "2026-08-18T05:05:24+00:00",
+ "count": 379,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34346",
+   "source": "Bådmagasinet",
+   "date": "2026-08-18",
+   "title": "Populære Christiansø: 35 procents fremgang på Danmarks østligste udpost",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34346-populaere-christianso-35-procents-fremgang-pa-danmarks-ostligste-udpost",
+   "cat": "Tursejlads",
+   "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende."
+  },
   {
    "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
    "source": "Minbåd.dk",
@@ -40,15 +49,6 @@
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-17",
-   "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
-  },
-  {
    "key": "baadmagasinet-34344",
    "source": "Bådmagasinet",
    "date": "2026-08-17",
@@ -56,6 +56,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
   },
   {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
@@ -175,15 +184,6 @@
    "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
   },
   {
-   "key": "baadmagasinet-34341",
-   "source": "Bådmagasinet",
-   "date": "2026-08-14",
-   "title": "DM i CB66: Dirty Diana jagtes af lokale udfordrere i Hornbæk",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34341-dm-i-cb66-dirty-diana-jagtes-af-lokale-udfordrere-i-hornbaek",
-   "cat": "Kapsejlads",
-   "sum": "CB66-klassen sejler DM i Hornbæk fra 14.-16. august. Forsvarende mester Dirty Diana er favorit, men lokale både fra Helsingør og svenske besætninger udfordrer."
-  },
-  {
    "key": "baadmagasinet-34340",
    "source": "Bådmagasinet",
    "date": "2026-08-14",
@@ -200,6 +200,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34338-20-ar-med-sejlerne-som-sovaernets-ekstra-ojne",
    "cat": "Jubilæum",
    "sum": "Havmiljøvogterne fejrer 20 år med frivillige fra sejlerverdenen, der startede som øjne mod olieforurening og i dag tæller knap 32.000 frivillige. Jubilæet markeres med åbent skib ved Amaliehaven."
+  },
+  {
+   "key": "baadmagasinet-34341",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "DM i CB66: Dirty Diana jagtes af lokale udfordrere i Hornbæk",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34341-dm-i-cb66-dirty-diana-jagtes-af-lokale-udfordrere-i-hornbaek",
+   "cat": "Kapsejlads",
+   "sum": "CB66-klassen sejler DM i Hornbæk fra 14.-16. august. Forsvarende mester Dirty Diana er favorit, men lokale både fra Helsingør og svenske besætninger udfordrer."
   },
   {
    "key": "baadmagasinet-34339",
@@ -813,7 +822,8 @@
    "title": "Ny sensor ved Avernakø Havn giver sejlere live-data om vanddybde og bølger",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34308-ny-sensor-ved-avernako-havn-giver-sejlere-live-data-om-vanddybde-og-bolger",
    "cat": "Sikkerhed",
-   "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
+   "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område.",
+   "tjek": "2026-08-18"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -822,7 +832,8 @@
    "title": "Hjælp kloden på World Clean Up Day",
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
-   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
+   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet.",
+   "tjek": "2026-08-18"
   },
   {
    "key": "baadmagasinet-34316",
