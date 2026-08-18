@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-18T09:56:20+00:00",
- "count": 380,
+ "generated": "2026-08-18T11:12:57+00:00",
+ "count": 383,
  "errors": [],
  "items": [
   {
-   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
+   "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
-   "title": "Solpaneler efter mål på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "cat": "Udstyr & både",
-   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+   "title": "Når katten er ude: Schaldemose og Sundby snuppede DM-guldet i BB10 Meter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter/",
+   "cat": "Kapsejlads",
+   "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze."
   },
   {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
@@ -22,13 +22,31 @@
    "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
   {
+   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Solpaneler efter mål på Copenhagen Boat Show",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
+   "cat": "Udstyr & både",
+   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
    "key": "baadmagasinet-34346",
    "source": "Bådmagasinet",
    "date": "2026-08-18",
-   "title": "Populære Christiansø: 35 procents fremgang på Danmarks østligste udpost",
+   "title": "Populære Christiansø: 35 % fremgang på Danmarks østligste udpost",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34346-populaere-christianso-35-procents-fremgang-pa-danmarks-ostligste-udpost",
    "cat": "Tursejlads",
    "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende."
+  },
+  {
+   "key": "baadmagasinet-34350",
+   "source": "Bådmagasinet",
+   "date": "2026-08-18",
+   "title": "CB66-DM: Ni sejladser, svensk pres – men Dirty Diana var urørlig",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34350-cb66-dm-ni-sejladser-svensk-pres-men-dirty-diana-var-urorlig",
+   "cat": "Kapsejlads",
+   "sum": "Dansk mesterskab i CB66-klassen blev afgjort i Hornbæk efter ni sejladser. Dirty Diana vandt foran to svenske både i den samlede stilling, mens de danske medaljer gik til Hellerup Sejlklub-både."
   },
   {
    "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
@@ -119,6 +137,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-16",
+   "title": "Klubkonference 2026",
+   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "cat": "Andet",
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
@@ -396,10 +423,10 @@
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
    "cat": "Udstyr & både",
    "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser.",
    "tjek": "2026-08-18"
