@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-18T14:11:07+00:00",
- "count": 383,
+ "generated": "2026-08-18T15:53:42+00:00",
+ "count": 384,
  "errors": [],
  "items": [
   {
-   "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
-   "title": "Når katten er ude: Schaldemose og Sundby snuppede DM-guldet i BB10 Meter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter/",
-   "cat": "Kapsejlads",
-   "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze."
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "cat": "Sikkerhed",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
@@ -20,6 +20,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
    "cat": "Udstyr & både",
    "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
+  },
+  {
+   "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Når katten er ude: Schaldemose og Sundby snuppede DM-guldet i BB10 Meter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter/",
+   "cat": "Kapsejlads",
+   "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze."
   },
   {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
@@ -1145,15 +1154,6 @@
    "tjek": "2026-08-05"
   },
   {
-   "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Fynske danmarksmestre tog sølv ved Folkebådenes Gold Cup",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
-   "cat": "Kapsejlads",
-   "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog."
-  },
-  {
    "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
    "source": "Minbåd.dk",
    "date": "2026-07-28",
@@ -1170,6 +1170,15 @@
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
+  },
+  {
+   "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Fynske danmarksmestre tog sølv ved Folkebådenes Gold Cup",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
+   "cat": "Kapsejlads",
+   "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog."
   },
   {
    "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
