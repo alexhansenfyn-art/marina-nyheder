@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-18T06:04:41+00:00",
- "count": 379,
+ "generated": "2026-08-18T08:05:38+00:00",
+ "count": 380,
  "errors": [],
  "items": [
+  {
+   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Solpaneler efter mål på Copenhagen Boat Show",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
+   "cat": "Udstyr & både",
+   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-18",
+   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
+  },
   {
    "key": "baadmagasinet-34346",
    "source": "Bådmagasinet",
@@ -67,15 +85,6 @@
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
   },
   {
-   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-16",
-   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
-  },
-  {
    "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
    "source": "Minbåd.dk",
    "date": "2026-08-16",
@@ -83,6 +92,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
    "cat": "Havneliv",
    "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn."
+  },
+  {
+   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
+   "source": "Minbåd.dk",
+   "date": "2026-08-16",
+   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
   },
   {
    "key": "baadmagasinet-34345",
@@ -238,15 +256,6 @@
    "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
   },
   {
-   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
-  },
-  {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
@@ -356,16 +365,6 @@
    "tjek": "2026-08-18"
   },
   {
-   "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
-   "tjek": "2026-08-18"
-  },
-  {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -383,6 +382,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
    "cat": "Kapsejlads",
    "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
+   "tjek": "2026-08-18"
+  },
+  {
+   "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
+   "cat": "Tursejlads",
+   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
    "tjek": "2026-08-18"
   },
   {
