@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-19T03:27:13+00:00",
- "count": 384,
+ "generated": "2026-08-19T05:08:42+00:00",
+ "count": 385,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34349",
+   "source": "Bådmagasinet",
+   "date": "2026-08-19",
+   "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
+   "cat": "Havneliv",
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+  },
   {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
    "source": "Minbåd.dk",
@@ -130,15 +139,6 @@
    "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
   },
   {
-   "key": "baadmagasinet-34345",
-   "source": "Bådmagasinet",
-   "date": "2026-08-16",
-   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
-   "cat": "Kapsejlads",
-   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
    "source": "Dansk Sejlunion",
    "date": "2026-08-16",
@@ -155,6 +155,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+  },
+  {
+   "key": "baadmagasinet-34345",
+   "source": "Bådmagasinet",
+   "date": "2026-08-16",
+   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
+   "cat": "Kapsejlads",
+   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
@@ -833,7 +842,8 @@
    "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
    "cat": "Sikkerhed",
-   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning."
+   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning.",
+   "tjek": "2026-08-19"
   },
   {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
