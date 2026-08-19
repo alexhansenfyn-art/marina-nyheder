@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-19T05:08:42+00:00",
- "count": 385,
+ "generated": "2026-08-19T07:27:28+00:00",
+ "count": 386,
  "errors": [],
  "items": [
+  {
+   "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-19",
+   "title": "Negative kommentarer mod nødstedte sejlere får redningsfolk til at slå alarm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
+   "cat": "Sikkerhed",
+   "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
+  },
   {
    "key": "baadmagasinet-34349",
    "source": "Bådmagasinet",
@@ -13,15 +22,6 @@
    "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
   },
   {
-   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
-   "cat": "Sikkerhed",
-   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
-  },
-  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Motorbådsnyt",
    "date": "2026-08-18",
@@ -29,6 +29,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
    "cat": "Udstyr & både",
    "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
+  },
+  {
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "cat": "Sikkerhed",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
    "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
@@ -346,16 +355,6 @@
    "sum": "Ved J/70 Mixed-VM i Skovshoved fører familien Mohr med Danmark. De overlevede en protest og beholdte føringen; sejladserne fortsætter til lørdag."
   },
   {
-   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-12",
-   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
-   "cat": "Sikkerhed",
-   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet.",
-   "tjek": "2026-08-19"
-  },
-  {
    "key": "foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne",
    "source": "Minbåd.dk",
    "date": "2026-08-12",
@@ -373,6 +372,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas/",
    "cat": "Udstyr & både",
    "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat.",
+   "tjek": "2026-08-19"
+  },
+  {
+   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-12",
+   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
+   "cat": "Sikkerhed",
+   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet.",
    "tjek": "2026-08-19"
   },
   {
@@ -766,16 +775,6 @@
    "tjek": "2026-08-19"
   },
   {
-   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
-   "source": "Minbåd.dk",
-   "date": "2026-08-05",
-   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
-   "cat": "Sikkerhed",
-   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne.",
-   "tjek": "2026-08-19"
-  },
-  {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
    "source": "Minbåd.dk",
    "date": "2026-08-05",
@@ -783,6 +782,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
    "cat": "Kapsejlads",
    "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen.",
+   "tjek": "2026-08-19"
+  },
+  {
+   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
+   "source": "Minbåd.dk",
+   "date": "2026-08-05",
+   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
+   "cat": "Sikkerhed",
+   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne.",
    "tjek": "2026-08-19"
   },
   {
@@ -846,15 +855,6 @@
    "tjek": "2026-08-19"
   },
   {
-   "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Carlo Borlenghi er død – sejlsporten mister sin største fotograf",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/",
-   "cat": "Andet",
-   "sum": "Carlo Borlenghi, en af verdens førende sejlsportsfotografer, er død som 70-årig. Han dokumenterede i fire årtier store kapsejladser som America's Cup og Rolex-serien."
-  },
-  {
    "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
    "source": "Motorbådsnyt",
    "date": "2026-08-04",
@@ -889,6 +889,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
+  },
+  {
+   "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Carlo Borlenghi er død – sejlsporten mister sin største fotograf",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/",
+   "cat": "Andet",
+   "sum": "Carlo Borlenghi, en af verdens førende sejlsportsfotografer, er død som 70-årig. Han dokumenterede i fire årtier store kapsejladser som America's Cup og Rolex-serien."
   },
   {
    "key": "baadmagasinet-34316",
