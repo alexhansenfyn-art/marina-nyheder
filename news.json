@@ -1,7 +1,9 @@
 {
- "generated": "2026-08-19T10:59:37+00:00",
- "count": 388,
- "errors": [],
+ "generated": "2026-08-19T12:02:36+00:00",
+ "count": 389,
+ "errors": [
+  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)"
+ ],
  "items": [
   {
    "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
@@ -38,6 +40,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
    "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-19",
+   "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
   },
   {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
@@ -2833,15 +2844,6 @@
    "sum": "Bøgeskov Havn er lukket pga. tilsanding af indsejlingen. Havnen venter på tilladelse til oprensning, mens økonomien er under pres."
   },
   {
-   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-16",
-   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
-   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
-   "cat": "Andet",
-   "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-04-16",
@@ -2849,6 +2851,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-16",
+   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
+   "cat": "Andet",
+   "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
   },
   {
    "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
@@ -3076,15 +3087,6 @@
    "sum": "Et motor-kursus i Marselisborg giver sejlere lovpligtig viden om motorpasning. Deltageren lærte om motoropbygning og fejlfinding."
   },
   {
-   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
-   "source": "Danske Tursejlere",
-   "date": "2026-03-05",
-   "title": "INDKALDELSE TIL GENERALFORSAMLING",
-   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
-   "cat": "Havneliv",
-   "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
    "source": "Dansk Sejlunion",
    "date": "2026-03-05",
@@ -3092,6 +3094,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
+  },
+  {
+   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
+   "source": "Danske Tursejlere",
+   "date": "2026-03-05",
+   "title": "INDKALDELSE TIL GENERALFORSAMLING",
+   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
+   "cat": "Havneliv",
+   "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
   },
   {
    "key": "dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025",
