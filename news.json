@@ -1,10 +1,17 @@
 {
- "generated": "2026-08-19T12:02:36+00:00",
- "count": 389,
- "errors": [
-  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)"
- ],
+ "generated": "2026-08-19T14:10:44+00:00",
+ "count": 391,
+ "errors": [],
  "items": [
+  {
+   "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
+   "source": "Minbåd.dk",
+   "date": "2026-08-19",
+   "title": "Sejlbåd til Atlanterhavet? 37 fod er stor nok",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/sejlbaad-til-atlanterhavet-37-fod-er-stor-nok/",
+   "cat": "Tursejlads",
+   "sum": "Artiklen diskuterer, hvor stor en sejlbåd skal være for at krydse Atlanterhavet, og fremhæver at konstruktion og udstyr er vigtigere end længde alene."
+  },
   {
    "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
    "source": "Minbåd.dk",
@@ -40,6 +47,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
    "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+  },
+  {
+   "key": "baadmagasinet-34354",
+   "source": "Bådmagasinet",
+   "date": "2026-08-19",
+   "title": "Dansk Sejlunion: Reorganiserer og ændrer 49erFX kurs – landstræner fyret",
+   "url": "https://www.baadmagasinet.dk/ol/34354-dansk-sejlunion-aendrer-49erfx-kurs-landstraener-stopper",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion reorganiserer eliteindsatsen og fyrer 49erFX-landstræner John Pink med under to år til OL i Los Angeles."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
@@ -123,15 +139,6 @@
    "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
   },
   {
-   "key": "baadmagasinet-34348",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "DM: Og vinderne er...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34348-dm-og-vinderne-er",
-   "cat": "Kapsejlads",
-   "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark."
-  },
-  {
    "key": "baadmagasinet-34347",
    "source": "Bådmagasinet",
    "date": "2026-08-17",
@@ -148,6 +155,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
+  },
+  {
+   "key": "baadmagasinet-34348",
+   "source": "Bådmagasinet",
+   "date": "2026-08-17",
+   "title": "DM: Og vinderne er...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34348-dm-og-vinderne-er",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark."
   },
   {
    "key": "baadmagasinet-34344",
@@ -744,16 +760,6 @@
    "tjek": "2026-08-19"
   },
   {
-   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
-   "cat": "Havneliv",
-   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum.",
-   "tjek": "2026-08-19"
-  },
-  {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -761,6 +767,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere.",
+   "tjek": "2026-08-19"
+  },
+  {
+   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
+   "cat": "Havneliv",
+   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum.",
    "tjek": "2026-08-19"
   },
   {
@@ -874,23 +890,14 @@
    "tjek": "2026-08-19"
   },
   {
-   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
-   "cat": "Sikkerhed",
-   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning.",
-   "tjek": "2026-08-19"
-  },
-  {
    "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
    "source": "Motorbådsnyt",
    "date": "2026-08-04",
    "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
    "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
+   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav",
+   "tjek": "2026-08-19"
   },
   {
    "key": "brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute",
@@ -918,6 +925,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
+  },
+  {
+   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
+   "cat": "Sikkerhed",
+   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning.",
+   "tjek": "2026-08-19"
   },
   {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
@@ -2844,15 +2861,6 @@
    "sum": "Bøgeskov Havn er lukket pga. tilsanding af indsejlingen. Havnen venter på tilladelse til oprensning, mens økonomien er under pres."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-04-16",
-   "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
-  },
-  {
    "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
    "source": "Danske Tursejlere",
    "date": "2026-04-16",
@@ -2860,6 +2868,15 @@
    "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
    "cat": "Andet",
    "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-04-16",
+   "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
   },
   {
    "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
@@ -3087,15 +3104,6 @@
    "sum": "Et motor-kursus i Marselisborg giver sejlere lovpligtig viden om motorpasning. Deltageren lærte om motoropbygning og fejlfinding."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-03-05",
-   "title": "Vinderne af Dansk Sejlunions Grandprix-serie 2025 er fundet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
-  },
-  {
    "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
    "source": "Danske Tursejlere",
    "date": "2026-03-05",
@@ -3103,6 +3111,15 @@
    "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
    "cat": "Havneliv",
    "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-03-05",
+   "title": "Vinderne af Dansk Sejlunions Grandprix-serie 2025 er fundet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
   },
   {
    "key": "dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025",
