@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19T07:27:28+00:00",
- "count": 386,
+ "generated": "2026-08-19T09:28:56+00:00",
+ "count": 387,
  "errors": [],
  "items": [
   {
@@ -11,6 +11,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
    "cat": "Sikkerhed",
    "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
+  },
+  {
+   "key": "baadmagasinet-34351",
+   "source": "Bådmagasinet",
+   "date": "2026-08-19",
+   "title": "Ny kajakoverbæring på Refshaleøen indvies i morgen torsdag",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34351-ny-kajakoverbaering-pa-refshaleoen-indvies-pa-torsdag",
+   "cat": "Havneliv",
+   "sum": "Ny kajakoverbæring på Refshaleøen indvies i morgen torsdag. Overbæringen gør det nemmere og sikrere for kajakroere at skifte mellem Københavns Havn og Øresund."
   },
   {
    "key": "baadmagasinet-34349",
@@ -112,15 +121,6 @@
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber."
   },
   {
-   "key": "baadmagasinet-34344",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-08-17",
@@ -128,6 +128,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
+  },
+  {
+   "key": "baadmagasinet-34344",
+   "source": "Bådmagasinet",
+   "date": "2026-08-17",
+   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
   },
   {
    "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
