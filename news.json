@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20T07:31:09+00:00",
- "count": 394,
+ "generated": "2026-08-20T09:21:04+00:00",
+ "count": 395,
  "errors": [
-  "https://baadbladet.dk/feed/: Exceeded 30 redirects."
+  "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
   {
@@ -22,6 +22,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
    "cat": "Jubilæum",
    "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+  },
+  {
+   "key": "baadmagasinet-34353",
+   "source": "Bådmagasinet",
+   "date": "2026-08-20",
+   "title": "Noget af det sværeste er at bede om hjælp - 'stop nu jeres negative kommentarer!'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34353-noget-af-det-svaereste-er-at-bede-om-hjaelp-stop-nu-jeres-negative-kommentarer",
+   "cat": "Sikkerhed",
+   "sum": "Skagen Redningsstation assisterede en norsk sejlbåd i blæst og kritiserer negative kommentarer på sociale medier mod nødstedte sejlere. Ny redningsbåd forventes i 2027."
   },
   {
    "key": "baadmagasinet-34356",
@@ -845,16 +854,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "baadmagasinet-34318",
-   "source": "Bådmagasinet",
-   "date": "2026-08-06",
-   "title": "Sjældent vejrfænomen ramte Nordsøen: Fisker filmer 'meteotsunami'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34318-sjaeldent-vejrfaenomen-ramte-nordsoen-fisker-filmer-meteotsunami",
-   "cat": "Andet",
-   "sum": "En fisker ved Hanstholm filmede en sjælden meteotsunami, en bølge forårsaget af pludselige trykændringer. Fænomenet er ufarligt i Danmark.",
-   "tjek": "2026-08-20"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
@@ -862,6 +861,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "baadmagasinet-34318",
+   "source": "Bådmagasinet",
+   "date": "2026-08-06",
+   "title": "Sjældent vejrfænomen ramte Nordsøen: Fisker filmer 'meteotsunami'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34318-sjaeldent-vejrfaenomen-ramte-nordsoen-fisker-filmer-meteotsunami",
+   "cat": "Andet",
+   "sum": "En fisker ved Hanstholm filmede en sjælden meteotsunami, en bølge forårsaget af pludselige trykændringer. Fænomenet er ufarligt i Danmark.",
    "tjek": "2026-08-20"
   },
   {
@@ -891,7 +900,8 @@
    "title": "Motorbåd røg af trailer og ramte trækkende bil",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
    "cat": "Sikkerhed",
-   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
+   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods.",
+   "tjek": "2026-08-20"
   },
   {
    "key": "baadmagasinet-34315",
