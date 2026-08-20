@@ -1,8 +1,28 @@
 {
- "generated": "2026-08-20T05:08:06+00:00",
- "count": 392,
- "errors": [],
+ "generated": "2026-08-20T07:31:09+00:00",
+ "count": 394,
+ "errors": [
+  "https://baadbladet.dk/feed/: Exceeded 30 redirects."
+ ],
  "items": [
+  {
+   "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "Luksusbog hylder The America's Cup: “There Is No Second”",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
+   "cat": "Andet",
+   "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave."
+  },
+  {
+   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-20",
+   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+  },
   {
    "key": "baadmagasinet-34356",
    "source": "Bådmagasinet",
@@ -22,15 +42,6 @@
    "sum": "Artiklen diskuterer, hvor stor en sejlbåd skal være for at krydse Atlanterhavet, og fremhæver at konstruktion og udstyr er vigtigere end længde alene."
   },
   {
-   "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
-   "source": "Minbåd.dk",
-   "date": "2026-08-19",
-   "title": "Lübeck-brødre vandt igen DM i Spækhugger - dobbelt OL-guldvinder tog 4. plads",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads/",
-   "cat": "Kapsejlads",
-   "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire."
-  },
-  {
    "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
    "source": "Minbåd.dk",
    "date": "2026-08-19",
@@ -38,6 +49,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
    "cat": "Sikkerhed",
    "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
+  },
+  {
+   "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
+   "source": "Minbåd.dk",
+   "date": "2026-08-19",
+   "title": "Lübeck-brødre vandt igen DM i Spækhugger - dobbelt OL-guldvinder tog 4. plads",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads/",
+   "cat": "Kapsejlads",
+   "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire."
   },
   {
    "key": "baadmagasinet-34351",
@@ -76,15 +96,6 @@
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
   },
   {
-   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-18",
-   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
-  },
-  {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
@@ -103,6 +114,15 @@
    "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze."
   },
   {
+   "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Sponsoreret: Set-jetting: Rejs til filmsteder fra tv og film",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film/",
+   "cat": "Andet",
+   "sum": "Artikel om set-jetting: rejser til film- og tv-lokationer. Den giver eksempler på populære destinationer og råd til planlægning, inklusive danske steder."
+  },
+  {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
@@ -110,6 +130,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
   {
    "key": "baadmagasinet-34346",
@@ -356,16 +385,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
-   "cat": "Kapsejlads",
-   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår.",
-   "tjek": "2026-08-20"
-  },
-  {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
@@ -376,11 +395,21 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
+   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
+   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-13",
    "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
    "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr.",
    "tjek": "2026-08-20"
@@ -726,16 +755,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
-   "source": "Minbåd.dk",
-   "date": "2026-08-07",
-   "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
-   "cat": "Tursejlads",
-   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget.",
-   "tjek": "2026-08-20"
-  },
-  {
    "key": "danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm",
    "source": "Minbåd.dk",
    "date": "2026-08-07",
@@ -743,6 +762,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/danske-mestre-presset-ved-ynglinge-vm-joergen-ring-haedret-for-50-vm/",
    "cat": "Kapsejlads",
    "sum": "Danske mestre ligger nummer fire efter fem sejladser ved Ynglinge-VM i Norge. Jørgen Ring hædret for sit 50. VM i Yngling-klassen.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
+   "source": "Minbåd.dk",
+   "date": "2026-08-07",
+   "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
+   "cat": "Tursejlads",
+   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget.",
    "tjek": "2026-08-20"
   },
   {
@@ -766,16 +795,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
-   "cat": "Tursejlads",
-   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
-   "tjek": "2026-08-20"
-  },
-  {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -793,6 +812,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
    "cat": "Havneliv",
    "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
+   "cat": "Tursejlads",
+   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
    "tjek": "2026-08-20"
   },
   {
@@ -894,13 +923,13 @@
    "tjek": "2026-08-12"
   },
   {
-   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
    "source": "Minbåd.dk",
    "date": "2026-08-04",
-   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
+   "cat": "Sikkerhed",
+   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning."
   },
   {
    "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
@@ -937,16 +966,6 @@
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
-  },
-  {
-   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
-   "source": "Minbåd.dk",
-   "date": "2026-08-04",
-   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
-   "cat": "Sikkerhed",
-   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning.",
-   "tjek": "2026-08-19"
   },
   {
    "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
@@ -1055,15 +1074,6 @@
    "tjek": "2026-08-11"
   },
   {
-   "key": "eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper",
-   "source": "Minbåd.dk",
-   "date": "2026-08-01",
-   "title": "Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/",
-   "cat": "Kapsejlads",
-   "sum": "Elliott 35 SS'eren Palby Marine førte Garmin Round Denmark Race, men masten knækkede kort før Gedser. Ingen kom til skade, og sejren gik til tyske Haspa Hamburg."
-  },
-  {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
    "source": "Motorbådsnyt",
    "date": "2026-08-01",
@@ -1071,6 +1081,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
    "cat": "Tursejlads",
    "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere."
+  },
+  {
+   "key": "eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper",
+   "source": "Minbåd.dk",
+   "date": "2026-08-01",
+   "title": "Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/",
+   "cat": "Kapsejlads",
+   "sum": "Elliott 35 SS'eren Palby Marine førte Garmin Round Denmark Race, men masten knækkede kort før Gedser. Ingen kom til skade, og sejren gik til tyske Haspa Hamburg."
   },
   {
    "key": "baadmagasinet-34313",
@@ -1231,15 +1250,6 @@
    "tjek": "2026-08-05"
   },
   {
-   "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
-   "cat": "Tursejlads",
-   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
-  },
-  {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Danske Tursejlere",
    "date": "2026-07-28",
@@ -1247,6 +1257,15 @@
    "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
+  },
+  {
+   "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
+   "source": "Minbåd.dk",
+   "date": "2026-07-28",
+   "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
+   "cat": "Tursejlads",
+   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   },
   {
    "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
@@ -1475,15 +1494,6 @@
    "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge."
   },
   {
-   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
-   "cat": "Havneliv",
-   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen."
-  },
-  {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
    "source": "Motorbådsnyt",
    "date": "2026-07-24",
@@ -1509,6 +1519,15 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Artiklen omhandler salg og udlejning af bådpladser i danske havne."
+  },
+  {
+   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
+   "cat": "Havneliv",
+   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen."
   },
   {
    "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
