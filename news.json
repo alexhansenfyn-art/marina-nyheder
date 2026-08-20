@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-20T03:16:56+00:00",
- "count": 391,
+ "generated": "2026-08-20T05:08:06+00:00",
+ "count": 392,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34356",
+   "source": "Bådmagasinet",
+   "date": "2026-08-20",
+   "title": "Hattrick ved Spækhugger-DM: 'Gimli' nappede tredje titel i træk",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34356-hattrick-ved-spaekhugger-dm-gimli-tog-tredje-titel-i-traek",
+   "cat": "Kapsejlads",
+   "sum": "Gimli vandt Spækhugger-DM for tredje gang i træk med fem førstepladser. DM blev afviklet i Sejlklubben Sundet, og i 2027 bliver det en del af DM-ugen i Aarhus."
+  },
   {
    "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
    "source": "Minbåd.dk",
@@ -304,7 +313,7 @@
    "key": "baadmagasinet-34340",
    "source": "Bådmagasinet",
    "date": "2026-08-14",
-   "title": "Verdens ældste skoleskib lægger til i Kolding: Kom ombord på Georg Stage i weekenden",
+   "title": "Verdens ældste skoleskib lægger til i Kolding: Kom om bord på Georg Stage i weekenden",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34340-verdens-aeldste-skoleskib-laegger-til-i-kolding-kom-ombord-pa-georg-stage-i-weekenden",
    "cat": "Havneliv",
    "sum": "Skoleskibet Georg Stage lægger til i Kolding Havn den 15.-16. august med åbent skib og mulighed for at møde elever og høre om livet til søs."
@@ -823,7 +832,8 @@
    "title": "Når sejlklubben skal forklare sin identitet",
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
-   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
+   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår.",
+   "tjek": "2026-08-20"
   },
   {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
@@ -832,7 +842,8 @@
    "title": "Klassiske 12mR-både trak mange tilskuere til Gilleleje",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
    "cat": "Kapsejlads",
-   "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen."
+   "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen.",
+   "tjek": "2026-08-20"
   },
   {
    "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
@@ -841,7 +852,8 @@
    "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
    "cat": "Sikkerhed",
-   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
+   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne.",
+   "tjek": "2026-08-20"
   },
   {
    "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
