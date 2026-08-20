@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T16:04:52+00:00",
+ "generated": "2026-08-20T17:52:56+00:00",
  "count": 400,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
@@ -60,15 +60,6 @@
    "sum": "Skagen Redningsstation assisterede en norsk sejlbåd i blæst og kritiserer negative kommentarer på sociale medier mod nødstedte sejlere. Ny redningsbåd forventes i 2027."
   },
   {
-   "key": "baadmagasinet-32105",
-   "source": "Bådmagasinet",
-   "date": "2026-08-20",
-   "title": "Medieinformation 2026",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/32105-medieinformation-2026",
-   "cat": "Andet",
-   "sum": "Bådmagasinet udkommer fire gange årligt og udsender nyhedsbreve. Artiklen præsenterer mediets udgivelsesplan og platforme."
-  },
-  {
    "key": "baadmagasinet-34356",
    "source": "Bådmagasinet",
    "date": "2026-08-20",
@@ -76,6 +67,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34356-hattrick-ved-spaekhugger-dm-gimli-tog-tredje-titel-i-traek",
    "cat": "Kapsejlads",
    "sum": "Gimli vandt Spækhugger-DM for tredje gang i træk med fem førstepladser. DM blev afviklet i Sejlklubben Sundet, og i 2027 bliver det en del af DM-ugen i Aarhus."
+  },
+  {
+   "key": "baadmagasinet-32105",
+   "source": "Bådmagasinet",
+   "date": "2026-08-20",
+   "title": "Medieinformation 2026",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/32105-medieinformation-2026",
+   "cat": "Andet",
+   "sum": "Bådmagasinet udkommer fire gange årligt og udsender nyhedsbreve. Artiklen præsenterer mediets udgivelsesplan og platforme."
   },
   {
    "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
