@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20T12:06:50+00:00",
- "count": 399,
+ "generated": "2026-08-20T14:22:09+00:00",
+ "count": 400,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
@@ -31,6 +31,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
    "cat": "Andet",
    "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave."
+  },
+  {
+   "key": "baadmagasinet-34358",
+   "source": "Bådmagasinet",
+   "date": "2026-08-20",
+   "title": "Dobbelt VM-succes i Aarhus – og dansk talent viste vejen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34358-dobbelt-vm-succes-i-aarhus-og-dansk-talent-viste-vejen",
+   "cat": "Kapsejlads",
+   "sum": "Aarhus Int. Sejlsportscenter afholdt to ungdoms-VM med 900 sejlere fra 52 nationer. Bedste dansker blev Peter Selko i ILCA 6, og Anne-Marie Rindom overrakte medaljerne."
   },
   {
    "key": "baadmagasinet-34355",
@@ -94,6 +103,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads/",
    "cat": "Kapsejlads",
    "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire."
+  },
+  {
+   "key": "dansketursejlere-dt-traef-i-bogense",
+   "source": "Danske Tursejlere",
+   "date": "2026-08-19",
+   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
+   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
+   "cat": "Havneliv",
+   "sum": "Sejlertræ"
   },
   {
    "key": "baadmagasinet-34351",
@@ -2237,15 +2255,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/july/article/askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne/",
    "cat": "Udstyr & både",
    "sum": "Marine Business askebæger er specialdesignet til nautisk brug med vindbeskyttelse, skridsikker bund og rustfrit stål, der sikrer stabilitet og sikkerhed ombord."
-  },
-  {
-   "key": "dansketursejlere-dt-traef-i-bogense",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-03",
-   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelserSejlertræf i Bogense",
-   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
-   "cat": "Havneliv",
-   "sum": "Sejlertræ"
   },
   {
    "key": "baaden-kan-ogsaa-vaere-et-lille-fitnesscenter",
