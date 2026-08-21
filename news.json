@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-21T11:15:14+00:00",
- "count": 406,
+ "generated": "2026-08-21T12:06:03+00:00",
+ "count": 407,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
@@ -58,6 +58,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
    "cat": "Kapsejlads",
    "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-21",
+   "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
+   "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
   },
   {
    "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
