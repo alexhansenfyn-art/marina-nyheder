@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-21T03:34:40+00:00",
- "count": 400,
+ "generated": "2026-08-21T05:20:28+00:00",
+ "count": 401,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34357",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Efterårsklassikeren i Lillebælt: Her sejles der om årets håneret - og pokaler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
+   "cat": "Kapsejlads",
+   "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde."
+  },
   {
    "key": "900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm",
    "source": "Minbåd.dk",
