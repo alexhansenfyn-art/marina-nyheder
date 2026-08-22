@@ -1,10 +1,28 @@
 {
- "generated": "2026-08-22T06:02:19+00:00",
- "count": 409,
+ "generated": "2026-08-22T07:50:49+00:00",
+ "count": 412,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
+  {
+   "key": "20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31",
+   "source": "Minbåd.dk",
+   "date": "2026-08-22",
+   "title": "20-årigt kærestepar sejler mod Middelhavet i 50 år gammel Boström 31",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/august/article/20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31/",
+   "cat": "Tursejlads",
+   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen."
+  },
+  {
+   "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-22",
+   "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+  },
   {
    "key": "baadmagasinet-34361",
    "source": "Bådmagasinet",
@@ -15,6 +33,15 @@
    "sum": "Natkapsejladsen Hven Rundt ved Nat har tradition siden 1938 og byder igen 11. september på sejlads i mørket fra Svanemøllebugten. Arrangørerne inviterer både øvede og nybegyndere."
   },
   {
+   "key": "baadmagasinet-34362",
+   "source": "Bådmagasinet",
+   "date": "2026-08-22",
+   "title": "Explorer forsvarede DM-titlen i Albin Express - se flot galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34362-explorer-forsvarede-dm-titlen-i-albin-express",
+   "cat": "Kapsejlads",
+   "sum": "Explorer (DEN 115) forsvarede DM-titlen i Albin Express ved Sønderborg, hvor tyske Fräulein P vandt samlet. Sønderborg Yacht-Club var vært for stævnet med ti lokale besætninger."
+  },
+  {
    "key": "thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr",
    "source": "Minbåd.dk",
    "date": "2026-08-21",
@@ -22,15 +49,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
    "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
-  },
-  {
-   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-21",
-   "title": "Sådan får du et friskere indeklima i båden",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "cat": "Udstyr & både",
-   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
   },
   {
    "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
@@ -49,6 +67,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm/",
    "cat": "Kapsejlads",
    "sum": "Spækhugger-klassen gør DM mere tilgængeligt for nye sejlere med erfaringsudveksling og lavere vindgrænse. Gimli vandt for tredje år."
+  },
+  {
+   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
+   "source": "Minbåd.dk",
+   "date": "2026-08-21",
+   "title": "Sådan får du et friskere indeklima i båden",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "cat": "Udstyr & både",
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
   },
   {
    "key": "baadmagasinet-34359",
