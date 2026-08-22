@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22T11:57:16+00:00",
- "count": 412,
+ "generated": "2026-08-22T13:48:19+00:00",
+ "count": 413,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
@@ -22,6 +22,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
    "cat": "Udstyr & både",
    "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+  },
+  {
+   "key": "baadmagasinet-34364",
+   "source": "Bådmagasinet",
+   "date": "2026-08-22",
+   "title": "Live fra Sassnitz - dag 1",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34364-live-fra-sassnitz-dag-1",
+   "cat": "Kapsejlads",
+   "sum": "Live fra sejlsportseventet i Sassnitz: 13 teams er klar til dag 1, og danske Nicolai Sehested sejler i gruppe A. Der afvikles tre sejladser lørdag, inden finalen søndag."
   },
   {
    "key": "baadmagasinet-34361",
