@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-23T11:57:28+00:00",
- "count": 418,
+ "generated": "2026-08-23T13:50:19+00:00",
+ "count": 420,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
+  {
+   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-08-23",
+   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne."
+  },
   {
    "key": "oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet",
    "source": "Minbåd.dk",
@@ -13,6 +22,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
    "cat": "Sikkerhed",
    "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet."
+  },
+  {
+   "key": "baadmagasinet-34369",
+   "source": "Bådmagasinet",
+   "date": "2026-08-23",
+   "title": "OK DM: Bo Petersen takker af med guld",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34369-ok-dm-bo-petersen-takker-af-med-guld",
+   "cat": "Kapsejlads",
+   "sum": "Bo Petersen vinder DM i OK-jolle i Faaborg i sin afskedssæson. Han takker de mange frivillige og beskriver det som en perfekt afslutning i barndomsklubben."
   },
   {
    "key": "baadmagasinet-34367",
@@ -438,16 +456,6 @@
    "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr."
   },
   {
-   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
-   "source": "Minbåd.dk",
-   "date": "2026-08-16",
-   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
-   "cat": "Havneliv",
-   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
-   "tjek": "2026-08-23"
-  },
-  {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
    "source": "Minbåd.dk",
    "date": "2026-08-16",
@@ -455,6 +463,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
    "cat": "Sikkerhed",
    "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
+   "tjek": "2026-08-23"
+  },
+  {
+   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-16",
+   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
+   "cat": "Havneliv",
+   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
    "tjek": "2026-08-23"
   },
   {
@@ -1074,7 +1092,8 @@
    "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
    "cat": "Sikkerhed",
-   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
+   "tjek": "2026-08-23"
   },
   {
    "key": "baadmagasinet-34321",
