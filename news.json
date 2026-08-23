@@ -1,9 +1,8 @@
 {
- "generated": "2026-08-23T03:35:15+00:00",
+ "generated": "2026-08-23T05:07:34+00:00",
  "count": 415,
  "errors": [
-  "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71",
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
   {
@@ -11,7 +10,9 @@
    "source": "Bådmagasinet",
    "date": "2026-08-23",
    "title": "Sejlerlivet uden aldersgrænse – i Sundet mødes 65+ på vandet",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34365-sejlerlivet-uden-aldersgraense-i-sundet-modes-65-pa-vandet"
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34365-sejlerlivet-uden-aldersgraense-i-sundet-modes-65-pa-vandet",
+   "cat": "Havneliv",
+   "sum": "Sejlklubben Sundet har etableret formiddagssejlads for seniorer med fokus på fællesskab og socialt samvær frem for kapsejlads. Initiativet er en del af Aktiv for Livet."
   },
   {
    "key": "20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31",
@@ -104,15 +105,6 @@
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
   },
   {
-   "key": "baadmagasinet-34359",
-   "source": "Bådmagasinet",
-   "date": "2026-08-21",
-   "title": "Copenhagen Boat Show: Nu under en uge...få link til messekataloget",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34359-copenhagen-boat-show-under-en-uge-fa-link-til-messekataloget-her",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show løber af stablen 27. august på Ishøj havn i anledning af 10-års jubilæet med gratis adgang. Messekataloget er udgivet og kan findes online."
-  },
-  {
    "key": "baadmagasinet-34360",
    "source": "Bådmagasinet",
    "date": "2026-08-21",
@@ -120,6 +112,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34360-sehested-what-goes-up-must-come-down-se-video",
    "cat": "Kapsejlads",
    "sum": "Det danske SailGP-hold fik næsten kæntret under træning i Sassnitz, men nåede at rette op, og båden repareres nu. De er klar til weekendens kapsejladser."
+  },
+  {
+   "key": "baadmagasinet-34357",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Efterårsklassikeren i Lillebælt: Her sejles der om årets håneret - og pokaler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
+   "cat": "Kapsejlads",
+   "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
@@ -131,13 +132,13 @@
    "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
   },
   {
-   "key": "baadmagasinet-34357",
+   "key": "baadmagasinet-34359",
    "source": "Bådmagasinet",
    "date": "2026-08-21",
-   "title": "Efterårsklassikeren i Lillebælt: Her sejles der om årets håneret - og pokaler",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
-   "cat": "Kapsejlads",
-   "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde."
+   "title": "Copenhagen Boat Show: Nu under en uge...få link til messekataloget",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34359-copenhagen-boat-show-under-en-uge-fa-link-til-messekataloget-her",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show løber af stablen 27. august på Ishøj havn i anledning af 10-års jubilæet med gratis adgang. Messekataloget er udgivet og kan findes online."
   },
   {
    "key": "alt-du-skal-vide-om-at-sejle-til-bermuda-i-atlanterhavet",
@@ -1016,7 +1017,8 @@
    "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
-   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
+   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere.",
+   "tjek": "2026-08-23"
   },
   {
    "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
@@ -1025,7 +1027,8 @@
    "title": "Klassiske træskibe fylder Helsingør - kom om bord",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
    "cat": "Havneliv",
-   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum."
+   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum.",
+   "tjek": "2026-08-23"
   },
   {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
