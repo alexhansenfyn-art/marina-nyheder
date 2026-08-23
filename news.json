@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23T10:53:10+00:00",
- "count": 417,
+ "generated": "2026-08-23T11:57:28+00:00",
+ "count": 418,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
@@ -13,6 +13,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
    "cat": "Sikkerhed",
    "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet."
+  },
+  {
+   "key": "baadmagasinet-34367",
+   "source": "Bådmagasinet",
+   "date": "2026-08-23",
+   "title": "Ny dansk fartrekord – sekunder senere gik det helt galt! Se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34367-ny-dansk-fartrekord-sekunder-senere-gik-det-helt-galt",
+   "cat": "Kapsejlads",
+   "sum": "Danske SailGP-team satte ny dansk fartrekord (106,79 km/t), men styrtede kort efter og gik fra 2. til sidstepladsen. Franskmændene satte ny absolut rekord (107,63 km/t)."
   },
   {
    "key": "baadmagasinet-34368",
@@ -123,15 +132,6 @@
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
   },
   {
-   "key": "baadmagasinet-34360",
-   "source": "Bådmagasinet",
-   "date": "2026-08-21",
-   "title": "Sehested: What goes up - must come down! Se video...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34360-sehested-what-goes-up-must-come-down-se-video",
-   "cat": "Kapsejlads",
-   "sum": "Det danske SailGP-hold fik næsten kæntret under træning i Sassnitz, men nåede at rette op, og båden repareres nu. De er klar til weekendens kapsejladser."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "source": "Dansk Sejlunion",
    "date": "2026-08-21",
@@ -139,6 +139,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
+  },
+  {
+   "key": "baadmagasinet-34360",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Sehested: What goes up - must come down! Se video...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34360-sehested-what-goes-up-must-come-down-se-video",
+   "cat": "Kapsejlads",
+   "sum": "Det danske SailGP-hold fik næsten kæntret under træning i Sassnitz, men nåede at rette op, og båden repareres nu. De er klar til weekendens kapsejladser."
   },
   {
    "key": "baadmagasinet-34357",
