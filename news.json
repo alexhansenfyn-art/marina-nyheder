@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-24T06:25:46+00:00",
- "count": 421,
+ "generated": "2026-08-24T07:46:53+00:00",
+ "count": 422,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
+  {
+   "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "150 både til Copenhagen Boat Show med gratis indgang",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+  },
   {
    "key": "baadmagasinet-34366",
    "source": "Bådmagasinet",
@@ -471,16 +480,6 @@
    "tjek": "2026-08-24"
   },
   {
-   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
-   "source": "Minbåd.dk",
-   "date": "2026-08-16",
-   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
-   "tjek": "2026-08-24"
-  },
-  {
    "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
    "source": "Minbåd.dk",
    "date": "2026-08-16",
@@ -488,6 +487,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
    "cat": "Havneliv",
    "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
+   "tjek": "2026-08-24"
+  },
+  {
+   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-16",
+   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
    "tjek": "2026-08-24"
   },
   {
