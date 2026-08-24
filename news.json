@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T01:59:30+00:00",
+ "generated": "2026-08-24T03:18:49+00:00",
  "count": 420,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
@@ -1018,7 +1018,8 @@
    "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
    "cat": "Tursejlads",
-   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen."
+   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen.",
+   "tjek": "2026-08-24"
   },
   {
    "key": "estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab",
@@ -1027,7 +1028,8 @@
    "title": "Par sejlede jorden rundt i 25 fods båd i ti år – uden toilet og køleskab",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/estere-sejlede-jorden-rundt-i-25-fods-baad-i-ti-aar-uden-toilet-og-koeleskab/",
    "cat": "Tursejlads",
-   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget."
+   "sum": "Et par har sejlet næsten 50.000 sømil rundt om kloden i en 25 fods båd over ti år, med minimalt udstyr og lavt budget.",
+   "tjek": "2026-08-24"
   },
   {
    "key": "baadmagasinet-34323",
