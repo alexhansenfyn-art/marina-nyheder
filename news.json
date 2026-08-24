@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-24T10:23:56+00:00",
- "count": 423,
+ "generated": "2026-08-24T11:13:59+00:00",
+ "count": 424,
  "errors": [],
  "items": [
+  {
+   "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "12mR-VM i Marstrand: Danske Vim ét point fra guldet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet/",
+   "cat": "Kapsejlads",
+   "sum": "Ved 12mR-VM i Marstrand blev danske Vim nummer to, blot ét point fra guldet. Svenske Northern Light vandt mesterskabet."
+  },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
    "source": "Minbåd.dk",
@@ -817,16 +826,6 @@
    "tjek": "2026-08-24"
   },
   {
-   "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
-   "cat": "Kapsejlads",
-   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
-   "tjek": "2026-08-24"
-  },
-  {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -834,6 +833,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "cat": "Tursejlads",
    "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
+   "tjek": "2026-08-24"
+  },
+  {
+   "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
+   "cat": "Kapsejlads",
+   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
    "tjek": "2026-08-24"
   },
   {
@@ -1151,15 +1160,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
-   "source": "Minbåd.dk",
-   "date": "2026-08-05",
-   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
-   "cat": "Sikkerhed",
-   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
-  },
-  {
    "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
    "source": "Motorbådsnyt",
    "date": "2026-08-05",
@@ -1176,6 +1176,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34315-fra-fiskerihavn-til-sejlermagnet-nexo-oplever-boom-af-storre-bade",
    "cat": "Havneliv",
    "sum": "Nexø Havn er forvandlet fra fiskerihavn til populær lystbådehavn med flere og større gæstebåde. Havnedirektøren mærker en klar tendens mod længere ophold og højere indtjening."
+  },
+  {
+   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
+   "source": "Minbåd.dk",
+   "date": "2026-08-05",
+   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
+   "cat": "Sikkerhed",
+   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
   },
   {
    "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
