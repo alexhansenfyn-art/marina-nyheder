@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-24T03:18:49+00:00",
- "count": 420,
+ "generated": "2026-08-24T04:31:40+00:00",
+ "count": 421,
  "errors": [
   "https://baadbladet.dk/feed/: ugyldigt feed: not well-formed (invalid token): line 7, column 71"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34366",
+   "source": "Bådmagasinet",
+   "date": "2026-08-24",
+   "title": "OL-klasserne: Hele 3 x VM de kommende to uger",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34366-hele-3-x-vm-de-kommende-to-uger",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen melder om tre verdensmesterskaber i OL-klasserne de kommende to uger, med danske deltagere som Johan Schubert (ILCA 7) og Johan Søe (iQFOiL) jagt på medaljer."
+  },
   {
    "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
    "source": "Minbåd.dk",
