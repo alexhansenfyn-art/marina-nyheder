@@ -1,10 +1,17 @@
 {
- "generated": "2026-08-24T09:32:18+00:00",
- "count": 422,
- "errors": [
-  "https://baadbladet.dk/feed/: 404 Client Error: Not Found for url: https://baadbladet.dk/sitemap.xml"
- ],
+ "generated": "2026-08-24T10:23:56+00:00",
+ "count": 423,
+ "errors": [],
  "items": [
+  {
+   "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Samme X-99 måtte reddes to gange på fire dage",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
+   "cat": "Sikkerhed",
+   "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen."
+  },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
    "source": "Minbåd.dk",
@@ -24,15 +31,6 @@
    "sum": "Artiklen melder om tre verdensmesterskaber i OL-klasserne de kommende to uger, med danske deltagere som Johan Schubert (ILCA 7) og Johan Søe (iQFOiL) jagt på medaljer."
   },
   {
-   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
-   "source": "Minbåd.dk",
-   "date": "2026-08-23",
-   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
-   "cat": "Kapsejlads",
-   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne."
-  },
-  {
    "key": "oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-08-23",
@@ -40,6 +38,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
    "cat": "Sikkerhed",
    "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet."
+  },
+  {
+   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-08-23",
+   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne."
   },
   {
    "key": "baadmagasinet-34369",
