@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-25T04:04:23+00:00",
+ "generated": "2026-08-25T04:56:33+00:00",
  "count": 429,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
    "key": "baadmagasinet-34371",
    "source": "Bådmagasinet",
    "date": "2026-08-25",
    "title": "Copenhagen Boat Show klar med 150 både – torsdag går det løs",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34371-copenhagen-boat-show-klar-med-150-bade-torsdag-abner-dorene"
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34371-copenhagen-boat-show-klar-med-150-bade-torsdag-abner-dorene",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbner torsdag i Ishøj Havn med 150 både og 70 udstillere. Gratis adgang, jubilæum og nye både."
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
