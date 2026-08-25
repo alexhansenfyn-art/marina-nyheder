@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-25T11:47:00+00:00",
- "count": 433,
+ "generated": "2026-08-25T12:18:00+00:00",
+ "count": 434,
  "errors": [],
  "items": [
+  {
+   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
+   "cat": "Sikkerhed",
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+  },
   {
    "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
    "source": "Minbåd.dk",
@@ -994,16 +1003,6 @@
    "tjek": "2026-08-25"
   },
   {
-   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm.",
-   "tjek": "2026-08-25"
-  },
-  {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
    "source": "Motorbådsnyt",
    "date": "2026-08-10",
@@ -1011,6 +1010,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
    "cat": "Sikkerhed",
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land.",
+   "tjek": "2026-08-25"
+  },
+  {
+   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-10",
+   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm.",
    "tjek": "2026-08-25"
   },
   {
@@ -1100,7 +1109,8 @@
    "title": "Skagen: Havnefoged må pakke bådene i op til otte lag",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
    "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
+   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin.",
+   "tjek": "2026-08-25"
   },
   {
    "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
