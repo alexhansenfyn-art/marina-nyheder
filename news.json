@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-25T05:49:54+00:00",
- "count": 429,
+ "generated": "2026-08-25T07:10:50+00:00",
+ "count": 430,
  "errors": [],
  "items": [
+  {
+   "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Otto Strandvig tog 7. DM-guld i Finnjolle efter bølgefest i Varberg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg/",
+   "cat": "Kapsejlads",
+   "sum": "Otto Strandvig vandt DM i Finnjolle i Varberg for syvende gang efter tæt konkurrence og varierede vindforhold. Stævnet indgik i World Tour for Finns."
+  },
   {
    "key": "baadmagasinet-34371",
    "source": "Bådmagasinet",
@@ -11,15 +20,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34371-copenhagen-boat-show-klar-med-150-bade-torsdag-abner-dorene",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show åbner torsdag i Ishøj Havn med 150 både og 70 udstillere. Gratis adgang, jubilæum og nye både."
-  },
-  {
-   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "cat": "Sikkerhed",
-   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -47,6 +47,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
    "cat": "Sikkerhed",
    "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen."
+  },
+  {
+   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
+   "cat": "Sikkerhed",
+   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -438,16 +447,6 @@
    "tjek": "2026-08-25"
   },
   {
-   "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Sponsoreret: Set-jetting: Rejs til filmsteder fra tv og film",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film/",
-   "cat": "Andet",
-   "sum": "Artikel om set-jetting: rejser til film- og tv-lokationer. Den giver eksempler på populære destinationer og råd til planlægning, inklusive danske steder.",
-   "tjek": "2026-08-25"
-  },
-  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
@@ -455,6 +454,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
    "cat": "Udstyr & både",
    "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026.",
+   "tjek": "2026-08-25"
+  },
+  {
+   "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Sponsoreret: Set-jetting: Rejs til filmsteder fra tv og film",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film/",
+   "cat": "Andet",
+   "sum": "Artikel om set-jetting: rejser til film- og tv-lokationer. Den giver eksempler på populære destinationer og råd til planlægning, inklusive danske steder.",
    "tjek": "2026-08-25"
   },
   {
