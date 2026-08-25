@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-25T08:00:49+00:00",
- "count": 431,
+ "generated": "2026-08-25T09:02:55+00:00",
+ "count": 432,
  "errors": [],
  "items": [
+  {
+   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
+   "cat": "Andet",
+   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges."
+  },
   {
    "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
    "source": "Minbåd.dk",
@@ -40,15 +49,6 @@
    "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
   },
   {
-   "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "12mR-VM i Marstrand: Danske Vim ét point fra guldet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet/",
-   "cat": "Kapsejlads",
-   "sum": "Ved 12mR-VM i Marstrand blev danske Vim nummer to, blot ét point fra guldet. Svenske Northern Light vandt mesterskabet."
-  },
-  {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -56,6 +56,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
    "cat": "Sikkerhed",
    "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen."
+  },
+  {
+   "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "12mR-VM i Marstrand: Danske Vim ét point fra guldet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet/",
+   "cat": "Kapsejlads",
+   "sum": "Ved 12mR-VM i Marstrand blev danske Vim nummer to, blot ét point fra guldet. Svenske Northern Light vandt mesterskabet."
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
@@ -456,16 +465,6 @@
    "tjek": "2026-08-25"
   },
   {
-   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026.",
-   "tjek": "2026-08-25"
-  },
-  {
    "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
@@ -483,6 +482,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet.",
+   "tjek": "2026-08-25"
+  },
+  {
+   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-18",
+   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026.",
    "tjek": "2026-08-25"
   },
   {
@@ -1170,15 +1179,6 @@
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
   },
   {
-   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
-   "cat": "Havneliv",
-   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum."
-  },
-  {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -1213,6 +1213,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
+  },
+  {
+   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
+   "cat": "Havneliv",
+   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum."
   },
   {
    "key": "baadmagasinet-34318",
