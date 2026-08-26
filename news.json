@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T06:20:10+00:00",
+ "generated": "2026-08-26T07:35:26+00:00",
  "count": 436,
  "errors": [],
  "items": [
@@ -11,6 +11,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
    "cat": "Kapsejlads",
    "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028."
+  },
+  {
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-26",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
    "key": "baadmagasinet-34374",
@@ -76,15 +85,6 @@
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
   },
   {
-   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-24",
-   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "cat": "Udstyr & både",
-   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
-  },
-  {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -119,6 +119,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+  },
+  {
+   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
+   "cat": "Udstyr & både",
+   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
   },
   {
    "key": "baadmagasinet-34370",
@@ -346,15 +355,6 @@
    "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM."
   },
   {
-   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
-   "source": "Minbåd.dk",
-   "date": "2026-08-20",
-   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
-  },
-  {
    "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
    "source": "Minbåd.dk",
    "date": "2026-08-20",
@@ -362,6 +362,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
    "cat": "Andet",
    "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave."
+  },
+  {
+   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
   },
   {
    "key": "baadmagasinet-34355",
@@ -419,16 +428,6 @@
    "tjek": "2026-08-26"
   },
   {
-   "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-19",
-   "title": "Negative kommentarer mod nødstedte sejlere får redningsfolk til at slå alarm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
-   "cat": "Sikkerhed",
-   "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp.",
-   "tjek": "2026-08-26"
-  },
-  {
    "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
    "source": "Minbåd.dk",
    "date": "2026-08-19",
@@ -436,6 +435,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads/",
    "cat": "Kapsejlads",
    "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire.",
+   "tjek": "2026-08-26"
+  },
+  {
+   "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-19",
+   "title": "Negative kommentarer mod nødstedte sejlere får redningsfolk til at slå alarm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
+   "cat": "Sikkerhed",
+   "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp.",
    "tjek": "2026-08-26"
   },
   {
@@ -1731,16 +1740,6 @@
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS-raceren Palby Marine udgik af Garmin Round Denmark Race, da masten knækkede efter et vantbrud. Besætningen søgte i sikkerhed i Gedser.",
    "tjek": "2026-08-14"
-  },
-  {
-   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Minbåd.dk",
-   "date": "2026-07-27",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/july/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
-   "tjek": "2026-08-13"
   },
   {
    "key": "80-aarig-faldt-i-soevn-roret-sejlbaaden-endte-paa-rev-skulle-besoege-mor-paa-101-aar",
