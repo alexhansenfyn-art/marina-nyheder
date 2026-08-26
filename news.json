@@ -1,8 +1,17 @@
 {
- "generated": "2026-08-26T05:18:48+00:00",
- "count": 435,
+ "generated": "2026-08-26T06:20:10+00:00",
+ "count": 436,
  "errors": [],
  "items": [
+  {
+   "key": "schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england",
+   "source": "Minbåd.dk",
+   "date": "2026-08-26",
+   "title": "Schubert, Munch og Søe til VM-offensiv i Irland og England",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
+   "cat": "Kapsejlads",
+   "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028."
+  },
   {
    "key": "baadmagasinet-34374",
    "source": "Bådmagasinet",
@@ -337,15 +346,6 @@
    "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM."
   },
   {
-   "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
-   "source": "Minbåd.dk",
-   "date": "2026-08-20",
-   "title": "Luksusbog hylder The America's Cup: “There Is No Second”",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
-   "cat": "Andet",
-   "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave."
-  },
-  {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
    "source": "Minbåd.dk",
    "date": "2026-08-20",
@@ -353,6 +353,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
    "cat": "Jubilæum",
    "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+  },
+  {
+   "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "Luksusbog hylder The America's Cup: “There Is No Second”",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
+   "cat": "Andet",
+   "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave."
   },
   {
    "key": "baadmagasinet-34355",
@@ -998,6 +1007,15 @@
    "tjek": "2026-08-18"
   },
   {
+   "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-10",
+   "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
+   "cat": "Sikkerhed",
+   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
+  },
+  {
    "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
    "source": "Minbåd.dk",
    "date": "2026-08-10",
@@ -1014,15 +1032,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm/",
    "cat": "Kapsejlads",
    "sum": "448 unge sejlere gennemførte ILCA 4-VM i Aarhus. Grækenland og Schweiz tog titlerne. Nu starter ILCA 6-VM."
-  },
-  {
-   "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-10",
-   "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
-   "cat": "Sikkerhed",
-   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
   },
   {
    "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
