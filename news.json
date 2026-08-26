@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T11:14:20+00:00",
+ "generated": "2026-08-26T11:48:14+00:00",
  "count": 438,
  "errors": [],
  "items": [
@@ -666,16 +666,6 @@
    "tjek": "2026-08-26"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-16",
-   "title": "Kæmpe sejlerfest i Aarhus",
-   "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen.",
-   "tjek": "2026-08-26"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-08-16",
@@ -683,6 +673,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-08-26"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-16",
+   "title": "Kæmpe sejlerfest i Aarhus",
+   "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen.",
    "tjek": "2026-08-26"
   },
   {
@@ -992,7 +992,8 @@
    "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
    "cat": "Kapsejlads",
-   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler."
+   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
+   "tjek": "2026-08-26"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
