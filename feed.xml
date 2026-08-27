@@ -5,8 +5,15 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Wed, 26 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Forandringens vinde blæser...</title>
+<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser</guid>
+<pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+<description>Bådmagasinet relanceres som 'Både - Sejl &amp; Motor' med fire årlige trykte udgaver og styrket digitalt PLUS. (Kilde: Bådmagasinet)</description>
+</item>
 <item>
 <title>Nu venter finalen i The Viking Challenge for store både - EM-gulvinder er klar i Middefart</title>
 <link>https://minbaad.dk/nyhed/archive/2026/26/august/article/nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34358-dobbelt-vm-succes-i-aarhus-og-dansk-talent-viste-vejen</guid>
 <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
 <description>Aarhus Int. Sejlsportscenter afholdt to ungdoms-VM med 900 sejlere fra 52 nationer. Bedste dansker blev Peter Selko i ILCA 6, og Anne-Marie Rindom overrakte medaljerne. (Kilde: Bådmagasinet)</description>
-</item>
-<item>
-<title>Hattrick ved Spækhugger-DM: 'Gimli' nappede tredje titel i træk</title>
-<link>https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34356-hattrick-ved-spaekhugger-dm-gimli-tog-tredje-titel-i-traek</link>
-<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34356-hattrick-ved-spaekhugger-dm-gimli-tog-tredje-titel-i-traek</guid>
-<pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
-<description>Gimli vandt Spækhugger-DM for tredje gang i træk med fem førstepladser. DM blev afviklet i Sejlklubben Sundet, og i 2027 bliver det en del af DM-ugen i Aarhus. (Kilde: Bådmagasinet)</description>
 </item>
 </channel>
 </rss>
