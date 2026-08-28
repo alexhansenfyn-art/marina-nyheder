@@ -9,6 +9,14 @@ nyhederne med AI: kategori og kort resumé pr. artikel.
 Uden nøglen kører crawleren fint - bare uden AI.
 
 Køres automatisk af GitHub Actions – se .github/workflows/crawl.yml.
+
+BILLEDER GEMMES IKKE — OG DET ER MED VILJE.
+Parserne samler et billede op undervejs (`img_near`), men feltet fjernes igen,
+lige inden news.json skrives. Retten til et pressefoto følger ikke med et link
+til artiklen, og marinanyheder.dk er et offentligt site på eget domæne.
+Ser du en tom billedplads og bliver fristet til at "reparere" det: læs denne
+sætning igen. Det er ikke en fejl. Vil du ændre beslutningen, så gør det
+bevidst — og fjern så også denne blok.
 """
 import html as html_mod
 import json
@@ -28,8 +36,6 @@ SOURCES_FILE = ROOT / "sources.json"
 MAX_ITEMS = 600
 MAX_PER_GENERIC_SOURCE = 40
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
-BACKFILL_IMAGES_PER_RUN = 30 # antal manglende billeder der efterhentes pr. kørsel
-BACKFILL_IMAGES_SINCE = "2026-05-01"   # ældre artikler lades i fred
 ACCEPT = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "da,en;q=0.8",
@@ -96,6 +102,18 @@ def clean(text):
 def host_of(url):
     h = urlparse(url).netloc.lower()
     return h[4:] if h.startswith("www.") else h
+
+
+def er_web_url(url):
+    """Sandt kun for rigtige http(s)-adresser med et værtsnavn.
+
+    Alt der slipper herigennem ender i et href på en offentlig side. Et link
+    fra en kilde er tekst, vi ikke selv har skrevet, og esc() gør intet ved en
+    adresse som "javascript:...". Vi tjekker derfor skemaet eksplicit i stedet
+    for at stole på, at et startswith("http") tilfældigvis også udelukker det.
+    """
+    p = urlparse(str(url or "").strip())
+    return p.scheme in ("http", "https") and bool(p.netloc)
 
 
 def plausible_date(date):
@@ -301,7 +319,7 @@ def parse_rss(xml_text, base_url, label):
         if not url:                       # Atom: <link href="...">
             el = post.find(f"{NS}link")
             url = (el.get("href") or "").strip() if el is not None else ""
-        if not title or not url.startswith("http") or len(title) < 12:
+        if not title or not er_web_url(url) or len(title) < 12:
             continue
 
         dato = rss_dato(txt("pubDate", "{http://purl.org/dc/elements/1.1/}date",
@@ -516,7 +534,7 @@ def parse_generic(html, base_url, label):
     out = {}
     for a in candidates:
         href = urljoin(base_url, a["href"])
-        if not href.startswith("http") or "#" in href.split("/")[-1]:
+        if not er_web_url(href) or "#" in href.split("/")[-1]:
             continue
         if host_of(href) != base_host:
             continue
@@ -653,48 +671,6 @@ def deepseek(messages, json_mode=False, max_tokens=500):
     if last_err is not None:
         last_err.raise_for_status()
     return None
-
-
-OG_IMAGE_RES = [
-    re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', re.I),
-    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.I),
-    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)', re.I),
-]
-
-
-def backfill_images(items, since, limit=BACKFILL_IMAGES_PER_RUN):
-    """Hent manglende billeder fra artiklernes egne sider (og:image).
-
-    Oversigtssiderne viser kun de nyeste artikler, så ældre poster i arkivet
-    står tilbage uden billede. Vi henter et pænt antal pr. kørsel, nyeste
-    først, så vi ikke hamrer kildernes servere.
-    """
-    todo = [i for i in items
-            if not i.get("img") and (i.get("date") or "") >= since][:limit]
-    done = 0
-    for it in todo:
-        try:
-            html = fetch(it["url"])
-        except Exception as e:  # noqa: BLE001
-            note_ai_error(f"billedhentning fejlede for {it['url']}: {type(e).__name__}")
-            continue
-        url = None
-        for rx in OG_IMAGE_RES:
-            m = rx.search(html)
-            if m:
-                url = m.group(1).strip()
-                break
-        if not url:
-            # Fald tilbage til det første rigtige billede i artiklens brødtekst
-            soup = BeautifulSoup(html, "html.parser")
-            body = soup.find("article") or soup.find("main") or soup
-            url = img_near(body, it["url"], levels=0)
-        else:
-            url = urljoin(it["url"], url)
-        if url and not IMG_JUNK_RE.search(url):
-            it["img"] = url
-            done += 1
-    return done
 
 
 def article_text(url):
@@ -1021,7 +997,7 @@ def main():
     # Dato, kategori, resumé og billede genbruges fra arkivet hvis de mangler.
     merged = {}
     for it in collected + old_items:
-        if not str(it.get("url", "")).startswith("http") or not it.get("source"):
+        if not er_web_url(it.get("url")) or not it.get("source"):
             continue
         key = it.get("key") or it.get("url")
         if key not in merged:
