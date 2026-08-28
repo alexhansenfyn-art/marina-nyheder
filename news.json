@@ -1,8 +1,71 @@
 {
- "generated": "2026-08-28T00:28:10+00:00",
- "count": 447,
+ "generated": "2026-08-28T12:17:27+00:00",
+ "count": 454,
  "errors": [],
  "items": [
+  {
+   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed."
+  },
+  {
+   "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-28",
+   "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
+   "cat": "Sikkerhed",
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+  },
+  {
+   "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "ILCA 7-VM: Schubert viser høj klasse i verdens hårdeste jolle",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
+   "cat": "Kapsejlads",
+   "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen."
+  },
+  {
+   "key": "baadmagasinet-34381",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Piraterne kommer til Sønderborg",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
+   "cat": "Havneliv",
+   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
+  },
+  {
+   "key": "baadmagasinet-34384",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Farvel til den norske konge - og en stor sejler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34384-farvel-til-den-norske-konge-og-en-stor-sejler",
+   "cat": "Kapsejlads",
+   "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab."
+  },
+  {
+   "key": "baadmagasinet-34382",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
+   "cat": "Kapsejlads",
+   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient."
+  },
+  {
+   "key": "baadmagasinet-34378",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Fremgang på det spanske bådmarked – især større både vinder frem",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34378-fremgang-pa-det-spanske-badmarked-isaer-storre-bade-vinder-frem",
+   "cat": "Andet",
+   "sum": "Det spanske lystbådemarked"
+  },
   {
    "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
    "source": "Minbåd.dk",
@@ -11,15 +74,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med/",
    "cat": "Kapsejlads",
    "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne."
-  },
-  {
-   "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-27",
-   "title": "150 både til Copenhagen Boat Show med gratis indgang",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   },
   {
    "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
@@ -38,6 +92,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
    "cat": "Andet",
    "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj."
+  },
+  {
+   "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "150 både til Copenhagen Boat Show med gratis indgang",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   },
   {
    "key": "baadmagasinet-34383",
@@ -61,7 +124,7 @@
    "key": "baadmagasinet-34380",
    "source": "Bådmagasinet",
    "date": "2026-08-27",
-   "title": "Forandringens vinde blæser...",
+   "title": "Forandringens vinde blæser",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
    "cat": "Andet",
    "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS."
@@ -364,16 +427,6 @@
    "sum": "Explorer (DEN 115) forsvarede DM-titlen i Albin Express ved Sønderborg, hvor tyske Fräulein P vandt samlet. Sønderborg Yacht-Club var vært for stævnet med ti lokale besætninger."
   },
   {
-   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
-   "source": "Minbåd.dk",
-   "date": "2026-08-21",
-   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
-   "cat": "Udstyr & både",
-   "sum": "Lasse Hin",
-   "tjek": "2026-08-28"
-  },
-  {
    "key": "thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr",
    "source": "Minbåd.dk",
    "date": "2026-08-21",
@@ -381,6 +434,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
    "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
+   "source": "Minbåd.dk",
+   "date": "2026-08-21",
+   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
+   "cat": "Udstyr & både",
+   "sum": "Lasse Hin",
    "tjek": "2026-08-28"
   },
   {
@@ -395,10 +458,10 @@
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-08-21",
    "title": "Sådan får du et friskere indeklima i båden",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
    "cat": "Udstyr & både",
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
    "tjek": "2026-08-28"
@@ -844,16 +907,6 @@
    "tjek": "2026-08-22"
   },
   {
-   "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
-   "source": "Minbåd.dk",
-   "date": "2026-08-14",
-   "title": "Dansker taber igen strid om luksusyacht til 224 millioner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/dansker-taber-igen-strid-om-luksusyacht-til-224-millioner/",
-   "cat": "Andet",
-   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger.",
-   "tjek": "2026-08-28"
-  },
-  {
    "key": "ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort",
    "source": "Minbåd.dk",
    "date": "2026-08-14",
@@ -871,6 +924,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
    "cat": "Kapsejlads",
    "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "Dansker taber igen strid om luksusyacht til 224 millioner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/dansker-taber-igen-strid-om-luksusyacht-til-224-millioner/",
+   "cat": "Andet",
+   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger.",
    "tjek": "2026-08-28"
   },
   {
@@ -930,16 +993,8 @@
    "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
    "cat": "Kapsejlads",
-   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
-  },
-  {
-   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
-   "cat": "Kapsejlads",
-   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår."
+   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord.",
+   "tjek": "2026-08-28"
   },
   {
    "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
@@ -948,7 +1003,8 @@
    "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
    "cat": "Sikkerhed",
-   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
+   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere.",
+   "tjek": "2026-08-28"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -957,7 +1013,18 @@
    "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
-   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår.",
+   "tjek": "2026-08-28"
   },
   {
    "key": "baadmagasinet-34337",
@@ -996,16 +1063,8 @@
    "title": "VMG 53 vil udfordre luksuskatamaranerne med fart og smartglas",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas/",
    "cat": "Udstyr & både",
-   "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat."
-  },
-  {
-   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-12",
-   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
-   "cat": "Sikkerhed",
-   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet."
+   "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat.",
+   "tjek": "2026-08-28"
   },
   {
    "key": "baadmagasinet-34333",
@@ -1024,6 +1083,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
+  },
+  {
+   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
+   "source": "Minbåd.dk",
+   "date": "2026-08-12",
+   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
+   "cat": "Sikkerhed",
+   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet."
   },
   {
    "key": "foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne",
