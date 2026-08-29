@@ -5,8 +5,15 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Fri, 28 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Vagtskifte hos Columbus Marine - fejret på Copenhagen Boat Show</title>
+<link>https://www.baadmagasinet.dk/nyheder/branchenyt/34385-vagtskifte-hos-columbus-marine-fejret-pa-copenhagen-boat-show</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/branchenyt/34385-vagtskifte-hos-columbus-marine-fejret-pa-copenhagen-boat-show</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<description>Columbus Marine fejrede på Copenhagen Boat Show et generationsskifte, hvor Mads Lobert overtager fra Henrik Nielsen. Trods dårligt vejr besøgte omkring 1.300 gæster messen fredag. (Kilde: Bådmagasinet)</description>
+</item>
 <item>
 <title>Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve</title>
 <link>https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/</guid>
 <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
 <description>Lasse Hin (Kilde: Minbåd.dk)</description>
-</item>
-<item>
-<title>Erfaringsudveksling skal få nye sejlere med til Spækhugger-DM</title>
-<link>https://minbaad.dk/nyhed/archive/2026/21/august/article/erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm/</link>
-<guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/21/august/article/erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm/</guid>
-<pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
-<description>Spækhugger-klassen gør DM mere tilgængeligt for nye sejlere med erfaringsudveksling og lavere vindgrænse. Gimli vandt for tredje år. (Kilde: Minbåd.dk)</description>
 </item>
 </channel>
 </rss>
