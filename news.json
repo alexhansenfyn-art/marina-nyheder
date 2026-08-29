@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-29T21:47:11+00:00",
+ "generated": "2026-08-29T23:39:22+00:00",
  "count": 458,
  "errors": [
-  "https://www.baadmagasinet.dk/nyheder/tema/havne: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Read timed out. (read timeout=30)"
+  "https://dansksejlunion.dk/nyheder: 404 Client Error: Not Found for url: https://dansksejlunion.dk/nyheder"
  ],
  "items": [
   {
@@ -69,24 +69,6 @@
    "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen."
   },
   {
-   "key": "baadmagasinet-34384",
-   "source": "Bådmagasinet",
-   "date": "2026-08-28",
-   "title": "Farvel til den norske konge - og en stor sejler",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34384-farvel-til-den-norske-konge-og-en-stor-sejler",
-   "cat": "Kapsejlads",
-   "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab."
-  },
-  {
-   "key": "baadmagasinet-34378",
-   "source": "Bådmagasinet",
-   "date": "2026-08-28",
-   "title": "Fremgang på det spanske bådmarked – især større både vinder frem",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34378-fremgang-pa-det-spanske-badmarked-isaer-storre-bade-vinder-frem",
-   "cat": "Andet",
-   "sum": "Det spanske lystbådemarked"
-  },
-  {
    "key": "baadmagasinet-34381",
    "source": "Bådmagasinet",
    "date": "2026-08-28",
@@ -96,6 +78,15 @@
    "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
   },
   {
+   "key": "baadmagasinet-34384",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Farvel til den norske konge - og en stor sejler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34384-farvel-til-den-norske-konge-og-en-stor-sejler",
+   "cat": "Kapsejlads",
+   "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab."
+  },
+  {
    "key": "baadmagasinet-34382",
    "source": "Bådmagasinet",
    "date": "2026-08-28",
@@ -103,6 +94,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
    "cat": "Kapsejlads",
    "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient."
+  },
+  {
+   "key": "baadmagasinet-34378",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Fremgang på det spanske bådmarked – især større både vinder frem",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34378-fremgang-pa-det-spanske-badmarked-isaer-storre-bade-vinder-frem",
+   "cat": "Andet",
+   "sum": "Det spanske lystbådemarked"
   },
   {
    "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
@@ -141,15 +141,6 @@
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   },
   {
-   "key": "baadmagasinet-34380",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Forandringens vinde blæser",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
-   "cat": "Andet",
-   "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS."
-  },
-  {
    "key": "baadmagasinet-34383",
    "source": "Bådmagasinet",
    "date": "2026-08-27",
@@ -157,6 +148,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34383-copenhagen-boat-show-fik-en-flyvende-start-i-ishoj",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op."
+  },
+  {
+   "key": "baadmagasinet-34380",
+   "source": "Bådmagasinet",
+   "date": "2026-08-27",
+   "title": "Forandringens vinde blæser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
+   "cat": "Andet",
+   "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS."
   },
   {
    "key": "baadmagasinet-34379",
@@ -671,26 +671,6 @@
    "tjek": "2026-08-29"
   },
   {
-   "key": "dansketursejlere-dt-traef-i-bogense",
-   "source": "Danske Tursejlere",
-   "date": "2026-08-19",
-   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
-   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
-   "cat": "Havneliv",
-   "sum": "Sejlertræ",
-   "tjek": "2026-08-29"
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-19",
-   "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
-   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
-   "tjek": "2026-08-29"
-  },
-  {
    "key": "baadmagasinet-34351",
    "source": "Bådmagasinet",
    "date": "2026-08-19",
@@ -708,6 +688,26 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
    "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "dansketursejlere-dt-traef-i-bogense",
+   "source": "Danske Tursejlere",
+   "date": "2026-08-19",
+   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
+   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
+   "cat": "Havneliv",
+   "sum": "Sejlertræ",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-19",
+   "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
    "tjek": "2026-08-29"
   },
   {
@@ -1101,16 +1101,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-12",
-   "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia.",
-   "tjek": "2026-08-29"
-  },
-  {
    "key": "baadmagasinet-34333",
    "source": "Bådmagasinet",
    "date": "2026-08-12",
@@ -1118,6 +1108,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
    "cat": "Havneliv",
    "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-12",
+   "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia.",
    "tjek": "2026-08-29"
   },
   {
@@ -1177,7 +1177,8 @@
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
+   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -1186,7 +1187,8 @@
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
    "cat": "Udstyr & både",
-   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
+   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -1195,7 +1197,8 @@
    "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
    "cat": "Kapsejlads",
-   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler."
+   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "ok-jollen-boomer-blandt-50-plus-sejlere-77-klar-til-dm-i-faaborg",
@@ -1244,7 +1247,8 @@
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
    "cat": "Sikkerhed",
-   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
+   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
@@ -1468,15 +1472,6 @@
    "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-06",
-   "title": "Når sejlklubben skal forklare sin identitet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "cat": "Andet",
-   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
-  },
-  {
    "key": "baadmagasinet-34321",
    "source": "Bådmagasinet",
    "date": "2026-08-06",
@@ -1484,6 +1479,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
    "cat": "Andet",
    "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "Når sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "cat": "Andet",
+   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
   },
   {
    "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
@@ -1579,15 +1583,6 @@
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne."
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-04",
-   "title": "Hjælp kloden på World Clean Up Day",
-   "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
-   "cat": "Havneliv",
-   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
-  },
-  {
    "key": "baadmagasinet-34308",
    "source": "Bådmagasinet",
    "date": "2026-08-04",
@@ -1595,6 +1590,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34308-ny-sensor-ved-avernako-havn-giver-sejlere-live-data-om-vanddybde-og-bolger",
    "cat": "Sikkerhed",
    "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-04",
+   "title": "Hjælp kloden på World Clean Up Day",
+   "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "cat": "Havneliv",
+   "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
   },
   {
    "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
@@ -2755,15 +2759,6 @@
    "sum": "Artiklen opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, for at frigøre pladser til gæster og sikre indtægter til havnen."
   },
   {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "cat": "Tursejlads",
-   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
-  },
-  {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
@@ -2771,6 +2766,15 @@
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "cat": "Andet",
    "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
+  },
+  {
+   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
+   "source": "FLID Havne",
+   "date": "2026-07-06",
+   "title": "90 unge i 22 både indtager havnene i uge 29",
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "cat": "Tursejlads",
+   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
