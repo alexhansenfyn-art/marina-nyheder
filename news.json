@@ -1,22 +1,22 @@
 {
- "generated": "2026-08-29T11:09:18+00:00",
+ "generated": "2026-08-29T15:40:48+00:00",
  "count": 457,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
    "key": "kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport",
    "source": "Minbåd.dk",
    "date": "2026-08-29",
    "title": "Kong Harald havde ild i øjnene, når talen faldt på sejlsport",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/august/article/kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/august/article/kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport/",
+   "cat": "Kapsejlads",
+   "sum": "Norges afdøde kong Harald beskrives som en passioneret kapsejler med en lang karriere i flere bådklasser, hvor han blandt andet deltog i OL. Han var kendt for at være en af holdet og opnåede gode resultater."
   },
   {
    "key": "baadmagasinet-34372",
    "source": "Bådmagasinet",
    "date": "2026-08-29",
-   "title": "En æra er slut! Bermuda Gold Cup siger farvel til de gamle IOD-klassikere – Jeppe Borch klar til start",
+   "title": "En æra er slut! Bermuda Gold Cup siger farvel til de gamle IOD-klassikere",
    "url": "https://www.baadmagasinet.dk/world-match-racing/34372-bermuda-gold-cup-siger-farvel-til-de-gamle-klassikere-jeppe-borch-klar-til-start",
    "cat": "Kapsejlads",
    "sum": "Bermuda Gold Cup skifter til Fareast 28R både, og Jeppe Borch deltager med gode chancer, da han har vundet i denne bådtype. For første gang sejler mænd og kvinder sammen i samme felt."
