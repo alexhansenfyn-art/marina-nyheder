@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-29T03:55:04+00:00",
- "count": 455,
- "errors": [],
+ "generated": "2026-08-29T11:09:18+00:00",
+ "count": 457,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport",
+   "source": "Minbåd.dk",
+   "date": "2026-08-29",
+   "title": "Kong Harald havde ild i øjnene, når talen faldt på sejlsport",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/august/article/kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport/"
+  },
+  {
+   "key": "baadmagasinet-34372",
+   "source": "Bådmagasinet",
+   "date": "2026-08-29",
+   "title": "En æra er slut! Bermuda Gold Cup siger farvel til de gamle IOD-klassikere – Jeppe Borch klar til start",
+   "url": "https://www.baadmagasinet.dk/world-match-racing/34372-bermuda-gold-cup-siger-farvel-til-de-gamle-klassikere-jeppe-borch-klar-til-start",
+   "cat": "Kapsejlads",
+   "sum": "Bermuda Gold Cup skifter til Fareast 28R både, og Jeppe Borch deltager med gode chancer, da han har vundet i denne bådtype. For første gang sejler mænd og kvinder sammen i samme felt."
+  },
   {
    "key": "baadmagasinet-34385",
    "source": "Bådmagasinet",
@@ -13,15 +31,6 @@
    "sum": "Columbus Marine fejrede på Copenhagen Boat Show et generationsskifte, hvor Mads Lobert overtager fra Henrik Nielsen. Trods dårligt vejr besøgte omkring 1.300 gæster messen fredag."
   },
   {
-   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed."
-  },
-  {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
    "source": "Motorbådsnyt",
    "date": "2026-08-28",
@@ -29,6 +38,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "cat": "Sikkerhed",
    "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+  },
+  {
+   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed."
   },
   {
    "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
@@ -85,15 +103,6 @@
    "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne."
   },
   {
-   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
-   "cat": "Kapsejlads",
-   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter."
-  },
-  {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
    "source": "Minbåd.dk",
    "date": "2026-08-27",
@@ -101,6 +110,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
    "cat": "Andet",
    "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj."
+  },
+  {
+   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
+   "cat": "Kapsejlads",
+   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter."
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -121,15 +139,6 @@
    "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op."
   },
   {
-   "key": "baadmagasinet-34379",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Frisk fra EM-guld: Stannow klar til Viking Challenge-finalen i Middelfart",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34379-frisk-fra-em-guld-stannow-klar-til-viking-challenge-finalen-i-middelfart",
-   "cat": "Kapsejlads",
-   "sum": "Erik Stannow og besætningen på Dixi5 vandt EM-guld i ORC-klassen og deltager nu i finalen i The Viking Challenge under Blue Week i Middelfart."
-  },
-  {
    "key": "baadmagasinet-34380",
    "source": "Bådmagasinet",
    "date": "2026-08-27",
@@ -137,6 +146,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
    "cat": "Andet",
    "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS."
+  },
+  {
+   "key": "baadmagasinet-34379",
+   "source": "Bådmagasinet",
+   "date": "2026-08-27",
+   "title": "Frisk fra EM-guld: Stannow klar til Viking Challenge-finalen i Middelfart",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34379-frisk-fra-em-guld-stannow-klar-til-viking-challenge-finalen-i-middelfart",
+   "cat": "Kapsejlads",
+   "sum": "Erik Stannow og besætningen på Dixi5 vandt EM-guld i ORC-klassen og deltager nu i finalen i The Viking Challenge under Blue Week i Middelfart."
   },
   {
    "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
@@ -958,7 +976,8 @@
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
    "cat": "Udstyr & både",
-   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
+   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "baadmagasinet-34340",
@@ -1001,22 +1020,14 @@
    "tjek": "2026-08-21"
   },
   {
-   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
-   "cat": "Kapsejlads",
-   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
-  },
-  {
    "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
    "source": "Minbåd.dk",
    "date": "2026-08-13",
    "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
    "cat": "Sikkerhed",
-   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
+   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere.",
+   "tjek": "2026-08-29"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -1025,7 +1036,17 @@
    "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
-   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
+   "cat": "Kapsejlads",
+   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord."
   },
   {
    "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
