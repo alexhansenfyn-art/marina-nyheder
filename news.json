@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-30T07:28:51+00:00",
- "count": 459,
+ "generated": "2026-08-30T13:21:22+00:00",
+ "count": 461,
  "errors": [
-  "https://dansksejlunion.dk/nyheder: 404 Client Error: Not Found for url: https://dansksejlunion.dk/nyheder"
+  "https://dansksejlunion.dk/nyheder: 404 Client Error: Not Found for url: https://dansksejlunion.dk/nyheder",
+  "AI: datoopslag fejlede for https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/: ReadTimeout: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)",
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-30",
+   "title": "Brandsø Rundt – her er fællesskabet lige så vigtigt som resultatet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet/"
+  },
   {
    "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
    "source": "Motorbådsnyt",
@@ -13,6 +22,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "cat": "Udstyr & både",
    "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+  },
+  {
+   "key": "baadmagasinet-34388",
+   "source": "Bådmagasinet",
+   "date": "2026-08-30",
+   "title": "Vejrguderne forsøgte – men bådfesten fortsatte i Ishøj",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34388-vejrguderne-forsogte-men-badfesten-fortsatte-i-ishoj",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show i Ishøj Havn trak trods regn og blæst tæt på 10.000 besøgende over fire dage. Flere bådhandlere melder om konkrete salg, bl.a. en X.43 fra X-Yachts."
   },
   {
    "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
@@ -966,16 +984,6 @@
    "tjek": "2026-08-22"
   },
   {
-   "key": "ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort",
-   "source": "Minbåd.dk",
-   "date": "2026-08-14",
-   "title": "Ungdoms-VM i Aarhus – byen er på det internationale søkort",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort/",
-   "cat": "Kapsejlads",
-   "sum": "Ungdoms-VM i ILCA 4 og ILCA 6 samler 900 unge sejlere fra 50 nationer i Aarhus. Mesterskabet viser byens styrke som international sejlsportsby.",
-   "tjek": "2026-08-30"
-  },
-  {
    "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
    "source": "Minbåd.dk",
    "date": "2026-08-14",
@@ -993,6 +1001,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
    "cat": "Udstyr & både",
    "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr.",
+   "tjek": "2026-08-30"
+  },
+  {
+   "key": "ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "Ungdoms-VM i Aarhus – byen er på det internationale søkort",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort/",
+   "cat": "Kapsejlads",
+   "sum": "Ungdoms-VM i ILCA 4 og ILCA 6 samler 900 unge sejlere fra 50 nationer i Aarhus. Mesterskabet viser byens styrke som international sejlsportsby.",
    "tjek": "2026-08-30"
   },
   {
@@ -1182,7 +1200,8 @@
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
    "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
+   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen.",
+   "tjek": "2026-08-30"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
