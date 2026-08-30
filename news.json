@@ -1,10 +1,19 @@
 {
- "generated": "2026-08-30T01:43:15+00:00",
- "count": 458,
+ "generated": "2026-08-30T07:28:51+00:00",
+ "count": 459,
  "errors": [
   "https://dansksejlunion.dk/nyheder: 404 Client Error: Not Found for url: https://dansksejlunion.dk/nyheder"
  ],
  "items": [
+  {
+   "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-30",
+   "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
+   "cat": "Udstyr & både",
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+  },
   {
    "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
    "source": "Minbåd.dk",
@@ -42,15 +51,6 @@
    "sum": "Columbus Marine fejrede på Copenhagen Boat Show et generationsskifte, hvor Mads Lobert overtager fra Henrik Nielsen. Trods dårligt vejr besøgte omkring 1.300 gæster messen fredag."
   },
   {
-   "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-28",
-   "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
-  },
-  {
    "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
    "source": "Minbåd.dk",
    "date": "2026-08-28",
@@ -67,6 +67,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
    "cat": "Kapsejlads",
    "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen."
+  },
+  {
+   "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
+   "cat": "Sikkerhed",
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
   },
   {
    "key": "baadmagasinet-34381",
@@ -141,15 +150,6 @@
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   },
   {
-   "key": "baadmagasinet-34383",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Copenhagen Boat Show fik en flyvende start i Ishøj",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34383-copenhagen-boat-show-fik-en-flyvende-start-i-ishoj",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op."
-  },
-  {
    "key": "baadmagasinet-34380",
    "source": "Bådmagasinet",
    "date": "2026-08-27",
@@ -157,6 +157,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
    "cat": "Andet",
    "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS."
+  },
+  {
+   "key": "baadmagasinet-34383",
+   "source": "Bådmagasinet",
+   "date": "2026-08-27",
+   "title": "Copenhagen Boat Show fik en flyvende start i Ishøj",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34383-copenhagen-boat-show-fik-en-flyvende-start-i-ishoj",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op."
   },
   {
    "key": "baadmagasinet-34379",
@@ -357,16 +366,6 @@
    "sum": "Test af Aquila 42 Coupé, en foil-katamaran med god plads og høj fart. Motorkatamaranen er testet i Sydfrankrig og vises på Cph Boat Show."
   },
   {
-   "key": "oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-23",
-   "title": "Oyster 825 mistede bulben og kæntrede - 10 personer i vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet.",
-   "tjek": "2026-08-30"
-  },
-  {
    "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
    "source": "Minbåd.dk",
    "date": "2026-08-23",
@@ -374,6 +373,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
    "cat": "Kapsejlads",
    "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne.",
+   "tjek": "2026-08-30"
+  },
+  {
+   "key": "oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-23",
+   "title": "Oyster 825 mistede bulben og kæntrede - 10 personer i vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet.",
    "tjek": "2026-08-30"
   },
   {
@@ -1053,7 +1062,8 @@
    "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
-   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr.",
+   "tjek": "2026-08-30"
   },
   {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
@@ -1112,7 +1122,8 @@
    "title": "Nykøbing Falster: Omfattende havneplan møder kritik og skepsis fra sejlerne",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
    "cat": "Havneliv",
-   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
+   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv.",
+   "tjek": "2026-08-30"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
