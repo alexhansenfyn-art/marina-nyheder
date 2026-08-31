@@ -1,8 +1,35 @@
 {
- "generated": "2026-08-31T00:55:24+00:00",
- "count": 460,
+ "generated": "2026-08-31T07:04:36+00:00",
+ "count": 462,
  "errors": [],
  "items": [
+  {
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "cat": "Havneliv",
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+  },
+  {
+   "key": "baadmagasinet-34387",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "47 historiske skibe klar til Limfjorden Rundt",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34387-47-historiske-skibe-klar-til-limfjorden-rundt",
+   "cat": "Kapsejlads",
+   "sum": "47 historiske skibe deltager i Limfjorden Rundt, der er kapsejlads og kulturarv. Største klasser slås sammen for mere spænding, og turen slutter i Skive med jubilæumsoptakt."
+  },
+  {
+   "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-08-30",
+   "title": "Nyt bådregister rykker nærmere – 2.000 forladte både på fem år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar/",
+   "cat": "Havneliv",
+   "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen."
+  },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
    "source": "Minbåd.dk",
@@ -14,10 +41,10 @@
   },
   {
    "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
-   "source": "Motorbådsnyt",
+   "source": "Minbåd.dk",
    "date": "2026-08-30",
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "cat": "Udstyr & både",
    "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
   },
@@ -29,15 +56,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34388-vejrguderne-forsogte-men-badfesten-fortsatte-i-ishoj",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show i Ishøj Havn trak trods regn og blæst tæt på 10.000 besøgende over fire dage. Flere bådhandlere melder om konkrete salg, bl.a. en X.43 fra X-Yachts."
-  },
-  {
-   "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
-   "source": "Minbåd.dk",
-   "date": "2026-08-29",
-   "title": "Nyt bådregister rykker nærmere – 2.000 forladte både på fem år",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/august/article/nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar/",
-   "cat": "Havneliv",
-   "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen."
   },
   {
    "key": "kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport",
@@ -112,15 +130,6 @@
    "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab."
   },
   {
-   "key": "baadmagasinet-34382",
-   "source": "Bådmagasinet",
-   "date": "2026-08-28",
-   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
-   "cat": "Kapsejlads",
-   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient."
-  },
-  {
    "key": "baadmagasinet-34378",
    "source": "Bådmagasinet",
    "date": "2026-08-28",
@@ -128,6 +137,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34378-fremgang-pa-det-spanske-badmarked-isaer-storre-bade-vinder-frem",
    "cat": "Andet",
    "sum": "Det spanske lystbådemarked"
+  },
+  {
+   "key": "baadmagasinet-34382",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
+   "cat": "Kapsejlads",
+   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient."
   },
   {
    "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
@@ -895,7 +913,8 @@
    "title": "Motorbåd drev ind i sten og sank ved Helnæs",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
    "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
@@ -904,7 +923,8 @@
    "title": "Klubkonference 2026",
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
@@ -943,7 +963,8 @@
    "title": "Stannows XR 41 hold tog EM-guld – vil nu vinde VM i København",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/august/article/stannows-xr-41-hold-to-em-guld-vil-nu-vinde-vm-i-koebenhavn/",
    "cat": "Kapsejlads",
-   "sum": "Dansk besætning med Erik Stannow og Jesper Radich vandt ORC-EM i XR 41 DIXI 5 med seks førstepladser. Holdet satser nu på VM-guld i København 2027."
+   "sum": "Dansk besætning med Erik Stannow og Jesper Radich vandt ORC-EM i XR 41 DIXI 5 med seks førstepladser. Holdet satser nu på VM-guld i København 2027.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11",
