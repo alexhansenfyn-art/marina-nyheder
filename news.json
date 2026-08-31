@@ -1,9 +1,7 @@
 {
- "generated": "2026-08-31T15:09:36+00:00",
+ "generated": "2026-08-31T20:52:06+00:00",
  "count": 469,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
@@ -55,7 +53,9 @@
    "source": "Bådmagasinet",
    "date": "2026-08-31",
    "title": "Danske topplaceringer ved EM i Star - se fedt galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri"
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri",
+   "cat": "Kapsejlads",
+   "sum": "Danske Jørgen Schønherr og Michael Hestbæk opnåede henholdsvis 4. og 6. plads ved EM i Starbåd i Holland."
   },
   {
    "key": "baadmagasinet-34390",
@@ -1029,16 +1029,6 @@
    "tjek": "2026-08-31"
   },
   {
-   "key": "toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11",
-   "source": "Minbåd.dk",
-   "date": "2026-08-15",
-   "title": "Toftebjerg og crew vinder ORC EM-bronze i ny M.A.T. 11",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/august/article/toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11/",
-   "cat": "Kapsejlads",
-   "sum": "Steen Toftebjerg og Team Stony fra Næstved Sejlklub sikrede bronze ved ORC-EM i Litauen i klassen C med deres M.A.T. 11 båd.",
-   "tjek": "2026-08-31"
-  },
-  {
    "key": "baadmagasinet-34342",
    "source": "Bådmagasinet",
    "date": "2026-08-15",
@@ -1046,6 +1036,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34342-badtyve-haerger-i-de-jyske-havne-bade-udstyr-og-motorer-stjalet",
    "cat": "Sikkerhed",
    "sum": "Tyverier og hærværk i jyske lystbådehavne: båd med motor og trailer stjålet i Egernsund, udstyr og hærværk i Fredericia, og en Yamarin 63DC forsvundet i Marselisborg.",
+   "tjek": "2026-08-31"
+  },
+  {
+   "key": "toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11",
+   "source": "Minbåd.dk",
+   "date": "2026-08-15",
+   "title": "Toftebjerg og crew vinder ORC EM-bronze i ny M.A.T. 11",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/august/article/toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11/",
+   "cat": "Kapsejlads",
+   "sum": "Steen Toftebjerg og Team Stony fra Næstved Sejlklub sikrede bronze ved ORC-EM i Litauen i klassen C med deres M.A.T. 11 båd.",
    "tjek": "2026-08-31"
   },
   {
@@ -1065,7 +1065,8 @@
    "title": "Dansker taber igen strid om luksusyacht til 224 millioner",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/dansker-taber-igen-strid-om-luksusyacht-til-224-millioner/",
    "cat": "Andet",
-   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger."
+   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
