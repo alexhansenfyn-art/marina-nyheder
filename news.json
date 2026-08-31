@@ -1,8 +1,19 @@
 {
- "generated": "2026-08-31T07:04:36+00:00",
- "count": 462,
- "errors": [],
+ "generated": "2026-08-31T15:09:36+00:00",
+ "count": 469,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
+   "cat": "Sikkerhed",
+   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt."
+  },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
@@ -13,6 +24,49 @@
    "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
   },
   {
+   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
+   "cat": "Kapsejlads",
+   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser."
+  },
+  {
+   "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "22-fods sejlbåd drev ind i skibsruten under Storebæltsbroen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen/",
+   "cat": "Sikkerhed",
+   "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn."
+  },
+  {
+   "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "Kramper i arme og ben kostede Schönherrs EM-medalje i Star",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
+   "cat": "Kapsejlads",
+   "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt."
+  },
+  {
+   "key": "baadmagasinet-34391",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "Danske topplaceringer ved EM i Star - se fedt galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri"
+  },
+  {
+   "key": "baadmagasinet-34390",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "Sejlsportsligaen tilbage efter sommerferien – Bandholm og Horsens vandt i Lemvig",
+   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34390-sejlsportsligaen-tilbage-efter-sommerferien-bandholm-og-horsens-vandt-i-lemvig",
+   "cat": "Kapsejlads",
+   "sum": "Efter sommerpausen afviklede Lemvig Sejlklub 2. og 1. division i Sejlsportsligaen. Horsens vandt 2. division, Bandholm vandt 1. division."
+  },
+  {
    "key": "baadmagasinet-34387",
    "source": "Bådmagasinet",
    "date": "2026-08-31",
@@ -20,6 +74,24 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34387-47-historiske-skibe-klar-til-limfjorden-rundt",
    "cat": "Kapsejlads",
    "sum": "47 historiske skibe deltager i Limfjorden Rundt, der er kapsejlads og kulturarv. Største klasser slås sammen for mere spænding, og turen slutter i Skive med jubilæumsoptakt."
+  },
+  {
+   "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
+   "source": "MarinaGuide",
+   "date": "2026-08-31",
+   "title": "Nyt, flydende shelter i Bogense Havn & Marina",
+   "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
+   "cat": "Havneliv",
+   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-31",
+   "title": "Klubkonference 2026",
+   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "cat": "Andet",
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
   },
   {
    "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
@@ -337,16 +409,6 @@
    "sum": "Copenhagen Boat Show åbner torsdag i Ishøj Havn med 150 både og 70 udstillere. Gratis adgang, jubilæum og nye både."
   },
   {
-   "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "Samme X-99 måtte reddes to gange på fire dage",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
-   "cat": "Sikkerhed",
-   "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen.",
-   "tjek": "2026-08-31"
-  },
-  {
    "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -367,11 +429,21 @@
    "tjek": "2026-08-31"
   },
   {
-   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
+   "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
+   "title": "Samme X-99 måtte reddes to gange på fire dage",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
+   "cat": "Sikkerhed",
+   "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen.",
+   "tjek": "2026-08-31"
+  },
+  {
+   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-24",
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
    "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show.",
    "tjek": "2026-08-31"
@@ -797,16 +869,6 @@
    "tjek": "2026-08-31"
   },
   {
-   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Solpaneler efter mål på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "cat": "Udstyr & både",
-   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet.",
-   "tjek": "2026-08-31"
-  },
-  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Motorbådsnyt",
    "date": "2026-08-18",
@@ -827,6 +889,16 @@
    "tjek": "2026-08-31"
   },
   {
+   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Solpaneler efter mål på Copenhagen Boat Show",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
+   "cat": "Udstyr & både",
+   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet.",
+   "tjek": "2026-08-31"
+  },
+  {
    "key": "baadmagasinet-34350",
    "source": "Bådmagasinet",
    "date": "2026-08-18",
@@ -837,16 +909,6 @@
    "tjek": "2026-08-25"
   },
   {
-   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
-   "source": "Minbåd.dk",
-   "date": "2026-08-17",
-   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubfællesskaber. Hun skal bl.a. udvikle DM-ugen og Sejlergallaen.",
-   "tjek": "2026-08-31"
-  },
-  {
    "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
    "source": "Minbåd.dk",
    "date": "2026-08-17",
@@ -854,6 +916,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens/",
    "cat": "Kapsejlads",
    "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire.",
+   "tjek": "2026-08-31"
+  },
+  {
+   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubfællesskaber. Hun skal bl.a. udvikle DM-ugen og Sejlergallaen.",
    "tjek": "2026-08-31"
   },
   {
@@ -917,16 +989,6 @@
    "tjek": "2026-08-31"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-16",
-   "title": "Klubkonference 2026",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
-   "tjek": "2026-08-31"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
    "source": "Dansk Sejlunion",
    "date": "2026-08-16",
@@ -973,7 +1035,8 @@
    "title": "Toftebjerg og crew vinder ORC EM-bronze i ny M.A.T. 11",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/august/article/toftebjerg-og-crew-vinder-orc-em-bronze-i-sin-nye-mat-11/",
    "cat": "Kapsejlads",
-   "sum": "Steen Toftebjerg og Team Stony fra Næstved Sejlklub sikrede bronze ved ORC-EM i Litauen i klassen C med deres M.A.T. 11 båd."
+   "sum": "Steen Toftebjerg og Team Stony fra Næstved Sejlklub sikrede bronze ved ORC-EM i Litauen i klassen C med deres M.A.T. 11 båd.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "baadmagasinet-34342",
@@ -982,7 +1045,8 @@
    "title": "Bådtyve hærger i de jyske havne: Både, udstyr og motorer stjålet",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34342-badtyve-haerger-i-de-jyske-havne-bade-udstyr-og-motorer-stjalet",
    "cat": "Sikkerhed",
-   "sum": "Tyverier og hærværk i jyske lystbådehavne: båd med motor og trailer stjålet i Egernsund, udstyr og hærværk i Fredericia, og en Yamarin 63DC forsvundet i Marselisborg."
+   "sum": "Tyverier og hærværk i jyske lystbådehavne: båd med motor og trailer stjålet i Egernsund, udstyr og hærværk i Fredericia, og en Yamarin 63DC forsvundet i Marselisborg.",
+   "tjek": "2026-08-31"
   },
   {
    "key": "baadmagasinet-34343",
@@ -1073,15 +1137,6 @@
    "tjek": "2026-08-21"
   },
   {
-   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
-   "cat": "Sikkerhed",
-   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
-  },
-  {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
    "source": "Motorbådsnyt",
    "date": "2026-08-13",
@@ -1089,6 +1144,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
    "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
+  },
+  {
+   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
+   "cat": "Sikkerhed",
+   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere."
   },
   {
    "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
@@ -2937,15 +3001,6 @@
    "sum": "Dansk Sejlunion tester nyt eventformat i Rungsted, hvor unge sejlere kan deltage i kapsejlads uden egen båd og logistik. Både, mad og overnatning er inkluderet."
   },
   {
-   "key": "surfmore-derfor-faar-flere-oejnene-op-for-bodyboarding",
-   "source": "Motorbådsnyt",
-   "date": "2026-06-25",
-   "title": "Derfor får flere danskere øjnene op for bodyboarding",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/june/article/surfmore-derfor-faar-flere-oejnene-op-for-bodyboarding/",
-   "cat": "Andet",
-   "sum": "Bodyboarding vinder frem i Danmark, da sporten er nem at lære og fungerer godt ved danske strande, især langs Vestkysten."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-medaljefest-i-kiel-udviklingsgruppen-leverede-varen",
    "source": "Dansk Sejlunion",
    "date": "2026-06-25",
@@ -2962,6 +3017,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-ungdoms-dm-2026-er-aaben",
    "cat": "Kapsejlads",
    "sum": "Tilmeldingen til Ungdoms-DM 2026 er åben. Stævnet afholdes 12.-13. september i Rungsted, hvor unge sejlere fra hele landet dyster om DM-medaljer og fællesskab."
+  },
+  {
+   "key": "surfmore-derfor-faar-flere-oejnene-op-for-bodyboarding",
+   "source": "Motorbådsnyt",
+   "date": "2026-06-25",
+   "title": "Derfor får flere danskere øjnene op for bodyboarding",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/june/article/surfmore-derfor-faar-flere-oejnene-op-for-bodyboarding/",
+   "cat": "Andet",
+   "sum": "Bodyboarding vinder frem i Danmark, da sporten er nem at lære og fungerer godt ved danske strande, især langs Vestkysten."
   },
   {
    "key": "sommerhavne-i-svendborg-sejler-havneassisten-dig-i-moede",
