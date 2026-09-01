@@ -1,8 +1,17 @@
 {
- "generated": "2026-09-01T00:39:40+00:00",
- "count": 469,
+ "generated": "2026-09-01T05:43:33+00:00",
+ "count": 470,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34386",
+   "source": "Bådmagasinet",
+   "date": "2026-09-01",
+   "title": "HanseYachts melder om fremgang – klar til næste vækstfase",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34386-hanseyachts-melder-om-fremgang-klar-til-naeste-vaekstfase",
+   "cat": "Udstyr & både",
+   "sum": "HanseYachts melder om fremgang og vækst, præsenterer nye ledelsesmedlemmer og verdenspremierer i Cannes, samt øget brug af AI i bådudvikling."
+  },
   {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
@@ -941,7 +950,8 @@
    "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke",
+   "tjek": "2026-09-01"
   },
   {
    "key": "baadmagasinet-34347",
