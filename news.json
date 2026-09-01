@@ -1,8 +1,26 @@
 {
- "generated": "2026-09-01T05:43:33+00:00",
- "count": 470,
+ "generated": "2026-09-01T10:30:54+00:00",
+ "count": 472,
  "errors": [],
  "items": [
+  {
+   "key": "gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Gamle både del 2: Sådan tjekker du mast, rig og sejl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl/",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen gennemgår, hvordan man tjekker mast, rig og sejl på ældre både, og hvad der er sikkerhedsmæssigt vigtigt i forhold til komfort og performance."
+  },
+  {
+   "key": "baadmagasinet-34393",
+   "source": "Bådmagasinet",
+   "date": "2026-09-01",
+   "title": "Hård vind, tætte dueller og suveræn verdensmester ved DM på Køge Bugt",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34393-hard-vind-taette-dueller-og-suveraen-verdensmester-ved-dm-pa-koge-bugt",
+   "cat": "Kapsejlads",
+   "sum": "DM for ILCA- og Europajoller i Vallensbæk bød på hård vind, tætte dueller og suveræn sejr til verdensmester Martin Brønlund Olesen."
+  },
   {
    "key": "baadmagasinet-34386",
    "source": "Bådmagasinet",
@@ -11,15 +29,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34386-hanseyachts-melder-om-fremgang-klar-til-naeste-vaekstfase",
    "cat": "Udstyr & både",
    "sum": "HanseYachts melder om fremgang og vækst, præsenterer nye ledelsesmedlemmer og verdenspremierer i Cannes, samt øget brug af AI i bådudvikling."
-  },
-  {
-   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
-   "cat": "Sikkerhed",
-   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt."
   },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
@@ -31,13 +40,13 @@
    "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
   },
   {
-   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
+   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
-   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
-   "cat": "Kapsejlads",
-   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser."
+   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
+   "cat": "Sikkerhed",
+   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt."
   },
   {
    "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
@@ -47,6 +56,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen/",
    "cat": "Sikkerhed",
    "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn."
+  },
+  {
+   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
+   "cat": "Kapsejlads",
+   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser."
   },
   {
    "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
@@ -238,15 +256,6 @@
    "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne."
   },
   {
-   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
-   "cat": "Kapsejlads",
-   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter."
-  },
-  {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
    "source": "Minbåd.dk",
    "date": "2026-08-27",
@@ -254,6 +263,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
    "cat": "Andet",
    "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj."
+  },
+  {
+   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
+   "cat": "Kapsejlads",
+   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter."
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -854,16 +872,6 @@
    "tjek": "2026-08-26"
   },
   {
-   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
-   "cat": "Sikkerhed",
-   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav.",
-   "tjek": "2026-09-01"
-  },
-  {
    "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
    "source": "Minbåd.dk",
    "date": "2026-08-18",
@@ -871,6 +879,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter/",
    "cat": "Kapsejlads",
    "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze.",
+   "tjek": "2026-09-01"
+  },
+  {
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "cat": "Sikkerhed",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav.",
    "tjek": "2026-09-01"
   },
   {
@@ -1070,15 +1088,6 @@
    "tjek": "2026-08-22"
   },
   {
-   "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
-   "source": "Minbåd.dk",
-   "date": "2026-08-14",
-   "title": "Dansker taber igen strid om luksusyacht til 224 millioner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/dansker-taber-igen-strid-om-luksusyacht-til-224-millioner/",
-   "cat": "Andet",
-   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger."
-  },
-  {
    "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
    "source": "Motorbådsnyt",
    "date": "2026-08-14",
@@ -1086,6 +1095,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
    "cat": "Udstyr & både",
    "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
+  },
+  {
+   "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
+   "source": "Minbåd.dk",
+   "date": "2026-08-14",
+   "title": "Dansker taber igen strid om luksusyacht til 224 millioner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/dansker-taber-igen-strid-om-luksusyacht-til-224-millioner/",
+   "cat": "Andet",
+   "sum": "Østre Landsret fastholder, at René Sindlev skal beskattes af privat rådighed over luksusyachten Parsifal III. Han skal betale yderligere sagsomkostninger."
   },
   {
    "key": "ungdoms-vm-i-aarhus-byen-er-paa-det-internationale-soekort",
