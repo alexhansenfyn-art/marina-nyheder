@@ -1,8 +1,28 @@
 {
- "generated": "2026-09-01T10:30:54+00:00",
- "count": 472,
- "errors": [],
+ "generated": "2026-09-01T15:13:48+00:00",
+ "count": 475,
+ "errors": [
+  "https://baadbladet.dk/feed/: 429 Client Error: Too Many Requests for url: https://baadbladet.dk/feed/"
+ ],
  "items": [
+  {
+   "key": "garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Garmin lancerer GMI 40 med skarp farveskærm og båddata samlet ét sted",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin lancerer det nye marineinstrument GMI 40 med 4,3-tommer farveskærm, der samler vind-, dybde- og fartdata. Det kan integreres med NMEA 2000 og BlueNet og koster fra 5.449 kroner."
+  },
+  {
+   "key": "askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Askeladden Boats er konkurs efter 100 år: Kassen er tom",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom/",
+   "cat": "Udstyr & både",
+   "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien."
+  },
   {
    "key": "gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl",
    "source": "Minbåd.dk",
@@ -11,6 +31,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl/",
    "cat": "Sikkerhed",
    "sum": "Artiklen gennemgår, hvordan man tjekker mast, rig og sejl på ældre både, og hvad der er sikkerhedsmæssigt vigtigt i forhold til komfort og performance."
+  },
+  {
+   "key": "baadmagasinet-34394",
+   "source": "Bådmagasinet",
+   "date": "2026-09-01",
+   "title": "Garmin lancerer ny autopilot og instrument - primært til sejlbåde",
+   "url": "https://www.baadmagasinet.dk/nyheder/produktnyt/34394-garmin-lancerer-ny-autopilot-og-marineinstrument-til-sejlbade",
+   "cat": "Udstyr & både",
+   "sum": "Garmin lancerer nyt SmartDrive autopilotsystem og GMI 40 instrument til sejlbåde. SmartDrive leverer præcis styring og stille drift, og GMI 40 afløser GMI 20 med ny skærm og touchbetjening."
   },
   {
    "key": "baadmagasinet-34393",
@@ -822,16 +851,6 @@
    "tjek": "2026-09-01"
   },
   {
-   "key": "dansketursejlere-dt-traef-i-bogense",
-   "source": "Danske Tursejlere",
-   "date": "2026-08-19",
-   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
-   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
-   "cat": "Havneliv",
-   "sum": "Sejlertræ",
-   "tjek": "2026-09-01"
-  },
-  {
    "key": "baadmagasinet-34351",
    "source": "Bådmagasinet",
    "date": "2026-08-19",
@@ -859,6 +878,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
+   "tjek": "2026-09-01"
+  },
+  {
+   "key": "dansketursejlere-dt-traef-i-bogense",
+   "source": "Danske Tursejlere",
+   "date": "2026-08-19",
+   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
+   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
+   "cat": "Havneliv",
+   "sum": "Sejlertræ",
    "tjek": "2026-09-01"
   },
   {
@@ -1002,6 +1031,16 @@
    "tjek": "2026-08-24"
   },
   {
+   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-16",
+   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
+   "tjek": "2026-09-01"
+  },
+  {
    "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
    "source": "Minbåd.dk",
    "date": "2026-08-16",
@@ -1009,15 +1048,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
    "cat": "Havneliv",
    "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn."
-  },
-  {
-   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-16",
-   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
@@ -2886,15 +2916,6 @@
    "sum": "Artiklen opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, for at frigøre pladser til gæster og sikre indtægter til havnen."
   },
   {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "cat": "Tursejlads",
-   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
-  },
-  {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
@@ -2902,6 +2923,15 @@
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "cat": "Andet",
    "sum": "Renovering af betonbro og ny flydebro i Struer Havn skaber flere pladser til både, herunder gæstesejlere."
+  },
+  {
+   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
+   "source": "FLID Havne",
+   "date": "2026-07-06",
+   "title": "90 unge i 22 både indtager havnene i uge 29",
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "cat": "Tursejlads",
+   "sum": "90 unge sejlere i 22 både deltager i Ungdomscruise i uge 29, der begynder i Vejle og slutter i Odense via Juelsminde og Korshavn med sociale aktiviteter."
   },
   {
    "key": "udsolgt-ungdomscruise-sender-90-unge-sejlere-ud-i-uge-29",
@@ -3407,15 +3437,6 @@
    "sum": "Johan Søe vandt EM-sølv i iQFOiL i Portimão, Portugal. Danskeren sejlede stabilt hele ugen og sluttede nummer to efter finalen."
   },
   {
-   "key": "slut-med-gtl-fuel",
-   "source": "FLID Havne",
-   "date": "2026-05-22",
-   "title": "Slut med GTL fuel",
-   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
-   "cat": "Udstyr & både",
-   "sum": "GTL-brændstof udfases til både. Sejlere skal finde alternative brændstoftyper."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "source": "Dansk Sejlunion",
    "date": "2026-05-22",
@@ -3423,6 +3444,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "cat": "Kapsejlads",
    "sum": "Tilmeldingen til DH-DM 2026 i Middelfart er åben. Kølbådskapsejlere kan tilmelde sig mesterskabet, der afvikles 4.-6. september med distancesejlads og banesejladser."
+  },
+  {
+   "key": "slut-med-gtl-fuel",
+   "source": "FLID Havne",
+   "date": "2026-05-22",
+   "title": "Slut med GTL fuel",
+   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
+   "cat": "Udstyr & både",
+   "sum": "GTL-brændstof udfases til både. Sejlere skal finde alternative brændstoftyper."
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -3641,15 +3671,6 @@
    "sum": "Bøgeskov Havn er lukket pga. tilsanding af indsejlingen. Havnen venter på tilladelse til oprensning, mens økonomien er under pres."
   },
   {
-   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-16",
-   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
-   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
-   "cat": "Andet",
-   "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-04-16",
@@ -3657,6 +3678,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion foreslår ændringer i OL-sejlsportsprogrammet med nye discipliner, standardiseret udstyr og en mixed kategori med parasportssejler. Forslaget er sendt til World Sailing."
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-16",
+   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
+   "cat": "Andet",
+   "sum": "Danske Tursejlere har ansat Mikkel Fangel Poulsen som ny marketing- og kommunikationsansvarlig for at styrke organisationens kommunikation."
   },
   {
    "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
@@ -3848,15 +3878,6 @@
    "sum": "Minn Kota lancerer kompakt elmotor til kajakfiskere med GPS-ankerfunktion og integration med moderne elektronik, tilgængelig i Danmark via Comstedt."
   },
   {
-   "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
-   "source": "FLID Havne",
-   "date": "2026-03-13",
-   "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
-   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
-   "cat": "Havneliv",
-   "sum": "2-3 ambitiøse havne søges til pilotprojekter, der skal afprøve nye koncepter inden for havnudvikling."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
    "source": "Dansk Sejlunion",
    "date": "2026-03-13",
@@ -3864,6 +3885,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
    "cat": "Kapsejlads",
    "sum": "DM i eSailing 2026 afvikles ved DM-ugen i Herning, hvor kvalifikationen foregår online, og finalerne finder sted på Herning Ny Teater."
+  },
+  {
+   "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
+   "source": "FLID Havne",
+   "date": "2026-03-13",
+   "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
+   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
+   "cat": "Havneliv",
+   "sum": "2-3 ambitiøse havne søges til pilotprojekter, der skal afprøve nye koncepter inden for havnudvikling."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-er-aaben-til-aarets-foerste-grandprix-staevne",
@@ -3884,15 +3914,6 @@
    "sum": "Et motor-kursus i Marselisborg giver sejlere lovpligtig viden om motorpasning. Deltageren lærte om motoropbygning og fejlfinding."
   },
   {
-   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
-   "source": "Danske Tursejlere",
-   "date": "2026-03-05",
-   "title": "INDKALDELSE TIL GENERALFORSAMLING",
-   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
-   "cat": "Havneliv",
-   "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
    "source": "Dansk Sejlunion",
    "date": "2026-03-05",
@@ -3900,6 +3921,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion har offentliggjort vinderne af Grandprix-serien 2025 efter stævner i Aarhus og Kerteminde, hvor 399 både deltog. Stævnet i Kerteminde fejrede samtidig 25-års jubilæum."
+  },
+  {
+   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
+   "source": "Danske Tursejlere",
+   "date": "2026-03-05",
+   "title": "INDKALDELSE TIL GENERALFORSAMLING",
+   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
+   "cat": "Havneliv",
+   "sum": "Indkaldelse til generalforsamling den 22. april 2026. Medlemmer opfordres til at deltage og tilmelde sig senest 12. april."
   },
   {
    "key": "dansk-sejlunion-oeger-egenkapitalen-efter-overskud-i-2025",
