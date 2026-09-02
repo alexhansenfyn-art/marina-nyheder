@@ -1,8 +1,26 @@
 {
- "generated": "2026-09-02T11:46:23+00:00",
- "count": 479,
+ "generated": "2026-09-02T15:23:01+00:00",
+ "count": 482,
  "errors": [],
  "items": [
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-02",
+   "title": "Regnen bremsede Copenhagen Boat Show – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show i Ishøj sluttede med 11.912 besøg trods regn. Flere udstillere meldte om konkrete handler, bl.a. en Regal-båd og syv både fra Tempo Bådsalg."
+  },
+  {
+   "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-02",
+   "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
+   "cat": "Sikkerhed",
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+  },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
    "source": "Minbåd.dk",
@@ -20,6 +38,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41/",
    "cat": "Kapsejlads",
    "sum": "Silverrudder solosejladsen starter 18. september med 447 deltagere, deriblandt 66 X-Yachts og to XR 41."
+  },
+  {
+   "key": "baadmagasinet-34398",
+   "source": "Bådmagasinet",
+   "date": "2026-09-02",
+   "title": "Drage: Dansk-svensk dominans i en meget særlig weekend i Norge",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34398-dansk-svensk-dominans-i-en-meget-saerlig-weekend-i-norge",
+   "cat": "Kapsejlads",
+   "sum": "Norsk mesterskab i Drage blev gennemført trods kong Haralds død, og den svenskregistrerede Nono med danske sejlere vandt sikkert foran kongens nevø."
   },
   {
    "key": "baadmagasinet-34392",
@@ -94,15 +121,6 @@
    "sum": "HanseYachts melder om fremgang og vækst, præsenterer nye ledelsesmedlemmer og verdenspremierer i Cannes, samt øget brug af AI i bådudvikling."
   },
   {
-   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-31",
-   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
-  },
-  {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -139,6 +157,15 @@
    "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt."
   },
   {
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "cat": "Havneliv",
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+  },
+  {
    "key": "baadmagasinet-34391",
    "source": "Bådmagasinet",
    "date": "2026-08-31",
@@ -146,15 +173,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri",
    "cat": "Kapsejlads",
    "sum": "Danske Jørgen Schønherr og Michael Hestbæk opnåede henholdsvis 4. og 6. plads ved EM i Starbåd i Holland."
-  },
-  {
-   "key": "baadmagasinet-34390",
-   "source": "Bådmagasinet",
-   "date": "2026-08-31",
-   "title": "Sejlsportsligaen tilbage efter sommerferien – Bandholm og Horsens vandt i Lemvig",
-   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34390-sejlsportsligaen-tilbage-efter-sommerferien-bandholm-og-horsens-vandt-i-lemvig",
-   "cat": "Kapsejlads",
-   "sum": "Efter sommerpausen afviklede Lemvig Sejlklub 2. og 1. division i Sejlsportsligaen. Horsens vandt 2. division, Bandholm vandt 1. division."
   },
   {
    "key": "baadmagasinet-34387",
@@ -182,6 +200,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+  },
+  {
+   "key": "baadmagasinet-34390",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "Sejlsportsligaen tilbage efter sommerferien – Bandholm og Horsens vandt i Lemvig",
+   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34390-sejlsportsligaen-tilbage-efter-sommerferien-bandholm-og-horsens-vandt-i-lemvig",
+   "cat": "Kapsejlads",
+   "sum": "Efter sommerpausen afviklede Lemvig Sejlklub 2. og 1. division i Sejlsportsligaen. Horsens vandt 2. division, Bandholm vandt 1. division."
   },
   {
    "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
@@ -319,15 +346,6 @@
    "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne."
   },
   {
-   "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Finsk bådmægler Blue Ocean går ind i Danmark – møder bådejere på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
-   "cat": "Andet",
-   "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj."
-  },
-  {
    "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
    "source": "Minbåd.dk",
    "date": "2026-08-27",
@@ -335,6 +353,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
    "cat": "Kapsejlads",
    "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter."
+  },
+  {
+   "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Finsk bådmægler Blue Ocean går ind i Danmark – møder bådejere på Copenhagen Boat Show",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
+   "cat": "Andet",
+   "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj."
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -1013,15 +1040,6 @@
    "tjek": "2026-08-25"
   },
   {
-   "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
-   "source": "Minbåd.dk",
-   "date": "2026-08-17",
-   "title": "Kim Christensen tog VM-sølv i J/70 Mix på Øresund - var hurtig på læns",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens/",
-   "cat": "Kapsejlads",
-   "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
-  },
-  {
    "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
    "source": "Minbåd.dk",
    "date": "2026-08-17",
@@ -1038,6 +1056,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
+  },
+  {
+   "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Kim Christensen tog VM-sølv i J/70 Mix på Øresund - var hurtig på læns",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire."
   },
   {
    "key": "baadmagasinet-34347",
