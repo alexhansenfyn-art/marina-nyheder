@@ -1,8 +1,17 @@
 {
- "generated": "2026-09-03T00:18:50+00:00",
- "count": 482,
+ "generated": "2026-09-03T05:09:27+00:00",
+ "count": 483,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34397",
+   "source": "Bådmagasinet",
+   "date": "2026-09-03",
+   "title": "Silverrudder: Når Jan skal til bryllup, må designeren selv tage over",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34397-nar-jan-skal-til-bryllup-ma-designeren-selv-tage-over",
+   "cat": "Kapsejlads",
+   "sum": "Jan Hansen misser Silverrudder pga. datters bryllup. Bådens designer Sam Manuard sejler hans Beneteau First 36 SE. Jan speaker på livestream i stedet."
+  },
   {
    "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
    "source": "Minbåd.dk",
@@ -43,7 +52,7 @@
    "key": "baadmagasinet-34398",
    "source": "Bådmagasinet",
    "date": "2026-09-02",
-   "title": "Drage: Dansk-svensk dominans i en meget særlig weekend i Norge",
+   "title": "Drage: Dansk-svensk dominans i en meget særlig Norsk weekend",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34398-dansk-svensk-dominans-i-en-meget-saerlig-weekend-i-norge",
    "cat": "Kapsejlads",
    "sum": "Norsk mesterskab i Drage blev gennemført trods kong Haralds død, og den svenskregistrerede Nono med danske sejlere vandt sikkert foran kongens nevø."
@@ -52,7 +61,7 @@
    "key": "baadmagasinet-34392",
    "source": "Bådmagasinet",
    "date": "2026-09-02",
-   "title": "Branchenyt: Finske Blue Ocean nu på plads i Danmark",
+   "title": "Finske Blue Ocean nu på plads i Danmark",
    "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34392-branchenyt-blue-ocean-etablerer-sig-i-danmark",
    "cat": "Udstyr & både",
    "sum": "Finsk yachtbroker Blue Ocean etablerer sig i Danmark med Martin Lindbæk som bådmægler. Virksomheden har erfaring med salg af sejl- og motorbåde og vil styrke tilstedeværelsen på det danske marked."
@@ -166,15 +175,6 @@
    "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
   },
   {
-   "key": "baadmagasinet-34391",
-   "source": "Bådmagasinet",
-   "date": "2026-08-31",
-   "title": "Danske topplaceringer ved EM i Star - se fedt galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri",
-   "cat": "Kapsejlads",
-   "sum": "Danske Jørgen Schønherr og Michael Hestbæk opnåede henholdsvis 4. og 6. plads ved EM i Starbåd i Holland."
-  },
-  {
    "key": "baadmagasinet-34387",
    "source": "Bådmagasinet",
    "date": "2026-08-31",
@@ -200,6 +200,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+  },
+  {
+   "key": "baadmagasinet-34391",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "Danske topplaceringer ved EM i Star - se fedt galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34391-danske-topplaceringer-ved-em-i-star-se-fedt-galleri",
+   "cat": "Kapsejlads",
+   "sum": "Danske Jørgen Schønherr og Michael Hestbæk opnåede henholdsvis 4. og 6. plads ved EM i Starbåd i Holland."
   },
   {
    "key": "baadmagasinet-34390",
@@ -953,7 +962,8 @@
    "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
-   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet.",
+   "tjek": "2026-09-03"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
@@ -962,7 +972,8 @@
    "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
+   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
+   "tjek": "2026-09-03"
   },
   {
    "key": "baadmagasinet-34354",
