@@ -1,18 +1,16 @@
 {
- "generated": "2026-09-04T11:47:18+00:00",
- "count": 496,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "generated": "2026-09-04T15:11:56+00:00",
+ "count": 498,
+ "errors": [],
  "items": [
   {
-   "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
+   "key": "ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
-   "title": "Hven Rundt ved Nat samler sejlere på Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/hven-rundt-ved-nat-samler-sejlere-paa-oeresund/",
-   "cat": "Kapsejlads",
-   "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere."
+   "title": "Ny Dragonfly 33 på vej efter den lynhurtige 36'er",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
+   "cat": "Udstyr & både",
+   "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads."
   },
   {
    "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
@@ -22,6 +20,24 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
    "cat": "Udstyr & både",
    "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
+  },
+  {
+   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
+   "cat": "Jubilæum",
+   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september."
+  },
+  {
+   "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Hven Rundt ved Nat samler sejlere på Øresund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/hven-rundt-ved-nat-samler-sejlere-paa-oeresund/",
+   "cat": "Kapsejlads",
+   "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere."
   },
   {
    "key": "kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr",
@@ -55,7 +71,9 @@
    "source": "Bådmagasinet",
    "date": "2026-09-04",
    "title": "Danskere øverst på podiet i alle tre klasser i Viking Challenge-finalen",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34403-danskere-overst-pa-podiet-i-alle-tre-klasser-i-viking-challenge-finalen"
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34403-danskere-overst-pa-podiet-i-alle-tre-klasser-i-viking-challenge-finalen",
+   "cat": "Kapsejlads",
+   "sum": "Danske både vandt alle tre klasser i Viking Challenge-finalen i Middelfart, og danskerne tog også de samlede sejre i to af tre grupper."
   },
   {
    "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
@@ -265,6 +283,15 @@
    "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn."
   },
   {
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "cat": "Havneliv",
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+  },
+  {
    "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -281,15 +308,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
    "cat": "Kapsejlads",
    "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt."
-  },
-  {
-   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
   },
   {
    "key": "baadmagasinet-34387",
@@ -346,15 +364,6 @@
    "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen."
   },
   {
-   "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
-   "source": "Minbåd.dk",
-   "date": "2026-08-30",
-   "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
-   "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
-  },
-  {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
    "source": "Minbåd.dk",
    "date": "2026-08-30",
@@ -362,6 +371,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet/",
    "cat": "Kapsejlads",
    "sum": "Middelfart Sejlklub lægger vægt på fællesskabet ved Brandsø Rundt 5. september. Sejladsen skal samle både konkurrence og socialt samvær på havnen."
+  },
+  {
+   "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
+   "source": "Minbåd.dk",
+   "date": "2026-08-30",
+   "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
+   "cat": "Udstyr & både",
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
   },
   {
    "key": "baadmagasinet-34388",
@@ -950,16 +968,6 @@
    "tjek": "2026-09-04"
   },
   {
-   "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
-   "source": "Minbåd.dk",
-   "date": "2026-08-20",
-   "title": "Luksusbog hylder The America's Cup: “There Is No Second”",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
-   "cat": "Andet",
-   "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave.",
-   "tjek": "2026-09-04"
-  },
-  {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
    "source": "Motorbådsnyt",
    "date": "2026-08-20",
@@ -967,6 +975,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
    "cat": "Jubilæum",
    "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien.",
+   "tjek": "2026-09-04"
+  },
+  {
+   "key": "ny-luksusbog-hylder-the-americas-cup-there-is-no-second",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "Luksusbog hylder The America's Cup: “There Is No Second”",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/ny-luksusbog-hylder-the-americas-cup-there-is-no-second/",
+   "cat": "Andet",
+   "sum": "En eksklusiv luksusbog 'There Is No Second', udgivet med Louis Vuitton, hylder America's Cup-historien med sjældne fotos og interviews. Bogen koster 18.600 kr. og er en samlerudgave.",
    "tjek": "2026-09-04"
   },
   {
@@ -1066,7 +1084,8 @@
    "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
-   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet.",
+   "tjek": "2026-09-04"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
@@ -1116,15 +1135,6 @@
    "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
-   "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Sponsoreret: Set-jetting: Rejs til filmsteder fra tv og film",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film/",
-   "cat": "Andet",
-   "sum": "Artikel om set-jetting: rejser til film- og tv-lokationer. Den giver eksempler på populære destinationer og råd til planlægning, inklusive danske steder."
-  },
-  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Motorbådsnyt",
    "date": "2026-08-18",
@@ -1141,6 +1151,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34346-populaere-christianso-35-procents-fremgang-pa-danmarks-ostligste-udpost",
    "cat": "Tursejlads",
    "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende."
+  },
+  {
+   "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Sponsoreret: Set-jetting: Rejs til filmsteder fra tv og film",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film/",
+   "cat": "Andet",
+   "sum": "Artikel om set-jetting: rejser til film- og tv-lokationer. Den giver eksempler på populære destinationer og råd til planlægning, inklusive danske steder."
   },
   {
    "key": "naar-katten-er-ude-schaldemose-og-sundby-snuppede-dm-guldet-i-bb10-meter",
