@@ -1,8 +1,26 @@
 {
- "generated": "2026-09-05T18:21:15+00:00",
- "count": 501,
+ "generated": "2026-09-05T20:45:11+00:00",
+ "count": 503,
  "errors": [],
  "items": [
+  {
+   "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
+   "source": "Minbåd.dk",
+   "date": "2026-09-05",
+   "title": "Tyveri og forlis på Langeland: 57 fods Maheo nu slået til pindebrænde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende/",
+   "cat": "Sikkerhed",
+   "sum": "Efter motorproblemer strandede træskonnerten Maheo ved Langeland, dele blev stjålet, og uvejr har nu slået vraget i stykker."
+  },
+  {
+   "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-05",
+   "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
+   "cat": "Udstyr & både",
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
+  },
   {
    "key": "baadmagasinet-34404",
    "source": "Bådmagasinet",
@@ -29,15 +47,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
    "cat": "Udstyr & både",
    "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads."
-  },
-  {
-   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-04",
-   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "cat": "Udstyr & både",
-   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
   {
    "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
@@ -74,6 +83,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet."
+  },
+  {
+   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
+   "cat": "Udstyr & både",
+   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
   {
    "key": "baadmagasinet-34399",
@@ -247,15 +265,6 @@
    "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien."
   },
   {
-   "key": "gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl",
-   "source": "Minbåd.dk",
-   "date": "2026-09-01",
-   "title": "Gamle både del 2: Sådan tjekker du mast, rig og sejl",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl/",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen gennemgår, hvordan man tjekker mast, rig og sejl på ældre både, og hvad der er sikkerhedsmæssigt vigtigt i forhold til komfort og performance."
-  },
-  {
    "key": "garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted",
    "source": "Minbåd.dk",
    "date": "2026-09-01",
@@ -263,6 +272,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted/",
    "cat": "Udstyr & både",
    "sum": "Garmin lancerer det nye marineinstrument GMI 40 med 4,3-tommer farveskærm, der samler vind-, dybde- og fartdata. Det kan integreres med NMEA 2000 og BlueNet og koster fra 5.449 kroner."
+  },
+  {
+   "key": "gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Gamle både del 2: Sådan tjekker du mast, rig og sejl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl/",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen gennemgår, hvordan man tjekker mast, rig og sejl på ældre både, og hvad der er sikkerhedsmæssigt vigtigt i forhold til komfort og performance."
   },
   {
    "key": "baadmagasinet-34394",
@@ -988,16 +1006,6 @@
    "tjek": "2026-08-28"
   },
   {
-   "key": "900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-20",
-   "title": "900 ILCA-sejlere satte Aarhus på verdenskortet ved dobbelt-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm/",
-   "cat": "Kapsejlads",
-   "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM.",
-   "tjek": "2026-09-05"
-  },
-  {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
    "source": "Motorbådsnyt",
    "date": "2026-08-20",
@@ -1005,6 +1013,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
    "cat": "Jubilæum",
    "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien.",
+   "tjek": "2026-09-05"
+  },
+  {
+   "key": "900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "900 ILCA-sejlere satte Aarhus på verdenskortet ved dobbelt-VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm/",
+   "cat": "Kapsejlads",
+   "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM.",
    "tjek": "2026-09-05"
   },
   {
@@ -1124,7 +1142,8 @@
    "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
+   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
+   "tjek": "2026-09-05"
   },
   {
    "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
