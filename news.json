@@ -1,8 +1,17 @@
 {
- "generated": "2026-09-05T09:29:00+00:00",
- "count": 500,
- "errors": [],
+ "generated": "2026-09-05T13:04:40+00:00",
+ "count": 501,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
+  {
+   "key": "baadmagasinet-34404",
+   "source": "Bådmagasinet",
+   "date": "2026-09-05",
+   "title": "Grønt lys til flere veteranskibe i Nyhavn – fejrer samtidig 50-års jubilæum",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34404-gront-lys-til-flere-veteranskibe-i-nyhavn-fejrer-samtidig-50-ars-jubilaeum"
+  },
   {
    "key": "baadmagasinet-34396",
    "source": "Bådmagasinet",
@@ -1105,7 +1114,8 @@
    "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
-   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet.",
+   "tjek": "2026-09-05"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
