@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05T05:47:57+00:00",
- "count": 499,
+ "generated": "2026-09-05T09:29:00+00:00",
+ "count": 500,
  "errors": [],
  "items": [
   {
@@ -47,6 +47,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/hven-rundt-ved-nat-samler-sejlere-paa-oeresund/",
    "cat": "Kapsejlads",
    "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere."
+  },
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang."
   },
   {
    "key": "kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr",
@@ -229,15 +238,6 @@
    "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien."
   },
   {
-   "key": "garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted",
-   "source": "Minbåd.dk",
-   "date": "2026-09-01",
-   "title": "Garmin lancerer GMI 40 med skarp farveskærm og båddata samlet ét sted",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted/",
-   "cat": "Udstyr & både",
-   "sum": "Garmin lancerer det nye marineinstrument GMI 40 med 4,3-tommer farveskærm, der samler vind-, dybde- og fartdata. Det kan integreres med NMEA 2000 og BlueNet og koster fra 5.449 kroner."
-  },
-  {
    "key": "gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl",
    "source": "Minbåd.dk",
    "date": "2026-09-01",
@@ -245,6 +245,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/gamle-baade-del-2-saadan-tjekker-du-mast-rig-og-sejl/",
    "cat": "Sikkerhed",
    "sum": "Artiklen gennemgår, hvordan man tjekker mast, rig og sejl på ældre både, og hvad der er sikkerhedsmæssigt vigtigt i forhold til komfort og performance."
+  },
+  {
+   "key": "garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Garmin lancerer GMI 40 med skarp farveskærm og båddata samlet ét sted",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin lancerer det nye marineinstrument GMI 40 med 4,3-tommer farveskærm, der samler vind-, dybde- og fartdata. Det kan integreres med NMEA 2000 og BlueNet og koster fra 5.449 kroner."
   },
   {
    "key": "baadmagasinet-34394",
@@ -1137,15 +1146,6 @@
    "tjek": "2026-08-26"
   },
   {
-   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
-   "cat": "Sikkerhed",
-   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
-  },
-  {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
    "source": "Motorbådsnyt",
    "date": "2026-08-18",
@@ -1162,6 +1162,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34346-populaere-christianso-35-procents-fremgang-pa-danmarks-ostligste-udpost",
    "cat": "Tursejlads",
    "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende."
+  },
+  {
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-18",
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "cat": "Sikkerhed",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
    "key": "sponsoreret-set-jetting-rejs-til-filmsteder-fra-tv-og-film",
