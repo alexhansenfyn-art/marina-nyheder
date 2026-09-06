@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T12:58:13+00:00",
- "count": 426,
+ "generated": "2026-09-06T16:22:43+00:00",
+ "count": 427,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 126,
+ "arkiv_antal": 127,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
@@ -15,6 +15,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil/",
    "cat": "Sikkerhed",
    "sum": "En dansk X-46 gik på grund ud for Skillinge i Sverige. Tre danskere blev reddet, og båden blev efterfølgende transporteret hjem til Danmark på lastbil."
+  },
+  {
+   "key": "baadmagasinet-34407",
+   "source": "Bådmagasinet",
+   "date": "2026-09-06",
+   "title": "DH-DM: Vejret drillede for alvor i Middelfart",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34407-dh-dm-vejret-drillede-for-alvor",
+   "cat": "Kapsejlads",
+   "sum": "Vejret drillede ved DH-DM i Middelfart: Fredag regn, lørdag aflyst pga. lyn, men søndag gennemført. Vindere i tre klasser kåret."
   },
   {
    "key": "baadmagasinet-34405",
@@ -2886,15 +2895,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/july/article/anholt-igen-samlingspunkt-for-solo-og-doublehandsejlere-start-fra-egen-havn/",
    "cat": "Sikkerhed",
    "sum": "Anholt Lone Star arrangement den 20. august samler solo- og doublehandsejlere med fokus på godt sømandskab, sikkerhed og erfaringsudveksling. Deltagerne starter fra egen havn og sejler mod Anholt."
-  },
-  {
-   "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
-   "source": "Minbåd.dk",
-   "date": "2026-07-17",
-   "title": "Find nærmeste havn på få sekunder på havneguide.dk",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk/",
-   "cat": "Tursejlads",
-   "sum": "FLID har lanceret en ny kortfunktion på Havneguide.dk, der gør det nemt for sejlere at finde nærmeste havn og faciliteter via mobil, tablet eller computer."
   }
  ]
 }
