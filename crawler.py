@@ -682,7 +682,7 @@ def article_text(url):
     for t in soup(["script", "style", "nav", "header", "footer", "aside"]):
         t.decompose()
     ps = [clean(p.get_text()) for p in soup.find_all("p")]
-    return " ".join(p for p in ps if len(p) > 40)[:3000]
+    return " ".join(p for p in ps if len(p) > 40)[:1000]
 
 
 AI_ERRORS = []
@@ -787,7 +787,8 @@ def prerender_index(items):
             f'<a class="card" href="{esc(it["url"])}" target="_blank" rel="noopener">'
             f'<span class="title">{esc(it["title"])}</span>{summary}'
             f'<div class="meta">{da_date(it.get("date"))}'
-            f'<span class="dot">&middot;</span>{esc(it.get("source", ""))}</div></a>')
+            f'<span class="dot">&middot;</span><span class="read-source">Læs hos '
+            f'{esc(it.get("source", ""))} <span aria-hidden="true">&#8599;</span></span></div></a>')
 
     block = "\n" + "\n".join(parts) + "\n"
     new_html = NEWS_BLOCK_RE.sub(

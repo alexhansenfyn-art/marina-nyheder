@@ -1,6 +1,6 @@
 # Status — Marina- og HavneNyheder
 
-Sidst opdateret: 28. august 2026
+Sidst opdateret: 6. september 2026 (lokal kopi Marina-Nyheder-GPT)
 
 Denne fil er projektets hukommelse. Læs den først, hvis du er en AI der lige er
 åbnet i denne mappe, eller et menneske der ikke har rørt projektet i en måned.
@@ -76,7 +76,25 @@ fint — bare uden AI-kategorier og resuméer.
   `actions/setup-python@v6`. `crawl.yml` var allerede på v6. Node 20 fjernes
   fra GitHubs runnere i efteråret 2026.
 
-## Åbent / ikke gjort
+## Lokale rettelser 6. september 2026
+
+- Ved fejl i hentning af nyhedsdata bevares eksisterende nyhedskort, og en
+  besked forklarer, at de nyeste nyheder ikke kunne hentes.
+- `add-source.yml` deler nu kørselsgruppen `crawl`, gemmer også `index.html`,
+  `sitemap.xml` og `feed.xml` og forsøger push tre gange med rebase imellem.
+  Sagen lukkes ikke ved fejl under crawl eller push.
+- README beskriver de nuværende kilder, tidsplan, AI, drift og lokal visning.
+- Artikeltekst sendt til AI er begrænset til 1.000 tegn inklusive mellemrum
+  (tidligere 3.000). Eksisterende resuméer ændres ikke.
+- Nyhedskort viser nu "Læs hos [medie] ↗" i både JavaScript-visningen og
+  crawlerens indbyggede HTML. Teksten under "Om siden" er gennemlæst.
+- Masseomskrivning er fravalgt. Grænsen på 1.000 tegn bruges fremover ved
+  normal AI-berigelse; eksisterende resuméer skal ikke gendannes.
+- Rettelserne er samlet til publicering fra Marina-Nyheder-GPT-kopien.
+- Lokal backup af de oprindelige 503 nyheder findes i den Git-ignorerede mappe
+  `backups/news-before-rewrite-20260906.json`.
+
+## Kendte begrænsninger
 
 - **Resuméerne er ikke faktatjekket.** Der er ingen systematisk kontrol af, om
   tal, navne og datoer i de AI-skrevne resuméer matcher kildeartiklerne. Det er

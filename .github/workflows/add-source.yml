@@ -4,6 +4,11 @@ on:
   issues:
     types: [opened]
 
+# Samme gruppe som den planlagte crawler: begge skriver til nyhedsfilerne.
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
@@ -43,15 +48,24 @@ jobs:
         run: python crawler.py
 
       - name: Commit og push
+        id: publish
         if: steps.add.outputs.ok == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sources.json news.json
-          git diff --cached --quiet || git commit -m "Tilføj kilde fra issue #$ISSUE_NUMBER"
-          git push
+          git add sources.json news.json index.html sitemap.xml feed.xml
+          git diff --cached --quiet && exit 0
+          git commit -m "Tilføj kilde fra issue #$ISSUE_NUMBER"
+          for forsoeg in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push mislykkedes (forsoeg $forsoeg), proever igen om 10 sekunder"
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          echo "Kunne ikke pushe efter 3 forsoeg" >&2
+          exit 1
 
       - name: Svar og luk issue
-        if: always() && steps.add.outcome != 'skipped'
+        if: success() && (steps.add.outputs.ok == 'false' || steps.publish.outcome == 'success')
         run: |
           gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$(cat comment.txt 2>/dev/null || echo 'Der skete en uventet fejl - se workflow-loggen.')"
