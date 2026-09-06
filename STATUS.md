@@ -94,6 +94,24 @@ fint — bare uden AI-kategorier og resuméer.
 - Lokal backup af de oprindelige 503 nyheder findes i den Git-ignorerede mappe
   `backups/news-before-rewrite-20260906.json`.
 
+## Rettelser 6. september 2026 (arkiv-opsplitning)
+
+- Arkivet er delt i to filer: `news.json` (de 300 nyeste, "forsiden") og
+  `news-arkiv.json` (resten). Almindelige besøgende henter kun `news.json`.
+  `news-arkiv.json` hentes først, når nogen søger, åbner filter-dropdownen
+  eller ruller helt ned til "Vis ældre nyheder".
+- Begge filer skrives helt forfra ved hver kørsel (ikke en løbende
+  tilføj/fjern). Testet med 10.000 syntetiske poster: serialisering,
+  sortering og opsplitning tager under 100 ms — ubetydeligt i forhold til
+  selve hentningen og AI-berigelsen, som tager minutter.
+- `MAX_ITEMS` (loftet for hele arkivet) sat til **10.000** (tidligere 2.000,
+  oprindeligt 600). Ved ca. 6-7 nye artikler om dagen giver det næsten 3 års
+  arkiv, før det skal kigges på igen. Loftet er et bevidst valg, ikke en
+  teknisk grænse — begrundelsen står som kommentar i `crawler.py` ved
+  `MAX_ITEMS`.
+- `sw.js` (cache `marina-v3`) og `make_preview.py` opdateret til at kende
+  begge filer.
+
 ## Kendte begrænsninger
 
 - **Resuméerne er ikke faktatjekket.** Der er ingen systematisk kontrol af, om
