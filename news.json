@@ -1,25 +1,21 @@
 {
- "generated": "2026-09-06T05:22:27+00:00",
- "count": 503,
+ "generated": "2026-09-06T09:02:12+00:00",
+ "count": 426,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 203,
+ "arkiv_antal": 126,
  "errors": [
-  "https://minbaad.dk/forside: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /forside (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://minbaad.dk/havne: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://minbaad.dk/kort-nyt: HTTPSConnectionPool(host='minbaad.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://motorbaadsnyt.dk/: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://motorbaadsnyt.dk/havne: HTTPSConnectionPool(host='motorbaadsnyt.dk', port=443): Max retries exceeded with url: /havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://flidhavne.dk/nyheder/: HTTPSConnectionPool(host='flidhavne.dk', port=443): Max retries exceeded with url: /nyheder/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://www.baadmagasinet.dk/nyheder/tema/havne: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /nyheder/tema/havne (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://www.baadmagasinet.dk/kort-nyt: HTTPSConnectionPool(host='www.baadmagasinet.dk', port=443): Max retries exceeded with url: /kort-nyt (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://marinaguide.dk/marinanyheder: HTTPSConnectionPool(host='marinaguide.dk', port=443): Max retries exceeded with url: /marinanyheder (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://havneguide.dk: HTTPSConnectionPool(host='havneguide.dk', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://dansksejlunion.dk/nyheder: HTTPSConnectionPool(host='dansksejlunion.dk', port=443): Max retries exceeded with url: /nyheder (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "https://baadbladet.dk/feed/: HTTPSConnectionPool(host='baadbladet.dk', port=443): Max retries exceeded with url: /feed/ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))",
-  "AI: DEEPSEEK_API_KEY mangler - AI slået fra"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34405",
+   "source": "Bådmagasinet",
+   "date": "2026-09-06",
+   "title": "To personer alvorligt kvæstet efter sammenstød med politibåd ved Middelgrundsfortet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34405-to-personer-alvorligt-kvaestet-efter-sammenstod-med-politibad-ved-middelgrundsfortet",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev alvorligt kvæstet, da en politibåd og en civil båd stødte sammen ved Middelgrundsfortet. Ulykken efterforskes af flere myndigheder, og de skadede er indlagt på Rigshospitalet."
+  },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
    "source": "Minbåd.dk",
@@ -192,15 +188,6 @@
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
   },
   {
-   "key": "baadmagasinet-34402",
-   "source": "Bådmagasinet",
-   "date": "2026-09-03",
-   "title": "Schubert godt tilfreds - slutter nummer 41 ved VM - læs interview med sportschefen",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34402-johan-schubert-nr-41-ved-vm-naeste-opgave-er-ol-nationskvalifikation",
-   "cat": "Kapsejlads",
-   "sum": "Johan Schubert sluttede som nummer 41 ved VM i ILCA 7 i Irland, et resultat under forventningerne. Sportschef Peter Hansen vurderer indsatsen og ser frem mod næste VM."
-  },
-  {
    "key": "baadmagasinet-34401",
    "source": "Bådmagasinet",
    "date": "2026-09-03",
@@ -208,6 +195,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34401-spaekhuggere-slar-til-igen-to-sejlbade-beskadiget-inden-for-et-dogn",
    "cat": "Sikkerhed",
    "sum": "Spækhuggere har inden for 24 timer beskadiget rorene på to sejlbåde ud for Galicien. Begge besætninger slap uskadt, og bådene nåede i havn."
+  },
+  {
+   "key": "baadmagasinet-34402",
+   "source": "Bådmagasinet",
+   "date": "2026-09-03",
+   "title": "Schubert godt tilfreds - slutter nummer 41 ved VM - læs interview med sportschefen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34402-johan-schubert-nr-41-ved-vm-naeste-opgave-er-ol-nationskvalifikation",
+   "cat": "Kapsejlads",
+   "sum": "Johan Schubert sluttede som nummer 41 ved VM i ILCA 7 i Irland, et resultat under forventningerne. Sportschef Peter Hansen vurderer indsatsen og ser frem mod næste VM."
   },
   {
    "key": "baadmagasinet-34397",
@@ -737,16 +733,6 @@
    "tjek": "2026-09-06"
   },
   {
-   "key": "baadmagasinet-34373",
-   "source": "Bådmagasinet",
-   "date": "2026-08-25",
-   "title": "Overlevelse til søs: Sande historier om sejlere, der kom tilbage",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34373-overlevelse-til-sos-sande-historier-om-sejlere-der-kom-tilbage",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen fortæller om sejlere, der overlevede forlis, herunder Salvador Alvarenga og Poon Lim, og fremhæver fælles træk som overlevelsesinstinkt og systematik.",
-   "tjek": "2026-09-06"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "source": "Dansk Sejlunion",
    "date": "2026-08-25",
@@ -754,6 +740,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-06"
+  },
+  {
+   "key": "baadmagasinet-34373",
+   "source": "Bådmagasinet",
+   "date": "2026-08-25",
+   "title": "Overlevelse til søs: Sande historier om sejlere, der kom tilbage",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34373-overlevelse-til-sos-sande-historier-om-sejlere-der-kom-tilbage",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen fortæller om sejlere, der overlevede forlis, herunder Salvador Alvarenga og Poon Lim, og fremhæver fælles træk som overlevelsesinstinkt og systematik.",
    "tjek": "2026-09-06"
   },
   {
@@ -1153,8 +1149,7 @@
    "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
    "cat": "Havneliv",
-   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet.",
-   "tjek": "2026-09-06"
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
@@ -1163,8 +1158,7 @@
    "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges.",
-   "tjek": "2026-09-06"
+   "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
   },
   {
    "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
@@ -1203,8 +1197,7 @@
    "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
    "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026.",
-   "tjek": "2026-09-06"
+   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
   {
    "key": "baadmagasinet-34346",
@@ -1213,8 +1206,7 @@
    "title": "Populære Christiansø: 35 % fremgang på Danmarks østligste udpost",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34346-populaere-christianso-35-procents-fremgang-pa-danmarks-ostligste-udpost",
    "cat": "Tursejlads",
-   "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende.",
-   "tjek": "2026-09-06"
+   "sum": "Christiansø oplever 35 procent fremgang i lystsejlende gæster, særligt fra udlandet. Åbningen af det sydlige havneløb og kulturtilbud har tiltrukket mange besøgende."
   },
   {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
@@ -1273,8 +1265,7 @@
    "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubfællesskaber. Hun skal bl.a. udvikle DM-ugen og Sejlergallaen.",
-   "tjek": "2026-09-06"
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubfællesskaber. Hun skal bl.a. udvikle DM-ugen og Sejlergallaen."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
@@ -1283,8 +1274,7 @@
    "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke",
-   "tjek": "2026-09-06"
+   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
   },
   {
    "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
@@ -1333,8 +1323,7 @@
    "title": "Motorbåd drev ind i sten og sank ved Helnæs",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
    "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade.",
-   "tjek": "2026-09-06"
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
   },
   {
    "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
@@ -1383,8 +1372,7 @@
    "title": "Bådtyve hærger i de jyske havne: Både, udstyr og motorer stjålet",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34342-badtyve-haerger-i-de-jyske-havne-bade-udstyr-og-motorer-stjalet",
    "cat": "Sikkerhed",
-   "sum": "Tyverier og hærværk i jyske lystbådehavne: båd med motor og trailer stjålet i Egernsund, udstyr og hærværk i Fredericia, og en Yamarin 63DC forsvundet i Marselisborg.",
-   "tjek": "2026-09-06"
+   "sum": "Tyverier og hærværk i jyske lystbådehavne: båd med motor og trailer stjålet i Egernsund, udstyr og hærværk i Fredericia, og en Yamarin 63DC forsvundet i Marselisborg."
   },
   {
    "key": "stannows-xr-41-hold-to-em-guld-vil-nu-vinde-vm-i-koebenhavn",
@@ -1423,8 +1411,7 @@
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
    "cat": "Udstyr & både",
-   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr.",
-   "tjek": "2026-09-06"
+   "sum": "Helly Hansen lancerer HP Foil Flyer sejlersko med letvægtsdesign, maksimalt greb på våde dæk og genbrugsmaterialer til 1.000 kr."
   },
   {
    "key": "dansker-taber-igen-strid-om-luksusyacht-til-224-millioner",
@@ -1503,8 +1490,7 @@
    "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
    "cat": "Tursejlads",
-   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr.",
-   "tjek": "2026-09-06"
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
   },
   {
    "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
@@ -1573,8 +1559,7 @@
    "title": "Nykøbing Falster: Omfattende havneplan møder kritik og skepsis fra sejlerne",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
    "cat": "Havneliv",
-   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv.",
-   "tjek": "2026-09-06"
+   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
@@ -1583,8 +1568,7 @@
    "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia.",
-   "tjek": "2026-09-06"
+   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
   },
   {
    "key": "vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas",
@@ -1633,8 +1617,7 @@
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
    "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen.",
-   "tjek": "2026-09-06"
+   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
@@ -1643,8 +1626,7 @@
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
-   "tjek": "2026-09-06"
+   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -1653,8 +1635,7 @@
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
    "cat": "Udstyr & både",
-   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser.",
-   "tjek": "2026-09-06"
+   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -1713,8 +1694,7 @@
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
    "cat": "Sikkerhed",
-   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land.",
-   "tjek": "2026-09-06"
+   "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
   },
   {
    "key": "svenske-hansson-mild-slog-to-danskere-ved-ok-nm",
@@ -1823,8 +1803,7 @@
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
    "cat": "Sikkerhed",
-   "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket.",
-   "tjek": "2026-09-06"
+   "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket."
   },
   {
    "key": "baadmagasinet-34322",
@@ -1833,8 +1812,7 @@
    "title": "Skagen: Havnefoged må pakke bådene i op til otte lag",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
    "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin.",
-   "tjek": "2026-09-06"
+   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
   },
   {
    "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
@@ -1923,8 +1901,7 @@
    "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "cat": "Andet",
-   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere.",
-   "tjek": "2026-09-06"
+   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -1933,8 +1910,7 @@
    "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
    "cat": "Sikkerhed",
-   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør.",
-   "tjek": "2026-09-06"
+   "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
   },
   {
    "key": "baadmagasinet-34321",
@@ -1943,8 +1919,7 @@
    "title": "Ny digital havneguide - NorDok vil samle 5.000 lystbådehavne i fire lande",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
    "cat": "Andet",
-   "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5",
-   "tjek": "2026-09-06"
+   "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
@@ -1953,8 +1928,7 @@
    "title": "Når sejlklubben skal forklare sin identitet",
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
-   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår.",
-   "tjek": "2026-09-06"
+   "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
   },
   {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
@@ -1993,8 +1967,7 @@
    "title": "Motorbåd røg af trailer og ramte trækkende bil",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
    "cat": "Sikkerhed",
-   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods.",
-   "tjek": "2026-09-06"
+   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
   },
   {
    "key": "baadmagasinet-34315",
@@ -2921,15 +2894,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
    "cat": "Sikkerhed",
    "sum": "Syd- og Sønderjyllands Politi minder sejlere om vigtigheden af redningsveste, promillegrænser og speedbådsbevis i et humoristisk Facebook-opslag."
-  },
-  {
-   "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-17",
-   "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
-   "cat": "Udstyr & både",
-   "sum": "Motorbaadsnyt.dk tester den tyrkiskbyggede luksusyacht Sirena 60 til 23 mio. kr. på Aarhus Bugt og roser byggekvalitet, komfort og sejlegenskaber."
   }
  ]
 }
