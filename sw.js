@@ -1,7 +1,7 @@
 /* Marina- og HavneNyheder – service worker.
    Skallen caches (app kan åbnes offline). news.json hentes altid fra nettet
    først, med cache som reserve, så man aldrig ser gamle nyheder online. */
-const CACHE = "marina-v2";
+const CACHE = "marina-v3";
 const SHELL = [
   "./",
   "./index.html",
@@ -30,7 +30,7 @@ self.addEventListener("fetch", (e) => {
   if (url.origin !== location.origin) return; // eksterne billeder: lad browseren styre
 
   // Data og HTML: netværk først, cache som reserve.
-  if (url.pathname.endsWith("news.json") || req.mode === "navigate") {
+  if (/news(-arkiv)?\.json$/.test(url.pathname) || req.mode === "navigate") {
     e.respondWith(
       fetch(req)
         .then((res) => {

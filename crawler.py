@@ -32,8 +32,18 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).parent
 NEWS_FILE = ROOT / "news.json"
+ARKIV_FILE = ROOT / "news-arkiv.json"
 SOURCES_FILE = ROOT / "sources.json"
-MAX_ITEMS = 600
+MAX_ITEMS = 2000        # Loftet er vores eget valg, ikke en teknisk graense.
+                        # Meget af stoffet er ikke ferskvare: en gennemgang af
+                        # klargoering eller en beskrivelse af en havn er lige saa
+                        # brugbar om tre aar. Det, der saetter graensen i praksis,
+                        # er at hele news.json hentes ved hvert besoeg - ved 2000
+                        # poster er det ca. 1 MB, og under 250 kB pakket.
+FORSIDE_ANTAL = 300     # Nyheder i news.json. Resten ligger i news-arkiv.json,
+                        # som foerst hentes, hvis nogen soeger, filtrerer eller
+                        # ruller helt i bund. De fleste ser aldrig mere end de
+                        # oeverste tyve, og de skal ikke betale for arkivet.
 MAX_PER_GENERIC_SOURCE = 40
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
 ACCEPT = {
@@ -1025,25 +1035,33 @@ def main():
     doede, tjekkede = fjern_doede_links(items)
     enriched = enrich_items(items)
 
+    nu = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    forside, arkiv = items[:FORSIDE_ANTAL], items[FORSIDE_ANTAL:]
     out = {
-        "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "count": len(items),
+        "generated": nu,
+        "count": len(items),            # hele arkivet, ikke kun forsiden
+        "arkiv": "news-arkiv.json" if arkiv else "",
+        "arkiv_antal": len(arkiv),
         "errors": errors + [f"AI: {e}" for e in AI_ERRORS],
-        "items": items,
+        "items": forside,
     }
     NEWS_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    ARKIV_FILE.write_text(json.dumps(
+        {"generated": nu, "count": len(arkiv), "items": arkiv},
+        ensure_ascii=False, indent=1), encoding="utf-8")
     prerendered = prerender_index(items)
     write_sitemap()
     write_feed(items)
-    doede = check_sources(items)
+    stille_kilder = check_sources(items)
     print(f"OK: {len(collected)} hentet, {len(items)} i arkivet, "
           f"{enriched} AI-beriget, "
           f"{prerendered} skrevet i HTML, "
+          f"{len(forside)} paa forsiden + {len(arkiv)} i arkivet, "
           f"{tjekkede} links tjekket, {doede} d\u00f8de fjernet, "
           f"{len(errors)} fejl")
-    if doede:
+    if stille_kilder:
         print("VAGTHUND: kilder uden nyheder i "
-              f"{STALE_DAYS} dage: " + ", ".join(sorted({d[0] for d in doede})))
+              f"{STALE_DAYS} dage: " + ", ".join(sorted({d[0] for d in stille_kilder})))
     for e in errors:
         print("FEJL:", e, file=sys.stderr)
 

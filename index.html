@@ -226,7 +226,7 @@
   <header class="top">
     <div class="titel">
       <h1><span id="anker" title="">&#9875;</span>Marina- og HavneNyheder</h1>
-      <p class="antal">Sidst opdateret: <span id="opdateret"><!--OPDATERET_START-->6. sep 2026 kl. 06.45<!--OPDATERET_END--></span><br>
+      <p class="antal">Sidst opdateret: <span id="opdateret"><!--OPDATERET_START-->6. sep 2026 kl. 07.22<!--OPDATERET_END--></span><br>
         Samlet antal nyheder: <span id="antal"><!--ANTAL_START-->503<!--ANTAL_END--></span></p>
     </div>
     <div class="tools" id="tools" style="display:none">
@@ -337,7 +337,8 @@
 (function(){
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
-  var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "" };
+  var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "",
+                arkiv: "", arkivAntal: 0, arkivHentet: false, arkivHenter: false };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
 
@@ -387,15 +388,19 @@
     return html;
   }
 
-  function render() {
-    var list = document.getElementById("list");
+  function filtrer() {
     var q = state.q.toLowerCase();
-    var items = state.items.filter(function(it){
+    return state.items.filter(function(it){
       if (state.catOff[it.cat || "Andet"]) return false;
       if (state.srcOff[it.source]) return false;
       if (q && (it.title + " " + (it.sum || "")).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
+  }
+
+  function render() {
+    var list = document.getElementById("list");
+    var items = filtrer();
     if (!items.length) {
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
@@ -432,6 +437,22 @@
         Math.min(BATCH, rest) + ' flere (' + rest + ' tilbage)</button><div class="sentinel"></div></div>');
       document.getElementById("moreBtn").addEventListener("click", appendBatch);
       observeTail();
+    } else if (state.arkiv && !state.arkivHentet) {
+      // Arkivet hentes kun paa et bevidst klik - det er en stoerre fil, og de
+      // fleste naar aldrig hertil. Ingen automatisk hentning ved scroll.
+      list.insertAdjacentHTML("beforeend",
+        '<div id="tail"><button class="more" id="moreBtn">Vis ældre nyheder (' +
+        state.arkivAntal + ' i arkivet)</button></div>');
+      document.getElementById("moreBtn").addEventListener("click", function(){
+        hentArkiv(function(){
+          // Arkivet er ældre end det viste, saa listen forlaenges bagi:
+          // de allerede viste kort staar uroert, og vi fortsaetter derfra.
+          var t = document.getElementById("tail");
+          if (t) t.remove();
+          view.items = filtrer();
+          appendBatch();
+        });
+      });
     }
   }
 
@@ -516,6 +537,8 @@
     });
     // Lupen slår søgefeltet ud og ind. Lukkes den med tekst i, nulstilles søgningen.
     sBtn.addEventListener("click", function(){
+      // Der skal soeges i hele arkivet, ikke kun i de nyeste 300.
+      hentArkiv(function(){ if (state.q) render(); });
       var open = row.classList.toggle("open");
       sBtn.classList.toggle("on", open);
       sBtn.setAttribute("aria-expanded", String(open));
@@ -527,6 +550,11 @@
     });
 
     var dd = document.getElementById("catDd");
+    // Filtrene skal daekke hele arkivet - ellers mangler baade emner, kilder
+    // og resultater, uden at man kan se hvorfor.
+    dd.addEventListener("toggle", function(){
+      if (dd.open) hentArkiv(function(){ render(); });
+    });
     wireVaelgAlle("catAll", "catChips", "cats", "catOff");
     wireVaelgAlle("srcAll", "srcChips", "sources", "srcOff");
     // Luk ved klik udenfor og på Escape.
@@ -592,6 +620,72 @@
   // Tæl med, mens siden står åben
   setInterval(function(){ visOpdateret(null); }, 60000);
 
+  // Kun de nyeste nyheder ligger i news.json. Resten hentes fra arkivet,
+  // foerste gang nogen soeger, filtrerer eller beder om at se aeldre.
+  function opdaterFiltre() {
+    var seenC = {}, seenS = {};
+    state.items.forEach(function(it){
+      if (it.cat) seenC[it.cat] = true;
+      if (it.source) seenS[it.source] = true;
+    });
+    function daSort(a, b) { return a.localeCompare(b, "da"); }
+    state.cats = Object.keys(seenC).sort(daSort);
+    state.sources = Object.keys(seenS).sort(daSort);
+  }
+
+  function arkivBesked(vis) {
+    var el = document.getElementById("arkivbesked");
+    if (vis && !el) {
+      el = document.createElement("div");
+      el.id = "arkivbesked";
+      el.className = "empty";
+      el.setAttribute("role", "status");
+      el.textContent = "Henter resten af arkivet…";
+      document.getElementById("list").prepend(el);
+    } else if (!vis && el) {
+      el.remove();
+    }
+  }
+
+  function hentArkiv(naar) {
+    if (state.arkivHentet || state.arkivHenter || !state.arkiv) {
+      if (naar) naar();
+      return;
+    }
+    state.arkivHenter = true;
+    arkivBesked(true);
+    fetch(state.arkiv, { cache: "no-cache" })
+      .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(data){
+        var kendt = {};
+        state.items.forEach(function(it){ kendt[it.key || it.url] = true; });
+        (data.items || []).forEach(function(it){
+          if (it.source && !kendt[it.key || it.url]) state.items.push(it);
+        });
+        state.items.sort(function(a, b){
+          return (b.date || "").localeCompare(a.date || "");
+        });
+        state.arkivHentet = true;
+        opdaterFiltre();
+        buildChips("catChips", state.cats, state.catOff);
+        buildChips("srcChips", state.sources, state.srcOff);
+      })
+      .catch(function(){
+        // Arkivet kunne ikke hentes: de nyeste nyheder virker stadig.
+        var el = document.getElementById("list");
+        var b = document.createElement("div");
+        b.className = "empty";
+        b.setAttribute("role", "status");
+        b.textContent = "Kunne ikke hente det ældre arkiv. De nyeste nyheder vises stadig.";
+        el.prepend(b);
+      })
+      .then(function(){
+        state.arkivHenter = false;
+        arkivBesked(false);
+        if (naar) naar();
+      });
+  }
+
   fetch("news.json", { cache: "no-cache" })
     .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function(data){
@@ -599,17 +693,12 @@
         if (!it.source && it.src && LEGACY[it.src]) it.source = LEGACY[it.src];
         return it;
       }).filter(function(it){ return it.source; });
-      var seenC = {}, seenS = {};
-      state.items.forEach(function(it){
-        if (it.cat) seenC[it.cat] = true;
-        if (it.source) seenS[it.source] = true;
-      });
-      // Alfabetisk, dansk sortering: æ, ø og å kommer bagerst som de skal.
-      function daSort(a, b) { return a.localeCompare(b, "da"); }
-      state.cats = Object.keys(seenC).sort(daSort);
-      state.sources = Object.keys(seenS).sort(daSort);
+      state.arkiv = data.arkiv || "";
+      state.arkivAntal = data.arkiv_antal || 0;
+      opdaterFiltre();
       var antal = document.getElementById("antal");
-      if (antal) antal.textContent = state.items.length;
+      // Tallet er hele arkivet, ikke kun det der er hentet ind endnu.
+      if (antal) antal.textContent = data.count || state.items.length;
       visOpdateret(data.generated);
       wireControls();
       render();

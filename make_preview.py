@@ -19,6 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SRC = ROOT / "index.html"
 DATA = ROOT / "news.json"
+ARKIV = ROOT / "news-arkiv.json"
 OUT = ROOT / "preview-local.html"
 
 # Erstat netvaerkskaldet med de faktiske data
@@ -33,7 +34,12 @@ def main():
 
     html = SRC.read_text(encoding="utf-8")
     data = json.loads(DATA.read_text(encoding="utf-8"))
+    arkiv = (json.loads(ARKIV.read_text(encoding="utf-8"))
+             if ARKIV.exists() else {"items": []})
 
+    # Arkivet hentes ogsaa med fetch - erstat begge kald med de bagte data
+    html = html.replace('fetch(state.arkiv, { cache: "no-cache" })',
+                        'Promise.resolve({ ok: true, json: function(){ return ARKIV_DATA; } })')
     inlined = "Promise.resolve(NEWS_DATA)\n"
     new_html, n = FETCH_RE.subn(inlined, html)
     if n != 1:
@@ -48,6 +54,7 @@ def main():
     new_html = new_html.replace(
         "<script>\n(function(){",
         "<script>\nvar NEWS_DATA = " + json.dumps(data, ensure_ascii=False) +
+        ";\nvar ARKIV_DATA = " + json.dumps(arkiv, ensure_ascii=False) +
         ";\n(function(){", 1)
 
     # Service workeren skal ikke blande sig i en lokal kopi
@@ -55,7 +62,8 @@ def main():
                       "", new_html, count=1)
 
     OUT.write_text(new_html, encoding="utf-8")
-    print(f"OK: {OUT.name} bygget - {data.get('count', '?')} nyheder bagt ind")
+    print(f"OK: {OUT.name} bygget - {len(data.get('items', []))} paa forsiden "
+          f"+ {len(arkiv.get('items', []))} i arkivet")
     print(f"Aabn: {OUT}")
 
 
