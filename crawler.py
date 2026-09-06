@@ -34,12 +34,18 @@ ROOT = Path(__file__).parent
 NEWS_FILE = ROOT / "news.json"
 ARKIV_FILE = ROOT / "news-arkiv.json"
 SOURCES_FILE = ROOT / "sources.json"
-MAX_ITEMS = 2000        # Loftet er vores eget valg, ikke en teknisk graense.
-                        # Meget af stoffet er ikke ferskvare: en gennemgang af
-                        # klargoering eller en beskrivelse af en havn er lige saa
-                        # brugbar om tre aar. Det, der saetter graensen i praksis,
-                        # er at hele news.json hentes ved hvert besoeg - ved 2000
-                        # poster er det ca. 1 MB, og under 250 kB pakket.
+MAX_ITEMS = 10000       # Loftet er vores eget valg, ikke en teknisk graense.
+                        # Ved ca. 6-7 nye artikler om dagen raekker det til
+                        # naesten 3 aars arkiv, foer det skal kigges paa igen.
+                        # Forsiden (news.json) er stadig kun de nyeste 300, saa
+                        # almindelige besoegende maerker intet. Det er kun
+                        # ARKIVET, der vokser: ved 10.000 fylder news-arkiv.json
+                        # ca. 5 MB, men den hentes foerst naar nogen soeger,
+                        # filtrerer eller selv beder om at se aeldre nyheder.
+                        # Selve arbejdet i crawleren (laese, sortere, dele op)
+                        # tager under et tiendedel sekund selv ved 10.000 -
+                        # det er de 11 kildesider og AI-kaldene der tager tid,
+                        # ikke haandteringen af arkivet.
 FORSIDE_ANTAL = 300     # Nyheder i news.json. Resten ligger i news-arkiv.json,
                         # som foerst hentes, hvis nogen soeger, filtrerer eller
                         # ruller helt i bund. De fleste ser aldrig mere end de
