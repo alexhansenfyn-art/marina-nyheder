@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-07T18:00:15+00:00",
- "count": 432,
+ "generated": "2026-09-07T21:37:07+00:00",
+ "count": 431,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 132,
+ "arkiv_antal": 131,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
@@ -794,16 +794,6 @@
    "tjek": "2026-09-02"
   },
   {
-   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-25",
-   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
-   "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
-   "tjek": "2026-09-07"
-  },
-  {
    "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
    "source": "Minbåd.dk",
    "date": "2026-08-25",
@@ -821,6 +811,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
    "cat": "Andet",
    "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
+   "tjek": "2026-09-07"
+  },
+  {
+   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
+   "cat": "Sikkerhed",
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
    "tjek": "2026-09-07"
   },
   {
@@ -1044,23 +1044,14 @@
    "tjek": "2026-09-07"
   },
   {
-   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
-   "source": "Minbåd.dk",
-   "date": "2026-08-21",
-   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
-   "cat": "Udstyr & både",
-   "sum": "Lasse Hin",
-   "tjek": "2026-09-07"
-  },
-  {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
    "source": "Motorbådsnyt",
    "date": "2026-08-21",
    "title": "Sådan får du et friskere indeklima i båden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
    "cat": "Udstyr & både",
-   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
+   "tjek": "2026-09-07"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
@@ -1070,6 +1061,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
+  },
+  {
+   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
+   "source": "Minbåd.dk",
+   "date": "2026-08-21",
+   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
+   "cat": "Udstyr & både",
+   "sum": "Lasse Hin",
+   "tjek": "2026-09-07"
   },
   {
    "key": "erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm",
