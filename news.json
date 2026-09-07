@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-07T12:42:01+00:00",
- "count": 431,
+ "generated": "2026-09-07T18:00:15+00:00",
+ "count": 432,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 131,
+ "arkiv_antal": 132,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
@@ -33,6 +33,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn."
+  },
+  {
+   "key": "baadmagasinet-34406",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Når kampen om trofæet også bliver en kamp om retten til at bestemme",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34406-nar-kampen-om-trofaeet-ogsa-bliver-en-kamp-om-retten-til-at-bestemme",
+   "cat": "Kapsejlads",
+   "sum": "Optakten til America's Cup præges af strid om, hvem der har ret til at arrangere og definere konkurrencen, med New York Yacht Club som initiativtager til juridisk vurdering."
   },
   {
    "key": "baadmagasinet-34409",
@@ -2887,16 +2896,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34281-trods-advarsler-fynbo-sejler-mod-bornholm-pa-hjemmebygget-tommerflade",
    "cat": "Sikkerhed",
    "sum": "En fynbo sejler mod Bornholm på en hjemmebygget tømmerflåde for at samle penge ind, trods sikkerhedsadvarsler.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34279",
-   "source": "Bådmagasinet",
-   "date": "2026-07-20",
-   "title": "Kenn inviterer trængte børn på uforglemmelig sommertur",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34279-kenn-inviterer-traengte-born-pa-uforglemmelig-sommertur",
-   "cat": "Andet",
-   "sum": "Bådejeren Kenn Egtved inviterer børn fra økonomisk trængte familier på gratis sejltur med sin luksusyacht. Opslaget gik viralt, og private donationer gør turen ekstra festlig.",
    "tjek": "2026-08-02"
   }
  ]
