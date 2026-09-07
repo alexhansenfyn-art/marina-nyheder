@@ -1,12 +1,48 @@
 {
- "generated": "2026-09-07T06:13:18+00:00",
- "count": 428,
+ "generated": "2026-09-07T12:42:01+00:00",
+ "count": 431,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 128,
+ "arkiv_antal": 131,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
+   "cat": "Kapsejlads",
+   "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
+  },
+  {
+   "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-07",
+   "title": "LEGOLAND sælger Kongeskibet Dannebrog – næsten to meter langt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
+   "cat": "Andet",
+   "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
+  },
+  {
+   "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "Endnu en sejlbåd kastet op på kysten – ligger på stenene ved Tisvilde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
+   "cat": "Sikkerhed",
+   "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn."
+  },
+  {
+   "key": "baadmagasinet-34409",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Sehesteds forløsning i Spanien - se highlights fra søndagens sejladser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34409-sehesteds-forlosning-i-spanien",
+   "cat": "Kapsejlads",
+   "sum": "Nicolai Sehested og co. kvalificerede sig til SailGP-finalen i Valencia efter en fjerdeplads i søndagens fleet race. Det er første gang siden juni 2024, at danskerne er i en finale."
+  },
   {
    "key": "baadmagasinet-34400",
    "source": "Bådmagasinet",
@@ -15,6 +51,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34400-historisk-lego-model-af-kongeskibet-dannebrog-kommer-under-hammeren",
    "cat": "Andet",
    "sum": "En original LEGO-model af Kongeskibet Dannebrog fra LEGOLAND Miniland sælges på auktion til fordel for velgørenhed. Modellen har ligget udendørs i næsten 30 år og er bygget i 1998."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-07",
+   "title": "Tre nye danmarksmestre kåret ved DH-DM i Middelfart",
+   "url": "https://dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
+   "cat": "Kapsejlads",
+   "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser."
   },
   {
    "key": "dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil",
@@ -44,15 +89,6 @@
    "sum": "To personer blev alvorligt kvæstet, da en politibåd og en civil båd stødte sammen ved Middelgrundsfortet. Ulykken efterforskes af flere myndigheder, og de skadede er indlagt på Rigshospitalet."
   },
   {
-   "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-05",
-   "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
-   "cat": "Udstyr & både",
-   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
-  },
-  {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
    "source": "Minbåd.dk",
    "date": "2026-09-05",
@@ -60,6 +96,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende/",
    "cat": "Sikkerhed",
    "sum": "Efter motorproblemer strandede træskonnerten Maheo ved Langeland, dele blev stjålet, og uvejr har nu slået vraget i stykker."
+  },
+  {
+   "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
+   "source": "Minbåd.dk",
+   "date": "2026-09-05",
+   "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
+   "cat": "Udstyr & både",
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
   },
   {
    "key": "baadmagasinet-34404",
@@ -360,26 +405,6 @@
    "tjek": "2026-09-07"
   },
   {
-   "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "22-fods sejlbåd drev ind i skibsruten under Storebæltsbroen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen/",
-   "cat": "Sikkerhed",
-   "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn.",
-   "tjek": "2026-09-07"
-  },
-  {
-   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster.",
-   "tjek": "2026-09-07"
-  },
-  {
    "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -397,6 +422,26 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
    "cat": "Kapsejlads",
    "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
+   "tjek": "2026-09-07"
+  },
+  {
+   "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "22-fods sejlbåd drev ind i skibsruten under Storebæltsbroen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen/",
+   "cat": "Sikkerhed",
+   "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn.",
+   "tjek": "2026-09-07"
+  },
+  {
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "cat": "Havneliv",
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster.",
    "tjek": "2026-09-07"
   },
   {
@@ -2853,51 +2898,6 @@
    "cat": "Andet",
    "sum": "Bådejeren Kenn Egtved inviterer børn fra økonomisk trængte familier på gratis sejltur med sin luksusyacht. Opslaget gik viralt, og private donationer gør turen ekstra festlig.",
    "tjek": "2026-08-02"
-  },
-  {
-   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "cat": "Havneliv",
-   "sum": "Artiklen beskriver reglerne for, at inderste båd skal acceptere udenpåliggende både i fyldte havne, og at havnemyndigheden bestemmer, hvornår det er nødvendigt."
-  },
-  {
-   "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Sygeplejerske i husbåd slipper med 3.100 kroner i husleje",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje/",
-   "cat": "Havneliv",
-   "sum": "Sygeplejerske Anna bor på husbåd i en kanal, betaler ca. 3.100 kr. om måneden, og fortæller om fordele og ulemper ved livet på vandet."
-  },
-  {
-   "key": "farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen advarer om sikkerhedsrisici ved SUP i fralandsvind og opfordrer til grundig forberedelse, kurser og korrekt udstyr som svømmevest og leash."
-  },
-  {
-   "key": "sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-19",
-   "title": "Sommerhavne: På Nyord må byens gæster droppe bilen",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/july/article/sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen/",
-   "cat": "Havneliv",
-   "sum": "Nyord Havn er en lille, charmerende havn på en fredet ø med få faciliteter, men unik natur og ro. Sejlere roser den billige pris og hyggelige atmosfære."
-  },
-  {
-   "key": "dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-18",
-   "title": "På My Maritime app er dit speedbådbevis og andre digitale beviser",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen beskriver, hvordan man kan bruge My Maritime app til at vise digitale beviser som speedbådbevis, og nævner bøder for manglende redningsvest og VHF-certifikat."
   }
  ]
 }
