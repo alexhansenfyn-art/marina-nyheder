@@ -1,12 +1,21 @@
 {
- "generated": "2026-09-07T01:06:49+00:00",
- "count": 427,
+ "generated": "2026-09-07T06:13:18+00:00",
+ "count": 428,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 127,
+ "arkiv_antal": 128,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34400",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Historisk LEGO-model af Kongeskibet Dannebrog kommer under hammeren",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34400-historisk-lego-model-af-kongeskibet-dannebrog-kommer-under-hammeren",
+   "cat": "Andet",
+   "sum": "En original LEGO-model af Kongeskibet Dannebrog fra LEGOLAND Miniland sælges på auktion til fordel for velgørenhed. Modellen har ligget udendørs i næsten 30 år og er bygget i 1998."
+  },
   {
    "key": "dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil",
    "source": "Minbåd.dk",
@@ -741,16 +750,6 @@
    "tjek": "2026-09-07"
   },
   {
-   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
-   "source": "Minbåd.dk",
-   "date": "2026-08-25",
-   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
-   "cat": "Andet",
-   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
-   "tjek": "2026-09-07"
-  },
-  {
    "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
    "source": "Minbåd.dk",
    "date": "2026-08-25",
@@ -758,6 +757,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg/",
    "cat": "Kapsejlads",
    "sum": "Otto Strandvig vandt DM i Finnjolle i Varberg for syvende gang efter tæt konkurrence og varierede vindforhold. Stævnet indgik i World Tour for Finns.",
+   "tjek": "2026-09-07"
+  },
+  {
+   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
+   "cat": "Andet",
+   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
    "tjek": "2026-09-07"
   },
   {
@@ -927,7 +936,8 @@
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
    "cat": "Udstyr & både",
-   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik.",
+   "tjek": "2026-09-07"
   },
   {
    "key": "baadmagasinet-34363",
@@ -976,7 +986,8 @@
    "title": "Thomas Veber sejlede 43 sømil i ni fods alu-rib: - Et eventyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
-   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
+   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen.",
+   "tjek": "2026-09-07"
   },
   {
    "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
@@ -985,7 +996,8 @@
    "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
    "cat": "Udstyr & både",
-   "sum": "Lasse Hin"
+   "sum": "Lasse Hin",
+   "tjek": "2026-09-07"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -1135,15 +1147,6 @@
    "tjek": "2026-08-27"
   },
   {
-   "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-19",
-   "title": "Negative kommentarer mod nødstedte sejlere får redningsfolk til at slå alarm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
-   "cat": "Sikkerhed",
-   "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
-  },
-  {
    "key": "dansketursejlere-dt-traef-i-bogense",
    "source": "Danske Tursejlere",
    "date": "2026-08-19",
@@ -1178,6 +1181,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
+  },
+  {
+   "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-19",
+   "title": "Negative kommentarer mod nødstedte sejlere får redningsfolk til at slå alarm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
+   "cat": "Sikkerhed",
+   "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
   },
   {
    "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
@@ -2886,15 +2898,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/",
    "cat": "Sikkerhed",
    "sum": "Artiklen beskriver, hvordan man kan bruge My Maritime app til at vise digitale beviser som speedbådbevis, og nævner bøder for manglende redningsvest og VHF-certifikat."
-  },
-  {
-   "key": "anholt-igen-samlingspunkt-for-solo-og-doublehandsejlere-start-fra-egen-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-18",
-   "title": "Anholt igen samlingspunkt for solo- og doublehandsejlere - start fra egen havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/july/article/anholt-igen-samlingspunkt-for-solo-og-doublehandsejlere-start-fra-egen-havn/",
-   "cat": "Sikkerhed",
-   "sum": "Anholt Lone Star arrangement den 20. august samler solo- og doublehandsejlere med fokus på godt sømandskab, sikkerhed og erfaringsudveksling. Deltagerne starter fra egen havn og sejler mod Anholt."
   }
  ]
 }
