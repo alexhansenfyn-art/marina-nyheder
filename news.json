@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T11:51:20+00:00",
+ "generated": "2026-09-08T15:26:57+00:00",
  "count": 435,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 135,
@@ -42,6 +42,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34408-nye-flydebroer-og-bedre-lae-ved-mariager-fjord-omfattende-millionprojekt-pa-vej-i-hobro",
    "cat": "Havneliv",
    "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
+  },
+  {
+   "key": "baadmagasinet-34411",
+   "source": "Bådmagasinet",
+   "date": "2026-09-08",
+   "title": "Allt för sjön aflyser 2027 – de klassiske indendørs bådmesser er under pres",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34411-allt-foer-sjoen-aflyser-2027-de-klassiske-indendors-badmesser-er-under-pres",
+   "cat": "Andet",
+   "sum": "Den svenske bådmesse Allt för sjön aflyser 2027-udgaven og vil udvikle nyt koncept til 2028. Indendørs bådmesser er under pres."
   },
   {
    "key": "baadmagasinet-34410",
@@ -2892,15 +2901,6 @@
    "cat": "Kapsejlads",
    "sum": "I Monaco vandt Team Drogba sin første E1-sejr, mens Team Brady overtog VM-føringen. Drama og styrt prægede løbet.",
    "tjek": "2026-08-02"
-  },
-  {
-   "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
-   "source": "Minbåd.dk",
-   "date": "2026-07-20",
-   "title": "Myndigheder stopper fynbos tømmerflådetur til Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
-   "cat": "Sikkerhed",
-   "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn."
   }
  ]
 }
