@@ -1,10 +1,11 @@
 {
- "generated": "2026-09-08T15:26:57+00:00",
- "count": 435,
+ "generated": "2026-09-08T19:03:21+00:00",
+ "count": 416,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 135,
+ "arkiv_antal": 116,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Havneliv"
  ],
  "items": [
   {
