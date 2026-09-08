@@ -1,12 +1,30 @@
 {
- "generated": "2026-09-08T06:38:27+00:00",
- "count": 434,
+ "generated": "2026-09-08T11:51:20+00:00",
+ "count": 435,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 134,
+ "arkiv_antal": 135,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Camilla og Jonas Toustrup kom tæt på isbjørne - Svalbard overgik alle drømmene",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene/",
+   "cat": "Tursejlads",
+   "sum": "Ægteparret Camilla og Jonas Toustrup fortæller om deres ekspeditionssejlads til Svalbard i deres ombyggede Dufour 12000 CT, hvor de oplevede isbjørne, gletsjere og barsk natur."
+  },
+  {
+   "key": "anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Anna Munch blander sig i VM-toppen efter sejr i Irland",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser."
+  },
   {
    "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
    "source": "Minbåd.dk",
@@ -26,6 +44,15 @@
    "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
   },
   {
+   "key": "baadmagasinet-34410",
+   "source": "Bådmagasinet",
+   "date": "2026-09-08",
+   "title": "Hård vind satte Vegvisir-sejlerne på lige så hård prøve",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34410-hard-vind-satte-vegvisir-sejlerne-pa-prove",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race fra Nyborg blev hårdt ramt af blæst: 30 både fuldførte Red Course, kun 10 Green Course, og singlehanded-formatet måtte udsættes."
+  },
+  {
    "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
    "source": "Motorbådsnyt",
    "date": "2026-09-07",
@@ -35,15 +62,6 @@
    "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
   },
   {
-   "key": "lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11",
-   "source": "Minbåd.dk",
-   "date": "2026-09-07",
-   "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
-   "cat": "Kapsejlads",
-   "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
-  },
-  {
    "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
    "source": "Minbåd.dk",
    "date": "2026-09-07",
@@ -51,6 +69,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn."
+  },
+  {
+   "key": "lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
+   "cat": "Kapsejlads",
+   "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
   },
   {
    "key": "baadmagasinet-34406",
@@ -101,7 +128,7 @@
    "key": "sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink",
    "source": "Minbåd.dk",
    "date": "2026-09-06",
-   "title": "Sponsorindhold:Hvad koster internet på sejlturen? Fra havnens wi-fi til Starlink",
+   "title": "Sponsorindhold: Hvad koster internet på sejlturen? Fra havnens wi-fi til Starlink",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink/",
    "cat": "Udstyr & både",
    "sum": "Artiklen handler om, hvordan sejlere sikrer internet ombord, og hvad det koster. Den sammenligner havnens wi-fi med løsninger som Starlink."
@@ -323,6 +350,15 @@
    "sum": "Jan Hansen misser Silverrudder pga. datters bryllup. Bådens designer Sam Manuard sejler hans Beneteau First 36 SE. Jan speaker på livestream i stedet."
   },
   {
+   "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
+   "source": "Minbåd.dk",
+   "date": "2026-09-02",
+   "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
+   "cat": "Sikkerhed",
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+  },
+  {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
    "source": "Minbåd.dk",
    "date": "2026-09-02",
@@ -339,15 +375,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41/",
    "cat": "Kapsejlads",
    "sum": "Silverrudder solosejladsen starter 18. september med 447 deltagere, deriblandt 66 X-Yachts og to XR 41."
-  },
-  {
-   "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
-   "source": "Minbåd.dk",
-   "date": "2026-09-02",
-   "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "cat": "Sikkerhed",
-   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
   },
   {
    "key": "baadmagasinet-34389",
@@ -757,16 +784,6 @@
    "tjek": "2026-09-08"
   },
   {
-   "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
-   "source": "Minbåd.dk",
-   "date": "2026-08-26",
-   "title": "Öppet Varv: 180 både og flere besøgende end nogensinde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
-   "tjek": "2026-09-08"
-  },
-  {
    "key": "schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england",
    "source": "Minbåd.dk",
    "date": "2026-08-26",
@@ -774,6 +791,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
    "cat": "Kapsejlads",
    "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028.",
+   "tjek": "2026-09-08"
+  },
+  {
+   "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
+   "source": "Minbåd.dk",
+   "date": "2026-08-26",
+   "title": "Öppet Varv: 180 både og flere besøgende end nogensinde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
    "tjek": "2026-09-08"
   },
   {
@@ -887,16 +914,6 @@
    "tjek": "2026-09-01"
   },
   {
-   "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "12mR-VM i Marstrand: Danske Vim ét point fra guldet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet/",
-   "cat": "Kapsejlads",
-   "sum": "Ved 12mR-VM i Marstrand blev danske Vim nummer to, blot ét point fra guldet. Svenske Northern Light vandt mesterskabet.",
-   "tjek": "2026-09-08"
-  },
-  {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -924,6 +941,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
    "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show.",
+   "tjek": "2026-09-08"
+  },
+  {
+   "key": "12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "12mR-VM i Marstrand: Danske Vim ét point fra guldet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/12mr-vm-i-marstrand-danske-vim-et-point-fra-guldet/",
+   "cat": "Kapsejlads",
+   "sum": "Ved 12mR-VM i Marstrand blev danske Vim nummer to, blot ét point fra guldet. Svenske Northern Light vandt mesterskabet.",
    "tjek": "2026-09-08"
   },
   {
@@ -1023,7 +1050,8 @@
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
    "cat": "Udstyr & både",
-   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "baadmagasinet-34363",
@@ -1072,7 +1100,8 @@
    "title": "Thomas Veber sejlede 43 sømil i ni fods alu-rib: - Et eventyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
-   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
+   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -1081,7 +1110,8 @@
    "title": "Sådan får du et friskere indeklima i båden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
    "cat": "Udstyr & både",
-   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
@@ -1232,15 +1262,6 @@
    "tjek": "2026-08-27"
   },
   {
-   "key": "dansketursejlere-dt-traef-i-bogense",
-   "source": "Danske Tursejlere",
-   "date": "2026-08-19",
-   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
-   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
-   "cat": "Havneliv",
-   "sum": "Sejlertræ"
-  },
-  {
    "key": "baadmagasinet-34351",
    "source": "Bådmagasinet",
    "date": "2026-08-19",
@@ -1266,6 +1287,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "cat": "Andet",
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
+  },
+  {
+   "key": "dansketursejlere-dt-traef-i-bogense",
+   "source": "Danske Tursejlere",
+   "date": "2026-08-19",
+   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
+   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
+   "cat": "Havneliv",
+   "sum": "Sejlertræ"
   },
   {
    "key": "negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm",
@@ -2871,33 +2901,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
    "cat": "Sikkerhed",
    "sum": "En fynsk eventyrer må opgive sin tømmerflådetur til Bornholm efter ordre fra myndighederne; han sætter flåden til salg og vil i stedet sejle rundt om Fyn."
-  },
-  {
-   "key": "modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade",
-   "source": "Minbåd.dk",
-   "date": "2026-07-20",
-   "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
-   "cat": "Andet",
-   "sum": "En fynbo sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til ferieoplevelser for børn fra økonomisk pressede familier."
-  },
-  {
-   "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-20",
-   "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
-   "cat": "Sikkerhed",
-   "sum": "En 45 fods Princess-motorbåd fik motorproblemer i kuling tæt på T-ruten i Samsøbælt og blev slæbt til Ballen Havn af Dansk Søredningstjeneste."
-  },
-  {
-   "key": "baadmagasinet-34280",
-   "source": "Bådmagasinet",
-   "date": "2026-07-20",
-   "title": "En dansk sommerklassiker: Fyldte havne - og debatten koger!",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34280-en-dansk-sommerklassiker-fyldte-havne-og-fendere-klar-til-brug",
-   "cat": "Havneliv",
-   "sum": "Artiklen behandler den årlige debat om, hvorvidt man må sige nej til, at andre lægger sig udenpå i fyldte havne, med henvisning til regler og god havneetikette."
   }
  ]
 }
