@@ -1,20 +1,29 @@
 {
- "generated": "2026-09-08T01:34:13+00:00",
- "count": 431,
+ "generated": "2026-09-08T06:38:27+00:00",
+ "count": 434,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 131,
+ "arkiv_antal": 134,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
-   "key": "lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11",
+   "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
    "source": "Minbåd.dk",
-   "date": "2026-09-07",
-   "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
-   "cat": "Kapsejlads",
-   "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
+   "date": "2026-09-08",
+   "title": "Verdenseliten fløj over Nordsøen: Cold Hawaii viste tænder i Thy",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy/",
+   "cat": "Andet",
+   "sum": "Verdenseliten i kitesurfing dystede ved Cold Hawaii Big Air 2026 i Nørre Vorupør, hvor vind og bølger skabte ideelle forhold for spektakulære spring."
+  },
+  {
+   "key": "baadmagasinet-34408",
+   "source": "Bådmagasinet",
+   "date": "2026-09-08",
+   "title": "Nye flydebroer og bedre læ ved Mariager Fjord: Omfattende millionprojekt på vej i Hobro",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34408-nye-flydebroer-og-bedre-lae-ved-mariager-fjord-omfattende-millionprojekt-pa-vej-i-hobro",
+   "cat": "Havneliv",
+   "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
   },
   {
    "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
@@ -24,6 +33,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
    "cat": "Andet",
    "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
+  },
+  {
+   "key": "lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
+   "cat": "Kapsejlads",
+   "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
   },
   {
    "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
@@ -78,6 +96,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil/",
    "cat": "Sikkerhed",
    "sum": "En dansk X-46 gik på grund ud for Skillinge i Sverige. Tre danskere blev reddet, og båden blev efterfølgende transporteret hjem til Danmark på lastbil."
+  },
+  {
+   "key": "sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink",
+   "source": "Minbåd.dk",
+   "date": "2026-09-06",
+   "title": "Sponsorindhold:Hvad koster internet på sejlturen? Fra havnens wi-fi til Starlink",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen handler om, hvordan sejlere sikrer internet ombord, og hvad det koster. Den sammenligner havnens wi-fi med løsninger som Starlink."
   },
   {
    "key": "baadmagasinet-34407",
@@ -920,22 +947,24 @@
    "tjek": "2026-08-31"
   },
   {
-   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
-   "source": "Minbåd.dk",
-   "date": "2026-08-23",
-   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
-   "cat": "Kapsejlads",
-   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne."
-  },
-  {
    "key": "oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-08-23",
    "title": "Oyster 825 mistede bulben og kæntrede - 10 personer i vandet",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/oyster-825-mistede-bulben-og-kaentrede-10-personer-i-vandet/",
    "cat": "Sikkerhed",
-   "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet."
+   "sum": "Den 25 meter lange luksusyacht Viva La Vida kæntrede under Hamilton Island Race Week efter at have ramt et rev og mistet kølens bulb. Alle ti om bord blev reddet.",
+   "tjek": "2026-09-08"
+  },
+  {
+   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-08-23",
+   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "baadmagasinet-34368",
@@ -984,7 +1013,8 @@
    "title": "20-årigt kærestepar sejler mod Middelhavet i 50 år gammel Boström 31",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/august/article/20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31/",
    "cat": "Tursejlads",
-   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen."
+   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
@@ -1999,15 +2029,6 @@
    "sum": "En 37-årig mand er anholdt for hærværk mod skibe i Stubbekøbing og Juelsminde. Han fremstilles i grundlovsforhør."
   },
   {
-   "key": "baadmagasinet-34321",
-   "source": "Bådmagasinet",
-   "date": "2026-08-06",
-   "title": "Ny digital havneguide - NorDok vil samle 5.000 lystbådehavne i fire lande",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
-   "cat": "Andet",
-   "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
@@ -2015,6 +2036,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
+  },
+  {
+   "key": "baadmagasinet-34321",
+   "source": "Bådmagasinet",
+   "date": "2026-08-06",
+   "title": "Ny digital havneguide - NorDok vil samle 5.000 lystbådehavne i fire lande",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
+   "cat": "Andet",
+   "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
   },
   {
    "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
@@ -2868,36 +2898,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34280-en-dansk-sommerklassiker-fyldte-havne-og-fendere-klar-til-brug",
    "cat": "Havneliv",
    "sum": "Artiklen behandler den årlige debat om, hvorvidt man må sige nej til, at andre lægger sig udenpå i fyldte havne, med henvisning til regler og god havneetikette."
-  },
-  {
-   "key": "ulykkerne-sker-taet-paa-land-reddningsvesten-er-stadig-det-vigtigste-sikkerhedsudstyr-ombord",
-   "source": "Minbåd.dk",
-   "date": "2026-07-20",
-   "title": "Ulykkerne sker tæt på land: Redningsvesten er stadig det vigtigste sikkerhedsudstyr ombord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/ulykkerne-sker-taet-paa-land-reddningsvesten-er-stadig-det-vigtigste-sikkerhedsudstyr-ombord/",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen understreger vigtigheden af at bruge redningsvest, især til børn og hunde, da de fleste drukneulykker sker tæt på land og i roligt vejr.",
-   "tjek": "2026-08-03"
-  },
-  {
-   "key": "baadmagasinet-34283",
-   "source": "Bådmagasinet",
-   "date": "2026-07-20",
-   "title": "Hjemmebygget tømmerflåde mod Bornholm er vendt om...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34283-hjemmebygget-tommerflade-mod-bornholm-er-vendt-rundt",
-   "cat": "Tursejlads",
-   "sum": "Hans Peter Skov Hansen måtte afbryde sin planlagte sejltur til Bornholm på en hjemmebygget tømmerflåde, men ændrer i stedet ruten til en tur rundt om Fyn for at indsamle penge til trængte familier.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34281",
-   "source": "Bådmagasinet",
-   "date": "2026-07-20",
-   "title": "Trods advarsler: Fynbo på vej mod Bornholm på hjemmebygget tømmerflåde",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34281-trods-advarsler-fynbo-sejler-mod-bornholm-pa-hjemmebygget-tommerflade",
-   "cat": "Sikkerhed",
-   "sum": "En fynbo sejler mod Bornholm på en hjemmebygget tømmerflåde for at samle penge ind, trods sikkerhedsadvarsler.",
-   "tjek": "2026-08-02"
   }
  ]
 }
