@@ -1,13 +1,21 @@
 {
- "generated": "2026-09-08T19:03:21+00:00",
- "count": 416,
+ "generated": "2026-09-08T21:57:16+00:00",
+ "count": 436,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 116,
+ "arkiv_antal": 136,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Havneliv"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "sundby-besaetning-suveraene-danske-mestre-i-yngling",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Sundby-besætning suveræne danske mestre i Yngling",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/sundby-besaetning-suveraene-danske-mestre-i-yngling/",
+   "cat": "Kapsejlads",
+   "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk."
+  },
   {
    "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
    "source": "Minbåd.dk",
@@ -414,16 +422,6 @@
    "sum": "Finsk yachtbroker Blue Ocean etablerer sig i Danmark med Martin Lindbæk som bådmægler. Virksomheden har erfaring med salg af sejl- og motorbåde og vil styrke tilstedeværelsen på det danske marked."
   },
   {
-   "key": "askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom",
-   "source": "Minbåd.dk",
-   "date": "2026-09-01",
-   "title": "Askeladden Boats er konkurs efter 100 år: Kassen er tom",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom/",
-   "cat": "Udstyr & både",
-   "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien.",
-   "tjek": "2026-09-08"
-  },
-  {
    "key": "garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted",
    "source": "Minbåd.dk",
    "date": "2026-09-01",
@@ -431,6 +429,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/garmin-lancerer-gmi-40-med-skarp-farveskaerm-og-baaddata-samlet-et-sted/",
    "cat": "Udstyr & både",
    "sum": "Garmin lancerer det nye marineinstrument GMI 40 med 4,3-tommer farveskærm, der samler vind-, dybde- og fartdata. Det kan integreres med NMEA 2000 og BlueNet og koster fra 5.449 kroner.",
+   "tjek": "2026-09-08"
+  },
+  {
+   "key": "askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom",
+   "source": "Minbåd.dk",
+   "date": "2026-09-01",
+   "title": "Askeladden Boats er konkurs efter 100 år: Kassen er tom",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom/",
+   "cat": "Udstyr & både",
+   "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien.",
    "tjek": "2026-09-08"
   },
   {
@@ -934,16 +942,6 @@
    "tjek": "2026-09-08"
   },
   {
-   "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "Samme X-99 måtte reddes to gange på fire dage",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
-   "cat": "Sikkerhed",
-   "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen.",
-   "tjek": "2026-09-08"
-  },
-  {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
    "source": "Motorbådsnyt",
    "date": "2026-08-24",
@@ -951,6 +949,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
    "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show.",
+   "tjek": "2026-09-08"
+  },
+  {
+   "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Samme X-99 måtte reddes to gange på fire dage",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/samme-x-99-maatte-reddes-to-gange-paa-fire-dage/",
+   "cat": "Sikkerhed",
+   "sum": "En X-99 fra Hochschule Konstanz måtte reddes to gange på fire dage på Bodensøen – først pga. motorproblemer og siden i hårdt vejr. Hændelserne vækker opsigt, og det undersøges, om de hænger sammen.",
    "tjek": "2026-09-08"
   },
   {
@@ -1130,7 +1138,8 @@
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
+   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier.",
+   "tjek": "2026-09-08"
   },
   {
    "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
@@ -2891,16 +2900,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34274-digitale-havneguides-udvikler-sig-nu-opgraderer-flid-sin-losning",
    "cat": "Andet",
    "sum": "FLID har opgraderet Havneguide.dk med en ny GPS-baseret kortfunktion, der viser nærmeste lystbådehavne. Portalen er fortsat gratis og opdateres af havnene selv.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34278",
-   "source": "Bådmagasinet",
-   "date": "2026-07-21",
-   "title": "E1: Drama og stjernestøv i Monaco",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34278-drama-og-stjernestov-i-monaco-se-dramatisk-finale-og-optakten-pa-video-her",
-   "cat": "Kapsejlads",
-   "sum": "I Monaco vandt Team Drogba sin første E1-sejr, mens Team Brady overtog VM-føringen. Drama og styrt prægede løbet.",
    "tjek": "2026-08-02"
   }
  ]
