@@ -1,13 +1,25 @@
 {
- "generated": "2026-09-09T00:21:31+00:00",
- "count": 135,
+ "generated": "2026-09-09T04:56:37+00:00",
+ "count": 136,
  "items": [
+  {
+   "key": "baadmagasinet-34274",
+   "source": "Bådmagasinet",
+   "date": "2026-07-21",
+   "title": "Digitale havneguides udvikler sig – nu opgraderer FLID sin løsning",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34274-digitale-havneguides-udvikler-sig-nu-opgraderer-flid-sin-losning",
+   "cat": "Andet",
+   "sum": "FLID har opgraderet Havneguide.dk med en ny GPS-baseret kortfunktion, der viser nærmeste lystbådehavne. Portalen er fortsat gratis og opdateres af havnene selv.",
+   "tjek": "2026-08-02"
+  },
   {
    "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-07-20",
    "title": "Myndigheder stopper fynbos tømmerflådetur til Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm/",
+   "cat": "Sikkerhed",
+   "sum": "Myndigheder stopper en eventyrers planlagte tømmerflådetur fra Fyn til Bornholm. Han vender om og sætter flåden til salg efter påbud."
   },
   {
    "key": "modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade",
@@ -15,8 +27,8 @@
    "date": "2026-07-20",
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
-   "cat": "Andet",
-   "sum": "Hans Peter Skov Hansen sejler på en selvbygget tømmerflåde fra Vordingborg mod Bornholm for at samle penge ind til børn fra økonomisk pressede familier."
+   "cat": "Tursejlads",
+   "sum": "Fynboen Hans Peter Skov Hansen vil sejle på hjemmebygget tømmerflåde fra Vordingborg til Bornholm for at samle penge ind til børn fra økonomisk pressede familier."
   },
   {
    "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
@@ -25,7 +37,7 @@
    "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
    "cat": "Sikkerhed",
-   "sum": "En 45 fods Princess med motorproblemer blev slæbt til Ballen Havn efter redningsindsats i kuling i Samsø Bælt."
+   "sum": "En 45 fods Princess-motorbåd med motorproblemer blev slæbt til Ballen Havn efter en redningsaktion i Samsø Bælt i kuling. Besætningen kastede anker og tilkaldte redningstjenesten."
   },
   {
    "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
@@ -34,7 +46,7 @@
    "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
    "cat": "Havneliv",
-   "sum": "Artiklen forklarer, at i fyldte havne skal den inderste båd acceptere udenpåliggende både, ifølge standardordensreglementet."
+   "sum": "Artiklen beskriver reglen om, at både skal acceptere udenpåliggende fartøjer, når havnen er fuld."
   },
   {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
@@ -43,7 +55,7 @@
    "title": "Sygeplejerske i husbåd slipper med 3.100 kroner i husleje",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje/",
    "cat": "Havneliv",
-   "sum": "Sygeplejerske Anna bor i husbåd for 3.100 kr. om måneden og fortæller om glæder og udfordringer ved bolig på vandet."
+   "sum": "Sygeplejerske Anna bor i husbåd med lave udgifter og solceller, men oplever også udfordringer med storm, kulde og fugt."
   },
   {
    "key": "farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind",
@@ -52,7 +64,7 @@
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
    "cat": "Sikkerhed",
-   "sum": "SUP er populært, men mange glemmer sikkerheden. Søsportens Sikkerhedsråd advarer om fralandsvind og opfordrer til grundig forberedelse, da et SUP-board kan drive hurtigt til havs."
+   "sum": "SUP-boom skaber bekymring: Fralandsvind kan drive boards til havs, og man bør altid tjekke vejr og udstyr, lyder det fra kystlivredningen."
   },
   {
    "key": "sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen",
@@ -61,7 +73,7 @@
    "title": "Sommerhavne: På Nyord må byens gæster droppe bilen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/july/article/sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen/",
    "cat": "Tursejlads",
-   "sum": "Sejleren Thomas Hyllested Pedersen anbefaler Nyord Havn ved Møn som favorit på sommerturen. Havnen er lille med få faciliteter, men byder på en fredet og naturskøn ø, hvor biler ikke er tilladt for gæster."
+   "sum": "Sejleren Thomas Hyllested Pedersen anbefaler Nyord Havn ved Møn som sin favorit på sommerturen. Havnen og øen er små og særlige, med forbud mod biler for byens gæster."
   },
   {
    "key": "dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app",
@@ -69,8 +81,8 @@
    "date": "2026-07-18",
    "title": "På My Maritime app er dit speedbådbevis og andre digitale beviser",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/",
-   "cat": "Sikkerhed",
-   "sum": "Artikel beskriver, hvordan man kan finde sit speedbådbevis i appen My Maritime og vise det til politiet ved en kontrol. Bøden for at sejle uden speedbådbevis er 5.000 kroner."
+   "cat": "Andet",
+   "sum": "Politiet oplyser, at man kan vise sit speedbådbevis via My Maritime app og dermed undgå bøde på 5.000 kroner ved manglende bevis."
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -79,7 +91,7 @@
    "title": "Find nærmeste havn på få sekunder på havneguide.dk",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk/",
    "cat": "Tursejlads",
-   "sum": "Ny kortfunktion på Havneguide.dk giver sejlere hurtigt overblik over danske lystbådehavne og faciliteter. Værktøjet er gratis og letter planlægningen af sejlerferien."
+   "sum": "FLID-havne har lanceret en ny kortfunktion på Havneguide.dk, der giver sejlere hurtigt overblik over danske lystbådehavne og faciliteter. Funktionen er gratis og skal hjælpe med planlægning af sommerture."
   },
   {
    "key": "politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok",
@@ -88,7 +100,7 @@
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
    "cat": "Sikkerhed",
-   "sum": "Syd- og Sønderjyllands Politi opfordrer med humor fritidssejlere til at huske sikkerhedsudstyr, beviser og ansvarsforsikring - ikke kun sejlerlooket."
+   "sum": "Syd- og Sønderjyllands Politi opfordrer med humor sejlere til at huske redningsveste, promillegrænser og speedbådsbevis. Et godt look erstatter ikke kendskab til reglerne."
   },
   {
    "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
@@ -97,14 +109,16 @@
    "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
    "cat": "Udstyr & både",
-   "sum": "Motorbaadsnyt.dk og fem internationale medier testede Sirena 60 til 23 mio. kr. på Aarhus Bugt. Luksusyachten imponerede med høj byggekvalitet og gode sejlegenskaber."
+   "sum": "Motorbaadsnyt.dk testede Sirena 60, en tyrkiskbygget luksusyacht til 23 mio. kr., på Aarhus Bugt. Båden imponerede med høj byggekvalitet og store opholdsarealer."
   },
   {
    "key": "et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook",
    "source": "Minbåd.dk",
    "date": "2026-07-16",
    "title": "Et billede af en kvinde ved roret satte ild til Facebook",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/july/article/et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook/",
+   "cat": "Andet",
+   "sum": "En kommentar til et billede af en kvinde ved roret i Kolby Kås udløste debat. Redaktøren mener, at kvinder sjældent får lov til at styre båden ved havnemanøvrer, hvilket handler om tillid og sikkerhed."
   },
   {
    "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
@@ -113,14 +127,16 @@
    "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
    "cat": "Havnepriser",
-   "sum": "Vejle Lystbådehavn tillader sejlere i gummibåde at lægge til og bruge toiletter gratis, hvis de kun er kortvarigt besøgende. Først ved længere ophold eller brug af faciliteter skal der betales havneafgift."
+   "sum": "I Vejle kan sejlere i gummibåde gratis lægge til og bruge toiletter, men skal betale for længere ophold eller faciliteter."
   },
   {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
    "title": "Sejlere dropper Norge efter kontrol fra Kystvakten",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/sejlere-dropper-norge-efter-kontrol-fra-kystvakten/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/sejlere-dropper-norge-efter-kontrol-fra-kystvakten/",
+   "cat": "Tursejlads",
+   "sum": "Udenlandske sejlere undgår Norge på grund af kontrol og bureaukrati fra Kystvakten, som langturssejler Jan Isaksen kritiserer."
   },
   {
    "key": "26-aarige-veronica-nyder-at-bo-alene-i-sin-42-fods-sejlbaad-i-nordnorge-hus-frister-ikke",
@@ -129,7 +145,7 @@
    "title": "26-årige Veronica nyder at bo alene i sin 42 fods sejlbåd i Nordnorge - hus frister ikke",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/july/article/26-aarige-veronica-nyder-at-bo-alene-i-sin-42-fods-sejlbaad-i-nordnorge-hus-frister-ikke/",
    "cat": "Havneliv",
-   "sum": "26-årige Veronica bor alene på sin 42 fods sejlbåd i Nordnorge og nyder friheden. Hun valgte båden frem for et hus."
+   "sum": "26-årige Veronica bor alene i sin 42 fods sejlbåd i Nordnorge og nyder friheden. Hun valgte båden frem for hus og lever tæt på naturen langs Finnmarkskysten."
   },
   {
    "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
@@ -138,7 +154,7 @@
    "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
    "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere har samlet en gratis grejtrailer med udstyr som SUP-boards og redningsveste, som havne og klubber kan låne til børnearrangementer for at skabe liv og oplevelser på havnen."
+   "sum": "Danske Tursejlere udlåner gratis en trailer med maritimt aktivitetsudstyr til børn og familier, så havne og klubber kan skabe liv og oplevelser på vandet."
   },
   {
    "key": "grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund",
@@ -147,7 +163,7 @@
    "title": "Grundstødt sejler betalte redningsfolk med kiks men manden sejlede tilbage til grunden",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund/",
    "cat": "Sikkerhed",
-   "sum": "En grundstødt sejlbåd ved Lynæs blev bjærget af Dansk Søredningsselskab. Efter at have takket med kiks sejlede ejeren igen mod det lave vand."
+   "sum": "En sejlbåd grundstødte ved Lynæs, og efter bjærgning takkede ejeren med cookies, men sejlede igen mod lavt vand."
   },
   {
    "key": "moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad",
@@ -156,7 +172,7 @@
    "title": "Mød Sirena 48 på Samsø og Sirena 60 i Båstad",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/july/article/moed-sirena-48-paa-samsoe-og-sirena-60-i-baastad/",
    "cat": "Udstyr & både",
-   "sum": "Yachtbasen og 56 North viser Sirena 48 på Samsø og Sirena 60 i Båstad i uge 29. Åbent skib for interesserede i Ballen og Båstad Havn."
+   "sum": "Yachtbasen og 56 North viser i uge 29 Sirena 48 frem i Ballen Havn på Samsø og Sirena 60 i Båstad Havn i Sverige. Arrangementet giver bådinteresserede mulighed for at se de to motorbåde."
   },
   {
    "key": "planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort",
@@ -165,7 +181,7 @@
    "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
    "cat": "Tursejlads",
-   "sum": "Det gratis havnekort fra FLID og Geodatastyrelsen giver sejlere overblik over havne, afstande og sejladsområder til planlægning af sommerens ture. Kortet kan hentes på de fleste havnekontorer."
+   "sum": "FLID udgiver nyt gratis havnekort til lystsejlere med overblik over havne, afstande og sejladsområder. Kortet fås på havnekontorer og hjælper med planlægning af sommerens sejlture."
   },
   {
    "key": "kolby-kaas-siger-farvel-til-faergerne-og-goddag-til-lystsejlerne",
@@ -173,8 +189,8 @@
    "date": "2026-07-11",
    "title": "Kolby Kås siger farvel til færgerne og goddag til lystsejlerne",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/july/article/kolby-kaas-siger-farvel-til-faergerne-og-goddag-til-lystsejlerne/",
-   "cat": "Andet",
-   "sum": "Kolby Kås havn på Samsø ombygges fra færgehavn til lystsejlerhavn. To nye bølgeværn skal give ro og tryghed, klar til sommersæsonen 2026."
+   "cat": "Sikkerhed",
+   "sum": "Kolby Kås Havn ombygges fra færgehavn til lystsejlerhavn. To nye bølgeværn skal skærme mod dønninger og vestenvind, så havnen bliver klar til sommersæsonen 2026."
   },
   {
    "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
@@ -183,7 +199,7 @@
    "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
    "cat": "Havneliv",
-   "sum": "Sejlere opfordres til at hjælpe hinanden med fortøjning i fyldte havne og undgå at kontakte havnefogeden. Ved fælles hjælp finder man typisk en plads."
+   "sum": "Artiklen giver råd om god opførsel i havnen, hvor sejlere hjælper hinanden med fortøjning og finder plads uden at kontakte havnefogeden. Fokus er på fællesskab og ro."
   },
   {
    "key": "natsejlads-saa-enkelt-er-det-ikke-faa-tips",
@@ -192,7 +208,7 @@
    "title": "Natsejlads, så enkelt er det ikke - få tips",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/july/article/natsejlads-saa-enkelt-er-det-ikke-faa-tips/",
    "cat": "Sikkerhed",
-   "sum": "Artiklen giver råd om, hvordan man planlægger sikker natsejlads med fokus på navigation, sikkerhedsudstyr og ruteplanlægning."
+   "sum": "Artiklen giver råd om sikker natsejlads, herunder planlægning, navigation og brug af redningsveste og livline."
   },
   {
    "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
@@ -201,7 +217,7 @@
    "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/",
    "cat": "Udstyr & både",
-   "sum": "Garmin lancerer LiveScope 2-serien, en ny generation af live-scannende sonar med højere opløsning, bredere dækning og direkte tilslutning til kortplotter."
+   "sum": "Garmin lancerer LiveScope 2-serien med tre nye transducere, der giver højere opløsning, bredere dækning og direkte tilslutning til kortplotter uden sort boks."
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
@@ -210,16 +226,14 @@
    "title": "Sommerhavne: Ankomsten til Mariager er unik med sæler, ankerpladser og stejle skrænter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/july/article/sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter/",
    "cat": "Tursejlads",
-   "sum": "Artikel om sejleren Steen Trabjergs favorit-sommerhavn Mariager, der ligger i Danmarks længste fjord, og som byder på unik natur og en hyggelig gammel købstad med faciliteter tæt på havnen."
+   "sum": "Steen Trabjerg fortæller om Mariager havn som sin favorit, med fokus på den unikke sejltur gennem fjorden og byens charme."
   },
   {
    "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
    "source": "Danske Tursejlere",
    "date": "2026-07-07",
    "title": "90 unge indtager havnene i uge 29",
-   "url": "https://dansketursejlere.dk/90-unge-indtager-havnene-i-uge-29/",
-   "cat": "Tursejlads",
-   "sum": "90 unge sejlere på Ungdomscruise i uge 29 sejler fra Vejle mod Odense med hygge og aktiviteter i de besøgte havne."
+   "url": "https://dansketursejlere.dk/90-unge-indtager-havnene-i-uge-29/"
   },
   {
    "key": "ferietid-husk-at-vende-gasteskiltet-fra-rod-til-gron-paa-din-havneplads0",
@@ -228,23 +242,23 @@
    "title": "Ferietid: Husk at vende gæsteskiltet fra rød til grøn på din havneplads",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/july/article/ferietid-husk-at-vende-gasteskiltet-fra-rod-til-gron-paa-din-havneplads0/",
    "cat": "Havneliv",
-   "sum": "FLID opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, så gæstepladser frigøres til glæde for gæstesejlere og havnens økonomi."
+   "sum": "FLID opfordrer bådejere til at vende gæsteskiltet fra rød til grøn, når de forlader havnen, så pladser frigøres til gæstesejlere. Det sikrer god service og økonomi for havnen."
   },
   {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
    "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/"
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "cat": "Havneliv",
+   "sum": "Ungdomscruise samler i uge 29 90 unge i 22 både til en tur fra Vejle via Juelsminde og Korshavn til Odense med sociale aktiviteter som molebajer, gastebyt og temafest."
   },
   {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "cat": "Havneliv",
-   "sum": "Renoveringen af Bro 1 i Struer Havn er færdig, og en ny flydebro på 80 meter er etableret i Østre Havn, hvilket skaber flere pladser og en servicebro for gæstesejlere."
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn"
   },
   {
    "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
@@ -253,7 +267,7 @@
    "title": "Vejrø: Når visioner og stædighed skaber et levende ø-samfund",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/",
    "cat": "Havneliv",
-   "sum": "Artikel om Vejrøs udvikling til et bæredygtigt ø-samfund, der tiltrækker sejlere med sin unikke havn og visionære ledelse."
+   "sum": "Finansmanden Kim Fournais har forvandlet Vejrø til et bæredygtigt ø-samfund med ny havn. Sejlere som Peter Dan Petersen roser den langsigtede udvikling."
   },
   {
    "key": "askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne",
@@ -262,7 +276,7 @@
    "title": "Askebæger til søs: Når funktion og sikkerhed også gælder rygerne",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/july/article/askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne/",
    "cat": "Udstyr & både",
-   "sum": "Marine Business lancerer et askebæger til nautisk brug med vindbeskyttelse, skridsikker bund og rustfrit stål. Designet øger sikkerheden ombord for rygere."
+   "sum": "Askebæger til både med vindbeskyttelse og skridsikker bund. Designet til sikker rygning ombord, i rustfrit stål."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
@@ -271,7 +285,7 @@
    "title": "EM venter: Sejlerlandsholdet jagter topplaceringer i Eckernförde",
    "url": "https://dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
    "cat": "Kapsejlads",
-   "sum": "Sejlerlandsholdet jagter topplaceringer ved EM i Eckernförde i 49er, 49erFX og Nacra 17. Med 194 både og 388 sejlere er mesterskabet blandt de største i klassernes historie."
+   "sum": "De danske 49er- og 49erFX-sejlere deltager i EM i Eckernförde efter en skuffende Kieler Woche. Med 194 både fra 35 nationer jagter de topplaceringer."
   },
   {
    "key": "caross-jumpstarter-kan-blive-redningen-naar-baadmotoren-ikke-vil-start",
@@ -280,7 +294,7 @@
    "title": "CAROSS-jumpstarter kan blive redningen, når bådmotoren ikke vil start",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/june/article/caross-jumpstarter-kan-blive-redningen-naar-baadmotoren-ikke-vil-start/",
    "cat": "Udstyr & både",
-   "sum": "En artikel om CAROSS-jumpstartere, der kan genstarte bådmotorer med afladet batteri via Smart Connect-teknologi, så sejlturen kan fortsætte."
+   "sum": "En kompakt, mobil jumpstarter fra CAROSS kan hjælpe bådejere, når motoren ikke vil starte. Produktet guider brugeren til sikker tilslutning via Smart Connect-teknologi."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
@@ -289,7 +303,7 @@
    "title": "Indsamlingskampagner via Dansk Sejlunion ophører",
    "url": "https://dansksejlunion.dk/nyheder/2026/indsamlingskampagner-via-dansk-sejlunion-ophoerer",
    "cat": "Andet",
-   "sum": "Dansk Sejlunion stopper indsamlingskampagner via BetterNow fra 1. juli 2026 pga. for lav opbakning. Eksisterende kampagner lukkes 30. juni 2026, donationer indberettes stadig."
+   "sum": "Dansk Sejlunion stopper med at tilbyde indsamlingskampagner via BetterNow fra 1. juli 2026. Eksisterende kampagner lukkes 30. juni 2026, men donationer indbetalt senest da indberettes fortsat."
   },
   {
    "key": "hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten",
@@ -298,7 +312,7 @@
    "title": "Hankø70-jakke fra Elvstrøm Sailwear til skiftende vejr ved kysten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/june/article/hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten/",
    "cat": "Udstyr & både",
-   "sum": "Elvstrøm SailWear lancerer Hankø70-jakken, en let og vandtæt jakke til sejlere, der kombinerer tekniske egenskaber med moderne design."
+   "sum": "Elvstrøm SailWear præsenterer den nye Hankø70-jakke til sejlere, designet til at kombinere teknisk beskyttelse mod vind og vand med et moderne bydesign. Jakken har en vandtæthed på 10.000 mm."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-medaljefest-i-kiel-udviklingsgruppen-leverede-varen",
@@ -307,7 +321,7 @@
    "title": "Dansk medaljefest i Kiel: Udviklingsgruppen leverede varen",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-medaljefest-i-kiel-udviklingsgruppen-leverede-varen",
    "cat": "Kapsejlads",
-   "sum": "Danske sejlere fik tre medaljer ved Kieler Woche. Helena Wolff vandt ILCA 6, Anna Munch fik sølv, og John Wolff bronze i ILCA 7 – alle fra udviklingsgruppen."
+   "sum": "Danske sejlere vandt tre medaljer ved Kieler Woche. Helena Wolff vandt ILCA 6, Anna Munch fik sølv, og John Wolff tog bronze i ILCA 7."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-ungdoms-dm-2026-er-aaben",
@@ -316,7 +330,7 @@
    "title": "Tilmeldingen til Ungdoms-DM 2026 er åben",
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-ungdoms-dm-2026-er-aaben",
    "cat": "Kapsejlads",
-   "sum": "Tilmeldingen til Ungdoms-DM 2026 er åben. Stævnet afholdes i Rungsted den 12.-13. september med unge sejlere fra hele landet."
+   "sum": "Tilmeldingen til Ungdoms-DM 2026 er åben. Den 12.-13. september samles unge sejlere i Rungsted til nationale mesterskaber."
   },
   {
    "key": "forsvaret-foelger-trafikken-milliardaers-superyacht-sejler-gennem-danmark",
@@ -325,7 +339,7 @@
    "title": "Forsvaret følger milliardærs superyacht gennem Danmark",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/june/article/forsvaret-foelger-trafikken-milliardaers-superyacht-sejler-gennem-danmark/",
    "cat": "Sikkerhed",
-   "sum": "Den 109 meter lange superyacht O3, ejet af en russiskfødt milliardær, bliver fulgt af Forsvaret gennem Danmark. Eksperter advarer om risiko for spionage og sabotage."
+   "sum": "Den 109 meter lange superyacht O3 med den sanktionerede milliardær Leonard Blavatnik som ejer sejler gennem Danmark. Forsvaret følger skibet på grund af risiko for spionage og sabotage."
   },
   {
    "key": "motorbaad-sejlede-foran-traefaerge-i-stubbekoebing-tre-personer-i-vandet",
@@ -334,7 +348,7 @@
    "title": "Motorbåd sejlede foran træfærge i Stubbekøbing – tre personer i vandet",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/june/article/motorbaad-sejlede-foran-traefaerge-i-stubbekoebing-tre-personer-i-vandet/",
    "cat": "Sikkerhed",
-   "sum": "Motorbåd sejlede foran træfærge Ida ved Stubbekøbing og kolliderede. Tre personer faldt i vandet, men ingen kom til skade; færgen er taget ud af drift."
+   "sum": "Motorbåd kolliderede med færgen Ida i Stubbekøbing Havn. Tre faldt i vandet, men ingen kom til skade. Færgen er taget ud af drift til undersøgelse."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/danske-sejlere-staar-foran-vigtig-test-i-kiel",
@@ -343,16 +357,14 @@
    "title": "Danske sejlere står foran vigtig test i Kiel",
    "url": "https://dansksejlunion.dk/nyheder/2026/danske-sejlere-staar-foran-vigtig-test-i-kiel",
    "cat": "Kapsejlads",
-   "sum": "Danske sejlere fra udviklingsgruppen deltager i Kieler Woche med fokus på udvikling og præstation frem for medaljer."
+   "sum": "Danske sejlere fra udviklingsgruppen deltager i Kieler Woche for at vise træningsfremgang, ikke nødvendigvis medaljer."
   },
   {
    "key": "marinaguide-juelsminde-havn-og-marina-indvier-havnetorvet",
    "source": "MarinaGuide",
    "date": "2026-06-17",
    "title": "Juelsminde Havn og Marina indvier Havnetorvet",
-   "url": "https://marinaguide.dk/nyhed/juelsminde-havn-og-marina-indvier-havnetorvet",
-   "cat": "Havneliv",
-   "sum": "Juelsminde Havn indvier nyt Havnetorv med legeplads og opholdsarealer. Samtidig er nyt slæbested og dækmole færdige, og ombygningen afsluttes."
+   "url": "https://marinaguide.dk/nyhed/juelsminde-havn-og-marina-indvier-havnetorvet"
   },
   {
    "key": "tyve-stjal-sukker-og-haeldte-det-i-baads-benzintank-i-groenland",
