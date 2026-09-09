@@ -1,12 +1,31 @@
 {
- "generated": "2026-09-09T04:56:37+00:00",
- "count": 436,
+ "generated": "2026-09-09T09:52:40+00:00",
+ "count": 428,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 136,
+ "arkiv_antal": 128,
  "errors": [
+  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)",
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Tysk par i problemer i Rønne – båd tog vand ind",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
+   "cat": "Sikkerhed",
+   "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads."
+  },
+  {
+   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-09",
+   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
+   "cat": "Udstyr & både",
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+  },
   {
    "key": "baadmagasinet-34412",
    "source": "Bådmagasinet",
@@ -26,6 +45,15 @@
    "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk."
   },
   {
+   "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Verdenseliten fløj over Nordsøen: Cold Hawaii viste tænder i Thy",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy/",
+   "cat": "Andet",
+   "sum": "Verdenseliten i kitesurfing dystede ved Cold Hawaii Big Air 2026 i Nørre Vorupør, hvor vind og bølger skabte ideelle forhold for spektakulære spring."
+  },
+  {
    "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
    "source": "Minbåd.dk",
    "date": "2026-09-08",
@@ -42,15 +70,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
    "cat": "Kapsejlads",
    "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser."
-  },
-  {
-   "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
-   "source": "Minbåd.dk",
-   "date": "2026-09-08",
-   "title": "Verdenseliten fløj over Nordsøen: Cold Hawaii viste tænder i Thy",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy/",
-   "cat": "Andet",
-   "sum": "Verdenseliten i kitesurfing dystede ved Cold Hawaii Big Air 2026 i Nørre Vorupør, hvor vind og bølger skabte ideelle forhold for spektakulære spring."
   },
   {
    "key": "baadmagasinet-34408",
@@ -80,15 +99,6 @@
    "sum": "Vegvisir Race fra Nyborg blev hårdt ramt af blæst: 30 både fuldførte Red Course, kun 10 Green Course, og singlehanded-formatet måtte udsættes."
   },
   {
-   "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-07",
-   "title": "LEGOLAND sælger Kongeskibet Dannebrog – næsten to meter langt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
-   "cat": "Andet",
-   "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
-  },
-  {
    "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
    "source": "Minbåd.dk",
    "date": "2026-09-07",
@@ -105,6 +115,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
    "cat": "Kapsejlads",
    "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet."
+  },
+  {
+   "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "LEGOLAND sælger Kongeskibet Dannebrog – næsten to meter langt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
+   "cat": "Andet",
+   "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
   },
   {
    "key": "baadmagasinet-34406",
@@ -332,15 +351,6 @@
    "sum": "Sejlsportsligaen afviklede to weekender i Lemvig med hård vind og skiftende forhold. Horsens Sejlklub vandt 2. division, mens Bandholm Sejlklub vandt 1. division."
   },
   {
-   "key": "garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Garmin lancerer ny SmartDrive-autopilot til sejlbåde op til 45 fod",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
-   "cat": "Udstyr & både",
-   "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke."
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Minbåd.dk",
    "date": "2026-09-03",
@@ -348,6 +358,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
+  },
+  {
+   "key": "garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Garmin lancerer ny SmartDrive-autopilot til sejlbåde op til 45 fod",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke."
   },
   {
    "key": "baadmagasinet-34401",
@@ -887,16 +906,6 @@
    "tjek": "2026-09-02"
   },
   {
-   "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
-   "source": "Minbåd.dk",
-   "date": "2026-08-25",
-   "title": "Otto Strandvig tog 7. DM-guld i Finnjolle efter bølgefest i Varberg",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg/",
-   "cat": "Kapsejlads",
-   "sum": "Otto Strandvig vandt DM i Finnjolle i Varberg for syvende gang efter tæt konkurrence og varierede vindforhold. Stævnet indgik i World Tour for Finns.",
-   "tjek": "2026-09-09"
-  },
-  {
    "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
    "source": "Minbåd.dk",
    "date": "2026-08-25",
@@ -924,6 +933,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-09"
+  },
+  {
+   "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Otto Strandvig tog 7. DM-guld i Finnjolle efter bølgefest i Varberg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg/",
+   "cat": "Kapsejlads",
+   "sum": "Otto Strandvig vandt DM i Finnjolle i Varberg for syvende gang efter tæt konkurrence og varierede vindforhold. Stævnet indgik i World Tour for Finns.",
    "tjek": "2026-09-09"
   },
   {
@@ -1133,7 +1152,8 @@
    "title": "Thomas Veber sejlede 43 sømil i ni fods alu-rib: - Et eventyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
-   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
+   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen.",
+   "tjek": "2026-09-09"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -2885,24 +2905,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd har ligget på stranden ved Sliphavn i Nyborg siden maj. Politiet leder efter ejeren, mens vind og bølger spreder inventar langs kysten."
-  },
-  {
-   "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-21",
-   "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
-   "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "cat": "Havneliv",
-   "sum": "Vedbæk Havn har fået nye hyggelige toilet- og badefaciliteter med skandinavisk design, hvilket har skabt begejstring blandt gæster og faste brugere."
-  },
-  {
-   "key": "erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig",
-   "source": "Minbåd.dk",
-   "date": "2026-07-21",
-   "title": "Erik Aanderaa nåede nord for Svalbard: Iskanten kom pludselig",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig/",
-   "cat": "Tursejlads",
-   "sum": "Den norske solosejler Erik Aanderaa nåede iskanten nord for Svalbard efter 1.800 sømil. Mødet blev dramatisk med pludselig snestorm og is, der kom hurtigt nærmere."
   }
  ]
 }
