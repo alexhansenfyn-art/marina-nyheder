@@ -1,9 +1,11 @@
 {
- "generated": "2026-09-09T18:06:00+00:00",
- "count": 437,
+ "generated": "2026-09-09T21:01:57+00:00",
+ "count": 436,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
- "errors": [],
+ "arkiv_antal": 136,
+ "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: "
+ ],
  "items": [
   {
    "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
