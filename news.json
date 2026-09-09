@@ -1,20 +1,18 @@
 {
- "generated": "2026-09-09T14:42:56+00:00",
+ "generated": "2026-09-09T18:06:00+00:00",
  "count": 437,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 137,
- "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
- ],
+ "errors": [],
  "items": [
   {
-   "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
+   "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
-   "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
-   "cat": "Kapsejlads",
-   "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads."
+   "title": "Sejlere sendt væk – kort efter sprang håndgranat i Julsø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe/",
+   "cat": "Sikkerhed",
+   "sum": "Sejlere blev afvist fra området, da en håndgranat blev fundet og sprængt i Julsø. En tursejler og hans kone blev bedt om at holde afstand."
   },
   {
    "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
@@ -24,6 +22,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+  },
+  {
+   "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
+   "cat": "Kapsejlads",
+   "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads."
   },
   {
    "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
@@ -350,15 +357,6 @@
    "sum": "Copenhagen Boat Show i Ishøj sluttede med 11.912 besøg trods regn. Flere udstillere meldte om konkrete handler, bl.a. en Regal-båd og syv både fra Tempo Bådsalg."
   },
   {
-   "key": "stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Stannow, Andersen og Nørgaard vandt The Viking Challenge i Middelfart",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart/",
-   "cat": "Kapsejlads",
-   "sum": "Tue Andersen, Erik Stannow og Niels Nørgaard Pedersen vandt deres grupper ved The Viking Challenge i Middelfart under Blue Week. Dermed er de klar til DH-DM."
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Minbåd.dk",
    "date": "2026-09-03",
@@ -366,6 +364,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
+  },
+  {
+   "key": "stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Stannow, Andersen og Nørgaard vandt The Viking Challenge i Middelfart",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart/",
+   "cat": "Kapsejlads",
+   "sum": "Tue Andersen, Erik Stannow og Niels Nørgaard Pedersen vandt deres grupper ved The Viking Challenge i Middelfart under Blue Week. Dermed er de klar til DH-DM."
   },
   {
    "key": "ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek",
@@ -843,16 +850,6 @@
    "tjek": "2026-09-03"
   },
   {
-   "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
-   "source": "Minbåd.dk",
-   "date": "2026-08-26",
-   "title": "Nu venter finalen i The Viking Challenge for store både - EM-gulvinder er klar i Middefart",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart/",
-   "cat": "Kapsejlads",
-   "sum": "Erik Stannow og DIXI 5 vandt ORC-EM og er klar til finalen i The Viking Challenge ved Blue Week i Middelfart. Lokale aktiviteter udvider begivenheden.",
-   "tjek": "2026-09-09"
-  },
-  {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
    "source": "Minbåd.dk",
    "date": "2026-08-26",
@@ -870,6 +867,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
    "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-09"
+  },
+  {
+   "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
+   "source": "Minbåd.dk",
+   "date": "2026-08-26",
+   "title": "Nu venter finalen i The Viking Challenge for store både - EM-gulvinder er klar i Middefart",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart/",
+   "cat": "Kapsejlads",
+   "sum": "Erik Stannow og DIXI 5 vandt ORC-EM og er klar til finalen i The Viking Challenge ved Blue Week i Middelfart. Lokale aktiviteter udvider begivenheden.",
    "tjek": "2026-09-09"
   },
   {
@@ -1189,7 +1196,8 @@
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
+   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier.",
+   "tjek": "2026-09-09"
   },
   {
    "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
@@ -2894,16 +2902,6 @@
    "cat": "Kapsejlads",
    "sum": "21 både deltager i Garmin Round Denmark Race 2026, der starter den 24. juli fra Aarhus og strækker sig over 680 sømil omkring Danmark.",
    "tjek": "2026-08-10"
-  },
-  {
-   "key": "8-aarig-pige-drev-til-havs-paa-paddleboard",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "8-årig pige drev til havs på paddleboard",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/8-aarig-pige-drev-til-havs-paa-paddleboard/",
-   "cat": "Sikkerhed",
-   "sum": "En otteårig pige drev til havs på paddleboard i fralandsvind ved Aabenraa Havn uden redningsvest, men blev reddet uskadt af beredskabet.",
-   "tjek": "2026-08-07"
   }
  ]
 }
