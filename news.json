@@ -1,12 +1,21 @@
 {
- "generated": "2026-09-10T15:16:16+00:00",
- "count": 438,
+ "generated": "2026-09-10T18:34:25+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 137,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Vedbæk Cup samler igen 500 sejlere til efterårsklassiker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
+   "cat": "Kapsejlads",
+   "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år."
+  },
   {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
    "source": "Minbåd.dk",
@@ -385,16 +394,6 @@
    "sum": "Danske både vandt alle tre klasser i Viking Challenge-finalen i Middelfart, og danskerne tog også de samlede sejre i to af tre grupper."
   },
   {
-   "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Kong Harald: Sæt dig ned, Stig – du får min båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/kong-harald-saet-dig-ned-stig-du-faar-min-baad/",
-   "cat": "Udstyr & både",
-   "sum": "Kong Harald forærede i 2008 sin Farr 51 'Fram XV' til Norges Seilforbund, som grundlag for projektet Norsteam, hvor unge sejlere træner i storbådssejlads. Kongen deltog også selv og hus",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
    "source": "Minbåd.dk",
    "date": "2026-09-03",
@@ -405,13 +404,13 @@
    "tjek": "2026-09-10"
   },
   {
-   "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
+   "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
    "source": "Minbåd.dk",
    "date": "2026-09-03",
-   "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
+   "title": "Kong Harald: Sæt dig ned, Stig – du får min båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/kong-harald-saet-dig-ned-stig-du-faar-min-baad/",
    "cat": "Udstyr & både",
-   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "sum": "Kong Harald forærede i 2008 sin Farr 51 'Fram XV' til Norges Seilforbund, som grundlag for projektet Norsteam, hvor unge sejlere træner i storbådssejlads. Kongen deltog også selv og hus",
    "tjek": "2026-09-10"
   },
   {
@@ -442,6 +441,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
    "cat": "Udstyr & både",
    "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-03",
+   "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
+   "cat": "Udstyr & både",
+   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
    "tjek": "2026-09-10"
   },
   {
@@ -835,16 +844,6 @@
    "tjek": "2026-09-04"
   },
   {
-   "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Nibe-folk sejlede feriebåden til Ylva-DM i Middelfart – og opdagede, at de kunne følge med",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med/",
-   "cat": "Kapsejlads",
-   "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne.",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
    "source": "Minbåd.dk",
    "date": "2026-08-27",
@@ -862,6 +861,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Nibe-folk sejlede feriebåden til Ylva-DM i Middelfart – og opdagede, at de kunne følge med",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med/",
+   "cat": "Kapsejlads",
+   "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne.",
    "tjek": "2026-09-10"
   },
   {
@@ -1231,7 +1240,8 @@
    "title": "Thomas Veber sejlede 43 sømil i ni fods alu-rib: - Et eventyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
-   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
+   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -2897,15 +2907,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
    "cat": "Sikkerhed",
    "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare."
-  },
-  {
-   "key": "flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen",
-   "source": "Minbåd.dk",
-   "date": "2026-07-23",
-   "title": "Flere efterladte bådvrag - lovpligtig ansvarsforsikring er løsningen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/",
-   "cat": "Sikkerhed",
-   "sum": "Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet."
   }
  ]
 }
