@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-10T11:27:07+00:00",
- "count": 439,
+ "generated": "2026-09-10T15:16:16+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 139,
+ "arkiv_antal": 138,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
@@ -12,7 +12,9 @@
    "source": "Minbåd.dk",
    "date": "2026-09-10",
    "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
+   "cat": "Udstyr & både",
+   "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ."
   },
   {
    "key": "soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg",
@@ -22,6 +24,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg/",
    "cat": "Havneliv",
    "sum": "Danske Tursejleres Søstjerner besøger Bogense Sejlklub 12. september med en grejtrailer fyldt med vandaktiviteter for børn og familier. Fra 11-16 kan de prøve SUP, våddragter og dykkermasker."
+  },
+  {
+   "key": "baadmagasinet-34417",
+   "source": "Bådmagasinet",
+   "date": "2026-09-10",
+   "title": "Søstjernerne indtager Bogense – børn og familier inviteres med på vandet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34417-sostjernerne-indtager-bogense-born-og-familier-inviteres-med-pa-vandet",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejleres Søstjernerne besøger Bogense i weekenden med aktiviteter for børn og familier, hvor der kan prøves SUP-boards, våddragter og dykning."
   },
   {
    "key": "baadmagasinet-34418",
@@ -634,16 +645,6 @@
    "tjek": "2026-09-10"
   },
   {
-   "key": "baadmagasinet-34387",
-   "source": "Bådmagasinet",
-   "date": "2026-08-31",
-   "title": "47 historiske skibe klar til Limfjorden Rundt",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34387-47-historiske-skibe-klar-til-limfjorden-rundt",
-   "cat": "Kapsejlads",
-   "sum": "47 historiske skibe deltager i Limfjorden Rundt, der er kapsejlads og kulturarv. Største klasser slås sammen for mere spænding, og turen slutter i Skive med jubilæumsoptakt.",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
    "source": "MarinaGuide",
    "date": "2026-08-31",
@@ -661,6 +662,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "baadmagasinet-34387",
+   "source": "Bådmagasinet",
+   "date": "2026-08-31",
+   "title": "47 historiske skibe klar til Limfjorden Rundt",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34387-47-historiske-skibe-klar-til-limfjorden-rundt",
+   "cat": "Kapsejlads",
+   "sum": "47 historiske skibe deltager i Limfjorden Rundt, der er kapsejlads og kulturarv. Største klasser slås sammen for mere spænding, og turen slutter i Skive med jubilæumsoptakt.",
    "tjek": "2026-09-10"
   },
   {
@@ -1170,7 +1181,8 @@
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
    "cat": "Udstyr & både",
-   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "baadmagasinet-34363",
@@ -2894,16 +2906,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/flere-efterladte-baadvrag-lovpligtig-ansvarsforsikring-er-loesningen/",
    "cat": "Sikkerhed",
    "sum": "Artikel om efterladte bådvrag, hvor der foreslås lovpligtig ansvarsforsikring, bådregister og borgerforslag for at løse problemet."
-  },
-  {
-   "key": "gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade",
-   "source": "Minbåd.dk",
-   "date": "2026-07-23",
-   "title": "Gratis Sailserver app viser 17.000 ankerpladser og målinger fra både",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/july/article/gratis-sailserver-app-viser-17000-ankerpladser-og-maalinger-fra-baade/",
-   "cat": "Tursejlads",
-   "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande.",
-   "tjek": "2026-08-07"
   }
  ]
 }
