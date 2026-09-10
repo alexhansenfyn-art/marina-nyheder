@@ -1,13 +1,36 @@
 {
- "generated": "2026-09-10T06:04:26+00:00",
- "count": 437,
+ "generated": "2026-09-10T11:27:07+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 139,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Sikkerhed"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/"
+  },
+  {
+   "key": "soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Søstjernerne ruller ind i Bogense med trailer fuld af vandleg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejleres Søstjerner besøger Bogense Sejlklub 12. september med en grejtrailer fyldt med vandaktiviteter for børn og familier. Fra 11-16 kan de prøve SUP, våddragter og dykkermasker."
+  },
+  {
+   "key": "baadmagasinet-34418",
+   "source": "Bådmagasinet",
+   "date": "2026-09-10",
+   "title": "Tre store Mercury Verado 300 hk-motorer stjålet i Norge: Kan være på vej mod Danmark",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34418-tre-store-mercury-verado-300-hk-motorer-stjalet-i-norge-kan-vaere-pa-vej-mod-danmark",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "baadmagasinet-34414",
    "source": "Bådmagasinet",
@@ -18,15 +41,6 @@
    "sum": "Johan Søe ligger på tredjepladsen ved IQFoil VM i Weymouth efter to sejre onsdag. Torsdagens sejladser kan følges live fra kl. 14."
   },
   {
-   "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
-   "source": "Minbåd.dk",
-   "date": "2026-09-09",
-   "title": "Sejlere sendt væk – kort efter sprang håndgranat i Julsø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe/",
-   "cat": "Sikkerhed",
-   "sum": "Sejlere blev afvist fra området, da en håndgranat blev fundet og sprængt i Julsø. En tursejler og hans kone blev bedt om at holde afstand."
-  },
-  {
    "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
    "source": "Motorbådsnyt",
    "date": "2026-09-09",
@@ -34,6 +48,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+  },
+  {
+   "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Sejlere sendt væk – kort efter sprang håndgranat i Julsø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe/",
+   "cat": "Sikkerhed",
+   "sum": "Sejlere blev afvist fra området, da en håndgranat blev fundet og sprængt i Julsø. En tursejler og hans kone blev bedt om at holde afstand."
   },
   {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
@@ -162,15 +185,6 @@
    "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
   },
   {
-   "key": "baadmagasinet-34406",
-   "source": "Bådmagasinet",
-   "date": "2026-09-07",
-   "title": "Når kampen om trofæet også bliver en kamp om retten til at bestemme",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34406-nar-kampen-om-trofaeet-ogsa-bliver-en-kamp-om-retten-til-at-bestemme",
-   "cat": "Kapsejlads",
-   "sum": "Optakten til America's Cup præges af strid om, hvem der har ret til at arrangere og definere konkurrencen, med New York Yacht Club som initiativtager til juridisk vurdering."
-  },
-  {
    "key": "baadmagasinet-34400",
    "source": "Bådmagasinet",
    "date": "2026-09-07",
@@ -187,6 +201,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
    "cat": "Kapsejlads",
    "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser."
+  },
+  {
+   "key": "baadmagasinet-34406",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Når kampen om trofæet også bliver en kamp om retten til at bestemme",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34406-nar-kampen-om-trofaeet-ogsa-bliver-en-kamp-om-retten-til-at-bestemme",
+   "cat": "Kapsejlads",
+   "sum": "Optakten til America's Cup præges af strid om, hvem der har ret til at arrangere og definere konkurrencen, med New York Yacht Club som initiativtager til juridisk vurdering."
   },
   {
    "key": "baadmagasinet-34409",
@@ -297,6 +320,15 @@
    "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere."
   },
   {
+   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
+   "cat": "Udstyr & både",
+   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
+  },
+  {
    "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
@@ -313,15 +345,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet."
-  },
-  {
-   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "cat": "Udstyr & både",
-   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
   {
    "key": "baadmagasinet-34399",
@@ -731,16 +754,6 @@
    "tjek": "2026-09-05"
   },
   {
-   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
    "source": "Minbåd.dk",
    "date": "2026-08-28",
@@ -748,6 +761,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
    "cat": "Kapsejlads",
    "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
    "tjek": "2026-09-10"
   },
   {
@@ -811,16 +834,6 @@
    "tjek": "2026-09-10"
   },
   {
-   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
-   "cat": "Kapsejlads",
-   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter.",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
    "source": "Minbåd.dk",
    "date": "2026-08-27",
@@ -838,6 +851,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
+   "cat": "Kapsejlads",
+   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter.",
    "tjek": "2026-09-10"
   },
   {
@@ -951,16 +974,6 @@
    "tjek": "2026-09-02"
   },
   {
-   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
-   "source": "Minbåd.dk",
-   "date": "2026-08-25",
-   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
-   "cat": "Andet",
-   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
-   "tjek": "2026-09-10"
-  },
-  {
    "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
    "source": "Minbåd.dk",
    "date": "2026-08-25",
@@ -978,6 +991,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
+   "cat": "Andet",
+   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
    "tjek": "2026-09-10"
   },
   {
@@ -1017,7 +1040,8 @@
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
    "cat": "Sikkerhed",
-   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
+   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -1026,7 +1050,8 @@
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
-   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
+   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -1135,7 +1160,8 @@
    "title": "20-årigt kærestepar sejler mod Middelhavet i 50 år gammel Boström 31",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/august/article/20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31/",
    "cat": "Tursejlads",
-   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen."
+   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
@@ -2878,34 +2904,6 @@
    "cat": "Tursejlads",
    "sum": "Sailserver-appen giver gratis adgang til over 17.000 ankerpladser og havne med dybde- og vindmålinger fra både, som hjælp til navigation i ukendte farvande.",
    "tjek": "2026-08-07"
-  },
-  {
-   "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-22",
-   "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "cat": "Sikkerhed",
-   "sum": "TrygFonden åbner en ny ansøgningsrunde for redningsstiger i danske havne. Havne, kommuner og grundejerforeninger kan søge frem til 1. september 2026."
-  },
-  {
-   "key": "granada-31-saelges-for-5000-kroner-efter-grundstoedning",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Granada 31 sælges for 5.000 kroner efter grundstødning",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/granada-31-saelges-for-5000-kroner-efter-grundstoedning/",
-   "cat": "Udstyr & både",
-   "sum": "En Granada 31 fra 1978 sælges for 5.000 kr. efter grundstødning. Båden har skader i bunden, men medfølger udstyr for 150.000 kr. Køber skal selv stå for reparation og transport."
-  },
-  {
-   "key": "miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "Miljøvenlig Hanse 410 vinder tysk pris som årets sejlbåd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
-   "cat": "Udstyr & både",
-   "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept.",
-   "tjek": "2026-08-10"
   }
  ]
 }
