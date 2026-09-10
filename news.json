@@ -1,12 +1,22 @@
 {
- "generated": "2026-09-10T01:13:14+00:00",
- "count": 417,
+ "generated": "2026-09-10T06:04:26+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 117,
+ "arkiv_antal": 137,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Sikkerhed"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34414",
+   "source": "Bådmagasinet",
+   "date": "2026-09-10",
+   "title": "IQFoil VM: Følg Johan Søe i kampen om medaljer - live fra kl. 14",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34414-iqfoil-vm-folg-johan-soe-i-kampen-om-medaljer-live-fra-torsdagens-sejladser-kl-14",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe ligger på tredjepladsen ved IQFoil VM i Weymouth efter to sejre onsdag. Torsdagens sejladser kan følges live fra kl. 14."
+  },
   {
    "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
    "source": "Minbåd.dk",
@@ -161,15 +171,6 @@
    "sum": "Optakten til America's Cup præges af strid om, hvem der har ret til at arrangere og definere konkurrencen, med New York Yacht Club som initiativtager til juridisk vurdering."
   },
   {
-   "key": "baadmagasinet-34409",
-   "source": "Bådmagasinet",
-   "date": "2026-09-07",
-   "title": "Sehesteds forløsning i Spanien - se highlights fra søndagens sejladser",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34409-sehesteds-forlosning-i-spanien",
-   "cat": "Kapsejlads",
-   "sum": "Nicolai Sehested og co. kvalificerede sig til SailGP-finalen i Valencia efter en fjerdeplads i søndagens fleet race. Det er første gang siden juni 2024, at danskerne er i en finale."
-  },
-  {
    "key": "baadmagasinet-34400",
    "source": "Bådmagasinet",
    "date": "2026-09-07",
@@ -186,6 +187,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
    "cat": "Kapsejlads",
    "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser."
+  },
+  {
+   "key": "baadmagasinet-34409",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Sehesteds forløsning i Spanien - se highlights fra søndagens sejladser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34409-sehesteds-forlosning-i-spanien",
+   "cat": "Kapsejlads",
+   "sum": "Nicolai Sehested og co. kvalificerede sig til SailGP-finalen i Valencia efter en fjerdeplads i søndagens fleet race. Det er første gang siden juni 2024, at danskerne er i en finale."
   },
   {
    "key": "dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil",
@@ -957,7 +967,8 @@
    "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
    "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
@@ -966,7 +977,8 @@
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
-   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
+   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
@@ -2893,16 +2905,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/miljoevenlig-hanse-410-vinder-tysk-pris-som-aarets-sejlbaad/",
    "cat": "Udstyr & både",
    "sum": "Hanse 410 vinder Top Yacht 2026-prisen for sin miljøvenlige konstruktion med genanvendt polyester og easy sailing-koncept.",
-   "tjek": "2026-08-10"
-  },
-  {
-   "key": "21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus",
-   "source": "Minbåd.dk",
-   "date": "2026-07-22",
-   "title": "21 både klar til Garmin Round Denmark Race 2026 i Aarhus",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/july/article/21-baade-klar-til-garmin-round-denmark-race-2026-i-aarhus/",
-   "cat": "Kapsejlads",
-   "sum": "21 både deltager i Garmin Round Denmark Race 2026, der starter den 24. juli fra Aarhus og strækker sig over 680 sømil omkring Danmark.",
    "tjek": "2026-08-10"
   }
  ]
