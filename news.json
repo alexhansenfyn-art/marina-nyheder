@@ -1,12 +1,21 @@
 {
- "generated": "2026-09-11T01:11:43+00:00",
- "count": 436,
+ "generated": "2026-09-11T06:06:07+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 136,
+ "arkiv_antal": 137,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34420",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "VIDEO: Når størrelse, fart og millioner ruller – glem resultaterne, bare nyd de her både!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
+  },
   {
    "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
    "source": "Minbåd.dk",
@@ -929,7 +938,8 @@
    "title": "Öppet Varv: 180 både og flere besøgende end nogensinde",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde/",
    "cat": "Udstyr & både",
-   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie."
+   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -2898,15 +2908,6 @@
    "cat": "Kapsejlads",
    "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm.",
    "tjek": "2026-08-10"
-  },
-  {
-   "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-23",
-   "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
-   "cat": "Sikkerhed",
-   "sum": "En båd løb tør for benzin nord for Barsø og affyrede nødblus, hvilket udløste en større redningsaktion. Redningsmandskabet påpeger, at nødblus kun må bruges ved alvorlig fare."
   }
  ]
 }
