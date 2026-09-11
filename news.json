@@ -1,12 +1,47 @@
 {
- "generated": "2026-09-11T06:06:07+00:00",
- "count": 437,
+ "generated": "2026-09-11T11:28:09+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 140,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
  ],
  "items": [
+  {
+   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed."
+  },
+  {
+   "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-11",
+   "title": "Ny Gran Turismo 50 imponerer med store terrasser og lækkert cockpit",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
+   "cat": "Udstyr & både",
+   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
+  },
+  {
+   "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/"
+  },
+  {
+   "key": "baadmagasinet-34421",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "Politiet søger vidner: Flere skud affyret nær far og søn på båd",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34421-politiet-soger-vidner-flere-skud-affyret-naer-far-og-son-pa-bad",
+   "cat": "Sikkerhed",
+   "sum": "En far og hans seksårige søn hørte projektiler flyve tæt forbi deres båd på Køge Bugt. Politiet fandt ni afskudte hylstre på land ved Billesborgvej i Køge og søger nu vidner."
+  },
   {
    "key": "baadmagasinet-34420",
    "source": "Bådmagasinet",
@@ -17,15 +52,6 @@
    "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
   },
   {
-   "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
-   "source": "Minbåd.dk",
-   "date": "2026-09-10",
-   "title": "Vedbæk Cup samler igen 500 sejlere til efterårsklassiker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
-   "cat": "Kapsejlads",
-   "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år."
-  },
-  {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
    "source": "Minbåd.dk",
    "date": "2026-09-10",
@@ -33,6 +59,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
    "cat": "Udstyr & både",
    "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ."
+  },
+  {
+   "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Vedbæk Cup samler igen 500 sejlere til efterårsklassiker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
+   "cat": "Kapsejlads",
+   "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år."
   },
   {
    "key": "soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg",
@@ -70,15 +105,6 @@
    "sum": "Johan Søe ligger på tredjepladsen ved IQFoil VM i Weymouth efter to sejre onsdag. Torsdagens sejladser kan følges live fra kl. 14."
   },
   {
-   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-09",
-   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "cat": "Udstyr & både",
-   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
-  },
-  {
    "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
@@ -104,6 +130,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
    "cat": "Sikkerhed",
    "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads."
+  },
+  {
+   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
+   "cat": "Udstyr & både",
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
   },
   {
    "key": "baadmagasinet-34413",
@@ -352,16 +387,6 @@
    "tjek": "2026-09-11"
   },
   {
-   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "cat": "Udstyr & både",
-   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk.",
-   "tjek": "2026-09-11"
-  },
-  {
    "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
@@ -379,6 +404,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-04",
+   "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
+   "cat": "Udstyr & både",
+   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk.",
    "tjek": "2026-09-11"
   },
   {
@@ -722,16 +757,6 @@
    "tjek": "2026-09-07"
   },
   {
-   "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
-   "source": "Minbåd.dk",
-   "date": "2026-08-30",
-   "title": "Nyt bådregister rykker nærmere – 2.000 forladte både på fem år",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar/",
-   "cat": "Havneliv",
-   "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen.",
-   "tjek": "2026-09-11"
-  },
-  {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
    "source": "Minbåd.dk",
    "date": "2026-08-30",
@@ -739,6 +764,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet/",
    "cat": "Kapsejlads",
    "sum": "Middelfart Sejlklub lægger vægt på fællesskabet ved Brandsø Rundt 5. september. Sejladsen skal samle både konkurrence og socialt samvær på havnen.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-08-30",
+   "title": "Nyt bådregister rykker nærmere – 2.000 forladte både på fem år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar/",
+   "cat": "Havneliv",
+   "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen.",
    "tjek": "2026-09-11"
   },
   {
@@ -862,16 +897,6 @@
    "tjek": "2026-09-04"
   },
   {
-   "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Finsk bådmægler Blue Ocean går ind i Danmark – møder bådejere på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
-   "cat": "Andet",
-   "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj.",
-   "tjek": "2026-09-11"
-  },
-  {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
    "source": "Motorbådsnyt",
    "date": "2026-08-27",
@@ -879,6 +904,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
    "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
+   "source": "Minbåd.dk",
+   "date": "2026-08-27",
+   "title": "Finsk bådmægler Blue Ocean går ind i Danmark – møder bådejere på Copenhagen Boat Show",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
+   "cat": "Andet",
+   "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj.",
    "tjek": "2026-09-11"
   },
   {
@@ -932,6 +967,16 @@
    "tjek": "2026-09-03"
   },
   {
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-26",
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-11"
+  },
+  {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
    "source": "Minbåd.dk",
    "date": "2026-08-26",
@@ -940,15 +985,6 @@
    "cat": "Udstyr & både",
    "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
    "tjek": "2026-09-11"
-  },
-  {
-   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-26",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
    "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
@@ -1017,7 +1053,8 @@
    "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
    "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
@@ -1026,7 +1063,8 @@
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
-   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
+   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
@@ -2871,43 +2909,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
    "cat": "Udstyr & både",
    "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum."
-  },
-  {
-   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
-   "source": "Havneguide",
-   "date": "2026-07-24",
-   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
-   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
-   "cat": "Sikkerhed",
-   "sum": "Artiklen handler om vigtigheden af godt sømandskab ved anløb i havne, herunder korrekt opførsel og sikkerhed."
-  },
-  {
-   "key": "havneguide.dk/baadpladser",
-   "source": "Havneguide",
-   "date": "2026-07-24",
-   "title": "Salg og udlejning af bådpladser",
-   "url": "https://havneguide.dk/baadpladser",
-   "cat": "Havnepriser",
-   "sum": "Artiklen omhandler salg og udlejning af bådpladser i danske havne."
-  },
-  {
-   "key": "yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Yvonne sejler væk fra havnelivet: Finder friheden for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/yvonne-sejler-vaek-fra-havnelivet-finder-friheden-for-anker/",
-   "cat": "Havneliv",
-   "sum": "Yvonne fra Næstved Sejlklub foretrækker at ligge for anker frem for havnelivets sociale aktiviteter, men sætter pris på en god snak på broen."
-  },
-  {
-   "key": "viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "ViewRegatta med AI og mobil skal gøre kapsejlads til en publikumssport",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/viewregatta-med-ai-og-mobil-skal-goere-kapsejlads-til-en-publikumssport/",
-   "cat": "Kapsejlads",
-   "sum": "ViewRegatta bruger AI og smartphones til at visualisere og forklare kapsejlads i realtid, så publikum kan følge med. Den får premiere ved VM i team racing i Stockholm.",
-   "tjek": "2026-08-10"
   }
  ]
 }
