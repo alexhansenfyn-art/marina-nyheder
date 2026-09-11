@@ -1,12 +1,10 @@
 {
- "generated": "2026-09-11T21:24:51+00:00",
- "count": 438,
+ "generated": "2026-09-11T23:36:39+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 137,
  "errors": [
-  "AI: dansksejlunion: https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
@@ -89,13 +87,6 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
-   "source": "Dansk Sejlunion",
-   "date": "2026-09-11",
-   "title": "Stærke danske takter i Palma trods manglende medaljer Sejlerlandsholdet markerede sig i toppen på tværs af alle satsningsklasser ved sæsonåb",
-   "url": "https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer"
   },
   {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
@@ -2909,6 +2900,15 @@
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob.",
    "tjek": "2026-08-10"
+  },
+  {
+   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
+   "cat": "Havnepriser",
+   "sum": "Et sejlerpar flytter deres båd fra Aarhus Lystbådehavn til Kaløvig efter tre parkeringsafgifter på i alt 2.730 kroner. Parret kendte ikke reglen om natlig gæsteparkering."
   }
  ]
 }
