@@ -1,10 +1,12 @@
 {
- "generated": "2026-09-11T18:40:18+00:00",
+ "generated": "2026-09-11T21:24:51+00:00",
  "count": 438,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 138,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: dansksejlunion: https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
  ],
  "items": [
   {
@@ -87,6 +89,13 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-11",
+   "title": "Stærke danske takter i Palma trods manglende medaljer Sejlerlandsholdet markerede sig i toppen på tværs af alle satsningsklasser ved sæsonåb",
+   "url": "https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer"
   },
   {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
@@ -2900,16 +2909,6 @@
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob.",
    "tjek": "2026-08-10"
-  },
-  {
-   "key": "baadmagasinet-34289",
-   "source": "Bådmagasinet",
-   "date": "2026-07-25",
-   "title": "Onboard App kritiseres - får hård medfart af brugerne",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34289-onboard-app-far-hard-kritik-af-brugerne",
-   "cat": "Sikkerhed",
-   "sum": "Onboard-appen, der skulle samle sejler-apps, møder massiv kritik fra brugere, der savner den tidligere SejlSikkert-app.",
-   "tjek": "2026-08-02"
   }
  ]
 }
