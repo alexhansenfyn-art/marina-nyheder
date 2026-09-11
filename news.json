@@ -1,21 +1,20 @@
 {
- "generated": "2026-09-11T11:28:09+00:00",
+ "generated": "2026-09-11T15:17:41+00:00",
  "count": 440,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 140,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
-   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
+   "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
    "source": "Minbåd.dk",
    "date": "2026-09-11",
-   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
-   "cat": "Sikkerhed",
-   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed."
+   "title": "Myndighederne gjorde intet – så fjernede Thurøboerne selv spøgelsesbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad/",
+   "cat": "Andet",
+   "sum": "En strandet båd ved Thurødæmningen lå i månedsvis, uden at politi, Kystdirektorat, Søfartsstyrelsen eller kommunen tog ansvar. Thurøboere fjernede den derfor selv."
   },
   {
    "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
@@ -27,11 +26,31 @@
    "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
   },
   {
+   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed."
+  },
+  {
    "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
    "source": "Minbåd.dk",
    "date": "2026-09-11",
    "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
+   "cat": "Kapsejlads",
+   "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab."
+  },
+  {
+   "key": "baadmagasinet-34415",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "IQFoil VM: Søe op som to'er - live fra fredagens sejladser kl. 14",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34415-iqfoil-vm-folg-johan-soe-i-kampen-om-medaljer-live-fra-fredagens-sejladser-kl-14",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe avancerede til andenpladsen ved IQFoil VM i Weymouth efter"
   },
   {
    "key": "baadmagasinet-34421",
@@ -50,6 +69,24 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
    "cat": "Kapsejlads",
    "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
+  },
+  {
+   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
+   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "cat": "Havneliv",
+   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb."
+  },
+  {
+   "key": "havneguide.dk/baadpladser",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "Salg og udlejning af bådpladser",
+   "url": "https://havneguide.dk/baadpladser",
+   "cat": "Havnepriser",
+   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
   },
   {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
@@ -827,16 +864,6 @@
    "tjek": "2026-09-05"
   },
   {
-   "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "ILCA 7-VM: Schubert viser høj klasse i verdens hårdeste jolle",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
-   "cat": "Kapsejlads",
-   "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen.",
-   "tjek": "2026-09-11"
-  },
-  {
    "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
    "source": "Minbåd.dk",
    "date": "2026-08-28",
@@ -864,6 +891,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
    "cat": "Havneliv",
    "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "ILCA 7-VM: Schubert viser høj klasse i verdens hårdeste jolle",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
+   "cat": "Kapsejlads",
+   "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen.",
    "tjek": "2026-09-11"
   },
   {
@@ -1113,7 +1150,8 @@
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
    "cat": "Sikkerhed",
-   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
+   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -1122,7 +1160,8 @@
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
-   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
+   "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -2871,44 +2910,6 @@
    "cat": "Sikkerhed",
    "sum": "Onboard-appen, der skulle samle sejler-apps, møder massiv kritik fra brugere, der savner den tidligere SejlSikkert-app.",
    "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34292",
-   "source": "Bådmagasinet",
-   "date": "2026-07-25",
-   "title": "GRDR: En af favoritterne ude - strømsvigt tvang Jan Hansen og The Beast til at udgå",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34292-grdr-en-af-favoritterne-er-ude-totalt-stromsvigt-tvang-jan-hansen-og-the-beast-til-at-udga",
-   "cat": "Kapsejlads",
-   "sum": "Jan B. Hansen måtte udgå af Garmin Round Denmark Race på The Beast efter et totalt strømsvigt i hård vind og mørke. Løbet fortsætter med en tæt frontgruppe nær Falsterbo.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34291",
-   "source": "Bådmagasinet",
-   "date": "2026-07-25",
-   "title": "Anna Munch slutter sekser i Los Angeles",
-   "url": "https://www.baadmagasinet.dk/ol/34291-anna-munch-slutter-som-nr-6-i-los-angeles",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch sluttede som nummer 6 i ILCA 6 ved San Pedro Olympic Class Regatta i Los Angeles, hvor hun fik vigtig erfaring til OL.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "cat": "Havnepriser",
-   "sum": "Et sejlerpar flytter deres båd fra Aarhus Havn til Kaløvig efter at have fået tre parkeringsafgifter på 2.730 kr. De oplever reglerne som stressende og utrygge."
-  },
-  {
-   "key": "10-gode-raad-for-du-kober-brugt-baad",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-24",
-   "title": "10 gode råd før du køber brugt båd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver 10 råd fra bådkonsulent Carsten Lund om at købe brugt båd, herunder tjek for restgæld, skrognummer, CE-mærkning, osmose og maskinrum."
   }
  ]
 }
