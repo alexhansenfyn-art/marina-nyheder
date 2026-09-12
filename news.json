@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T14:18:12+00:00",
+ "generated": "2026-09-12T17:17:37+00:00",
  "count": 439,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 139,
@@ -7,6 +7,15 @@
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
+  },
   {
    "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
    "source": "Minbåd.dk",
@@ -20,8 +29,8 @@
    "key": "baadmagasinet-34424",
    "source": "Bådmagasinet",
    "date": "2026-09-12",
-   "title": "ILCA6: Anna Munch vinder VM-bronze - Søe misser IQFoils-finalen",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34424-ilca6-anna-munch-vinder-vm-bronze-soe-misser-finalen",
+   "title": "Dobbelt dansk VM triumf - Anna Munch og Søe vinder begge bronze",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34424-dobbelt-dansk-vm-triumf-anna-munch-og-soe-vinder-begge-bronze",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vinder VM-bronze i ILCA6 med en femte- og fjerdeplads i finalesejladserne, mens Johan Søe misser iQFOiL-finalen efter tredjeplads i semifinalen."
   },
@@ -33,6 +42,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34416-iqfoil-vm-live-fra-finalesejladserne-kl-12-25",
    "cat": "Kapsejlads",
    "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-12",
+   "title": "To danske VM-bronzemedaljer på stor finaledag",
+   "url": "https://dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
   },
   {
    "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
@@ -2889,26 +2907,6 @@
    "cat": "Kapsejlads",
    "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer.",
    "tjek": "2026-08-12"
-  },
-  {
-   "key": "baadmagasinet-34295",
-   "source": "Bådmagasinet",
-   "date": "2026-07-26",
-   "title": "Politiet efterlyser - hvem savner en båd ved Klinting Hoved på Als?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34295-politiet-efterlyser-ejeren-hvem-savner-en-bad-ved-klinting-hoved-pa-als",
-   "cat": "Sikkerhed",
-   "sum": "Politiet efterlyser ejer af en herreløs båd, der er drevet i land ved Klinting Hoved på Als. Båden ligger fredeligt, men kan tage skade ved vejrændring.",
-   "tjek": "2026-08-02"
-  },
-  {
-   "key": "baadmagasinet-34297",
-   "source": "Bådmagasinet",
-   "date": "2026-07-26",
-   "title": "Nyt format, 6 forskellige vindere – kan Sehested & Co. rejse sig fra jumbopladsen? Link til Live kl. 17:30",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34297-nyt-format-gav-6-forskellige-vindere-sehested-co-skal-rejse-sig-fra-jumbopladsen",
-   "cat": "Kapsejlads",
-   "sum": "SailGP i Portsmouth bød på seks forskellige vindere i det nye gruppeformat. Det danske team med Nicolai Sehested havde en svær dag og deler sidstepladsen.",
-   "tjek": "2026-08-02"
   }
  ]
 }
