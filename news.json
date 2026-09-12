@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-12T17:17:37+00:00",
- "count": 439,
+ "generated": "2026-09-12T19:28:34+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 139,
+ "arkiv_antal": 137,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
