@@ -1,13 +1,22 @@
 {
- "generated": "2026-09-12T06:36:49+00:00",
- "count": 438,
+ "generated": "2026-09-12T11:20:32+00:00",
+ "count": 430,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 130,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
+  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)",
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
+   "cat": "Udstyr & både",
+   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
+  },
   {
    "key": "baadmagasinet-34416",
    "source": "Bådmagasinet",
@@ -18,15 +27,6 @@
    "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer."
   },
   {
-   "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
-   "source": "Minbåd.dk",
-   "date": "2026-09-11",
-   "title": "Myndighederne gjorde intet – så fjernede Thurøboerne selv spøgelsesbåd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad/",
-   "cat": "Andet",
-   "sum": "En strandet båd ved Thurødæmningen lå i månedsvis, uden at politi, Kystdirektorat, Søfartsstyrelsen eller kommunen tog ansvar. Thurøboere fjernede den derfor selv."
-  },
-  {
    "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
    "source": "Motorbådsnyt",
    "date": "2026-09-11",
@@ -34,6 +34,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
    "cat": "Udstyr & både",
    "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
+  },
+  {
+   "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Myndighederne gjorde intet – så fjernede Thurøboerne selv spøgelsesbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad/",
+   "cat": "Andet",
+   "sum": "En strandet båd ved Thurødæmningen lå i månedsvis, uden at politi, Kystdirektorat, Søfartsstyrelsen eller kommunen tog ansvar. Thurøboere fjernede den derfor selv."
   },
   {
    "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
@@ -708,16 +717,6 @@
    "tjek": "2026-09-08"
   },
   {
-   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
-   "cat": "Sikkerhed",
-   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
-   "tjek": "2026-09-12"
-  },
-  {
    "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -735,6 +734,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
    "cat": "Kapsejlads",
    "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
+   "tjek": "2026-09-12"
+  },
+  {
+   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
+   "cat": "Sikkerhed",
+   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
    "tjek": "2026-09-12"
   },
   {
@@ -878,16 +887,6 @@
    "tjek": "2026-09-05"
   },
   {
-   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
-   "tjek": "2026-09-12"
-  },
-  {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
    "source": "Motorbådsnyt",
    "date": "2026-08-28",
@@ -905,6 +904,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
    "cat": "Havneliv",
    "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien.",
+   "tjek": "2026-09-12"
+  },
+  {
+   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
    "tjek": "2026-09-12"
   },
   {
@@ -1114,7 +1123,8 @@
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "cat": "Kapsejlads",
-   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
+   "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028.",
+   "tjek": "2026-09-12"
   },
   {
    "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
@@ -2901,16 +2911,6 @@
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race fortsætter i høj fart mod Bornholm. Tre singlehand-sejlere er udgået på grund af mekaniske eller elektroniske problemer.",
    "tjek": "2026-08-12"
-  },
-  {
-   "key": "elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race",
-   "source": "Minbåd.dk",
-   "date": "2026-07-25",
-   "title": "Elliott 35 i front mod Anholt i Garmin Round Denmark Race",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/july/article/elliott-35-i-front-mod-anholt-i-garmin-round-denmark-race/",
-   "cat": "Kapsejlads",
-   "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob.",
-   "tjek": "2026-08-10"
   }
  ]
 }
