@@ -1,12 +1,22 @@
 {
- "generated": "2026-09-12T01:40:39+00:00",
- "count": 437,
+ "generated": "2026-09-12T06:36:49+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 138,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34416",
+   "source": "Bådmagasinet",
+   "date": "2026-09-12",
+   "title": "VM: Både Anna Munch og Johan Søe er klar til medaljedyst - link til live",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34416-iqfoil-vm-live-fra-finalesejladserne-kl-12-25",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer."
+  },
   {
    "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
    "source": "Minbåd.dk",
@@ -178,15 +188,6 @@
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
   },
   {
-   "key": "baadmagasinet-34413",
-   "source": "Bådmagasinet",
-   "date": "2026-09-09",
-   "title": "Det ’lugter’ af VM-medaljer i England og Irland",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34413-det-lugter-af-vm-medaljer-i-england-og-irland",
-   "cat": "Kapsejlads",
-   "sum": "Danske Anna Munch er nr. 3 ved ILCA 6-VM i Irland, og Johan Søe er kvalificeret til gold-fleet ved iQFOiL-VM. Medaljer er inden for rækkevidde."
-  },
-  {
    "key": "baadmagasinet-34412",
    "source": "Bådmagasinet",
    "date": "2026-09-09",
@@ -194,6 +195,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34412-tre-arkitekthold-skal-tegne-fremtidens-fregatten-jylland",
    "cat": "Andet",
    "sum": "Fregatten Jylland i Ebeltoft står foran fornyelse. Tre arkitektfirmaer skal give bud på, hvordan skibet og museumsområdet skal formidle historien på ny."
+  },
+  {
+   "key": "baadmagasinet-34413",
+   "source": "Bådmagasinet",
+   "date": "2026-09-09",
+   "title": "Det ’lugter’ af VM-medaljer i England og Irland",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34413-det-lugter-af-vm-medaljer-i-england-og-irland",
+   "cat": "Kapsejlads",
+   "sum": "Danske Anna Munch er nr. 3 ved ILCA 6-VM i Irland, og Johan Søe er kvalificeret til gold-fleet ved iQFOiL-VM. Medaljer er inden for rækkevidde."
   },
   {
    "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
@@ -1094,7 +1104,8 @@
    "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
    "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
+   "tjek": "2026-09-12"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
@@ -2900,15 +2911,6 @@
    "cat": "Kapsejlads",
    "sum": "Garmin Round Denmark Race er startet fra Aarhus. Elliott 35 SS'eren Palby Marine fører de enkeltskrogede både på vej mod Anholt med 12,5 knob.",
    "tjek": "2026-08-10"
-  },
-  {
-   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "cat": "Havnepriser",
-   "sum": "Et sejlerpar flytter deres båd fra Aarhus Lystbådehavn til Kaløvig efter tre parkeringsafgifter på i alt 2.730 kroner. Parret kendte ikke reglen om natlig gæsteparkering."
   }
  ]
 }
