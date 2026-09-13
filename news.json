@@ -1,14 +1,22 @@
 {
- "generated": "2026-09-13T01:29:45+00:00",
+ "generated": "2026-09-13T06:51:43+00:00",
  "count": 437,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 137,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Andet"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udstyr & både"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34422",
+   "source": "Bådmagasinet",
+   "date": "2026-09-13",
+   "title": "Vedbæk Cup vender tilbage til rødderne i klubbens jubilæumsår",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34422-vedbaek-cup-vender-tilbage-til-rodderne-i-klubbens-jubilaeumsar",
+   "cat": "Kapsejlads",
+   "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
+  },
   {
    "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
    "source": "Minbåd.dk",
@@ -109,15 +117,6 @@
    "sum": "En far og hans seksårige søn hørte projektiler flyve tæt forbi deres båd på Køge Bugt. Politiet fandt ni afskudte hylstre på land ved Billesborgvej i Køge og søger nu vidner."
   },
   {
-   "key": "baadmagasinet-34420",
-   "source": "Bådmagasinet",
-   "date": "2026-09-11",
-   "title": "VIDEO: Når størrelse, fart og millioner ruller – glem resultaterne, bare nyd de her både!",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
-   "cat": "Kapsejlads",
-   "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
-  },
-  {
    "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "source": "Havneguide",
    "date": "2026-09-11",
@@ -134,6 +133,15 @@
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
    "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
+  },
+  {
+   "key": "baadmagasinet-34420",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "VIDEO: Når størrelse, fart og millioner ruller – glem resultaterne, bare nyd de her både!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
   },
   {
    "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
@@ -420,10 +428,10 @@
   },
   {
    "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
    "cat": "Udstyr & både",
    "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
    "tjek": "2026-09-13"
@@ -995,7 +1003,8 @@
    "title": "150 både til Copenhagen Boat Show med gratis indgang",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-13"
   },
   {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
@@ -2899,16 +2908,6 @@
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både.",
    "tjek": "2026-08-14"
-  },
-  {
-   "key": "aarhus-skonnert-northern-grace-vandt-fyn-rundt",
-   "source": "Minbåd.dk",
-   "date": "2026-07-26",
-   "title": "Aarhus-skonnert Northern Grace vandt Fyn Rundt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/aarhus-skonnert-northern-grace-vandt-fyn-rundt/",
-   "cat": "Kapsejlads",
-   "sum": "Northern Grace vandt Fyn Rundt for bevaringsværdige sejlskibe blandt 55 deltagere, trods ustabilt vejr der tvang til ændringer.",
-   "tjek": "2026-08-12"
   }
  ]
 }
