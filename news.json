@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-13T21:31:18+00:00",
- "count": 437,
+ "generated": "2026-09-13T23:38:30+00:00",
+ "count": 436,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 136,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\""
  ],
  "items": [
   {
