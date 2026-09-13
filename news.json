@@ -1,13 +1,30 @@
 {
- "generated": "2026-09-13T06:51:43+00:00",
- "count": 437,
+ "generated": "2026-09-13T12:48:17+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 138,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udstyr & både"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "12 råd der kan redde parforholdet på sejlturen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
+   "cat": "Tursejlads",
+   "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer."
+  },
+  {
+   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-13",
+   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
+   "cat": "Udstyr & både",
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+  },
   {
    "key": "baadmagasinet-34422",
    "source": "Bådmagasinet",
@@ -63,15 +80,6 @@
    "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
   },
   {
-   "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-11",
-   "title": "Ny Gran Turismo 50 imponerer med store terrasser og lækkert cockpit",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
-   "cat": "Udstyr & både",
-   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
-  },
-  {
    "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
    "source": "Minbåd.dk",
    "date": "2026-09-11",
@@ -97,6 +105,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
    "cat": "Kapsejlads",
    "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab."
+  },
+  {
+   "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Ny Gran Turismo 50 imponerer med store terrasser og lækkert cockpit",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
+   "cat": "Udstyr & både",
+   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
   },
   {
    "key": "baadmagasinet-34415",
@@ -1073,7 +1090,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-13"
   },
   {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
@@ -2889,25 +2907,6 @@
    "cat": "Kapsejlads",
    "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser.",
    "tjek": "2026-08-03"
-  },
-  {
-   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-26",
-   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen giver 17 praktiske råd til at reducere brændstofforbruget på motorbåde, fra sejladsteknik til vedligeholdelse."
-  },
-  {
-   "key": "politiet-hvem-savner-denne-sejlbaad-paa-als",
-   "source": "Minbåd.dk",
-   "date": "2026-07-26",
-   "title": "Politiet: Hvem savner denne sejlbåd på Als?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/july/article/politiet-hvem-savner-denne-sejlbaad-paa-als/",
-   "cat": "Sikkerhed",
-   "sum": "En sejlbåd er drevet i land ved Klinting Hoved nær Sønderborg. Politiet efterlyser ejeren og sætter fokus på problemet med efterladte både.",
-   "tjek": "2026-08-14"
   }
  ]
 }
