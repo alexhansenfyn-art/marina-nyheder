@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T12:48:17+00:00",
- "count": 438,
+ "generated": "2026-09-13T16:43:08+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 137,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
@@ -33,6 +33,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34422-vedbaek-cup-vender-tilbage-til-rodderne-i-klubbens-jubilaeumsar",
    "cat": "Kapsejlads",
    "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-13",
+   "title": "Ungdommens danmarksmestre kåret trods svære vejrforhold ved Dansk Sejlunions Ungdoms-DM",
+   "url": "https://dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
   },
   {
    "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
@@ -2896,16 +2905,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34300-sehested-co-fik-tiltraengt-oprejsning-til-sidst",
    "cat": "Kapsejlads",
    "sum": "Sehested & Co. vandt en sejlads i SailGP i Portsmouth, mens australske Tom Slingsby blev diskvalificeret for tyvstart. Ny kvindelig besætningsmedlem Pearl Lattanzi rejser spørgsmål om Anne-Marie Rindoms fremtid.",
-   "tjek": "2026-08-03"
-  },
-  {
-   "key": "baadmagasinet-34299",
-   "source": "Bådmagasinet",
-   "date": "2026-07-27",
-   "title": "GRDR: Endnu en favorit ude - Elliott 35SS 'Palby Marine' smider masten",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34299-grdr-eliott-35ss-palby-marine-smider-masten-og-er-ude",
-   "cat": "Kapsejlads",
-   "sum": "Elliott 35SS 'Palby Marine' mistede masten under Garmin Round Denmark Race natten til mandag. Besætningen er uskadt og båden er i sikkerhed i Gedser.",
    "tjek": "2026-08-03"
   }
  ]
