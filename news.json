@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-14T14:09:25+00:00",
- "count": 431,
+ "generated": "2026-09-14T20:02:41+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 131,
+ "arkiv_antal": 137,
  "errors": [
-  "https://dansketursejlere.dk/: HTTPSConnectionPool(host='dansketursejlere.dk', port=443): Read timed out. (read timeout=30)",
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ChunkedEncodingError: Response ended prematurely",
+  "AI: KeyError: 'choices'"
  ],
  "items": [
   {
@@ -41,6 +41,13 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34423-mangler-du-en-havneplads-kob-hele-oen",
    "cat": "Andet",
    "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge."
+  },
+  {
+   "key": "baadmagasinet-34431",
+   "source": "Bådmagasinet",
+   "date": "2026-09-14",
+   "title": "DEBAT: Måske fejler kapsejlerne ikke noget – måske er det kapsejladserne, vi skal ændre?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34431-debat-maske-fejler-kapsejlerne-ikke-noget-maske-er-det-kapsejladserne-vi-skal-aendre"
   },
   {
    "key": "baadmagasinet-34428",
@@ -133,15 +140,6 @@
    "sum": "Anna Munch vinder VM-bronze i ILCA6 med en femte- og fjerdeplads i finalesejladserne, mens Johan Søe misser iQFOiL-finalen efter tredjeplads i semifinalen."
   },
   {
-   "key": "baadmagasinet-34416",
-   "source": "Bådmagasinet",
-   "date": "2026-09-12",
-   "title": "VM: Både Anna Munch og Johan Søe er klar til medaljedyst - link til live",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34416-iqfoil-vm-live-fra-finalesejladserne-kl-12-25",
-   "cat": "Kapsejlads",
-   "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
    "source": "Dansk Sejlunion",
    "date": "2026-09-12",
@@ -149,6 +147,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
    "cat": "Kapsejlads",
    "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
+  },
+  {
+   "key": "baadmagasinet-34416",
+   "source": "Bådmagasinet",
+   "date": "2026-09-12",
+   "title": "VM: Både Anna Munch og Johan Søe er klar til medaljedyst - link til live",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34416-iqfoil-vm-live-fra-finalesejladserne-kl-12-25",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer."
   },
   {
    "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
@@ -1168,7 +1175,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-14"
   },
   {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
@@ -2895,16 +2903,6 @@
    "cat": "Kapsejlads",
    "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
    "tjek": "2026-08-15"
-  },
-  {
-   "key": "baadmagasinet-34304",
-   "source": "Bådmagasinet",
-   "date": "2026-07-28",
-   "title": "Dramatisk eftersøgning i Hanstholm: Tysk surfer fundet i god behold",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34304-dramatisk-eftersogning-i-hanstholm-tysk-surfer-fundet-i-god-behold",
-   "cat": "Sikkerhed",
-   "sum": "En 61-årig tysk surfer udløste en stor eftersøgning ud for Hanstholm, men blev fundet i god behold sent på aftenen.",
-   "tjek": "2026-08-04"
   }
  ]
 }
