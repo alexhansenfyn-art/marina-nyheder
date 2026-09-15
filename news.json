@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-15T11:50:14+00:00",
- "count": 440,
+ "generated": "2026-09-15T15:47:35+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 139,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
-   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
    "source": "Minbåd.dk",
    "date": "2026-09-15",
-   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
-   "cat": "Kapsejlads",
-   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
   },
   {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
@@ -24,6 +24,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+  },
+  {
+   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
   },
   {
    "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
@@ -39,7 +48,9 @@
    "source": "Minbåd.dk",
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
+   "cat": "Sikkerhed",
+   "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
   },
   {
    "key": "baadmagasinet-34426",
@@ -47,6 +58,15 @@
    "date": "2026-09-15",
    "title": "Hvem mangler mon disse joller og både?",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34426-hvem-mangler-disse-joller-og-bade"
+  },
+  {
+   "key": "baadmagasinet-34427",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "J/70 VM: Danskerne fik ørerne i maskinen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34427-j-70-vm-langt-til-toppen-for-danske-sejlere",
+   "cat": "Kapsejlads",
+   "sum": "Tre danske besætninger deltog ved J/70 VM i Cascais, hvor den bedste danske båd blev nummer 35. Resultaterne viste et fortsat stort spring til den internationale elite."
   },
   {
    "key": "baadmagasinet-34432",
@@ -363,15 +383,6 @@
    "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads."
   },
   {
-   "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
-   "source": "Minbåd.dk",
-   "date": "2026-09-09",
-   "title": "Tysk par i problemer i Rønne – båd tog vand ind",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
-   "cat": "Sikkerhed",
-   "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads."
-  },
-  {
    "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
@@ -379,6 +390,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+  },
+  {
+   "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Tysk par i problemer i Rønne – båd tog vand ind",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
+   "cat": "Sikkerhed",
+   "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads."
   },
   {
    "key": "baadmagasinet-34412",
@@ -799,16 +819,6 @@
    "tjek": "2026-09-10"
   },
   {
-   "key": "silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41",
-   "source": "Minbåd.dk",
-   "date": "2026-09-02",
-   "title": "Silverrudder får besøg af 66 X-Yachts – heraf to XR 41",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41/",
-   "cat": "Kapsejlads",
-   "sum": "Silverrudder solosejladsen starter 18. september med 447 deltagere, deriblandt 66 X-Yachts og to XR 41.",
-   "tjek": "2026-09-15"
-  },
-  {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
    "source": "Minbåd.dk",
    "date": "2026-09-02",
@@ -826,6 +836,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
    "cat": "Sikkerhed",
    "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
+   "tjek": "2026-09-15"
+  },
+  {
+   "key": "silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41",
+   "source": "Minbåd.dk",
+   "date": "2026-09-02",
+   "title": "Silverrudder får besøg af 66 X-Yachts – heraf to XR 41",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41/",
+   "cat": "Kapsejlads",
+   "sum": "Silverrudder solosejladsen starter 18. september med 447 deltagere, deriblandt 66 X-Yachts og to XR 41.",
    "tjek": "2026-09-15"
   },
   {
@@ -1235,7 +1255,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
@@ -2885,26 +2906,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
    "cat": "Havneliv",
    "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning."
-  },
-  {
-   "key": "lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign",
-   "source": "Minbåd.dk",
-   "date": "2026-07-29",
-   "title": "Lars Olsen fylder 70: Fra L 23 til toppen af dansk båddesign",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/lars-olsen-fylder-70-fra-l-23-til-toppen-af-dansk-baaddesign/",
-   "cat": "Andet",
-   "sum": "Bådekonstruktør Lars Olsen fylder 70 år. Han har sat markante spor i dansk og nordisk sejlsport med ikoniske både som L23 og CDE 850.",
-   "tjek": "2026-08-14"
-  },
-  {
-   "key": "skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid",
-   "source": "Minbåd.dk",
-   "date": "2026-07-29",
-   "title": "Skovbrand udsletter næsten hele Soling-flåden ved Madrid",
-   "url": "https://minbaad.dk/nyhed/archive/2026/29/july/article/skovbrand-udsletter-naesten-hele-soling-flaaden-ved-madrid/",
-   "cat": "Andet",
-   "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
-   "tjek": "2026-08-14"
   }
  ]
 }
