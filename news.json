@@ -1,12 +1,39 @@
 {
- "generated": "2026-09-15T06:16:11+00:00",
- "count": 438,
+ "generated": "2026-09-15T11:50:14+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 140,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
+  },
+  {
+   "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-15",
+   "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
+   "cat": "Udstyr & både",
+   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+  },
+  {
+   "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Contender-kongen Søren Dulong tog 21. DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/contender-kongen-soeren-dulong-tog-21-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Søren Dulong Andreasen fra Hellerup Sejlklub vandt sit 21. danske mesterskab i Contender ved DM ud for Skovshoved efter fire sejre i fire sejladser."
+  },
   {
    "key": "sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten",
    "source": "Minbåd.dk",
@@ -22,13 +49,13 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34426-hvem-mangler-disse-joller-og-bade"
   },
   {
-   "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
-   "source": "Minbåd.dk",
-   "date": "2026-09-14",
-   "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
-   "cat": "Kapsejlads",
-   "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt."
+   "key": "baadmagasinet-34432",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "DSRS melder om 'ærgerlig' ny rekord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34432-dsrs-melder-om-aergerlig-ny-rekord",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer og slog dermed rekord. Formanden ser stigningen som udtryk for øget kendskab og opfordrer til medlemskab."
   },
   {
    "key": "prins-henriks-tidligere-drage-vandt-lillebaelts-regatta-med-reese",
@@ -47,6 +74,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese/",
    "cat": "Tursejlads",
    "sum": "Bogen Ice Bird handler om David Lewis' enkeltmandssejlads mod Antarktis i en 32 fods stålsejlbåd, hvor han oplevede storme, kæntringer og mastehavari."
+  },
+  {
+   "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-14",
+   "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
+   "cat": "Kapsejlads",
+   "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt."
   },
   {
    "key": "baadmagasinet-34423",
@@ -85,15 +121,6 @@
    "sum": "Ungdoms-DM i Rungsted blev gennemført trods let vind og kraftig strøm på Øresund. Efter weekenden blev der kåret danske ungdomsmestre i alle seks klasser."
   },
   {
-   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-13",
-   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
-   "cat": "Udstyr & både",
-   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
-  },
-  {
    "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
    "source": "Minbåd.dk",
    "date": "2026-09-13",
@@ -112,13 +139,13 @@
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
   },
   {
-   "key": "baadmagasinet-34422",
-   "source": "Bådmagasinet",
+   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
+   "source": "Minbåd.dk",
    "date": "2026-09-13",
-   "title": "Vedbæk Cup vender tilbage til rødderne i klubbens jubilæumsår",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34422-vedbaek-cup-vender-tilbage-til-rodderne-i-klubbens-jubilaeumsar",
-   "cat": "Kapsejlads",
-   "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
+   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
+   "cat": "Udstyr & både",
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
@@ -128,6 +155,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
+  },
+  {
+   "key": "baadmagasinet-34422",
+   "source": "Bådmagasinet",
+   "date": "2026-09-13",
+   "title": "Vedbæk Cup vender tilbage til rødderne i klubbens jubilæumsår",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34422-vedbaek-cup-vender-tilbage-til-rodderne-i-klubbens-jubilaeumsar",
+   "cat": "Kapsejlads",
+   "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
   },
   {
    "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
@@ -883,26 +919,6 @@
    "tjek": "2026-09-08"
   },
   {
-   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
-   "cat": "Kapsejlads",
-   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser.",
-   "tjek": "2026-09-15"
-  },
-  {
-   "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "Kramper i arme og ben kostede Schönherrs EM-medalje i Star",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
-   "cat": "Kapsejlads",
-   "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
-   "tjek": "2026-09-15"
-  },
-  {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -940,6 +956,26 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-15"
+  },
+  {
+   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
+   "cat": "Kapsejlads",
+   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser.",
+   "tjek": "2026-09-15"
+  },
+  {
+   "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "Kramper i arme og ben kostede Schönherrs EM-medalje i Star",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
+   "cat": "Kapsejlads",
+   "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
    "tjek": "2026-09-15"
   },
   {
@@ -1059,7 +1095,8 @@
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "baadmagasinet-34381",
@@ -1068,7 +1105,8 @@
    "title": "Piraterne kommer til Sønderborg",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
    "cat": "Havneliv",
-   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
+   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
@@ -1127,7 +1165,8 @@
    "title": "150 både til Copenhagen Boat Show med gratis indgang",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
@@ -2866,44 +2905,6 @@
    "cat": "Andet",
    "sum": "En skovbrand ødelagde 14 ud af 16 Soling-både ved Real Club Náutico de Madrid. Ingen kom til skade, men klubbens flåde og faciliteter blev hårdt ramt.",
    "tjek": "2026-08-14"
-  },
-  {
-   "key": "baadmagasinet-34296",
-   "source": "Bådmagasinet",
-   "date": "2026-07-29",
-   "title": "Nyt bådhus med faciliteter til sejlere og friluftsfolk",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34296-nyt-badhus-ved-gudenaen-abner-med-faciliteter-til-sejlere-og-friluftsfolk",
-   "cat": "Havneliv",
-   "sum": "Nyt bådhus ved Ry på Gudenåen byder på toilet, bad, ladeplads og hængekøjehotel for sejlere og friluftsfolk.",
-   "tjek": "2026-08-05"
-  },
-  {
-   "key": "baadmagasinet-34302",
-   "source": "Bådmagasinet",
-   "date": "2026-07-29",
-   "title": "Fyn Rundt samlede 55 bevaringsværdige sejlskibe - og de havde en 'fest'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34302-fyn-rundt-samlede-55-bevaringsvaerdige-sejlskibe",
-   "cat": "Kapsejlads",
-   "sum": "55 bevaringsværdige sejlskibe deltog i årets Fyn Rundt, der trods vejrændringer blev en festlig afslutning i Svendborg.",
-   "tjek": "2026-08-05"
-  },
-  {
-   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-28",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer samtalespillet 'Sejlerliv' i samarbejde med SNAKSPIL for at styrke fællesskab og nærvær ombord."
-  },
-  {
-   "key": "rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Rygskadet solo-sejler kæmper sig 500 sømil over Barentshavet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
-   "cat": "Tursejlads",
-   "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
   }
  ]
 }
