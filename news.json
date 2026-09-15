@@ -1,14 +1,26 @@
 {
- "generated": "2026-09-15T01:02:38+00:00",
- "count": 436,
+ "generated": "2026-09-15T06:16:11+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 136,
+ "arkiv_antal": 138,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Tursejlads",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Hav"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/"
+  },
+  {
+   "key": "baadmagasinet-34426",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "Hvem mangler mon disse joller og både?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34426-hvem-mangler-disse-joller-og-bade"
+  },
   {
    "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
    "source": "Minbåd.dk",
@@ -136,15 +148,6 @@
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
   },
   {
-   "key": "baadmagasinet-34424",
-   "source": "Bådmagasinet",
-   "date": "2026-09-12",
-   "title": "Dobbelt dansk VM triumf - Anna Munch og Søe vinder begge bronze",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34424-dobbelt-dansk-vm-triumf-anna-munch-og-soe-vinder-begge-bronze",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch vinder VM-bronze i ILCA6 med en femte- og fjerdeplads i finalesejladserne, mens Johan Søe misser iQFOiL-finalen efter tredjeplads i semifinalen."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
    "source": "Dansk Sejlunion",
    "date": "2026-09-12",
@@ -152,6 +155,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
    "cat": "Kapsejlads",
    "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
+  },
+  {
+   "key": "baadmagasinet-34424",
+   "source": "Bådmagasinet",
+   "date": "2026-09-12",
+   "title": "Dobbelt dansk VM triumf - Anna Munch og Søe vinder begge bronze",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34424-dobbelt-dansk-vm-triumf-anna-munch-og-soe-vinder-begge-bronze",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch vinder VM-bronze i ILCA6 med en femte- og fjerdeplads i finalesejladserne, mens Johan Søe misser iQFOiL-finalen efter tredjeplads i semifinalen."
   },
   {
    "key": "baadmagasinet-34416",
@@ -351,16 +363,6 @@
    "sum": "Danske Anna Munch er nr. 3 ved ILCA 6-VM i Irland, og Johan Søe er kvalificeret til gold-fleet ved iQFOiL-VM. Medaljer er inden for rækkevidde."
   },
   {
-   "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
-   "source": "Minbåd.dk",
-   "date": "2026-09-08",
-   "title": "Verdenseliten fløj over Nordsøen: Cold Hawaii viste tænder i Thy",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy/",
-   "cat": "Andet",
-   "sum": "Verdenseliten i kitesurfing dystede ved Cold Hawaii Big Air 2026 i Nørre Vorupør, hvor vind og bølger skabte ideelle forhold for spektakulære spring.",
-   "tjek": "2026-09-15"
-  },
-  {
    "key": "sundby-besaetning-suveraene-danske-mestre-i-yngling",
    "source": "Minbåd.dk",
    "date": "2026-09-08",
@@ -388,6 +390,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
    "cat": "Kapsejlads",
    "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser.",
+   "tjek": "2026-09-15"
+  },
+  {
+   "key": "verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Verdenseliten fløj over Nordsøen: Cold Hawaii viste tænder i Thy",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/verdenseliten-floej-over-nordsoeen-cold-hawaii-viste-taender-i-thy/",
+   "cat": "Andet",
+   "sum": "Verdenseliten i kitesurfing dystede ved Cold Hawaii Big Air 2026 i Nørre Vorupør, hvor vind og bølger skabte ideelle forhold for spektakulære spring.",
    "tjek": "2026-09-15"
   },
   {
@@ -701,16 +713,6 @@
    "tjek": "2026-09-15"
   },
   {
-   "key": "garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Garmin lancerer ny SmartDrive-autopilot til sejlbåde op til 45 fod",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
-   "cat": "Udstyr & både",
-   "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke.",
-   "tjek": "2026-09-15"
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Motorbådsnyt",
    "date": "2026-09-03",
@@ -718,6 +720,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-15"
+  },
+  {
+   "key": "garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Garmin lancerer ny SmartDrive-autopilot til sejlbåde op til 45 fod",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke.",
    "tjek": "2026-09-15"
   },
   {
@@ -917,7 +929,8 @@
    "title": "Nyt, flydende shelter i Bogense Havn & Marina",
    "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
    "cat": "Havneliv",
-   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger."
+   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
@@ -926,7 +939,8 @@
    "title": "Klubkonference 2026",
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
@@ -975,7 +989,8 @@
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
@@ -2091,15 +2106,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "baadmagasinet-34333",
-   "source": "Bådmagasinet",
-   "date": "2026-08-12",
-   "title": "Nykøbing Falster: Omfattende havneplan møder kritik og skepsis fra sejlerne",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
-   "cat": "Havneliv",
-   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-08-12",
@@ -2107,6 +2113,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
+  },
+  {
+   "key": "baadmagasinet-34333",
+   "source": "Bådmagasinet",
+   "date": "2026-08-12",
+   "title": "Nykøbing Falster: Omfattende havneplan møder kritik og skepsis fra sejlerne",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34333-nykobing-falster-omfattende-havneplan-moder-kritik-og-skepsis-fra-sejlerne",
+   "cat": "Havneliv",
+   "sum": "Nykøbing Falster Havn omdannes til grøn bydel, men sejlere kritiserer planen for at negligere havnens maritime funktioner og sejladsliv."
   },
   {
    "key": "vmg-53-vil-udfordre-luksuskatamaranerne-med-fart-og-smartglas",
@@ -2889,25 +2904,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/rygskadet-solo-sejler-kaemper-sig-500-soemil-over-barentshavet/",
    "cat": "Tursejlads",
    "sum": "Norsk solo-sejler med rygskade kæmper sig 500 sømil over Barentshavet, trods problemer med selvstyring og strømforsyning."
-  },
-  {
-   "key": "fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Fynske danmarksmestre tog sølv ved Folkebådenes Gold Cup",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/fynske-danmarksmestre-tog-soelv-ved-folkebaadenes-gold-cup/",
-   "cat": "Kapsejlads",
-   "sum": "De fynske danmarksmestre i folkebåd, Geppeline, tog sølv ved Gold Cup i Travemünde, mens Thisted Sejlklubs CanCan vandt bronze. 42 både fra otte lande deltog."
-  },
-  {
-   "key": "tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer",
-   "source": "Minbåd.dk",
-   "date": "2026-07-28",
-   "title": "Tysk båd slår rekord Danmark rundt med næsten seks timer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/july/article/tysk-baad-slaar-rekord-danmark-rundt-med-naesten-seks-timer/",
-   "cat": "Kapsejlads",
-   "sum": "Den tyske JV 52 Haspa Hamburg satte ny rekord i Garmin Round Denmark Race med tiden 85 timer, 33 minutter og 34 sekunder, en forbedring på næsten seks timer.",
-   "tjek": "2026-08-15"
   }
  ]
 }
