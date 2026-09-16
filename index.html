@@ -51,7 +51,7 @@
   }
   .wrap { max-width: 880px; margin: 0 auto; }
   header.top {
-    display: flex; align-items: flex-end; justify-content: space-between; gap: 10px;
+    display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px;
     margin-bottom: 12px;
   }
   /* --ind er bredden af ankeret. Den bruges begge steder, så "Samlet"
@@ -60,7 +60,11 @@
   header.top h1 { font-size: 22px; font-weight: 700; min-width: 0; }
   header.top h1 #anker { display: inline-block; width: var(--ind); }
   .antal { font-size: 12px; line-height: 1.5; color: var(--muted); margin-top: 2px; padding-left: var(--ind); }
-  .tools { display: flex; align-items: center; gap: 6px; flex: 0 0 auto; }
+  /* margin-left: auto skubber knapperne til højre, uanset om de deler
+     linje med titlen eller får deres egen (flex-wrap ovenfor), hvis
+     titlen bliver for bred til at dele plads med dem - fx ved zoom
+     eller stor telefon-skrifttype. Så presses titlen aldrig i klemme. */
+  .tools { display: flex; align-items: center; gap: 6px; flex: 0 0 auto; margin-left: auto; }
   /* Ikonknapper: søg og filter */
   .iconbtn {
     position: relative; display: inline-flex; align-items: center; justify-content: center;
