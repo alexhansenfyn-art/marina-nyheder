@@ -157,7 +157,10 @@
   .dd { position: relative; }
   .dd > summary { list-style: none; user-select: none; }
   .ddpanel {
-    position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; min-width: 300px; max-width: 88vw;
+    /* width: min(...) i stedet for min-width+max-width - ellers vinder
+       min-width, og panelet presses bredere end skærmen og løber ud til
+       venstre, når 88vw bliver mindre end de 300px. */
+    position: absolute; z-index: 20; top: calc(100% + 6px); right: 0; width: min(300px, 92vw);
     background: var(--card); border: 1px solid var(--border2); border-radius: 12px; padding: 12px;
     box-shadow: 0 8px 24px rgba(0,0,0,.14);
     max-height: calc(100vh - 120px); overflow-y: auto; -webkit-overflow-scrolling: touch;
