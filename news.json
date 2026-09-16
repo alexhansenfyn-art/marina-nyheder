@@ -1,20 +1,27 @@
 {
- "generated": "2026-09-16T00:54:01+00:00",
- "count": 437,
+ "generated": "2026-09-16T06:07:48+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 137,
+ "arkiv_antal": 139,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
-   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "key": "risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek",
    "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
+   "date": "2026-09-16",
+   "title": "Risbjerg køber Renbåd og udvider med ny afdeling i Humlebæk",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek/",
+   "cat": "Udstyr & både",
+   "sum": "Risbjerg overtager Renbåd og opretter ny afdeling i Humlebæk for at styrke salg og service til bådejere"
+  },
+  {
+   "key": "baadmagasinet-34433",
+   "source": "Bådmagasinet",
+   "date": "2026-09-16",
+   "title": "Fremtiden for Langebro til debat: Skal den kunne åbne eller lukkes permanent?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34433-fremtiden-for-langebro-til-debat-skal-den-kunne-abne-eller-lukkes-permanent"
   },
   {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
@@ -24,6 +31,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+  },
+  {
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
   },
   {
    "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
@@ -377,16 +393,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-09",
-   "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
-   "cat": "Kapsejlads",
-   "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
@@ -394,6 +400,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
+   "cat": "Kapsejlads",
+   "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads.",
    "tjek": "2026-09-16"
   },
   {
@@ -737,16 +753,6 @@
    "tjek": "2026-09-11"
   },
   {
-   "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Regnen bremsede Copenhagen Boat Show – men salget gav optimisme",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show i Ishøj sluttede med 11.912 besøg trods regn. Flere udstillere meldte om konkrete handler, bl.a. en Regal-båd og syv både fra Tempo Bådsalg.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
    "source": "Minbåd.dk",
    "date": "2026-09-03",
@@ -784,6 +790,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Regnen bremsede Copenhagen Boat Show – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show i Ishøj sluttede med 11.912 besøg trods regn. Flere udstillere meldte om konkrete handler, bl.a. en Regal-båd og syv både fra Tempo Bådsalg.",
    "tjek": "2026-09-16"
   },
   {
@@ -983,7 +999,8 @@
    "title": "Klubkonference 2026",
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
@@ -1052,7 +1069,8 @@
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
@@ -2889,25 +2907,6 @@
    "cat": "Andet",
    "sum": "Artiklen forklarer oprindelsen og betydningen af gamle maritime udtryk som styrbord, bagbord og halse, og hvordan de stadig bruges i dag til navigation og sikkerhed.",
    "tjek": "2026-08-06"
-  },
-  {
-   "key": "baadmagasinet-34298",
-   "source": "Bådmagasinet",
-   "date": "2026-07-30",
-   "title": "Norsk ekstremsejler udforsker Arktis: Følg den nervepirrende færd mod Kvitøya og Nordpolens is",
-   "url": "https://www.baadmagasinet.dk/tursejlads/34298-norsk-ekstremsejler-udforsker-arktis-folg-den-nervepirrende-faerd-mod-kvitoya-og-nordpolens-is",
-   "cat": "Tursejlads",
-   "sum": "Norsk ekstremsejler Erik Aanderaa sejler mod Kvitøya i Arktis og deler sin nervepirrende færd på sociale medier efter dramatisk møde med iskanten.",
-   "tjek": "2026-08-06"
-  },
-  {
-   "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-29",
-   "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
-   "cat": "Havneliv",
-   "sum": "Artiklen beskriver Østerby Havn på Læsø som en unik destination med speciel natur, sæler og gratis bus, men få traditionelle seværdigheder, og fremhæver den hyggelige havnestemning."
   }
  ]
 }
