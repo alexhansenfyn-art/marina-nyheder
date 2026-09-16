@@ -52,7 +52,7 @@
   .wrap { max-width: 880px; margin: 0 auto; }
   header.top {
     display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
   /* --ind er bredden af ankeret. Den bruges begge steder, så "Samlet"
      flugter med "Marina" uanset skriftstørrelse. */
@@ -164,6 +164,10 @@
     font-size: 13px; font-weight: 700; color: var(--muted); text-transform: uppercase;
     letter-spacing: .05em; margin: 18px 0 8px 2px;
   }
+  /* Den allerførste overskrift ("I går" e.l.) skal ikke have samme
+     luft over sig som dem længere nede - der er allerede plads nok
+     efter selve header-boksen. */
+  #list > .ghead:first-child { margin-top: 4px; }
   a.card {
     background: var(--card); border: 1px solid var(--border); border-radius: 12px;
     padding: 12px 14px; margin-bottom: 8px; display: block;
