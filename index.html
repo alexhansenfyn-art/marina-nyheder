@@ -91,13 +91,18 @@
      Den lyse kant og pilen viser at hele bjælken er en knap. */
   .sponsor {
     position: relative;
-    display: flex; align-items: center; justify-content: center; gap: 14px;
+    display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px 14px;
     background: var(--accent); color: #fff; text-decoration: none;
     border: 2px solid rgba(255,255,255,.55); border-radius: 10px;
     padding: 9px 16px; margin-bottom: 12px;
     -webkit-tap-highlight-color: transparent;
     transition: background .12s, border-color .12s;
   }
+  /* Er der ikke plads nok til mindst ca. 200px tekst ved siden af logoet
+     (fx ved stor skrift eller smal skærm), skal HELE teksten flyttes ned
+     under logoet på sin egen linje - ikke klemmes ind til en smal, høj
+     søjle. 200px er stadig rigelig plads til at ombryde pænt dernede. */
+  .sponsor > span:first-of-type { min-width: 200px; }
   .sponsor:hover { background: var(--accent-dark); border-color: #fff; }
   /* Logoet ligger i siden selv, ikke hentet fra assens-marina.dk: så forsvinder
      det ikke, hvis filen en dag bliver omdøbt eller ryddet væk derovre. */
@@ -239,7 +244,7 @@
   <header class="top">
     <div class="titel">
       <h1><span id="anker" title="">&#9875;</span>Marina- og HavneNyheder</h1>
-      <p class="antal">Sidst opdateret: <span id="opdateret"><!--OPDATERET_START-->16. sep 2026 kl. 02.54<!--OPDATERET_END--></span><br>
+      <p class="antal">Sidst opdateret: <span id="opdateret"><!--OPDATERET_START-->16. sep 2026 kl.&nbsp;02.54<!--OPDATERET_END--></span><br>
         Samlet antal nyheder: <span id="antal"><!--ANTAL_START-->437<!--ANTAL_END--></span></p>
     </div>
     <div class="tools" id="tools" style="display:none">
@@ -607,12 +612,14 @@
         day: "numeric", month: "numeric", year: "numeric",
         hour: "2-digit", minute: "2-digit", hour12: false
       }).formatToParts(d).forEach(function(x){ p[x.type] = x.value; });
+      //   (fast mellemrum) mellem "kl." og klokkeslættet, saa de to
+      // aldrig knækkes fra hinanden, hvis linjen skal deles op.
       return p.day + ". " + DA_SHORT[+p.month - 1] + " " + p.year +
-        " kl. " + p.hour + "." + p.minute;
+        " kl. " + p.hour + "." + p.minute;
     } catch (e) {
       // Reserve for browsere uden tidszonestoette: laeserens egen lokaltid.
       return d.getDate() + ". " + DA_SHORT[d.getMonth()] + " " + d.getFullYear() +
-        " kl. " + String(d.getHours()).padStart(2, "0") + "." +
+        " kl. " + String(d.getHours()).padStart(2, "0") + "." +
         String(d.getMinutes()).padStart(2, "0");
     }
   }

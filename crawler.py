@@ -814,8 +814,10 @@ def prerender_index(items):
                       lambda m: m.group(1) + str(len(items)) + m.group(2),
                       new_html, count=1)
     dk = dansk_tid(datetime.now(timezone.utc))
+    #   (fast mellemrum) mellem "kl." og klokkeslættet, saa Safari/Chrome
+    # ikke knækker linjen imellem dem ved smal skærm eller stor skrift.
     stempel = (f"{dk.day}. {DA_MONTH_SHORT[dk.month - 1]} {dk.year} "
-               f"kl. {dk.hour:02d}.{dk.minute:02d}")
+               f"kl. {dk.hour:02d}.{dk.minute:02d}")
     new_html = re.sub(r"(<!--OPDATERET_START-->).*?(<!--OPDATERET_END-->)",
                       lambda m: m.group(1) + stempel + m.group(2),
                       new_html, count=1)
