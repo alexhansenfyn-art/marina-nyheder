@@ -1,12 +1,22 @@
 {
- "generated": "2026-09-16T06:07:48+00:00",
- "count": 439,
+ "generated": "2026-09-16T11:41:32+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 139,
+ "arkiv_antal": 140,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: kunne ikke tolke AI-svar: ",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Udstyr & bå"
  ],
  "items": [
+  {
+   "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
+   "source": "Minbåd.dk",
+   "date": "2026-09-16",
+   "title": "Redaktøren har en båd for meget – nu skal Dehler 34’eren, med nye sejl og motor, videre",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
+   "cat": "Udstyr & både",
+   "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn."
+  },
   {
    "key": "risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek",
    "source": "Minbåd.dk",
@@ -21,7 +31,27 @@
    "source": "Bådmagasinet",
    "date": "2026-09-16",
    "title": "Fremtiden for Langebro til debat: Skal den kunne åbne eller lukkes permanent?",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34433-fremtiden-for-langebro-til-debat-skal-den-kunne-abne-eller-lukkes-permanent"
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34433-fremtiden-for-langebro-til-debat-skal-den-kunne-abne-eller-lukkes-permanent",
+   "cat": "Andet",
+   "sum": "Københavns Kommune har startet høring om Langebros fremtid: fortsat oplukkelig eller permanent lukket. Renovering koster 400-417 mio. kr., mens lukning koster 170-220 mio. kr."
+  },
+  {
+   "key": "baadmagasinet-34430",
+   "source": "Bådmagasinet",
+   "date": "2026-09-16",
+   "title": "Historisk sejr til Tom Bradys hold i Angola: Udbygger føringen i dramatisk E1-finale",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34430-historisk-sejr-til-tom-bradys-hold-i-angola-udbygger-foringen-i-dramatisk-e1-finale",
+   "cat": "Kapsejlads",
+   "sum": "Tom Bradys hold vandt en historisk E1-sejr i Luanda, Angola, og udbyggede føringen før sæsonfinalen. Will Smiths hold røg ud efter dramatisk kvalifikation."
+  },
+  {
+   "key": "baadmagasinet-34435",
+   "source": "Bådmagasinet",
+   "date": "2026-09-16",
+   "title": "Risbjerg overtager Renbåd – og rykker samtidig ind på Sjælland",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34435-risbjerg-overtager-renbad-og-rykker-samtidig-ind-pa-sjaelland",
+   "cat": "Andet",
+   "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både."
   },
   {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
@@ -393,16 +423,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
-   "source": "Minbåd.dk",
-   "date": "2026-09-09",
-   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "cat": "Udstyr & både",
-   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
@@ -420,6 +440,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
    "cat": "Sikkerhed",
    "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-09",
+   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
+   "cat": "Udstyr & både",
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
    "tjek": "2026-09-16"
   },
   {
@@ -773,16 +803,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Ligaen: Horsens og Bandholm sejrede i Lemvig efter vindstød på 18 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek/",
-   "cat": "Kapsejlads",
-   "sum": "Sejlsportsligaen afviklede to weekender i Lemvig med hård vind og skiftende forhold. Horsens Sejlklub vandt 2. division, mens Bandholm Sejlklub vandt 1. division.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Motorbådsnyt",
    "date": "2026-09-03",
@@ -790,6 +810,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Ligaen: Horsens og Bandholm sejrede i Lemvig efter vindstød på 18 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek/",
+   "cat": "Kapsejlads",
+   "sum": "Sejlsportsligaen afviklede to weekender i Lemvig med hård vind og skiftende forhold. Horsens Sejlklub vandt 2. division, mens Bandholm Sejlklub vandt 1. division.",
    "tjek": "2026-09-16"
   },
   {
@@ -1139,7 +1169,8 @@
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "baadmagasinet-34381",
@@ -1148,7 +1179,8 @@
    "title": "Piraterne kommer til Sønderborg",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
    "cat": "Havneliv",
-   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
+   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
@@ -2878,35 +2910,6 @@
    "cat": "Sikkerhed",
    "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene.",
    "tjek": "2026-08-07"
-  },
-  {
-   "key": "motorbaade-har-to-oekonomiske-fartomraader",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-30",
-   "title": "Motorbåde har to økonomiske fartområder",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
-   "cat": "Andet",
-   "sum": "Artiklen forklarer, at planende motorbåde har to økonomiske fartområder: lav fart omkring skrogfarten og høj, stabil planingsfart, mens mellemområdet er dyrt."
-  },
-  {
-   "key": "hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe",
-   "source": "Minbåd.dk",
-   "date": "2026-07-30",
-   "title": "Hallberg-Rassy sank om natten - sejler reddet på klippe",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/july/article/hallberg-rassy-sank-om-natten-sejler-reddet-paa-klippe/",
-   "cat": "Sikkerhed",
-   "sum": "En solosejler i en Hallberg-Rassy sank efter grundstødning ud for Bretagne. Skipperen blev reddet af fransk marinehelikopter efter at have søgt tilflugt på en klippe.",
-   "tjek": "2026-08-14"
-  },
-  {
-   "key": "baadmagasinet-34305",
-   "source": "Bådmagasinet",
-   "date": "2026-07-30",
-   "title": "Det maritime modersmål: Fra viking til vigepligt",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34305-det-maritime-modersmal-fra-viking-til-vigepligt",
-   "cat": "Andet",
-   "sum": "Artiklen forklarer oprindelsen og betydningen af gamle maritime udtryk som styrbord, bagbord og halse, og hvordan de stadig bruges i dag til navigation og sikkerhed.",
-   "tjek": "2026-08-06"
   }
  ]
 }
