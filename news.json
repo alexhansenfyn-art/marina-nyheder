@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T19:10:15+00:00",
+ "generated": "2026-09-16T22:15:18+00:00",
  "count": 438,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 138,
@@ -8,15 +8,6 @@
  ],
  "items": [
   {
-   "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
-   "source": "Minbåd.dk",
-   "date": "2026-09-16",
-   "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
-   "cat": "Udstyr & både",
-   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
-  },
-  {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
    "source": "Minbåd.dk",
    "date": "2026-09-16",
@@ -24,6 +15,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
    "cat": "Udstyr & både",
    "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn."
+  },
+  {
+   "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
+   "source": "Minbåd.dk",
+   "date": "2026-09-16",
+   "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
+   "cat": "Udstyr & både",
+   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
   },
   {
    "key": "risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek",
@@ -801,16 +801,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Stannow, Andersen og Nørgaard vandt The Viking Challenge i Middelfart",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart/",
-   "cat": "Kapsejlads",
-   "sum": "Tue Andersen, Erik Stannow og Niels Nørgaard Pedersen vandt deres grupper ved The Viking Challenge i Middelfart under Blue Week. Dermed er de klar til DH-DM.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Motorbådsnyt",
    "date": "2026-09-03",
@@ -818,6 +808,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Stannow, Andersen og Nørgaard vandt The Viking Challenge i Middelfart",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart/",
+   "cat": "Kapsejlads",
+   "sum": "Tue Andersen, Erik Stannow og Niels Nørgaard Pedersen vandt deres grupper ved The Viking Challenge i Middelfart under Blue Week. Dermed er de klar til DH-DM.",
    "tjek": "2026-09-16"
   },
   {
@@ -1317,7 +1317,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
