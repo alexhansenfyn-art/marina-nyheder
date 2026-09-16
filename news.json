@@ -1,13 +1,21 @@
 {
- "generated": "2026-09-16T11:41:32+00:00",
- "count": 440,
+ "generated": "2026-09-16T15:37:10+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 139,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: ",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Udstyr & bå"
+  "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
+   "source": "Minbåd.dk",
+   "date": "2026-09-16",
+   "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
+   "cat": "Udstyr & både",
+   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
+  },
   {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
    "source": "Minbåd.dk",
@@ -63,15 +71,6 @@
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
   },
   {
-   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
-  },
-  {
    "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-09-15",
@@ -79,6 +78,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
    "cat": "Kapsejlads",
    "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
+  },
+  {
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
   },
   {
    "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
@@ -234,15 +242,6 @@
    "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
   },
   {
-   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
-   "source": "Minbåd.dk",
-   "date": "2026-09-12",
-   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
-   "cat": "Udstyr & både",
-   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
-  },
-  {
    "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
    "source": "Minbåd.dk",
    "date": "2026-09-12",
@@ -250,6 +249,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
+  },
+  {
+   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
+   "cat": "Udstyr & både",
+   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
@@ -723,16 +731,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
@@ -740,6 +738,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang.",
    "tjek": "2026-09-16"
   },
   {
@@ -993,16 +1001,6 @@
    "tjek": "2026-09-08"
   },
   {
-   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
-   "cat": "Sikkerhed",
-   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
-   "tjek": "2026-09-16"
-  },
-  {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
    "date": "2026-08-31",
@@ -1030,6 +1028,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
+   "cat": "Sikkerhed",
+   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
    "tjek": "2026-09-16"
   },
   {
@@ -1239,7 +1247,8 @@
    "title": "150 både til Copenhagen Boat Show med gratis indgang",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-16"
   },
   {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
@@ -2899,16 +2908,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord",
    "cat": "Kapsejlads",
    "sum": "The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster.",
-   "tjek": "2026-08-07"
-  },
-  {
-   "key": "baadmagasinet-34309",
-   "source": "Bådmagasinet",
-   "date": "2026-07-31",
-   "title": "Spækhuggere angriber fire sejlbåde på én dag – én sank",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34309-spaekhuggere-angriber-fire-sejlbade-pa-en-dag-en-sank",
-   "cat": "Sikkerhed",
-   "sum": "Spækhuggere angreb fire sejlbåde ud for Spanien på én dag; én sank. Siden 2020 er der registreret omkring 700 interaktioner med skader på halvdelen af bådene.",
    "tjek": "2026-08-07"
   }
  ]
