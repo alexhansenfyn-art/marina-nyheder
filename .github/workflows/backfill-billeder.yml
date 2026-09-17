@@ -1,0 +1,47 @@
+name: Efterhent billeder (engangsjob)
+
+# Kun manuel - dette er ikke en del af den almindelige crawl. Se
+# backfill_billeder.py for hvorfor jobbet findes, og kør det kun én gang
+# (eller igen senere, hvis nye kilder får samme "gamle poster uden billede"
+# -problem).
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Installer afhængigheder
+        run: pip install requests beautifulsoup4
+
+      - name: Efterhent billeder
+        run: python backfill_billeder.py
+
+      - name: Commit og push hvis der er nyt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json news-arkiv.json index.html sitemap.xml feed.xml
+          git diff --cached --quiet && exit 0
+          git commit -m "Efterhent billeder til gamle arkivposter"
+          for forsoeg in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push mislykkedes (forsoeg $forsoeg), proever igen om 10 sekunder"
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          echo "Kunne ikke pushe efter 3 forsoeg" >&2
+          exit 1

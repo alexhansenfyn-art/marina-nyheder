@@ -147,6 +147,33 @@ fint — bare uden AI-kategorier og resuméer.
   er nu tydelig, og `enrich_items` prøver automatisk én gang til ved et tomt
   svar, før artiklen opgives til næste kørsel.
 
+## Rettelser 17. september 2026, del 2 (billeder i praksis, fastfrosset top)
+
+- **Dansk Sejlunion manglede billede.** `parse_dansksejlunion()` hentede
+  allerede artiklens egen side (for titel og dato), men læste aldrig dens
+  `og:image`. Rettet uden ekstra netværkskald, da siden alligevel blev hentet.
+- **Bådmagasinet ser IKKE ud til at have en aktiv fejl i selve parseren.**
+  Undersøgt grundigt: samme HTML-struktur (`qx-item qx-media`) findes både
+  hos artikler med og uden billede i vores data, og koden burde finde
+  billedet i begge tilfælde. Den sandsynlige forklaring er i stedet, at
+  mange gamle poster i arkivet blev crawlet, FØR billeder overhovedet blev
+  gemt (se rettelsen ovenfor fra samme dag) - crawleren genbesøger ikke en
+  artikel, den allerede kender, så de gamle poster får aldrig et billede af
+  sig selv, uanset hvor god koden bliver. Det gælder ikke kun Bådmagasinet,
+  men alle kilder med gamle arkivposter (bekræftet i data fra Minbåd.dk og
+  MarinaGuide også).
+- **`backfill_billeder.py` + `.github/workflows/backfill-billeder.yml`:**
+  et engangsscript til at rette op på ovenstående. Går gennem alle poster
+  uden `"img"` i `news.json` og `news-arkiv.json`, henter artiklens EGEN
+  side og læser dens `og:image` (samme metode som en delingsknap ville
+  bruge) - langt mere robust end at genskrabe kildens oversigtsside, som
+  kan have ændret sig eller rullet artiklen væk siden dengang. Køres manuelt
+  fra Actions-fanen ("Efterhent billeder (engangsjob)"), ikke automatisk,
+  og er ikke tænkt som noget der skal køres jævnligt.
+- **Fastfrosset top.** Logo, overskrift og menu (`.freeze`, med
+  `position: sticky`) bliver nu stående øverst, mens nyhedskortene - og
+  deres billeder - ruller under, som frosne rækker i et regneark.
+
 ## Kendte begrænsninger
 
 - **Resuméerne er ikke faktatjekket.** Der er ingen systematisk kontrol af, om

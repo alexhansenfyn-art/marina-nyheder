@@ -50,6 +50,17 @@
     padding: 20px calc(20px + env(safe-area-inset-right)) calc(20px + env(safe-area-inset-bottom)) calc(20px + env(safe-area-inset-left));
   }
   .wrap { max-width: 880px; margin: 0 auto; }
+  /* Fastfrosset top: logo, overskrift og menu bliver stående, mens kortene
+     (og deres billeder) ruller nedenunder - som frosne rækker i et regneark.
+     top:0 er nok, fordi .wrap ikke selv ruller - hele siden gør, og
+     position:sticky følger så vinduets øverste kant. Baggrundsfarven er
+     nødvendig, ellers ville kortene skinne igennem, når de ruller op under
+     den frosne del. */
+  .freeze {
+    position: sticky; top: 0; z-index: 20;
+    background: var(--bg);
+    padding-bottom: 10px; margin-bottom: -10px;
+  }
   header.top {
     display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px;
     margin-bottom: 8px;
@@ -215,7 +226,7 @@
      andre steder på siden), så mobilen beholder billede-foroven-udseendet. */
   @media (min-width: 561px) {
     a.card:has(.thumb) { display: flex; gap: 16px; align-items: flex-start; }
-    a.card:has(.thumb) .thumb { flex: 0 0 200px; width: 200px; height: 130px; margin-bottom: 0; }
+    a.card:has(.thumb) .thumb { flex: 0 0 320px; width: 320px; height: 200px; margin-bottom: 0; }
     a.card:has(.thumb) .card-body { flex: 1 1 auto; min-width: 0; }
   }
   .sentinel { height: 1px; }
@@ -256,6 +267,7 @@
 </head>
 <body>
 <div class="wrap">
+  <div class="freeze">
   <a class="sponsor" href="https://assens-marina.dk/" target="_blank" rel="noopener"
      data-umami-event="Klik til Assens Marina">
     <svg class="sponsorlogo" viewBox="0 0 177.63 38.83" width="150" height="33"
@@ -310,6 +322,7 @@
   </div>
   <div class="searchrow" id="srcRow">
     <input class="search" id="q" type="search" placeholder="S&oslash;g i overskrifter&hellip;">
+  </div>
   </div>
   <div id="list"><!--NEWS_START-->
 <a class="card" href="https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/" target="_blank" rel="noopener"><img class="thumb" src="https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_63e67f4850.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()"><span class="title">Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen</span><div class="meta">17. sep 2026<span class="dot">&middot;</span><span class="read-source">Læs hos Minbåd.dk <span aria-hidden="true">&#8599;</span></span></div></a>

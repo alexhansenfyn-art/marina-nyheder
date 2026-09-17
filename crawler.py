@@ -376,7 +376,7 @@ def parse_dansksejlunion(html, base_url, label):
             continue
         fundet.add(path)
 
-        title, dato = clean(a.get_text())[:140], None
+        title, dato, img = clean(a.get_text())[:140], None, None
         try:
             side = fetch(url)
             title = clean(og_meta(side, "og:title")) or title
@@ -389,13 +389,16 @@ def parse_dansksejlunion(html, base_url, label):
                 d = re.match(r"(\d{2})\.(\d{2})\.((?:19|20)\d{2})", u)
                 if d:
                     dato = plausible_date(f"{d.group(3)}-{d.group(2)}-{d.group(1)}")
+            # Siden er allerede hentet ovenfor til titel/dato - et og:image
+            # koster derfor ingen ekstra sidehentning at tage med.
+            img = og_meta(side, "og:image") or None
         except Exception as e:  # noqa: BLE001
             note_ai_error(f"dansksejlunion: {url}: {type(e).__name__}: {e}")
 
         if len(title) < 12:
             continue
         ud.append({"key": host_of(url) + path.rstrip("/"), "source": label,
-                   "date": dato, "title": title, "url": url})
+                   "date": dato, "title": title, "url": url, "img": img})
         if len(ud) >= MAX_PER_GENERIC_SOURCE:
             break
     return ud
