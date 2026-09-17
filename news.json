@@ -1,12 +1,39 @@
 {
- "generated": "2026-09-17T05:32:17+00:00",
- "count": 440,
+ "generated": "2026-09-17T10:30:16+00:00",
+ "count": 421,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 121,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "De bor på et bådeværft i Mexico – to både koster 52.000 kroner om året",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret/",
+   "cat": "Havneliv",
+   "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år."
+  },
+  {
+   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-17",
+   "title": "Solpaneler efter mål - kan laves flotte",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
+   "cat": "Udstyr & både",
+   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
+   "cat": "Sikkerhed",
+   "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr."
+  },
   {
    "key": "danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret",
    "source": "Minbåd.dk",
@@ -15,6 +42,13 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
    "cat": "Andet",
    "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal."
+  },
+  {
+   "key": "baadmagasinet-34436",
+   "source": "Bådmagasinet",
+   "date": "2026-09-17",
+   "title": "Ros til danske redningsfolk: Sejlere reddet i land ud for Svaneke",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34436-ros-til-danske-redningsfolk-sejlere-reddet-i-land-ud-for-svaneke"
   },
   {
    "key": "baadmagasinet-34434",
@@ -80,15 +114,6 @@
    "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både."
   },
   {
-   "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-15",
-   "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
-   "cat": "Udstyr & både",
-   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
-  },
-  {
    "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-09-15",
@@ -123,6 +148,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
+  },
+  {
+   "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
+   "cat": "Udstyr & både",
+   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
   },
   {
    "key": "baadmagasinet-34426",
@@ -605,16 +639,6 @@
    "tjek": "2026-09-17"
   },
   {
-   "key": "baadmagasinet-34400",
-   "source": "Bådmagasinet",
-   "date": "2026-09-07",
-   "title": "Historisk LEGO-model af Kongeskibet Dannebrog kommer under hammeren",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34400-historisk-lego-model-af-kongeskibet-dannebrog-kommer-under-hammeren",
-   "cat": "Andet",
-   "sum": "En original LEGO-model af Kongeskibet Dannebrog fra LEGOLAND Miniland sælges på auktion til fordel for velgørenhed. Modellen har ligget udendørs i næsten 30 år og er bygget i 1998.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
    "source": "Dansk Sejlunion",
    "date": "2026-09-07",
@@ -622,6 +646,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
    "cat": "Kapsejlads",
    "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "baadmagasinet-34400",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Historisk LEGO-model af Kongeskibet Dannebrog kommer under hammeren",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34400-historisk-lego-model-af-kongeskibet-dannebrog-kommer-under-hammeren",
+   "cat": "Andet",
+   "sum": "En original LEGO-model af Kongeskibet Dannebrog fra LEGOLAND Miniland sælges på auktion til fordel for velgørenhed. Modellen har ligget udendørs i næsten 30 år og er bygget i 1998.",
    "tjek": "2026-09-17"
   },
   {
@@ -725,16 +759,6 @@
    "tjek": "2026-09-12"
   },
   {
-   "key": "ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Ny Dragonfly 33 på vej efter den lynhurtige 36'er",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
-   "cat": "Udstyr & både",
-   "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
@@ -752,6 +776,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Ny Dragonfly 33 på vej efter den lynhurtige 36'er",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
+   "cat": "Udstyr & både",
+   "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads.",
    "tjek": "2026-09-17"
   },
   {
@@ -905,16 +939,6 @@
    "tjek": "2026-09-10"
   },
   {
-   "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
-   "source": "Minbåd.dk",
-   "date": "2026-09-02",
-   "title": "FLID kræver dansk bådregister efter 2.000 både er forladt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt/",
-   "cat": "Havneliv",
-   "sum": "Efterladte både skaber store problemer i danske lystbådehavne. FLID kræver et obligatorisk bådregister for at holde ejerne ansvarlige og undgå store udgifter for havnene.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
    "source": "Motorbådsnyt",
    "date": "2026-09-02",
@@ -922,6 +946,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
    "cat": "Sikkerhed",
    "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
+   "source": "Minbåd.dk",
+   "date": "2026-09-02",
+   "title": "FLID kræver dansk bådregister efter 2.000 både er forladt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt/",
+   "cat": "Havneliv",
+   "sum": "Efterladte både skaber store problemer i danske lystbådehavne. FLID kræver et obligatorisk bådregister for at holde ejerne ansvarlige og undgå store udgifter for havnene.",
    "tjek": "2026-09-17"
   },
   {
@@ -1201,7 +1235,8 @@
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "baadmagasinet-34381",
@@ -1210,7 +1245,8 @@
    "title": "Piraterne kommer til Sønderborg",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
    "cat": "Havneliv",
-   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
+   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
@@ -1932,16 +1968,6 @@
    "cat": "Kapsejlads",
    "sum": "Lars Schaldemose og Sundby Sejlforening vandt DM i BB10 Meter i Nyborg, efter Theis Palm ikke deltog. Ulrik Larsen fik sølv, Bjarne Venø bronze.",
    "tjek": "2026-09-06"
-  },
-  {
-   "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
-   "source": "Minbåd.dk",
-   "date": "2026-08-18",
-   "title": "Solpaneler efter mål på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/august/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "cat": "Udstyr & både",
-   "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet.",
-   "tjek": "2026-08-31"
   },
   {
    "key": "baadmagasinet-34350",
@@ -2880,36 +2906,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/",
    "cat": "Kapsejlads",
    "sum": "Elliott 35 SS'eren Palby Marine førte Garmin Round Denmark Race, men masten knækkede kort før Gedser. Ingen kom til skade, og sejren gik til tyske Haspa Hamburg."
-  },
-  {
-   "key": "baadmagasinet-34313",
-   "source": "Bådmagasinet",
-   "date": "2026-08-01",
-   "title": "Helt gratis: 27 fods klinkbygget træbåd søger nye ejere",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34313-gratis-27-fods-klinkbygget-traebad-soger-nye-ejere",
-   "cat": "Udstyr & både",
-   "sum": "En 27 fods klinkbygget træbåd fra 1966 gives væk til den rette ejer. Båden kræver istandsættelse og står i Fjællebroen Havn på Sydfyn.",
-   "tjek": "2026-08-10"
-  },
-  {
-   "key": "baadmagasinet-34307",
-   "source": "Bådmagasinet",
-   "date": "2026-08-01",
-   "title": "Ungdoms-VM, ILCA: Verdenseliten samles – 51 nationer klar i Aarhus",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34307-verdenseliten-samles-til-ungdoms-vm-i-ilca-51-nationer-klar-i-aarhus",
-   "cat": "Kapsejlads",
-   "sum": "Ungdoms-VM i ILCA 4 og 6 afholdes i Aarhus med deltagelse af omkring 1.000 sejlere fra 51 nationer. Danske talenter får hjemmebanefordel.",
-   "tjek": "2026-08-08"
-  },
-  {
-   "key": "shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt",
-   "source": "Minbåd.dk",
-   "date": "2026-07-31",
-   "title": "Shogun 43 skal vise fart og luksus ved Tjörn Runt - nu video",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/shogun-43-skal-vise-fart-og-luksus-ved-tjoern-runt/",
-   "cat": "Kapsejlads",
-   "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus.",
-   "tjek": "2026-08-17"
   }
  ]
 }
