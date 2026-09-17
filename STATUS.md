@@ -117,23 +117,35 @@ fint — bare uden AI-kategorier og resuméer.
 - **Resuméerne vises ikke længere nogen steder på sitet** (hverken i
   kortene, i den forudrenderede HTML eller i RSS-feedet). Alex har ikke
   indhentet tilladelse fra kilderne til at gengive uddrag af deres tekst.
-  `enrich_items` skriver stadig et resumé til `"sum"`-feltet i data, så det
-  ligger klar og kan slås til igen, hvis en kilde giver lov — men ingen af
-  visningslagene (`card()` i index.html, `prerender_index()`, `write_feed()`
-  i crawler.py) læser feltet ud længere.
-- Vigtigt: dette er *ikke* løst med adgangskode/login, sådan som det først
-  blev foreslået. En statisk GitHub Pages-side kan ikke gemme en hemmelighed,
-  som besøgendes browser aldrig ser — alt, der nogensinde vises, ligger i den
-  HTML/JS, browseren allerede har hentet, og kan læses i "vis kildekode"
-  uanset eventuel adgangskodeboks. At *undlade at vise* feltet er den eneste
-  reelle beskyttelse, en statisk side kan give.
+- **AI-resumégenerering er sat helt på pause**, ikke bare skjult i visningen.
+  `enrich_items` beder nu kun DeepSeek om kategori, ikke resumé - der er
+  ingen grund til at lade AI'en digte tekst, der bare ligger ubrugt. Gamle
+  resuméer i arkivet (feltet `"sum"`) slettes ikke og virker stadig med
+  klik-genvejen nedenfor, men der kommer ikke flere til. Kategorien (bruges
+  i Emner-filteret) beriges fortsat som før - det er en visende, brugt
+  funktion, ikke en hvilende tekst.
+- **Skjult genvej i index.html:** klik 3 gange på "Kilder"-overskriften i
+  filterpanelet inden for 5 sekunder for at vise resuméer (kun de gamle, der
+  allerede findes); klik 3 gange til (6 i alt) for at skjule dem igen. Tænkt
+  som demo-værktøj, fx til at vise en redaktør hvordan det ville se ud - IKKE
+  en beskyttelse. Resuméteksten ligger under alle omstændigheder i
+  `news.json`, som enhver besøgendes browser henter; genvejen styrer kun,
+  om den vises i selve kortet.
+- Får en kilde en dag lov til at bruge et resumé, er den oplagte løsning at
+  bruge KILDENS EGNE ord (fra en redaktør), ikke at slå AI-generering til
+  igen.
 - **Billedbeslutningen fra 26. august er vendt om.** `img_near` (som finder
   et billedelink i eller omkring artiklen) beholdes nu i `"img"`-feltet i
   stedet for at blive fjernet før news.json skrives. Billedet vises som
   `<img src="kildens-egen-adresse">` — det hentes/kopieres aldrig til dette
   repo, kun linket bruges, ligesom links til selve artiklen. Går kildens
   billede offline, fjerner `onerror="this.remove()"` det stille fra kortet.
-  Se opdateret docstring øverst i `crawler.py`.
+  På skærme over 560px vises billede og tekst side om side (`.card-body`);
+  under 560px (mobil) er billedet foroven i fuld bredde som hidtil.
+- **Rettet:** et tomt AI-svar fra DeepSeek gav en kryptisk fejlbesked uden
+  indhold ("kunne ikke tolke AI-svar:" - uden noget efter kolon). Fejlbeskeden
+  er nu tydelig, og `enrich_items` prøver automatisk én gang til ved et tomt
+  svar, før artiklen opgives til næste kørsel.
 
 ## Kendte begrænsninger
 

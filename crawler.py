@@ -18,11 +18,14 @@ kilden fjerner eller flytter billedet, forsvinder det bare fra kortet
 (onerror), ikke en fejl. Hold dig til rene link - download/kopiér aldrig selve
 billedfilen ind i dette repo.
 
-AI-RESUMÉER SKRIVES STADIG, MEN VISES IKKE PÅ SITET (samme dato).
-`enrich_items` gemmer stadig et kort resumé i "sum" for hver artikel, men
-hverken prerender_index, write_feed eller index.html viser det længere - der
-er ikke indhentet tilladelse fra kilderne til at gengive uddrag af deres
-artikeltekst. Feltet ligger klar i data, hvis en kilde en dag giver lov.
+AI-RESUMÉER ER SAT PÅ PAUSE (samme dato). `enrich_items` beder ikke længere
+AI'en om at skrive resumé, kun kategori - der er ikke indhentet tilladelse fra
+kilderne til at gengive uddrag af deres artikeltekst, og Alex vil ikke have AI
+til at digte tekst, der bare ligger ubrugt. Gamle resuméer i arkivet (feltet
+"sum") slettes ikke og kan stadig vises via klik-genvejen i index.html, men
+ingen nye kommer til. Få en kilde en dag lov, er det oplagt at bruge KILDENS
+EGNE ord (fra en redaktør) i stedet for at slå AI-resumé til igen - se
+samtalen 17. sep 2026 for begrundelsen.
 """
 import html as html_mod
 import json
@@ -644,8 +647,10 @@ def is_stale_rekeyed(item):
 
 def parse_json(raw):
     """Tolk AI-svar som JSON. Tåler markdown-hegn og afkortede svar."""
-    if raw is None:
-        raise ValueError("tomt AI-svar")
+    if raw is None or not raw.strip():
+        # AI'en svarede med et helt tomt indhold (ikke fejlformateret - bare
+        # intet). Set nogle gange, formentlig forbigående hos DeepSeek.
+        raise ValueError("AI svarede tomt (intet indhold i svaret)")
     txt = raw.strip()
     if txt.startswith("```"):
         txt = re.sub(r"^```[a-z]*\s*|\s*```$", "", txt)
@@ -730,24 +735,34 @@ def enrich_items(items):
     done = 0
     failed = 0
     for it in todo:
+        # Kun kategori bedes om - resuméet er sat på pause (17. sep 2026).
+        # De vises jo ikke offentligt, kun via genvejen til demo for en
+        # redaktør, så der er ingen grund til at lade AI'en skrive nye. De
+        # resuméer, der allerede findes i arkivet, rører vi ikke ved.
+        text = article_text(it["url"])
+        prompt = (
+            "Kategoriser denne danske nyhed om sejlads/havne.\n"
+            f"Kategorier (vælg præcis én): {', '.join(CATEGORIES)}\n\n"
+            f"Overskrift: {it['title']}\n"
+            f"Artikeltekst: {text or '(ingen tekst fundet - brug overskriften)'}\n\n"
+            'Svar KUN med JSON: {"kategori": "..."}')
+        messages = [
+            {"role": "system", "content": "Du er redaktør på et dansk nyhedssite om marinaer og lystbådehavne. Svar kun med gyldig JSON."},
+            {"role": "user", "content": prompt},
+        ]
+        # Et tomt AI-svar er set at være forbigående hos DeepSeek - prøv én
+        # gang til, før artiklen opgives og skal vente til næste kørsel.
         try:
-            text = article_text(it["url"])
-            prompt = (
-                "Kategoriser denne danske nyhed om sejlads/havne og skriv et resumé.\n"
-                f"Kategorier (vælg præcis én): {', '.join(CATEGORIES)}\n\n"
-                f"Overskrift: {it['title']}\n"
-                f"Artikeltekst: {text or '(ingen tekst fundet - brug overskriften)'}\n\n"
-                'Svar KUN med JSON: {"kategori": "...", "resume": "1-2 sætninger på dansk, max 200 tegn, nøgternt"}')
-            raw = deepseek([
-                {"role": "system", "content": "Du er redaktør på et dansk nyhedssite om marinaer og lystbådehavne. Svar kun med gyldig JSON."},
-                {"role": "user", "content": prompt},
-            ], json_mode=True, max_tokens=800)
-            data = parse_json(raw)
+            for forsoeg in (1, 2):
+                try:
+                    raw = deepseek(messages, json_mode=True, max_tokens=60)
+                    data = parse_json(raw)
+                    break
+                except Exception:  # noqa: BLE001
+                    if forsoeg == 2:
+                        raise
             cat = data.get("kategori", "")
             it["cat"] = cat if cat in CATEGORIES else "Andet"
-            summary = clean(data.get("resume", ""))[:260]
-            if summary:
-                it["sum"] = summary
             done += 1
         except Exception as e:  # noqa: BLE001
             detail = ""
@@ -811,10 +826,10 @@ def prerender_index(items):
                if it.get("img") else "")
         parts.append(
             f'<a class="card" href="{esc(it["url"])}" target="_blank" rel="noopener">'
-            f'{img}<span class="title">{esc(it["title"])}</span>'
+            f'{img}<div class="card-body"><span class="title">{esc(it["title"])}</span>'
             f'<div class="meta">{da_date(it.get("date"))}'
             f'<span class="dot">&middot;</span><span class="read-source">Læs hos '
-            f'{esc(it.get("source", ""))} <span aria-hidden="true">&#8599;</span></span></div></a>')
+            f'{esc(it.get("source", ""))} <span aria-hidden="true">&#8599;</span></span></div></div></a>')
 
     block = "\n" + "\n".join(parts) + "\n"
     new_html = NEWS_BLOCK_RE.sub(
