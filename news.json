@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-17T19:35:00+00:00",
+ "generated": "2026-09-17T22:28:08+00:00",
  "count": 439,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 139,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: "
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -93,6 +93,7 @@
    "date": "2026-09-17",
    "title": "Klubkonference 2026",
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "img": "https://dansksejlunion.dk/media/ub5iizdl/skaermbillede-2025-12-02-kl-115622.png?width=1200&height=630",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
   },
@@ -339,6 +340,7 @@
    "date": "2026-09-13",
    "title": "Ungdommens danmarksmestre kåret trods svære vejrforhold ved Dansk Sejlunions Ungdoms-DM",
    "url": "https://dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
+   "img": "https://dansksejlunion.dk/media/blbdkkhg/design-uden-navn-30.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
   },
@@ -377,6 +379,7 @@
    "date": "2026-09-12",
    "title": "To danske VM-bronzemedaljer på stor finaledag",
    "url": "https://dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
+   "img": "https://dansksejlunion.dk/media/nxykqfn2/260912_sailingenergy_iqfoilworldsweymouth__c1_6116_den-37-johan-soee-iqfoil-worlds.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
   },
@@ -728,6 +731,7 @@
    "date": "2026-09-07",
    "title": "Tre nye danmarksmestre kåret ved DH-DM i Middelfart",
    "url": "https://dansksejlunion.dk/nyheder/2026/tre-nye-danmarksmestre-kaaret-ved-dh-dm-i-middelfart",
+   "img": "https://dansksejlunion.dk/media/yq3jpikk/799274703_1671196978133406_5646575502344530403_n.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser.",
    "tjek": "2026-09-17"
@@ -1552,6 +1556,7 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
   },
@@ -1799,6 +1804,7 @@
    "date": "2026-08-21",
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
+   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
   },
@@ -1968,6 +1974,7 @@
    "date": "2026-08-19",
    "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
+   "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
   },
@@ -2094,6 +2101,7 @@
    "date": "2026-08-17",
    "title": "Ny arrangementsudvikler skal styrke fællesskaberne i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
+   "img": "https://dansksejlunion.dk/media/s2hhpby3/design-uden-navn-30-kopi.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler. Hun skal styrke"
   },
@@ -2382,6 +2390,7 @@
    "date": "2026-08-12",
    "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
   },
@@ -2749,6 +2758,7 @@
    "date": "2026-08-06",
    "title": "Når sejlklubben skal forklare sin identitet",
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
   },
@@ -2875,6 +2885,7 @@
    "date": "2026-08-04",
    "title": "Hjælp kloden på World Clean Up Day",
    "url": "https://dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
+   "img": "https://dansksejlunion.dk/media/yrbcn154/3.jpg?width=1200&height=630",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
   },
