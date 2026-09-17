@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-17T10:30:16+00:00",
- "count": 421,
+ "generated": "2026-09-17T15:24:07+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 121,
+ "arkiv_antal": 140,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
   {
-   "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
+   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-09-17",
-   "title": "De bor på et bådeværft i Mexico – to både koster 52.000 kroner om året",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret/",
-   "cat": "Havneliv",
-   "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år."
+   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
+   "cat": "Kapsejlads",
+   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
   },
   {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
@@ -24,6 +24,24 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Ét point skiller før H-båds finale i Sønderborg - se live",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live/",
+   "cat": "Kapsejlads",
+   "sum": "Eliteserien Fynske Bank Cup i H-båd afgøres i Sønderborg med ti både. Morten Scheel Nielsen fører med ét point forud for weekendens sidste stævne, der kan følges live."
+  },
+  {
+   "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "De bor på et bådeværft i Mexico – to både koster 52.000 kroner om året",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret/",
+   "cat": "Havneliv",
+   "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år."
   },
   {
    "key": "genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr",
@@ -44,11 +62,31 @@
    "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal."
   },
   {
+   "key": "baadmagasinet-34437",
+   "source": "Bådmagasinet",
+   "date": "2026-09-17",
+   "title": "H-båd: Ét point skiller før finalen – Eliteserien skal afgøres i Sønderborg",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34437-h-bad-et-point-skiller-for-finalen-eliteserien-skal-afgores-i-sonderborg",
+   "cat": "Kapsejlads",
+   "sum": "Eliteserien Fynske Bank Cup i H-båd skal afgøres i Sønderborg, hvor kun ét point skiller de to førende besætninger inden finalestævnet."
+  },
+  {
    "key": "baadmagasinet-34436",
    "source": "Bådmagasinet",
    "date": "2026-09-17",
    "title": "Ros til danske redningsfolk: Sejlere reddet i land ud for Svaneke",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34436-ros-til-danske-redningsfolk-sejlere-reddet-i-land-ud-for-svaneke"
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34436-ros-til-danske-redningsfolk-sejlere-reddet-i-land-ud-for-svaneke",
+   "cat": "Sikkerhed",
+   "sum": "To polske sejlere fik motorstop og blev hjulpet i sikker havn ud for Svaneke af Nexø Redningsstation. En person var kommet til skade og blev kørt til hospitalet."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-17",
+   "title": "Klubkonference 2026",
+   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
+   "cat": "Andet",
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
   },
   {
    "key": "baadmagasinet-34434",
@@ -112,15 +150,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34435-risbjerg-overtager-renbad-og-rykker-samtidig-ind-pa-sjaelland",
    "cat": "Andet",
    "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både."
-  },
-  {
-   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
-   "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
-   "cat": "Kapsejlads",
-   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
   },
   {
    "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
@@ -258,15 +287,6 @@
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer."
   },
   {
-   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
-   "source": "Minbåd.dk",
-   "date": "2026-09-13",
-   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
-  },
-  {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
    "source": "Minbåd.dk",
    "date": "2026-09-13",
@@ -274,6 +294,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
    "cat": "Udstyr & både",
    "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+  },
+  {
+   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
@@ -294,15 +323,6 @@
    "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
   },
   {
-   "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
-   "source": "Minbåd.dk",
-   "date": "2026-09-12",
-   "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
-  },
-  {
    "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
    "source": "Minbåd.dk",
    "date": "2026-09-12",
@@ -310,6 +330,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
    "cat": "Udstyr & både",
    "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
+  },
+  {
+   "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
@@ -420,16 +449,6 @@
    "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne."
   },
   {
-   "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
-   "source": "Minbåd.dk",
-   "date": "2026-09-10",
-   "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
-   "cat": "Udstyr & både",
-   "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
    "source": "Minbåd.dk",
    "date": "2026-09-10",
@@ -437,6 +456,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
    "cat": "Kapsejlads",
    "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
+   "cat": "Udstyr & både",
+   "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ.",
    "tjek": "2026-09-17"
   },
   {
@@ -789,26 +818,6 @@
    "tjek": "2026-09-17"
   },
   {
-   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
-   "cat": "Jubilæum",
-   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
-   "tjek": "2026-09-17"
-  },
-  {
-   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt",
    "source": "Motorbådsnyt",
    "date": "2026-09-04",
@@ -836,6 +845,26 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34395-dragor-havn-har-flere-gaestesejlere-frokostbillet-er-et-nyt-tilbud",
    "cat": "Havneliv",
    "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
+   "cat": "Jubilæum",
+   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang.",
    "tjek": "2026-09-17"
   },
   {
@@ -1079,16 +1108,6 @@
    "tjek": "2026-09-17"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-31",
-   "title": "Klubkonference 2026",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
@@ -1305,7 +1324,8 @@
    "title": "150 både til Copenhagen Boat Show med gratis indgang",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
    "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
@@ -1374,7 +1394,8 @@
    "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
    "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
@@ -1453,7 +1474,8 @@
    "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
    "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
@@ -2888,24 +2910,6 @@
    "cat": "Udstyr & både",
    "sum": "X-Yachts har igen underskud og flytter produktion til Polen. Artiklen analyserer bådbranchens generelle udfordringer med faldende salg og økonomisk usikkerhed.",
    "tjek": "2026-08-11"
-  },
-  {
-   "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-01",
-   "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
-   "cat": "Tursejlads",
-   "sum": "Ærøskøbing Havn beskrives som stor og moderne med bevaret østemning. Sejler Stephanie Sommer deler erfaringer om faciliteter, seværdigheder og priser, og fremhæver hjælpsomheden blandt sejlere."
-  },
-  {
-   "key": "eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper",
-   "source": "Minbåd.dk",
-   "date": "2026-08-01",
-   "title": "Eliott 35 SS var på rekordkurs – da masten røg ned ved Gedser - nu forklarer skipper",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/august/article/eliott-35-ss-var-paa-rekordkurs-da-masten-roeg-ned-ved-gedser-nu-forklarer-skipper/",
-   "cat": "Kapsejlads",
-   "sum": "Elliott 35 SS'eren Palby Marine førte Garmin Round Denmark Race, men masten knækkede kort før Gedser. Ingen kom til skade, og sejren gik til tyske Haspa Hamburg."
   }
  ]
 }
