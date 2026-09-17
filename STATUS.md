@@ -172,7 +172,13 @@ fint — bare uden AI-kategorier og resuméer.
   og er ikke tænkt som noget der skal køres jævnligt.
 - **Fastfrosset top.** Logo, overskrift og menu (`.freeze`, med
   `position: sticky`) bliver nu stående øverst, mens nyhedskortene - og
-  deres billeder - ruller under, som frosne rækker i et regneark.
+  deres billeder - ruller under, som frosne rækker i et regneark. Luften
+  foroven ligger i `.freeze`'s egen padding (ikke på `body`), ellers
+  klistrer boksen helt op til vinduets kant uden luft, når man ruller.
+- **"Vis billeder"-tjekboks i filterpanelet**, mellem Kilder og Om siden.
+  Slået fra viser kortene uden billeder (mere kompakt, flere nyheder synlige
+  ad gangen); slået til (standard) viser dem som normalt. Valget huskes i
+  `localStorage`, ligesom emne- og kildefiltrene.
 
 ## Kendte begrænsninger
 

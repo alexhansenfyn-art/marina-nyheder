@@ -47,7 +47,7 @@
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--bg); color: var(--text); font-size: 14px;
-    padding: 20px calc(20px + env(safe-area-inset-right)) calc(20px + env(safe-area-inset-bottom)) calc(20px + env(safe-area-inset-left));
+    padding: 0 calc(20px + env(safe-area-inset-right)) calc(20px + env(safe-area-inset-bottom)) calc(20px + env(safe-area-inset-left));
   }
   .wrap { max-width: 880px; margin: 0 auto; }
   /* Fastfrosset top: logo, overskrift og menu bliver stående, mens kortene
@@ -59,7 +59,10 @@
   .freeze {
     position: sticky; top: 0; z-index: 20;
     background: var(--bg);
-    padding-bottom: 10px; margin-bottom: -10px;
+    /* Luften foroven ligger her (ikke på body), så den følger med op og
+       forbliver synlig, når boksen "klistrer" til toppen af vinduet -
+       ellers klistrer den helt op til kanten uden luft, når man ruller. */
+    padding: 20px 0 10px; margin-bottom: -10px;
   }
   header.top {
     display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px;
@@ -301,6 +304,13 @@
           </div>
           <div class="chips" id="srcChips"></div>
           <div class="ddtop ddsep">
+            <span class="lbl">Billeder</span>
+          </div>
+          <label class="chip" for="visBilleder">
+            <input type="checkbox" id="visBilleder" checked>
+            <span>Vis billeder</span>
+          </label>
+          <div class="ddtop ddsep">
             <span class="lbl">Om siden</span>
           </div>
           <p class="ddom">Marina- og HavneNyheder samler nyheder om danske
@@ -389,7 +399,7 @@
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
   var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "",
                 arkiv: "", arkivAntal: 0, arkivHentet: false, arkivHenter: false,
-                visResume: false };
+                visResume: false, visBilleder: true };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
 
@@ -397,12 +407,14 @@
     var saved = JSON.parse(localStorage.getItem("marina-nyheder-prefs5") || "{}");
     if (saved.catOff) state.catOff = saved.catOff;
     if (saved.srcOff) state.srcOff = saved.srcOff;
+    if (typeof saved.visBilleder === "boolean") state.visBilleder = saved.visBilleder;
   } catch (e) {}
 
   function savePrefs() {
     try {
       localStorage.setItem("marina-nyheder-prefs5",
-        JSON.stringify({ catOff: state.catOff, srcOff: state.srcOff }));
+        JSON.stringify({ catOff: state.catOff, srcOff: state.srcOff,
+                          visBilleder: state.visBilleder }));
     } catch (e) {}
   }
 
@@ -431,7 +443,7 @@
     // Resumeet ("sum") vises bevidst ikke - se crawler.py's docstring.
     // Billedet er kun et link til kildens egen server, aldrig hentet/kopieret
     // hertil; onerror fjerner img'et stille, hvis kilden siden fjerner det.
-    var img = it.img ? '<img class="thumb" src="' + esc(it.img) +
+    var img = (state.visBilleder && it.img) ? '<img class="thumb" src="' + esc(it.img) +
       '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">' : '';
     var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
     html += img + '<div class="card-body"><span class="title">' + esc(it.title) + '</span>' +
@@ -610,6 +622,16 @@
     dd.addEventListener("toggle", function(){
       if (dd.open) hentArkiv(function(){ render(); });
     });
+    // Vis/skjul billeder. Fra af giver hurtigere, mere kompakt overblik -
+    // det ligger under Kilder, ikke sammen med Emner/Kilder-tjekbokse, fordi
+    // det ikke filtrerer noget væk, kun ændrer visningen af det, der allerede vises.
+    var visBilleder = document.getElementById("visBilleder");
+    visBilleder.checked = state.visBilleder;
+    visBilleder.addEventListener("change", function(){
+      state.visBilleder = visBilleder.checked;
+      savePrefs(); render();
+    });
+
     wireVaelgAlle("catAll", "catChips", "cats", "catOff");
     wireVaelgAlle("srcAll", "srcChips", "sources", "srcOff");
     // Luk ved klik udenfor og på Escape.
