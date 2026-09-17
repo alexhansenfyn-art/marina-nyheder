@@ -112,13 +112,39 @@ fint — bare uden AI-kategorier og resuméer.
 - `sw.js` (cache `marina-v3`) og `make_preview.py` opdateret til at kende
   begge filer.
 
+## Rettelser 17. september 2026 (resuméer skjult, billeder linket)
+
+- **Resuméerne vises ikke længere nogen steder på sitet** (hverken i
+  kortene, i den forudrenderede HTML eller i RSS-feedet). Alex har ikke
+  indhentet tilladelse fra kilderne til at gengive uddrag af deres tekst.
+  `enrich_items` skriver stadig et resumé til `"sum"`-feltet i data, så det
+  ligger klar og kan slås til igen, hvis en kilde giver lov — men ingen af
+  visningslagene (`card()` i index.html, `prerender_index()`, `write_feed()`
+  i crawler.py) læser feltet ud længere.
+- Vigtigt: dette er *ikke* løst med adgangskode/login, sådan som det først
+  blev foreslået. En statisk GitHub Pages-side kan ikke gemme en hemmelighed,
+  som besøgendes browser aldrig ser — alt, der nogensinde vises, ligger i den
+  HTML/JS, browseren allerede har hentet, og kan læses i "vis kildekode"
+  uanset eventuel adgangskodeboks. At *undlade at vise* feltet er den eneste
+  reelle beskyttelse, en statisk side kan give.
+- **Billedbeslutningen fra 26. august er vendt om.** `img_near` (som finder
+  et billedelink i eller omkring artiklen) beholdes nu i `"img"`-feltet i
+  stedet for at blive fjernet før news.json skrives. Billedet vises som
+  `<img src="kildens-egen-adresse">` — det hentes/kopieres aldrig til dette
+  repo, kun linket bruges, ligesom links til selve artiklen. Går kildens
+  billede offline, fjerner `onerror="this.remove()"` det stille fra kortet.
+  Se opdateret docstring øverst i `crawler.py`.
+
 ## Kendte begrænsninger
 
 - **Resuméerne er ikke faktatjekket.** Der er ingen systematisk kontrol af, om
-  tal, navne og datoer i de AI-skrevne resuméer matcher kildeartiklerne. Det er
-  et offentligt site, så det vejer tungere her end i et privat projekt.
-- Der er ikke taget udtrykkelig stilling til, om AI-skrevne resuméer af andres
-  artikler er i orden at publicere. Billedspørgsmålet er afklaret; det her er
-  den samme diskussion, en grad mildere.
+  tal, navne og datoer i de AI-skrevne resuméer matcher kildeartiklerne.
+  Mindre kritisk nu, da de ikke vises offentligt — men relevant igen, hvis de
+  en dag slås til.
+- **Hotlinkede billeder er ikke uden egne overvejelser.** Nogle kilder kan
+  blokere hotlinking (billedet vises da slet ikke, `onerror` skjuler det
+  pænt), og billedet kan når som helst ændres eller forsvinde hos kilden uden
+  varsel. Det er stadig en mildere situation end at kopiere/hoste billedet
+  selv, men ikke risikofrit.
 - Advarslen om Node 20 på "pages build and deployment" kan ikke rettes — det er
   GitHubs eget indbyggede workflow, ikke en fil i dette repo.

@@ -10,13 +10,19 @@ Uden nøglen kører crawleren fint - bare uden AI.
 
 Køres automatisk af GitHub Actions – se .github/workflows/crawl.yml.
 
-BILLEDER GEMMES IKKE — OG DET ER MED VILJE.
-Parserne samler et billede op undervejs (`img_near`), men feltet fjernes igen,
-lige inden news.json skrives. Retten til et pressefoto følger ikke med et link
-til artiklen, og marinanyheder.dk er et offentligt site på eget domæne.
-Ser du en tom billedplads og bliver fristet til at "reparere" det: læs denne
-sætning igen. Det er ikke en fejl. Vil du ændre beslutningen, så gør det
-bevidst — og fjern så også denne blok.
+BILLEDER: KUN LINKET, ALDRIG HENTET (rettet 17. sep 2026).
+`img_near` finder et billede-link i eller omkring artiklen; det linket gemmes
+i news.json og bruges i en <img src="..."> på siden - billedet ligger og
+vises altid fra kildens egen server, aldrig kopieret eller hostet her. Sker
+kilden fjerner eller flytter billedet, forsvinder det bare fra kortet
+(onerror), ikke en fejl. Hold dig til rene link - download/kopiér aldrig selve
+billedfilen ind i dette repo.
+
+AI-RESUMÉER SKRIVES STADIG, MEN VISES IKKE PÅ SITET (samme dato).
+`enrich_items` gemmer stadig et kort resumé i "sum" for hver artikel, men
+hverken prerender_index, write_feed eller index.html viser det længere - der
+er ikke indhentet tilladelse fra kilderne til at gengive uddrag af deres
+artikeltekst. Feltet ligger klar i data, hvis en kilde en dag giver lov.
 """
 import html as html_mod
 import json
@@ -797,11 +803,15 @@ def prerender_index(items):
 
     parts = []
     for it in items[:PRERENDER_COUNT]:
-        summary = (f'<div class="summary">{esc(it["sum"])}</div>'
-                   if it.get("sum") else "")
+        # Resumeet vises bevidst ikke (se docstring). Billedet er kun et link
+        # til kildens egen server - onerror fjerner det stille, hvis kilden
+        # siden fjerner billedet.
+        img = (f'<img class="thumb" src="{esc(it["img"])}" alt="" loading="lazy" '
+               f'referrerpolicy="no-referrer" onerror="this.remove()">'
+               if it.get("img") else "")
         parts.append(
             f'<a class="card" href="{esc(it["url"])}" target="_blank" rel="noopener">'
-            f'<span class="title">{esc(it["title"])}</span>{summary}'
+            f'{img}<span class="title">{esc(it["title"])}</span>'
             f'<div class="meta">{da_date(it.get("date"))}'
             f'<span class="dot">&middot;</span><span class="read-source">Læs hos '
             f'{esc(it.get("source", ""))} <span aria-hidden="true">&#8599;</span></span></div></a>')
@@ -875,9 +885,9 @@ def write_feed(items):
         'type="application/rss+xml"/>',
     ]
     for it in items[:FEED_COUNT]:
+        # Resumeet gengives bevidst ikke i feedet - se docstring øverst i filen.
         kilde = esc(it.get("source", ""))
-        tekst = esc(it.get("sum") or "")
-        beskrivelse = f"{tekst} (Kilde: {kilde})" if tekst else f"Kilde: {kilde}"
+        beskrivelse = f"Kilde: {kilde}"
         parts += [
             "<item>",
             f'<title>{esc(it["title"])}</title>',
@@ -1036,9 +1046,11 @@ def main():
     items.sort(key=lambda i: i.get("date") or "0000-00-00", reverse=True)
     items = items[:MAX_ITEMS]
 
-    # Billeder gemmes ikke: retten til pressefotos følger ikke med et link til artiklen.
+    # Billeder linkes direkte til kildens egen server - vi henter/kopierer intet
+    # selv. Kun en gyldig http(s)-adresse må stå i feltet, ellers droppes den.
     for it in items:
-        it.pop("img", None)
+        if it.get("img") and not er_web_url(it["img"]):
+            it.pop("img", None)
 
     doede, tjekkede = fjern_doede_links(items)
     enriched = enrich_items(items)

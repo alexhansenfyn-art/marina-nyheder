@@ -203,6 +203,12 @@
   .card .title { color: var(--title); font-weight: 600; font-size: 15px; line-height: 1.35; display: block; }
   a.card:hover .title { text-decoration: underline; }
   .summary { font-size: 13px; color: var(--muted); margin-top: 5px; line-height: 1.5; }
+  /* Billedet er kun et link til kildens egen server - se card()/prerender_index.
+     object-fit:cover beskærer det pænt uanset kildens billedformat. */
+  .thumb {
+    display: block; width: 100%; height: 160px; object-fit: cover;
+    border-radius: 8px; margin-bottom: 10px; background: var(--bg);
+  }
   .sentinel { height: 1px; }
   .more {
     display: block; width: 100%; margin: 12px 0 4px; padding: 12px; border: 1px solid var(--border2);
@@ -269,7 +275,7 @@
           </div>
           <div class="chips" id="catChips"></div>
           <div class="ddtop ddsep">
-            <span class="lbl">Kilder</span>
+            <span class="lbl" id="kilderLbl">Kilder</span>
             <span class="ddall" id="srcAll">V&aelig;lg alle</span>
           </div>
           <div class="chips" id="srcChips"></div>
@@ -281,9 +287,6 @@
             &eacute;t sted. Listen opdateres automatisk flere gange om dagen, og hver
             overskrift linker videre til kilden, hvor du kan l&aelig;se hele
             artiklen.</p>
-          <p class="ddom">Resum&eacute;erne under overskrifterne er skrevet af
-            en computer og kan indeholde fejl. St&aring;r der noget vigtigt,
-            s&aring; l&aelig;s artiklen hos kilden.</p>
           <p class="ddom">Siden drives af Assens Marina A.M.B.A. og er gratis at bruge.
             <a href="feed.xml">F&oslash;lg som RSS</a> &middot;
             <a href="mailto:amba@assens-marina.dk">Skriv til os</a></p>
@@ -363,7 +366,8 @@
   var DA_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
   var LEGACY = { m: "Minbåd.dk", o: "Motorbådsnyt", f: "FLID Havne" };
   var state = { items: [], cats: [], sources: [], catOff: {}, srcOff: {}, q: "",
-                arkiv: "", arkivAntal: 0, arkivHentet: false, arkivHenter: false };
+                arkiv: "", arkivAntal: 0, arkivHentet: false, arkivHenter: false,
+                visResume: false };
   var BATCH = 20;
   var view = { items: [], shown: 0, lastGroup: null };
 
@@ -402,10 +406,14 @@
   }
 
   function card(it) {
-    // Billeder vises ikke: rettighederne til pressefotos følger ikke med et link.
+    // Resumeet ("sum") vises bevidst ikke - se crawler.py's docstring.
+    // Billedet er kun et link til kildens egen server, aldrig hentet/kopieret
+    // hertil; onerror fjerner img'et stille, hvis kilden siden fjerner det.
+    var img = it.img ? '<img class="thumb" src="' + esc(it.img) +
+      '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">' : '';
     var html = '<a class="card" href="' + esc(it.url) + '" target="_blank" rel="noopener">';
-    html += '<span class="title">' + esc(it.title) + '</span>' +
-      (it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
+    html += img + '<span class="title">' + esc(it.title) + '</span>' +
+      (state.visResume && it.sum ? '<div class="summary">' + esc(it.sum) + '</div>' : '') +
       '<div class="meta">' + fmtDate(it.date) +
       '<span class="dot">&middot;</span><span class="read-source">Læs hos ' + esc(it.source) + ' <span aria-hidden="true">&#8599;</span></span>' +
       '</div>' +
@@ -767,6 +775,30 @@
   }
 
   wireTaeller();
+
+  // ---- Skjult genvej til AI-resuméerne -------------------------------
+  // Kun til Alex' egen brug, fx når han skal vise en redaktør, hvordan et
+  // resumé ville se ud under deres artikel. IKKE en beskyttelse af
+  // teksten - resuméet ligger under alle omstændigheder i news.json, som
+  // enhver besøgendes browser allerede henter. Hver 3. klik (inden for 5
+  // sekunder) på "Kilder"-overskriften i filterpanelet skifter mellem
+  // vist og skjult.
+  function wireResumeToggle() {
+    var lbl = document.getElementById("kilderLbl");
+    if (!lbl) return;
+    var klik = [];
+    lbl.addEventListener("click", function(){
+      var nu = Date.now();
+      klik.push(nu);
+      klik = klik.filter(function(k){ return nu - k <= 5000; });
+      if (klik.length >= 3) {
+        klik = [];
+        state.visResume = !state.visResume;
+        render();
+      }
+    });
+  }
+  wireResumeToggle();
 
   // Service worker: gør siden installerbar og læsbar offline.
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
