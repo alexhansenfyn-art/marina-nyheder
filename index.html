@@ -61,8 +61,12 @@
     background: var(--bg);
     /* Luften foroven ligger her (ikke på body), så den følger med op og
        forbliver synlig, når boksen "klistrer" til toppen af vinduet -
-       ellers klistrer den helt op til kanten uden luft, når man ruller. */
-    padding: 20px 0 10px; margin-bottom: -10px;
+       ellers klistrer den helt op til kanten uden luft, når man ruller.
+       Bevidst INGEN negativ margin-bottom her: den slags trak tidligere
+       "I dag"-overskriften op bag den ugennemsigtige boks, så den blev
+       skjult. Almindelig padding-bund giver samme luft uden at overlappe
+       noget. */
+    padding: 20px 0 10px;
   }
   header.top {
     display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px;
