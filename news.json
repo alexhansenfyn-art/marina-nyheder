@@ -1,12 +1,30 @@
 {
- "generated": "2026-09-17T00:37:41+00:00",
- "count": 438,
+ "generated": "2026-09-17T05:32:17+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 140,
  "errors": [
   "AI: ValueError: kunne ikke tolke AI-svar: "
  ],
  "items": [
+  {
+   "key": "danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Danske farvande kan gå fra 39 til 250 dage med marine hedebølger om året",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
+   "cat": "Andet",
+   "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal."
+  },
+  {
+   "key": "baadmagasinet-34434",
+   "source": "Bådmagasinet",
+   "date": "2026-09-17",
+   "title": "Silverrudder: Tæt på 450 solosejlere er klar – i morgen går det løs - link til starten her",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34434-silverrudder-taet-pa-450-solosejlere-er-klar-fredag-gar-det-los-link-til-starten-her",
+   "cat": "Kapsejlads",
+   "sum": "Næsten 450 solosejlere starter fredag i Silverrudder rundt om Fyn. Tyskland stiller med 252 deltagere, Danmark med 123."
+  },
   {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
    "source": "Minbåd.dk",
@@ -305,15 +323,6 @@
    "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed."
   },
   {
-   "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
-   "source": "Minbåd.dk",
-   "date": "2026-09-11",
-   "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
-   "cat": "Kapsejlads",
-   "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab."
-  },
-  {
    "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
    "source": "Minbåd.dk",
    "date": "2026-09-11",
@@ -321,6 +330,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
    "cat": "Udstyr & både",
    "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
+  },
+  {
+   "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
+   "cat": "Kapsejlads",
+   "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab."
   },
   {
    "key": "baadmagasinet-34421",
@@ -717,16 +735,6 @@
    "tjek": "2026-09-17"
   },
   {
-   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
-   "cat": "Jubilæum",
-   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
-   "tjek": "2026-09-17"
-  },
-  {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
    "source": "Minbåd.dk",
    "date": "2026-09-04",
@@ -744,6 +752,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
    "cat": "Kapsejlads",
    "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
+   "cat": "Jubilæum",
+   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
    "tjek": "2026-09-17"
   },
   {
@@ -1033,7 +1051,8 @@
    "title": "Klubkonference 2026",
    "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "cat": "Andet",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
@@ -1112,7 +1131,8 @@
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber.",
+   "tjek": "2026-09-17"
   },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
@@ -2890,26 +2910,6 @@
    "cat": "Kapsejlads",
    "sum": "Svenske Shogun Yachts deltager for første gang i Tjörn Runt med kulfiberbåden Shogun 43 Nike for at vise kombinationen af fart og luksus.",
    "tjek": "2026-08-17"
-  },
-  {
-   "key": "sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien",
-   "source": "Minbåd.dk",
-   "date": "2026-07-31",
-   "title": "Sejlbåde ramt af spækhuggere – én sank ud for Spanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/july/article/sejlbaade-ramt-af-spaekhuggere-en-sank-ud-for-spanien/",
-   "cat": "Sikkerhed",
-   "sum": "Flere sejlbåde ud for Nordspanien blev ramt af spækhuggere; én sank efter rorskade. Myndighederne anbefaler at kontakte søredning.",
-   "tjek": "2026-08-15"
-  },
-  {
-   "key": "baadmagasinet-34310",
-   "source": "Bådmagasinet",
-   "date": "2026-07-31",
-   "title": "The Tall ships: 'Vi sover skulder mod skulder og hygger om bord'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34310-vi-sover-skulder-mod-skulder-og-hygger-om-bord",
-   "cat": "Kapsejlads",
-   "sum": "The Tall Ships Races 2026 er startet i Aalborg med 39 skibe og 1.200 besætningsmedlemmer. Unge trainees fortæller om fællesskab om bord, og 70-års jubilæet fejres med koncerter og forventede 700.000 gæster.",
-   "tjek": "2026-08-07"
   }
  ]
 }
