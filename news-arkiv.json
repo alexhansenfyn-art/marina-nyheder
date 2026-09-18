@@ -1,27 +1,7 @@
 {
- "generated": "2026-09-18T18:34:26+00:00",
- "count": 140,
+ "generated": "2026-09-18T21:18:04+00:00",
+ "count": 138,
  "items": [
-  {
-   "key": "baadmagasinet-34314",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Vildt! Over 3/4 million gæster kiggede forbi The Tall Ship i Aalborg",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34314-vildt-over-3-4-million-gaester-kiggede-forbi-the-tall-ship-i-aalborg",
-   "cat": "Havneliv",
-   "sum": "The Tall Ships Races i Aalborg trak over 700.000 besøgende til havnepromenaden med skibe, koncerter og fyrværkeri. Arrangementet forløb roligt, og byrådet overvejer værtsskab igen i 2030.",
-   "tjek": "2026-08-14"
-  },
-  {
-   "key": "baadmagasinet-34312",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Vil slå verdensrekord i Københavns Havn: Jagter mere end 1.105 kajakker til kæmpe parade",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34312-vil-sla-verdensrekord-i-kobenhavns-havn-jagter-mere-end-1-105-kajakker-til-kaempe-parade",
-   "cat": "Havneliv",
-   "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk.",
-   "tjek": "2026-08-14"
-  },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
    "source": "Motorbådsnyt",
@@ -100,8 +80,7 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
-   "cat": "Sikkerhed"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
@@ -279,8 +258,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-08",
    "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/",
-   "cat": "Udstyr & både"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/"
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",

@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-18T18:34:26+00:00",
- "count": 440,
+ "generated": "2026-09-18T21:18:04+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 138,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
-  {
-   "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Silverrudder-sejler ramt af hjerteanfald kort efter start",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_soeredning1853_1732595275347910_472426221785205549_n_993b2dd722.jpg"
-  },
   {
    "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
    "source": "Minbåd.dk",
    "date": "2026-09-18",
    "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder – mange er udgået",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_s_815535698_28272442799084413_8443786401453225039_n_c383ea0970.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_babd839811.jpg"
+  },
+  {
+   "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Silverrudder-sejler ramt af hjerteanfald kort efter start",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_soeredning1853_1732595275347910_472426221785205549_n_7f7df422c0.jpg"
   },
   {
    "key": "silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14",
@@ -29,7 +29,7 @@
    "date": "2026-09-18",
    "title": "Silverrudder trækker solosejlere fra 13 nationer til Svendborg i hård vind - se tractrac",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_728080ae6b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_cca4a9b619.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -38,7 +38,7 @@
    "date": "2026-09-18",
    "title": "Sejlsportsligaen reddet af seks klubber efter millionhul i budgettet",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_7ddd2a02c0.jpeg",
    "cat": "Kapsejlads"
   },
   {
@@ -244,7 +244,7 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_26513f2c7b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
   },
@@ -314,7 +314,7 @@
    "date": "2026-09-14",
    "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_e1f012d50b.jpg",
    "cat": "Kapsejlads",
    "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt."
   },
@@ -406,16 +406,6 @@
    "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
   },
   {
-   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
-   "source": "Minbåd.dk",
-   "date": "2026-09-12",
-   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/2/csm_aa_20220608_142756_e1b89e1bb2.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
-  },
-  {
    "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
    "source": "Minbåd.dk",
    "date": "2026-09-12",
@@ -424,6 +414,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
+  },
+  {
+   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/2/csm_aa_20220608_142756_6d4d497b87.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
