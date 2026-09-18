@@ -1,19 +1,27 @@
 {
- "generated": "2026-09-18T06:01:23+00:00",
- "count": 441,
+ "generated": "2026-09-18T11:19:51+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 139,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Silverrudder trækker solosejlere fra 13 nationer til Svendborg - hård vind ventes live fra kl. 9.30 til 14",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_728080ae6b.jpg"
+  },
   {
    "key": "sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet",
    "source": "Minbåd.dk",
    "date": "2026-09-18",
    "title": "Sejlsportsligaen reddet af seks klubber efter millionhul i budgettet",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_7ddd2a02c0.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg"
   },
   {
    "key": "baadmagasinet-34438",
@@ -35,16 +43,6 @@
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
   },
   {
-   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
-   "source": "Minbåd.dk",
-   "date": "2026-09-17",
-   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_4c2a569147.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
-  },
-  {
    "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
    "source": "Minbåd.dk",
    "date": "2026-09-17",
@@ -53,6 +51,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_way_-crew_82f47a5e96.jpg",
    "cat": "Havneliv",
    "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år."
+  },
+  {
+   "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_ffdd5ad65b.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn."
   },
   {
    "key": "et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live",
@@ -441,17 +449,6 @@
    "tjek": "2026-09-18"
   },
   {
-   "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
-   "source": "Minbåd.dk",
-   "date": "2026-09-11",
-   "title": "Ny Gran Turismo 50 imponerer med store terrasser og lækkert cockpit",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/b/csm_gran_tu_top_4_d737d0d304.png",
-   "cat": "Udstyr & både",
-   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr.",
-   "tjek": "2026-09-18"
-  },
-  {
    "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
    "source": "Minbåd.dk",
    "date": "2026-09-11",
@@ -460,6 +457,17 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
    "cat": "Kapsejlads",
    "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
+   "tjek": "2026-09-18"
+  },
+  {
+   "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-11",
+   "title": "Ny Gran Turismo 50 imponerer med store terrasser og lækkert cockpit",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/b/csm_gran_tu_top_4_6893c204ac.png",
+   "cat": "Udstyr & både",
+   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr.",
    "tjek": "2026-09-18"
   },
   {
@@ -617,7 +625,7 @@
    "date": "2026-09-09",
    "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_4c8e07aa23.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
    "tjek": "2026-09-18"
@@ -1064,7 +1072,7 @@
    "date": "2026-09-02",
    "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_0656c6d154.jpg",
    "cat": "Sikkerhed",
    "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
    "tjek": "2026-09-18"
@@ -1185,7 +1193,7 @@
    "date": "2026-08-31",
    "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_23e67ad5db.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
    "cat": "Havneliv",
    "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster.",
    "tjek": "2026-09-18"
@@ -1755,7 +1763,7 @@
    "date": "2026-08-22",
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_680a6a5d39.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_c29dea1fa1.jpg",
    "cat": "Udstyr & både",
    "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
   },
@@ -1814,7 +1822,7 @@
    "date": "2026-08-21",
    "title": "Sådan får du et friskere indeklima i båden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_2405af472c.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_e675c6841f.png",
    "cat": "Udstyr & både",
    "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
   },
@@ -2549,7 +2557,7 @@
    "date": "2026-08-10",
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_c0184d2034.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_f4877dbf48.png",
    "cat": "Sikkerhed",
    "sum": "En nyindkøbt motorbåd var tæt på at synke i Løgstør havn under en overnatning på vej til Skive. Søredningsselskabet og Falck pumpede vand ud og fik båden løftet på land."
   },
@@ -2659,7 +2667,7 @@
    "date": "2026-08-08",
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_99be73d572.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg",
    "cat": "Sikkerhed",
    "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket."
   },
@@ -2885,7 +2893,7 @@
    "date": "2026-08-04",
    "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/b/csm_Kerteminde_Marina_drone_713a19403f.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/b/csm_Kerteminde_Marina_drone_f29ba558c7.jpg",
    "cat": "Andet",
    "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
   },
@@ -2895,7 +2903,7 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_30834a1e31.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
    "cat": "Tursejlads",
    "sum": "Artiklen giver tips og inspiration til sejlere, der vil tilbringe sommerferien i Polen, med erfaringer fra et par, der sejlede rundt i polske havne."
   },
@@ -3003,15 +3011,6 @@
    "cat": "Kapsejlads",
    "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både.",
    "tjek": "2026-08-10"
-  },
-  {
-   "key": "her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor",
-   "source": "Minbåd.dk",
-   "date": "2026-08-02",
-   "title": "Kvinder klarede selv havari i Albin Vega",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/august/article/her-er-artiklen-to-kvinder-i-noed-ud-for-helsingoer-klarede-selv-problemerne-i-aeldre-albin-vega-redningsmandskab-rykkede-ud-efter-melding-om-en-mulig-knaekket-mast-kvinderne-fik-dog-selv-sejlbaaden-sikkert-i-havn-hvor-det-viste-sig-at-et-sallingshor/",
-   "cat": "Sikkerhed",
-   "sum": "To kvinder fik problemer med riggen på en Albin Vega nær Helsingør, men nåede selv i havn. Et sallingshorn var knækket, og redningsfolk hjalp med at stabilisere masten, hvorefter de fortsatte mod Sverige."
   }
  ]
 }
