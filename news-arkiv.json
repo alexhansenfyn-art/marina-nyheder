@@ -1,16 +1,26 @@
 {
- "generated": "2026-09-18T15:14:27+00:00",
- "count": 139,
+ "generated": "2026-09-18T18:34:26+00:00",
+ "count": 140,
  "items": [
   {
-   "key": "baadmagasinet-34311",
+   "key": "baadmagasinet-34314",
    "source": "Bådmagasinet",
    "date": "2026-08-03",
-   "title": "Kom nu ud af starthullerne - DH-DM kalder...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34311-kom-nu-ud-af-starthullerne-dh-dm-kalder",
-   "cat": "Kapsejlads",
-   "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både.",
-   "tjek": "2026-08-10"
+   "title": "Vildt! Over 3/4 million gæster kiggede forbi The Tall Ship i Aalborg",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34314-vildt-over-3-4-million-gaester-kiggede-forbi-the-tall-ship-i-aalborg",
+   "cat": "Havneliv",
+   "sum": "The Tall Ships Races i Aalborg trak over 700.000 besøgende til havnepromenaden med skibe, koncerter og fyrværkeri. Arrangementet forløb roligt, og byrådet overvejer værtsskab igen i 2030.",
+   "tjek": "2026-08-14"
+  },
+  {
+   "key": "baadmagasinet-34312",
+   "source": "Bådmagasinet",
+   "date": "2026-08-03",
+   "title": "Vil slå verdensrekord i Københavns Havn: Jagter mere end 1.105 kajakker til kæmpe parade",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34312-vil-sla-verdensrekord-i-kobenhavns-havn-jagter-mere-end-1-105-kajakker-til-kaempe-parade",
+   "cat": "Havneliv",
+   "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk.",
+   "tjek": "2026-08-14"
   },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
@@ -66,8 +76,7 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg",
-   "cat": "Havnepriser"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -131,8 +140,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-20",
    "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
-   "cat": "Sikkerhed"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/"
   },
   {
    "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
@@ -187,16 +195,14 @@
    "date": "2026-07-17",
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
-   "cat": "Sikkerhed"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg"
   },
   {
    "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
    "source": "Motorbådsnyt",
    "date": "2026-07-17",
    "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
-   "cat": "Udstyr & både"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/"
   },
   {
    "key": "et-billede-af-en-kvinde-ved-roret-satte-ild-til-facebook",
@@ -273,7 +279,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-08",
    "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/",
+   "cat": "Udstyr & både"
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",

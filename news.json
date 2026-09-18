@@ -1,12 +1,28 @@
 {
- "generated": "2026-09-18T15:14:27+00:00",
- "count": 439,
+ "generated": "2026-09-18T18:34:26+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 139,
+ "arkiv_antal": 140,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Silverrudder-sejler ramt af hjerteanfald kort efter start",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_soeredning1853_1732595275347910_472426221785205549_n_993b2dd722.jpg"
+  },
+  {
+   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder – mange er udgået",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_s_815535698_28272442799084413_8443786401453225039_n_c383ea0970.jpg"
+  },
   {
    "key": "silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14",
    "source": "Minbåd.dk",
@@ -31,7 +47,8 @@
    "date": "2026-09-18",
    "title": "Der skrives SailGP historie på søen i Schweiz",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34439-der-skrives-sailgp-historie-pa-soen-i-schweiz",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jl206588.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jl206588.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34438",
@@ -78,7 +95,7 @@
    "date": "2026-09-17",
    "title": "Ét point skiller før H-båds finale i Sønderborg - se live",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0848225c74.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0e49d9d19a.jpeg",
    "cat": "Kapsejlads",
    "sum": "Eliteserien Fynske Bank Cup i H-båd afgøres i Sønderborg med ti både. Morten Scheel Nielsen fører med ét point forud for weekendens sidste stævne, der kan følges live."
   },
@@ -227,7 +244,7 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_26513f2c7b.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
   },
@@ -350,16 +367,6 @@
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer."
   },
   {
-   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
-   "source": "Minbåd.dk",
-   "date": "2026-09-13",
-   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_65fcec3c54.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
-  },
-  {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
    "source": "Minbåd.dk",
    "date": "2026-09-13",
@@ -368,6 +375,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_81b78fc52c.jpg",
    "cat": "Udstyr & både",
    "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+  },
+  {
+   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
@@ -389,6 +406,16 @@
    "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere."
   },
   {
+   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/2/csm_aa_20220608_142756_e1b89e1bb2.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
+  },
+  {
    "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
    "source": "Minbåd.dk",
    "date": "2026-09-12",
@@ -397,16 +424,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser."
-  },
-  {
-   "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
-   "source": "Minbåd.dk",
-   "date": "2026-09-12",
-   "title": "Søren Junker Nielsen fra Dansk Marine Center: Sejlerne ønsker mere service - se 5 jobannoncer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/2/csm_aa_20220608_142756_6d4d497b87.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Dansk Marine Center udvider servicen i Aalborg og Aarhus med flere ansættelser, senest servicemekaniker Martin Møllvang. CEO Søren Junker Nielsen siger, at sejlerne efterspørger mere service."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
@@ -442,7 +459,7 @@
    "date": "2026-09-11",
    "title": "Myndighederne gjorde intet – så fjernede Thurøboerne selv spøgelsesbåd",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/2/csm_forladt_thuroe_20250902_153454_79b96763f3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/2/csm_forladt_thuroe_20250902_153454_18cb046cbd.jpg",
    "cat": "Andet",
    "sum": "En strandet båd ved Thurødæmningen lå i månedsvis, uden at politi, Kystdirektorat, Søfartsstyrelsen eller kommunen tog ansvar. Thurøboere fjernede den derfor selv.",
    "tjek": "2026-09-18"
@@ -464,7 +481,7 @@
    "date": "2026-09-11",
    "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_c61300ecf0.jpeg",
    "cat": "Kapsejlads",
    "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
    "tjek": "2026-09-18"
@@ -549,7 +566,7 @@
    "date": "2026-09-10",
    "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_du_G_20260908_152138_2b15d7c89f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_du_G_20260908_152138_57cc8f4b78.jpg",
    "cat": "Udstyr & både",
    "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ.",
    "tjek": "2026-09-18"
@@ -613,7 +630,7 @@
    "date": "2026-09-09",
    "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_l_23_G_7688_caac2c5f9b.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_l_23_G_7688_54baadc1e5.jpeg",
    "cat": "Kapsejlads",
    "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads.",
    "tjek": "2026-09-18"
@@ -624,7 +641,7 @@
    "date": "2026-09-09",
    "title": "Tysk par i problemer i Rønne – båd tog vand ind",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/2/csm_b_714_202907_0483710851.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/2/csm_b_714_202907_19fe58c110.jpg",
    "cat": "Sikkerhed",
    "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads.",
    "tjek": "2026-09-18"
@@ -667,7 +684,7 @@
    "date": "2026-09-08",
    "title": "Sundby-besætning suveræne danske mestre i Yngling",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/sundby-besaetning-suveraene-danske-mestre-i-yngling/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_michael_99590600_28417480601234355_4070724189751516970_n_5a7feec1cf.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_michael_99590600_28417480601234355_4070724189751516970_n_cb54987d5c.jpg",
    "cat": "Kapsejlads",
    "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk.",
    "tjek": "2026-09-18"
@@ -678,7 +695,7 @@
    "date": "2026-09-08",
    "title": "Camilla og Jonas Toustrup kom tæt på isbjørne - Svalbard overgik alle drømmene",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_928caf8a73.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_9d64657053.jpg",
    "cat": "Tursejlads",
    "sum": "Ægteparret Camilla og Jonas Toustrup fortæller om deres ekspeditionssejlads til Svalbard i deres ombyggede Dufour 12000 CT, hvor de oplevede isbjørne, gletsjere og barsk natur.",
    "tjek": "2026-09-18"
@@ -742,9 +759,9 @@
    "date": "2026-09-07",
    "title": "Lyn slog ned tæt på DH-DM-feltet – Toftebjerg tog guld i ny M.A.T. 11",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/lyn-slog-ned-taet-paa-dh-dm-feltet-toftebjerg-tog-guld-i-ny-mat-11/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_dh__772664355_1566621081926350_1142423867446273183_n_9d71745508_973c5648c1.jpg",
    "cat": "Kapsejlads",
    "sum": "Ved DM i M.A.T. 11 i Middelfart forårsagede torden og kraftig vind aflysning af lørdagens sejladser. Søndag genoptog man, og Steen Toftebjerg tog guldet.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_dh__772664355_1566621081926350_1142423867446273183_n_9d71745508_973c5648c1.jpg",
    "tjek": "2026-09-18"
   },
   {
@@ -753,9 +770,9 @@
    "date": "2026-09-07",
    "title": "Endnu en sejlbåd kastet op på kysten – ligger på stenene ved Tisvilde",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_t_793901250_1082047274823534_5245322526878625127_n_fc59a410af.jpg",
    "cat": "Sikkerhed",
    "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_t_793901250_1082047274823534_5245322526878625127_n_fc59a410af.jpg",
    "tjek": "2026-09-18"
   },
   {
@@ -852,16 +869,6 @@
    "tjek": "2026-09-13"
   },
   {
-   "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
-   "source": "Minbåd.dk",
-   "date": "2026-09-05",
-   "title": "Tyveri og forlis på Langeland: 57 fods Maheo nu slået til pindebrænde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende/",
-   "cat": "Sikkerhed",
-   "sum": "Efter motorproblemer strandede træskonnerten Maheo ved Langeland, dele blev stjålet, og uvejr har nu slået vraget i stykker.",
-   "tjek": "2026-09-18"
-  },
-  {
    "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
    "source": "Motorbådsnyt",
    "date": "2026-09-05",
@@ -870,6 +877,16 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
    "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
+   "tjek": "2026-09-18"
+  },
+  {
+   "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
+   "source": "Minbåd.dk",
+   "date": "2026-09-05",
+   "title": "Tyveri og forlis på Langeland: 57 fods Maheo nu slået til pindebrænde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende/",
+   "cat": "Sikkerhed",
+   "sum": "Efter motorproblemer strandede træskonnerten Maheo ved Langeland, dele blev stjålet, og uvejr har nu slået vraget i stykker.",
    "tjek": "2026-09-18"
   },
   {
@@ -986,16 +1003,6 @@
    "tjek": "2026-09-11"
   },
   {
-   "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-09-03",
-   "title": "Kong Harald: Sæt dig ned, Stig – du får min båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/kong-harald-saet-dig-ned-stig-du-faar-min-baad/",
-   "cat": "Udstyr & både",
-   "sum": "Kong Harald forærede i 2008 sin Farr 51 'Fram XV' til Norges Seilforbund, som grundlag for projektet Norsteam, hvor unge sejlere træner i storbådssejlads. Kongen deltog også selv og hus",
-   "tjek": "2026-09-18"
-  },
-  {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Motorbådsnyt",
    "date": "2026-09-03",
@@ -1004,6 +1011,16 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-18"
+  },
+  {
+   "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Kong Harald: Sæt dig ned, Stig – du får min båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/kong-harald-saet-dig-ned-stig-du-faar-min-baad/",
+   "cat": "Udstyr & både",
+   "sum": "Kong Harald forærede i 2008 sin Farr 51 'Fram XV' til Norges Seilforbund, som grundlag for projektet Norsteam, hvor unge sejlere træner i storbådssejlads. Kongen deltog også selv og hus",
    "tjek": "2026-09-18"
   },
   {
@@ -1297,7 +1314,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
    "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber.",
+   "tjek": "2026-09-18"
   },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
@@ -1367,7 +1385,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
    "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker.",
+   "tjek": "2026-09-18"
   },
   {
    "key": "baadmagasinet-34381",
@@ -2991,26 +3010,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
    "cat": "Havneliv",
    "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro."
-  },
-  {
-   "key": "baadmagasinet-34314",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Vildt! Over 3/4 million gæster kiggede forbi The Tall Ship i Aalborg",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34314-vildt-over-3-4-million-gaester-kiggede-forbi-the-tall-ship-i-aalborg",
-   "cat": "Havneliv",
-   "sum": "The Tall Ships Races i Aalborg trak over 700.000 besøgende til havnepromenaden med skibe, koncerter og fyrværkeri. Arrangementet forløb roligt, og byrådet overvejer værtsskab igen i 2030.",
-   "tjek": "2026-08-14"
-  },
-  {
-   "key": "baadmagasinet-34312",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Vil slå verdensrekord i Københavns Havn: Jagter mere end 1.105 kajakker til kæmpe parade",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34312-vil-sla-verdensrekord-i-kobenhavns-havn-jagter-mere-end-1-105-kajakker-til-kaempe-parade",
-   "cat": "Havneliv",
-   "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk.",
-   "tjek": "2026-08-14"
   }
  ]
 }
