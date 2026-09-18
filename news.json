@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T11:19:51+00:00",
+ "generated": "2026-09-18T15:14:27+00:00",
  "count": 439,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 139,
@@ -11,9 +11,10 @@
    "key": "silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14",
    "source": "Minbåd.dk",
    "date": "2026-09-18",
-   "title": "Silverrudder trækker solosejlere fra 13 nationer til Svendborg - hård vind ventes live fra kl. 9.30 til 14",
+   "title": "Silverrudder trækker solosejlere fra 13 nationer til Svendborg i hård vind - se tractrac",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_728080ae6b.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_728080ae6b.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet",
@@ -21,7 +22,16 @@
    "date": "2026-09-18",
    "title": "Sejlsportsligaen reddet af seks klubber efter millionhul i budgettet",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34439",
+   "source": "Bådmagasinet",
+   "date": "2026-09-18",
+   "title": "Der skrives SailGP historie på søen i Schweiz",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34439-der-skrives-sailgp-historie-pa-soen-i-schweiz",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jl206588.jpg"
   },
   {
    "key": "baadmagasinet-34438",
@@ -147,7 +157,7 @@
    "date": "2026-09-16",
    "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_89c7300cd8.jpg",
    "cat": "Udstyr & både",
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
   },
@@ -287,7 +297,7 @@
    "date": "2026-09-14",
    "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_e1f012d50b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
    "cat": "Kapsejlads",
    "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt."
   },
@@ -340,6 +350,16 @@
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer."
   },
   {
+   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_65fcec3c54.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
+  },
+  {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
    "source": "Minbåd.dk",
    "date": "2026-09-13",
@@ -348,16 +368,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_81b78fc52c.jpg",
    "cat": "Udstyr & både",
    "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
-  },
-  {
-   "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
-   "source": "Minbåd.dk",
-   "date": "2026-09-13",
-   "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
@@ -443,7 +453,7 @@
    "date": "2026-09-11",
    "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_6c649e1e0b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
    "cat": "Sikkerhed",
    "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
    "tjek": "2026-09-18"
@@ -3001,16 +3011,6 @@
    "cat": "Havneliv",
    "sum": "Arrangører vil samle over 1.100 kajakker og kanoer i Københavns Havn for at slå verdensrekorden og markere FN's internationale dag for oprindelige folk.",
    "tjek": "2026-08-14"
-  },
-  {
-   "key": "baadmagasinet-34311",
-   "source": "Bådmagasinet",
-   "date": "2026-08-03",
-   "title": "Kom nu ud af starthullerne - DH-DM kalder...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34311-kom-nu-ud-af-starthullerne-dh-dm-kalder",
-   "cat": "Kapsejlads",
-   "sum": "Nyheden opfordrer sejlere til at tilmelde sig årets DH-DM i Middelfart, da der indtil nu kun er få tilmeldte både.",
-   "tjek": "2026-08-10"
   }
  ]
 }
