@@ -1,12 +1,10 @@
 {
- "generated": "2026-09-19T11:38:26+00:00",
- "count": 422,
+ "generated": "2026-09-19T14:50:23+00:00",
+ "count": 438,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 122,
+ "arkiv_antal": 138,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Sikkerhed",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Udstyr & både"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -41,6 +39,14 @@
    "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_ce92ee9086.jpg"
+  },
+  {
+   "key": "baadmagasinet-34441",
+   "source": "Bådmagasinet",
+   "date": "2026-09-19",
+   "title": "Live: Den enes død, den andens brød",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34441-live-fra-geneve",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_1fd2_2597.jpg"
   },
   {
    "key": "baadmagasinet-34440",
@@ -3002,15 +3008,6 @@
    "img": "https://dansksejlunion.dk/media/yrbcn154/3.jpg?width=1200&height=630",
    "cat": "Havneliv",
    "sum": "Dansk Sejlunion opfordrer sejlklubber til at deltage i World Clean Up Day den 20. september med oprydning i og omkring havnen. Der er udarbejdet en køreplan for arrangementet."
-  },
-  {
-   "key": "baadmagasinet-34308",
-   "source": "Bådmagasinet",
-   "date": "2026-08-04",
-   "title": "Ny sensor ved Avernakø Havn giver sejlere live-data om vanddybde og bølger",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34308-ny-sensor-ved-avernako-havn-giver-sejlere-live-data-om-vanddybde-og-bolger",
-   "cat": "Sikkerhed",
-   "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
   }
  ]
 }
