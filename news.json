@@ -1,13 +1,20 @@
 {
- "generated": "2026-09-19T01:40:00+00:00",
- "count": 438,
+ "generated": "2026-09-19T06:42:24+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 139,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34440",
+   "source": "Bådmagasinet",
+   "date": "2026-09-19",
+   "title": "Silverrudder: Ny rekord i dramatisk og uheldsramt udgave af den populære sejlads",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34440-silverrudder-ny-rekord-i-dramatisk-og-uheldsramt-udgave",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_813520521_10240039917809653_2043720394577576592_n_2.jpg"
+  },
   {
    "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
    "source": "Minbåd.dk",
@@ -1107,7 +1114,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_0656c6d154.jpg",
    "cat": "Sikkerhed",
-   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
+   "tjek": "2026-09-19"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -1227,7 +1235,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
    "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster.",
+   "tjek": "2026-09-19"
   },
   {
    "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
@@ -3002,15 +3011,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus/",
    "cat": "Kapsejlads",
    "sum": "Aarhus er vært for ungdoms-VM i ILCA 4 og ILCA 6 med op mod 1.000 sejlere fra 51 nationer i august 2026. Det er første gang, de to mesterskaber afholdes direkte efter hinanden i byen."
-  },
-  {
-   "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-03",
-   "title": "Sæt kurs mod en kulinarisk parferie i Mariager Fjord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
-   "cat": "Havneliv",
-   "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro."
   }
  ]
 }
