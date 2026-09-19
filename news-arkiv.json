@@ -1,15 +1,53 @@
 {
- "generated": "2026-09-19T06:42:24+00:00",
- "count": 139,
+ "generated": "2026-09-19T11:38:26+00:00",
+ "count": 122,
  "items": [
   {
-   "key": "sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord",
+   "key": "sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Sejler undrer sig over motorbådsfolk: Ser de ikke hækbølgerne bag sig?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/sejler-undrer-sig-over-motorbaadsfolk-ser-de-ikke-haekboelgerne-bag-sig/",
+   "cat": "Sikkerhed",
+   "sum": "Norsk sejler undrer sig over motorbådes manglende hensyn med tætte passager og kraftige hækbølger i svensk skærgård, og efterlyser større opmærksomhed på bølgers påvirkning."
+  },
+  {
+   "key": "carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf",
+   "source": "Minbåd.dk",
+   "date": "2026-08-04",
+   "title": "Carlo Borlenghi er død – sejlsporten mister sin største fotograf",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/august/article/carlo-borlenghi-er-doed-sejlsporten-har-mistet-sin-stoerste-fotograf/",
+   "cat": "Andet",
+   "sum": "Carlo Borlenghi, en af verdens førende sejlsportsfotografer, er død som 70-årig. Han dokumenterede i fire årtier store kapsejladser som America's Cup og Rolex-serien."
+  },
+  {
+   "key": "baadmagasinet-34316",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Sejlsporten har mistet sin største fotograf",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34316-sejlsporten-har-mistet-sin-storste-fotograf",
+   "cat": "Andet",
+   "sum": "Mindeord om den italienske sejlsportsfotograf Carlo Borlenghi, der er gået bort. Han dokumenterede verdens største kapsejladser i næsten 50 år.",
+   "tjek": "2026-08-17"
+  },
+  {
+   "key": "baadmagasinet-34317",
+   "source": "Bådmagasinet",
+   "date": "2026-08-04",
+   "title": "Copenhagen Boat Show præsenterer nogle af sommerens mest omtalte både",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34317-copenhagen-boat-show-praesenterer-nogle-af-sommerens-mest-omtalte-bade",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum med gratis adgang og udstiller bl.a. kapsejladssbåden First 36 og motorkatamaranen Aquila 42 Coupé.",
+   "tjek": "2026-08-11"
+  },
+  {
+   "key": "1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-08-03",
-   "title": "Sæt kurs mod en kulinarisk parferie i Mariager Fjord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/sommertogtet-venter-sat-kurs-mod-en-kulinarisk-parferie-i-mariager-fjord/",
-   "cat": "Havneliv",
-   "sum": "Artiklen guider sejlere til kulinariske perler i Mariager Fjord, herunder italiensk restaurant, dansk smørrebrød og lokalt bryggeri ved havne i Hadsund og Hobro."
+   "title": "1.000 unge sejlere samles til dobbelt-VM i Aarhus",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/august/article/1000-unge-sejlere-samles-til-dobbelt-vm-i-aarhus/",
+   "cat": "Kapsejlads",
+   "sum": "Aarhus er vært for ungdoms-VM i ILCA 4 og ILCA 6 med op mod 1.000 sejlere fra 51 nationer i august 2026. Det er første gang, de to mesterskaber afholdes direkte efter hinanden i byen."
   },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
@@ -36,28 +74,12 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/0/csm_bo_top_a468f7c68c.jpg"
   },
   {
-   "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-28",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://dansketursejlere.dk/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/Design-uden-navn-1024x512.png"
-  },
-  {
    "key": "vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt",
    "source": "Motorbådsnyt",
    "date": "2026-07-27",
    "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/0/csm_posidonia-bl_8695b050ee.jpg"
-  },
-  {
-   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-26",
-   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/july/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg"
   },
   {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
@@ -89,7 +111,8 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
@@ -224,14 +247,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/july/article/26-aarige-veronica-nyder-at-bo-alene-i-sin-42-fods-sejlbaad-i-nordnorge-hus-frister-ikke/"
   },
   {
-   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-15",
-   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
-   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png"
-  },
-  {
    "key": "grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund",
    "source": "Minbåd.dk",
    "date": "2026-07-13",
@@ -275,22 +290,6 @@
    "date": "2026-07-07",
    "title": "Sommerhavne: Ankomsten til Mariager er unik med sæler, ankerpladser og stejle skrænter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/july/article/sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter/"
-  },
-  {
-   "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-07",
-   "title": "90 unge indtager havnene i uge 29",
-   "url": "https://dansketursejlere.dk/90-unge-indtager-havnene-i-uge-29/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/DJI_20250718114813_0077_D-1024x512.jpg"
-  },
-  {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg"
   },
   {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
@@ -339,6 +338,13 @@
    "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630"
   },
   {
+   "key": "hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten",
+   "source": "Motorbådsnyt",
+   "date": "2026-06-29",
+   "title": "Hankø70-jakke fra Elvstrøm Sailwear til skiftende vejr ved kysten",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/june/article/hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten/"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-medaljefest-i-kiel-udviklingsgruppen-leverede-varen",
    "source": "Dansk Sejlunion",
    "date": "2026-06-25",
@@ -378,22 +384,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/june/article/tyve-stjal-sukker-og-haeldte-det-i-baads-benzintank-i-groenland/"
   },
   {
-   "key": "dansketursejlere-aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
-   "source": "Danske Tursejlere",
-   "date": "2026-06-16",
-   "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
-   "url": "https://dansketursejlere.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2022/11/Brejning-Havn-scaled-e1715332831345-1024x512.jpg"
-  },
-  {
-   "key": "aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
-   "source": "FLID Havne",
-   "date": "2026-06-15",
-   "title": "Årets Havn 2026 hylder de bedste havneoplevelser i Danmark",
-   "url": "https://flidhavne.dk/aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/06/Aarets-Havn-2026.png"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/stem-paa-aarets-havn-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-06-12",
@@ -418,14 +408,6 @@
    "img": "https://dansksejlunion.dk/media/z5wldxaf/kaempestranden_fotokreditering-martin-thaulow.jpg?width=1200&height=630"
   },
   {
-   "key": "ny-ansoegningsrunde-redningsstiger-fra-trygfonden",
-   "source": "FLID Havne",
-   "date": "2026-06-05",
-   "title": "Ny ansøgningsrunde: Redningsstiger fra TrygFonden",
-   "url": "https://flidhavne.dk/ny-ansoegningsrunde-redningsstiger-fra-trygfonden/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/06/TrygFondens-redningsstige-med-lys-Sikker-Havn-scaled.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/seks-sejlere-udtaget-til-ungdomslandsholdet-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-06-03",
@@ -447,14 +429,6 @@
    "title": "Elvstrøm Sails med fire sejldugsteknologier – men hvad passer bedst til netop dit behov?",
    "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/34145-elvstrom-sails-med-fire-sejldugsteknologier-men-hvad-passer-bedst-til-netop-dit-behov",
    "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_elv_construction_icons_2026_3d_1_alleteknologier_2.jpg"
-  },
-  {
-   "key": "ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen",
-   "source": "FLID Havne",
-   "date": "2026-05-28",
-   "title": "Ny udgave af populært danmarkskort fås igen på havnen",
-   "url": "https://flidhavne.dk/ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/PR-billede-rotated.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udskiftning-paa-landsholdet-jonas-warrer-stopper-samarbejdet-med-mathias-sletten",
@@ -481,28 +455,12 @@
    "img": "https://dansksejlunion.dk/media/1csl2x3k/260523_sailingenergy_portimao_iqfoil_europenas_979_7445.jpg?width=1200&height=630"
   },
   {
-   "key": "slut-med-gtl-fuel",
-   "source": "FLID Havne",
-   "date": "2026-05-22",
-   "title": "Slut med GTL fuel",
-   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "source": "Dansk Sejlunion",
    "date": "2026-05-22",
    "title": "Tilmeldingen til DH-DM 2026 er åben",
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630"
-  },
-  {
-   "key": "bestil-gratis-materialer-og-hjaelp-os-med-at-minde-om-sikkerheden-paa-havnen",
-   "source": "FLID Havne",
-   "date": "2026-05-20",
-   "title": "Bestil gratis materialer – og hjælp os med at minde om sikkerheden på havnen",
-   "url": "https://flidhavne.dk/bestil-gratis-materialer-og-hjaelp-os-med-at-minde-om-sikkerheden-paa-havnen/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/Gang-paa-bro_skoejter_Soesportens-sikkerhedsraad.png"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-og-em-venter-travle-mesterskabsuger-for-sejlerlandsholdet",
@@ -559,14 +517,6 @@
    "img": "https://dansksejlunion.dk/media/fablzwdw/sep-30-20221-03-pm.jpg?width=1200&height=630"
   },
   {
-   "key": "dansketursejlere-danske-tursejlere-i-fortsat-bevaegelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-24",
-   "title": "Danske Tursejlere i fortsat bevægelse",
-   "url": "https://dansketursejlere.dk/danske-tursejlere-i-fortsat-bevaegelse/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/Bestyrelsen-2026-2x1-1-1024x512.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/aabent-brev-til-norge",
    "source": "Dansk Sejlunion",
    "date": "2026-04-23",
@@ -583,14 +533,6 @@
    "img": "https://dansksejlunion.dk/media/kqmlh1vf/design-uden-navn-29-kopi-8.jpg?width=1200&height=630"
   },
   {
-   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-16",
-   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
-   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-04-16",
@@ -599,28 +541,12 @@
    "img": "https://dansksejlunion.dk/media/xt4j0a1u/johanne-og-andrea-schmidt-138a9113.jpg?width=1200&height=630"
   },
   {
-   "key": "dansketursejlere-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-15",
-   "title": "Søsportens Sikkerhedsråd gør din sejlads mere sikker med ny podcastsserie",
-   "url": "https://dansketursejlere.dk/soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/7287611-1024x512.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-skal-tage-stilling-til-russeres-mulige-tilbagekomst",
    "source": "Dansk Sejlunion",
    "date": "2026-04-14",
    "title": "Europæiske sejlforbund skal tage stilling til russeres mulige tilbagekomst",
    "url": "https://dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-skal-tage-stilling-til-russeres-mulige-tilbagekomst",
    "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630"
-  },
-  {
-   "key": "havneassistent-til-roskilde-havn",
-   "source": "FLID Havne",
-   "date": "2026-04-13",
-   "title": "Havneassistent til Roskilde Havn",
-   "url": "https://flidhavne.dk/havneassistent-til-roskilde-havn/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/04/Roskilde-Havn.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
@@ -637,14 +563,6 @@
    "title": "Sejlerlandsholdet åbner sæsonen på Mallorca",
    "url": "https://dansksejlunion.dk/nyheder/2026/sejlerlandsholdet-aabner-saesonen-paa-mallorca",
    "img": "https://dansksejlunion.dk/media/rb0fuf2f/design-uden-navn-29-kopi-6.jpg?width=1200&height=630"
-  },
-  {
-   "key": "en-maskinarbejder-med-turbo-paa-gaar-i-havn",
-   "source": "FLID Havne",
-   "date": "2026-03-27",
-   "title": "En “maskinarbejder” med turbo på går i havn",
-   "url": "https://flidhavne.dk/en-maskinarbejder-med-turbo-paa-gaar-i-havn/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
   },
   {
    "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
@@ -707,14 +625,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/march/article/ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker/"
   },
   {
-   "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
-   "source": "FLID Havne",
-   "date": "2026-03-13",
-   "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
-   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Kyst-og-naturturisme-billede-til-PM.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dm-i-esailing-2026-afgoeres-ved-dm-ugen-i-herning",
    "source": "Dansk Sejlunion",
    "date": "2026-03-13",
@@ -723,36 +633,12 @@
    "img": "https://dansksejlunion.dk/media/igsggexj/call-to-action-page2.png?width=1200&height=630"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-er-aaben-til-aarets-foerste-grandprix-staevne",
-   "source": "Dansk Sejlunion",
-   "date": "2026-03-12",
-   "title": "Tilmeldingen er åben til årets første grandprix-stævne",
-   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-er-aaben-til-aarets-foerste-grandprix-staevne",
-   "img": "https://dansksejlunion.dk/media/2nbporhz/_n9i0115.jpg?width=1200&height=630"
-  },
-  {
-   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
-   "source": "Danske Tursejlere",
-   "date": "2026-03-05",
-   "title": "INDKALDELSE TIL GENERALFORSAMLING",
-   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg"
-  },
-  {
    "key": "baadmagasinet-33934",
    "source": "Bådmagasinet",
    "date": "2026-02-25",
    "title": "66th Edition: Registration is now open for Genoa Int. Boat Show",
    "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33934-66th-edition-registration-is-now-open-for-genoa-int-boat-show",
    "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg"
-  },
-  {
-   "key": "dansketursejlere-thomas-og-tursejlerne-tjekker-redningsvesten",
-   "source": "Danske Tursejlere",
-   "date": "2026-02-11",
-   "title": "Thomas & Tursejlerne – 3 livsfarlige fejl på din redningsvest",
-   "url": "https://dansketursejlere.dk/thomas-og-tursejlerne-tjekker-redningsvesten/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/02/Thomas-og-Tursejlerne-Redningsvest-tjek-1024x512.jpg"
   },
   {
    "key": "marinaguide-fra-faergehavn-til-lystbaadehavn",
@@ -795,14 +681,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/8/csm_m_IMG_20260121_131410_d94939f65b.jpg"
   },
   {
-   "key": "invitation-til-regionale-havnemoeder-2026",
-   "source": "FLID Havne",
-   "date": "2026-01-23",
-   "title": "Invitation til regionale havnemøder 2026",
-   "url": "https://flidhavne.dk/invitation-til-regionale-havnemoeder-2026/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2023/01/Regionale-moeder-Rungsted-Havn-28-scaled.jpg"
-  },
-  {
    "key": "delphia-12-sedan-satser-paa-ro-raekkevidde-og-lavt-forbrug",
    "source": "Motorbådsnyt",
    "date": "2026-01-22",
@@ -832,14 +710,6 @@
    "date": "2025-12-31",
    "title": "Nu også i USA: Dragonfly 36 kåret som 2025 Boat of the Year – Best Multihull",
    "url": "https://minbaad.dk/nyhed/archive/2025/31/december/article/nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull/"
-  },
-  {
-   "key": "dansketursejlere-de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app",
-   "source": "Danske Tursejlere",
-   "date": "2025-12-12",
-   "title": "De to søsikkerhedsapps SejlSikkert og SejlSikkert Alarm samles i én app.",
-   "url": "https://dansketursejlere.dk/de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/12/7287611-Credit-Soesportens-Sikkerhedsraad.beskaaret-1024x512.jpg"
   },
   {
    "key": "foerste-marinaer-forbyder-aeldre-baade-at-vaere-i-havnen-frygter-skrotbaade",
