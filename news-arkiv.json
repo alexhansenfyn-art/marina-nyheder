@@ -1,16 +1,7 @@
 {
- "generated": "2026-09-19T14:50:23+00:00",
- "count": 138,
+ "generated": "2026-09-19T18:05:34+00:00",
+ "count": 137,
  "items": [
-  {
-   "key": "baadmagasinet-34308",
-   "source": "Bådmagasinet",
-   "date": "2026-08-04",
-   "title": "Ny sensor ved Avernakø Havn giver sejlere live-data om vanddybde og bølger",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34308-ny-sensor-ved-avernako-havn-giver-sejlere-live-data-om-vanddybde-og-bolger",
-   "cat": "Sikkerhed",
-   "sum": "En ny sensor ved Avernakø Havn sender live-data om vanddybde, bølger og temperatur til mobilen for at øge sikkerheden for lystsejlere i det lavvandede område."
-  },
   {
    "key": "sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe",
    "source": "Motorbådsnyt",
@@ -259,7 +250,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-08",
    "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/",
+   "cat": "Udstyr & både"
   },
   {
    "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",

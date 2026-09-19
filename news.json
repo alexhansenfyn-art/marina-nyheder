@@ -1,10 +1,11 @@
 {
- "generated": "2026-09-19T14:50:23+00:00",
- "count": 438,
+ "generated": "2026-09-19T18:05:34+00:00",
+ "count": 437,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 137,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"k"
  ],
  "items": [
   {
@@ -30,7 +31,8 @@
    "date": "2026-09-19",
    "title": "Jan tilbage fra jordomsejling – slog Silverrudder-rekord med 14:07 i Black Marlin",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/8/csm_blac_33_s_9b7aa66820.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/8/csm_blac_33_s_9b7aa66820.jpeg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af",
