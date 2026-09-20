@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T00:27:05+00:00",
+ "generated": "2026-09-20T05:28:07+00:00",
  "count": 437,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 137,
@@ -1080,7 +1080,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
    "cat": "Udstyr & både",
-   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
+   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-20"
   },
   {
    "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
