@@ -1,10 +1,12 @@
 {
- "generated": "2026-09-20T10:10:03+00:00",
- "count": 438,
+ "generated": "2026-09-20T14:17:33+00:00",
+ "count": 439,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 138,
+ "arkiv_antal": 139,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Sik",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Havneliv"
  ],
  "items": [
   {
@@ -14,6 +16,15 @@
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_69c57c4fbf.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34443",
+   "source": "Bådmagasinet",
+   "date": "2026-09-20",
+   "title": "Prik sender Sehested & Co i front - se highlights, og få link til dagens sejladser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34443-prik-sender-sehested-co-i-front-se-highlights-og-fa-link-til-dagens-sejladser",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_rp1_2835.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -3000,16 +3011,6 @@
    "cat": "Kapsejlads",
    "sum": "Danmark deltager med fire sejlere ved EM i Europe-jolle i Biscarrosse, hvor Jesper Dietz og sønnen Eske Dietz konkurrerer i hver deres mesterskab. Stævnet blev truet af skovbrande, men gennemføres som planlagt.",
    "tjek": "2026-08-12"
-  },
-  {
-   "key": "hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-04",
-   "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/b/csm_Kerteminde_Marina_drone_713a19403f.jpg",
-   "cat": "Andet",
-   "sum": "Fra 15. juni til 30. september 2026 kan sejlere stemme på deres favoritlystbådehavn i konkurrencen om Årets Hav"
   }
  ]
 }
