@@ -1,12 +1,20 @@
 {
- "generated": "2026-09-21T00:18:57+00:00",
- "count": 439,
+ "generated": "2026-09-21T05:33:28+00:00",
+ "count": 440,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 139,
+ "arkiv_antal": 140,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34442",
+   "source": "Bådmagasinet",
+   "date": "2026-09-21",
+   "title": "Politiet fik bid! Jolle stjålet onsdag - kom tilbage til sin ejer torsdag",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34442-politiet-fik-bid-jolle-stjalet-onsdag-kom-tilbage-til-sin-ejer-torsdag",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/patruljebaad_og_jolle_2.jpg"
+  },
   {
    "key": "saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri",
    "source": "Minbåd.dk",
@@ -56,7 +64,7 @@
    "date": "2026-09-19",
    "title": "Jan tilbage fra jordomsejling – slog Silverrudder-rekord med 14:07 i Black Marlin",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/8/csm_blac_33_s_ceeedfa7a3.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/8/csm_blac_33_s_c65753cefe.jpeg",
    "cat": "Kapsejlads"
   },
   {
@@ -108,7 +116,7 @@
    "date": "2026-09-18",
    "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_babd839811.jpg"
   },
   {
    "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
@@ -206,16 +214,6 @@
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
   },
   {
-   "key": "baadmagasinet-34437",
-   "source": "Bådmagasinet",
-   "date": "2026-09-17",
-   "title": "H-båd: Ét point skiller før finalen – Eliteserien skal afgøres i Sønderborg",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34437-h-bad-et-point-skiller-for-finalen-eliteserien-skal-afgores-i-sonderborg",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/billed_a._scheel_nielsen_eliteserien.jpeg",
-   "cat": "Kapsejlads",
-   "sum": "Eliteserien Fynske Bank Cup i H-båd skal afgøres i Sønderborg, hvor kun ét point skiller de to førende besætninger inden finalestævnet."
-  },
-  {
    "key": "baadmagasinet-34436",
    "source": "Bådmagasinet",
    "date": "2026-09-17",
@@ -234,6 +232,16 @@
    "img": "https://dansksejlunion.dk/media/ub5iizdl/skaermbillede-2025-12-02-kl-115622.png?width=1200&height=630",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+  },
+  {
+   "key": "baadmagasinet-34437",
+   "source": "Bådmagasinet",
+   "date": "2026-09-17",
+   "title": "H-båd: Ét point skiller før finalen – Eliteserien skal afgøres i Sønderborg",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34437-h-bad-et-point-skiller-for-finalen-eliteserien-skal-afgores-i-sonderborg",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/billed_a._scheel_nielsen_eliteserien.jpeg",
+   "cat": "Kapsejlads",
+   "sum": "Eliteserien Fynske Bank Cup i H-båd skal afgøres i Sønderborg, hvor kun ét point skiller de to førende besætninger inden finalestævnet."
   },
   {
    "key": "baadmagasinet-34434",
@@ -270,7 +278,7 @@
    "date": "2026-09-16",
    "title": "Risbjerg køber Renbåd og udvider med ny afdeling i Humlebæk",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_b7bd1bb968.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_94a6083660.jpg",
    "cat": "Udstyr & både",
    "sum": "Risbjerg overtager Renbåd og opretter ny afdeling i Humlebæk for at styrke salg og service til bådejere"
   },
@@ -305,6 +313,16 @@
    "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både."
   },
   {
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_b02c0c6597.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
+  },
+  {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
    "source": "Minbåd.dk",
    "date": "2026-09-15",
@@ -313,16 +331,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2482ca8305.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
-  },
-  {
-   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_e29d2b3bb4.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
   },
   {
    "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
@@ -402,7 +410,7 @@
    "date": "2026-09-14",
    "title": "32 fod, Antarktis og tre kæntringer – en sejlerbog du bør læse",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_5501b4b635.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg",
    "cat": "Tursejlads",
    "sum": "Bogen Ice Bird handler om David Lewis' enkeltmandssejlads mod Antarktis i en 32 fods stålsejlbåd, hvor han oplevede storme, kæntringer og mastehavari.",
    "tjek": "2026-09-21"
@@ -450,25 +458,25 @@
    "tjek": "2026-09-21"
   },
   {
-   "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-13",
-   "title": "12 råd der kan redde parforholdet på sejlturen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_4d113768f7.jpg",
-   "cat": "Tursejlads",
-   "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
-   "tjek": "2026-09-21"
-  },
-  {
    "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
    "source": "Minbåd.dk",
    "date": "2026-09-13",
    "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_65fcec3c54.jpg",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført.",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "12 råd der kan redde parforholdet på sejlturen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg",
+   "cat": "Tursejlads",
+   "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
    "tjek": "2026-09-21"
   },
   {
@@ -1020,7 +1028,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg",
    "cat": "Udstyr & både",
-   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
+   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "baadmagasinet-34399",
@@ -1030,7 +1039,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34399-spogelsesbade-hober-sig-op-i-danske-havne-nu-kraever-branchen-et-landsdaekkende-register",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_1.jpg",
    "cat": "Havneliv",
-   "sum": "Artiklen omhandler problemet med efterladte både i danske lystbådehavne, hvor branchen nu kræver et landsdækkende register for at kunne spore ejerne. Erhvervsministeren har bedt Søfartsstyrelsen om at vurdere sagen."
+   "sum": "Artiklen omhandler problemet med efterladte både i danske lystbådehavne, hvor branchen nu kræver et landsdækkende register for at kunne spore ejerne. Erhvervsministeren har bedt Søfartsstyrelsen om at vurdere sagen.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "baadmagasinet-34395",
@@ -1040,7 +1050,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34395-dragor-havn-har-flere-gaestesejlere-frokostbillet-er-et-nyt-tilbud",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/foto_dragør_kommune_2.jpg",
    "cat": "Havneliv",
-   "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson."
+   "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
@@ -2998,16 +3009,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34320-vm-i-h-bad-skydes-i-gang-kan-claus-hoj-jensen-ga-hele-vejen",
    "cat": "Kapsejlads",
    "sum": "VM i H-båd er i gang i Stenungsund, Sverige, med 57 både fra ni nationer. Danske Claus Høj-Jensen jagter sin 11. titel mod forsvarende mester Flavio Favini.",
-   "tjek": "2026-08-12"
-  },
-  {
-   "key": "baadmagasinet-34319",
-   "source": "Bådmagasinet",
-   "date": "2026-08-05",
-   "title": "EM: Far og søn – to generationer på samme bane",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34319-em-far-og-son-to-generationer-pa-samme-bane",
-   "cat": "Kapsejlads",
-   "sum": "Danmark deltager med fire sejlere ved EM i Europe-jolle i Biscarrosse, hvor Jesper Dietz og sønnen Eske Dietz konkurrerer i hver deres mesterskab. Stævnet blev truet af skovbrande, men gennemføres som planlagt.",
    "tjek": "2026-08-12"
   }
  ]
