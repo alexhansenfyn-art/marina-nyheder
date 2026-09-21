@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T17:07:34+00:00",
- "count": 441,
+ "generated": "2026-09-21T21:08:55+00:00",
+ "count": 445,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 145,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
@@ -30,7 +30,7 @@
    "date": "2026-09-21",
    "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_tri_769_10230888163961506_1382460779298639901_n_50165f10e5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -105,15 +105,6 @@
    "cat": "Sikkerhed"
   },
   {
-   "key": "silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_78c938b5e9.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
@@ -123,12 +114,22 @@
    "cat": "Kapsejlads"
   },
   {
+   "key": "silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_78c938b5e9.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
    "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png",
+   "cat": "Sikkerhed"
   },
   {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
@@ -166,6 +167,15 @@
    "cat": "Kapsejlads"
   },
   {
+   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder – mange er udgået",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_0d5f8344a2.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
    "source": "Minbåd.dk",
    "date": "2026-09-18",
@@ -174,15 +184,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_49f3a5bf9c.jpg",
    "cat": "Udstyr & både",
    "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn."
-  },
-  {
-   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder – mange er udgået",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_0d5f8344a2.jpg",
-   "cat": "Kapsejlads"
   },
   {
    "key": "silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14",
@@ -1847,9 +1848,9 @@
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
    "cat": "Sikkerhed",
-   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
+   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -2690,9 +2691,9 @@
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg",
    "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
+   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
@@ -2700,9 +2701,9 @@
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
+   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -2974,16 +2975,6 @@
    "tjek": "2026-08-20"
   },
   {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
-   "cat": "Andet",
-   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
-  },
-  {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
    "source": "Motorbådsnyt",
    "date": "2026-08-06",
@@ -3002,6 +2993,16 @@
    "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Sejlklubber bør genoverveje deres identitet og aktiviteter, da kommunerne i højere grad stiller spørgsmål til brugen af offentlige faciliteter og økonomiske vilkår."
+  },
+  {
+   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
+   "cat": "Andet",
+   "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
   },
   {
    "key": "baadmagasinet-34321",
