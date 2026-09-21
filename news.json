@@ -1,12 +1,68 @@
 {
- "generated": "2026-09-21T05:33:28+00:00",
- "count": 440,
+ "generated": "2026-09-21T11:11:00+00:00",
+ "count": 446,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 146,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
  ],
  "items": [
+  {
+   "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_tri_769_10230888163961506_1382460779298639901_n_be0e632623.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-21",
+   "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_175f99b90e.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Seascape 27-sejler efter Silverrudder: - Et 20 timers adrenalin-trip",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_seascape_944_10163390436138596_4115341024533566004_n_2e146fe71b.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "rockwool-racing-paa-podiet-for-foerste-gang-i-2026",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "ROCKWOOL Racing på podiet for første gang i 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34444",
+   "source": "Bådmagasinet",
+   "date": "2026-09-21",
+   "title": "H-båd, eliteserien: Højspændt afslutning - et amputeret felt i hård luft",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34444-h-bad-eliteserien-hojspaendt-afslutning-i-et-amputeret-felt",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/138a5232_2.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "baadmagasinet-34442",
    "source": "Bådmagasinet",
@@ -21,7 +77,7 @@
    "date": "2026-09-20",
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_69c57c4fbf.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -34,20 +90,12 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-19",
-   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg"
-  },
-  {
    "key": "slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
    "title": "Slæbt efter sin båd i en time – slovensk Silverrudder-sejler reddet af helikopter",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_first_875_10165206456107859_3903435652290916225_n_63dec0a6f7.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_first_875_10165206456107859_3903435652290916225_n_6703511ed1.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -68,12 +116,29 @@
    "cat": "Kapsejlads"
   },
   {
+   "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png"
+  },
+  {
+   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_a3499f74c6.jpg"
+  },
+  {
    "key": "baadmagasinet-34441",
    "source": "Bådmagasinet",
    "date": "2026-09-19",
    "title": "Live: Den enes død, den andens brød",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34441-live-fra-geneve",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_1fd2_2597.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_1fd2_2597.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34440",
@@ -91,6 +156,16 @@
    "title": "Godt gået: Sejlsportsligaen får nyt liv i klubbernes hænder",
    "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
    "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630"
+  },
+  {
+   "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Redaktøren har en båd for meget – nu skal Dehler 34’eren, med nye sejl og motor, videre",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_49f3a5bf9c.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn."
   },
   {
    "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
@@ -116,7 +191,8 @@
    "date": "2026-09-18",
    "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_babd839811.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
@@ -189,19 +265,9 @@
    "date": "2026-09-17",
    "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_e47604f9df.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_56c5b60c85.png",
    "cat": "Sikkerhed",
    "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr."
-  },
-  {
-   "key": "danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret",
-   "source": "Minbåd.dk",
-   "date": "2026-09-17",
-   "title": "Danske farvande kan gå fra 39 til 250 dage med marine hedebølger om året",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_fa4ce5f9d0.png",
-   "cat": "Andet",
-   "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal."
   },
   {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
@@ -212,6 +278,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c5eafbb965.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Danske farvande kan gå fra 39 til 250 dage med marine hedebølger om året",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_fa4ce5f9d0.png",
+   "cat": "Andet",
+   "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal."
   },
   {
    "key": "baadmagasinet-34436",
@@ -251,16 +327,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34434-silverrudder-taet-pa-450-solosejlere-er-klar-fredag-gar-det-los-link-til-starten-her",
    "cat": "Kapsejlads",
    "sum": "Næsten 450 solosejlere starter fredag i Silverrudder rundt om Fyn. Tyskland stiller med 252 deltagere, Danmark med 123."
-  },
-  {
-   "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
-   "source": "Minbåd.dk",
-   "date": "2026-09-16",
-   "title": "Redaktøren har en båd for meget – nu skal Dehler 34’eren, med nye sejl og motor, videre",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_49f3a5bf9c.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn."
   },
   {
    "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
@@ -313,16 +379,6 @@
    "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både."
   },
   {
-   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_b02c0c6597.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
-  },
-  {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
    "source": "Minbåd.dk",
    "date": "2026-09-15",
@@ -331,6 +387,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2482ca8305.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+  },
+  {
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_e29d2b3bb4.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab."
   },
   {
    "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
@@ -348,7 +414,7 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_26513f2c7b.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
   },
@@ -463,7 +529,7 @@
    "date": "2026-09-13",
    "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_65fcec3c54.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført.",
    "tjek": "2026-09-21"
@@ -474,7 +540,7 @@
    "date": "2026-09-13",
    "title": "12 råd der kan redde parforholdet på sejlturen",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_aade3fd3e0.jpg",
    "cat": "Tursejlads",
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
    "tjek": "2026-09-21"
@@ -517,7 +583,7 @@
    "date": "2026-09-12",
    "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_ae194767a9.jpg",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser.",
    "tjek": "2026-09-21"
@@ -581,7 +647,7 @@
    "date": "2026-09-11",
    "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_7bfa9b886e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
    "cat": "Sikkerhed",
    "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
    "tjek": "2026-09-21"
@@ -592,7 +658,7 @@
    "date": "2026-09-11",
    "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_c61300ecf0.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
    "cat": "Kapsejlads",
    "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
    "tjek": "2026-09-21"
@@ -666,9 +732,9 @@
    "date": "2026-09-10",
    "title": "Vedbæk Cup samler igen 500 sejlere til efterårsklassiker",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/0/csm_ved_15_118b73d098.jpg",
    "cat": "Kapsejlads",
    "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/0/csm_ved_15_118b73d098.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -677,9 +743,9 @@
    "date": "2026-09-10",
    "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_du_G_20260908_152138_57cc8f4b78.jpg",
    "cat": "Udstyr & både",
    "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_du_G_20260908_152138_57cc8f4b78.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -688,9 +754,9 @@
    "date": "2026-09-10",
    "title": "Søstjernerne ruller ind i Bogense med trailer fuld af vandleg",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/a/csm_tur_top_P1013844_6417cebdd2.jpg",
    "cat": "Havneliv",
    "sum": "Danske Tursejleres Søstjerner besøger Bogense Sejlklub 12. september med en grejtrailer fyldt med vandaktiviteter for børn og familier. Fra 11-16 kan de prøve SUP, våddragter og dykkermasker.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/a/csm_tur_top_P1013844_6417cebdd2.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -725,17 +791,6 @@
    "tjek": "2026-09-17"
   },
   {
-   "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
-   "source": "Minbåd.dk",
-   "date": "2026-09-09",
-   "title": "Sejlere sendt væk – kort efter sprang håndgranat i Julsø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_akiv20190331_184040_0c8560ff08.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Sejlere blev afvist fra området, da en håndgranat blev fundet og sprængt i Julsø. En tursejler og hans kone blev bedt om at holde afstand.",
-   "tjek": "2026-09-21"
-  },
-  {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
@@ -747,14 +802,14 @@
    "tjek": "2026-09-21"
   },
   {
-   "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
+   "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
    "source": "Minbåd.dk",
    "date": "2026-09-09",
-   "title": "Tysk par i problemer i Rønne – båd tog vand ind",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
+   "title": "Sejlere sendt væk – kort efter sprang håndgranat i Julsø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe/",
    "cat": "Sikkerhed",
-   "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/2/csm_b_714_202907_0483710851.jpg",
+   "sum": "Sejlere blev afvist fra området, da en håndgranat blev fundet og sprængt i Julsø. En tursejler og hans kone blev bedt om at holde afstand.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_akiv20190331_184040_0c8560ff08.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -766,6 +821,17 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "tysk-par-i-problemer-i-roenne-baad-tog-vand-ind",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Tysk par i problemer i Rønne – båd tog vand ind",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/tysk-par-i-problemer-i-roenne-baad-tog-vand-ind/",
+   "cat": "Sikkerhed",
+   "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/2/csm_b_714_202907_0483710851.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -801,17 +867,6 @@
    "tjek": "2026-09-21"
   },
   {
-   "key": "anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland",
-   "source": "Minbåd.dk",
-   "date": "2026-09-08",
-   "title": "Anna Munch blander sig i VM-toppen efter sejr i Irland",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_a_8rig_58139_1071235962482128_1188593336381016324_n_d21ee504df.jpg",
-   "tjek": "2026-09-21"
-  },
-  {
    "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
    "source": "Minbåd.dk",
    "date": "2026-09-08",
@@ -831,6 +886,17 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/skitse_hasloev_og_kjaersgaard_forside.jpg",
    "cat": "Havneliv",
    "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner.",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Anna Munch blander sig i VM-toppen efter sejr i Irland",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_a_8rig_58139_1071235962482128_1188593336381016324_n_d21ee504df.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -865,17 +931,6 @@
    "tjek": "2026-09-15"
   },
   {
-   "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
-   "source": "Minbåd.dk",
-   "date": "2026-09-07",
-   "title": "Endnu en sejlbåd kastet op på kysten – ligger på stenene ved Tisvilde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
-   "cat": "Sikkerhed",
-   "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_t_793901250_1082047274823534_5245322526878625127_n_fc59a410af.jpg",
-   "tjek": "2026-09-21"
-  },
-  {
    "key": "legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt",
    "source": "Motorbådsnyt",
    "date": "2026-09-07",
@@ -895,6 +950,17 @@
    "img": "https://dansksejlunion.dk/media/yq3jpikk/799274703_1671196978133406_5646575502344530403_n.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Tre besætninger blev danmarksmestre ved DH-DM i Middelfart efter en weekend med skiftende vejr og afbrudte sejladser.",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde",
+   "source": "Minbåd.dk",
+   "date": "2026-09-07",
+   "title": "Endnu en sejlbåd kastet op på kysten – ligger på stenene ved Tisvilde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/september/article/endnu-en-sejlbaad-kastet-op-paa-kysten-nu-ligger-den-paa-stenene-ved-tisvilde/",
+   "cat": "Sikkerhed",
+   "sum": "En sejlbåd er drevet på land ved Tisvilde Strand. Politiet søger ejeren, og båden menes at have revet sig løs fra Juelsminde Havn.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_t_793901250_1082047274823534_5245322526878625127_n_fc59a410af.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -1121,7 +1187,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_f1b42a3fff.jpg",
    "cat": "Udstyr & både",
-   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
+   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
@@ -1211,7 +1278,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
    "cat": "Sikkerhed",
-   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
+   "tjek": "2026-09-21"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -1331,7 +1399,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
    "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
@@ -1341,7 +1410,8 @@
    "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/c/csm_Bogense_Shelter_ab06f704d5.jpg",
    "cat": "Havneliv",
-   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger."
+   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
@@ -2942,74 +3012,6 @@
    "cat": "Tursejlads",
    "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
    "tjek": "2026-09-06"
-  },
-  {
-   "key": "klassiske-traeskibe-fylder-helsingoer-kom-om-bord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Klassiske træskibe fylder Helsingør - kom om bord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/klassiske-traeskibe-fylder-helsingoer-kom-om-bord/",
-   "cat": "Havneliv",
-   "sum": "Klassiske træskibe lægger til i Helsingør med kanonsalut, åbne skibe og aktiviteter for hele familien i anledning af kapsejladsen Øresund på Langs og byens 600-års jubilæum.",
-   "tjek": "2026-09-06"
-  },
-  {
-   "key": "baadmagasinet-34318",
-   "source": "Bådmagasinet",
-   "date": "2026-08-06",
-   "title": "Sjældent vejrfænomen ramte Nordsøen: Fisker filmer 'meteotsunami'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34318-sjaeldent-vejrfaenomen-ramte-nordsoen-fisker-filmer-meteotsunami",
-   "cat": "Andet",
-   "sum": "En fisker ved Hanstholm filmede en sjælden meteotsunami, en bølge forårsaget af pludselige trykændringer. Fænomenet er ufarligt i Danmark.",
-   "tjek": "2026-08-20"
-  },
-  {
-   "key": "motorbaad-roeg-af-trailer-og-ramte-traekkende-bil",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-05",
-   "title": "Motorbåd røg af trailer og ramte trækkende bil",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/august/article/motorbaad-roeg-af-trailer-og-ramte-traekkende-bil/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/8/csm_a_G_20201113_125719_c6de6c03bc.jpg",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd gled af traileren ved en opbremsning og ramte den trækkende bil på Karrebækvej ved Næstved. Ingen kom til skade, men føreren er sigtet for manglende fastgørelse af gods."
-  },
-  {
-   "key": "baadmagasinet-34315",
-   "source": "Bådmagasinet",
-   "date": "2026-08-05",
-   "title": "Fra fiskerihavn til sejlermagnet: Nexø oplever boom af større både",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34315-fra-fiskerihavn-til-sejlermagnet-nexo-oplever-boom-af-storre-bade",
-   "cat": "Havneliv",
-   "sum": "Nexø Havn er forvandlet fra fiskerihavn til populær lystbådehavn med flere og større gæstebåde. Havnedirektøren mærker en klar tendens mod længere ophold og højere indtjening.",
-   "tjek": "2026-09-06"
-  },
-  {
-   "key": "flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat",
-   "source": "Minbåd.dk",
-   "date": "2026-08-05",
-   "title": "Nye vindmølleparker udfordrer sejlerne i Nordsøen og Kattegat",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/flere-havvindmoeller-paa-vej-sejlere-faar-nye-forhindringer-i-nordsoeen-og-kattegat/",
-   "cat": "Sikkerhed",
-   "sum": "Vattenfall vinder udbud på to havvindmølleparker i Nordsøen og Kattegat, hvilket skaber nye udfordringer for lystsejlere, der skal navigere i områderne."
-  },
-  {
-   "key": "klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje",
-   "source": "Minbåd.dk",
-   "date": "2026-08-05",
-   "title": "Klassiske 12mR-både trak mange tilskuere til Gilleleje",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/august/article/klassiske-12mr-baade-trak-mange-tilskuere-til-gilleleje/",
-   "cat": "Kapsejlads",
-   "sum": "Klassiske 12mR-både deltog i Wessel & Vett Cup i Gilleleje, hvor svenske Northern Light vandt foran tyske Jenetta og danske Vim. Stævnet trak mange tilskuere til havnen."
-  },
-  {
-   "key": "baadmagasinet-34320",
-   "source": "Bådmagasinet",
-   "date": "2026-08-05",
-   "title": "VM i H-båd skydes i gang – kan Claus Høj-Jensen gå hele vejen?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34320-vm-i-h-bad-skydes-i-gang-kan-claus-hoj-jensen-ga-hele-vejen",
-   "cat": "Kapsejlads",
-   "sum": "VM i H-båd er i gang i Stenungsund, Sverige, med 57 både fra ni nationer. Danske Claus Høj-Jensen jagter sin 11. titel mod forsvarende mester Flavio Favini.",
-   "tjek": "2026-08-12"
   }
  ]
 }
