@@ -1,22 +1,19 @@
 {
- "generated": "2026-09-21T11:11:00+00:00",
- "count": 446,
+ "generated": "2026-09-21T17:07:34+00:00",
+ "count": 441,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 146,
+ "arkiv_antal": 141,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
+   "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
    "source": "Minbåd.dk",
    "date": "2026-09-21",
-   "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_tri_769_10230888163961506_1382460779298639901_n_be0e632623.jpg",
-   "cat": "Sikkerhed"
+   "title": "Silverrudder-sejler gik ud på kølen af First 18 og faldt i vandet - tæt på at gi op",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_d10a07820b.png"
   },
   {
    "key": "lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten",
@@ -28,12 +25,21 @@
    "cat": "Sikkerhed"
   },
   {
+   "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_tri_769_10230888163961506_1382460779298639901_n_50165f10e5.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
    "source": "Minbåd.dk",
    "date": "2026-09-21",
    "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_175f99b90e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_a505dcafb5.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -42,7 +48,7 @@
    "date": "2026-09-21",
    "title": "Seascape 27-sejler efter Silverrudder: - Et 20 timers adrenalin-trip",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_seascape_944_10163390436138596_4115341024533566004_n_2e146fe71b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_seascape_944_10163390436138596_4115341024533566004_n_b02f29239c.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -104,7 +110,8 @@
    "date": "2026-09-19",
    "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_78c938b5e9.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_78c938b5e9.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
@@ -155,7 +162,8 @@
    "date": "2026-09-19",
    "title": "Godt gået: Sejlsportsligaen får nyt liv i klubbernes hænder",
    "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
-   "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
@@ -255,19 +263,9 @@
    "date": "2026-09-17",
    "title": "Ét point skiller før H-båds finale i Sønderborg - se live",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0e49d9d19a.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0848225c74.jpeg",
    "cat": "Kapsejlads",
    "sum": "Eliteserien Fynske Bank Cup i H-båd afgøres i Sønderborg med ti både. Morten Scheel Nielsen fører med ét point forud for weekendens sidste stævne, der kan følges live."
-  },
-  {
-   "key": "genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr",
-   "source": "Minbåd.dk",
-   "date": "2026-09-17",
-   "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_56c5b60c85.png",
-   "cat": "Sikkerhed",
-   "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr."
   },
   {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
@@ -278,6 +276,16 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c5eafbb965.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
+  },
+  {
+   "key": "genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_e47604f9df.png",
+   "cat": "Sikkerhed",
+   "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr."
   },
   {
    "key": "danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret",
@@ -404,7 +412,7 @@
    "date": "2026-09-15",
    "title": "Contender-kongen Søren Dulong tog 21. DM-guld",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/contender-kongen-soeren-dulong-tog-21-dm-guld/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_soeren_dulong_fkryds_top_15d4e0b8d4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_soeren_dulong_fkryds_top_da526c41d9.jpg",
    "cat": "Kapsejlads",
    "sum": "Søren Dulong Andreasen fra Hellerup Sejlklub vandt sit 21. danske mesterskab i Contender ved DM ud for Skovshoved efter fire sejre i fire sejladser."
   },
@@ -414,7 +422,7 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_26513f2c7b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen."
   },
@@ -529,7 +537,7 @@
    "date": "2026-09-13",
    "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_65fcec3c54.jpg",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført.",
    "tjek": "2026-09-21"
@@ -583,7 +591,7 @@
    "date": "2026-09-12",
    "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_ae194767a9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
    "cat": "Kapsejlads",
    "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser.",
    "tjek": "2026-09-21"
@@ -658,9 +666,9 @@
    "date": "2026-09-11",
    "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
    "cat": "Kapsejlads",
    "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
    "tjek": "2026-09-21"
   },
   {
@@ -856,17 +864,6 @@
    "tjek": "2026-09-16"
   },
   {
-   "key": "sundby-besaetning-suveraene-danske-mestre-i-yngling",
-   "source": "Minbåd.dk",
-   "date": "2026-09-08",
-   "title": "Sundby-besætning suveræne danske mestre i Yngling",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/sundby-besaetning-suveraene-danske-mestre-i-yngling/",
-   "cat": "Kapsejlads",
-   "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_michael_99590600_28417480601234355_4070724189751516970_n_cb54987d5c.jpg",
-   "tjek": "2026-09-21"
-  },
-  {
    "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
    "source": "Minbåd.dk",
    "date": "2026-09-08",
@@ -886,6 +883,17 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/skitse_hasloev_og_kjaersgaard_forside.jpg",
    "cat": "Havneliv",
    "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner.",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "sundby-besaetning-suveraene-danske-mestre-i-yngling",
+   "source": "Minbåd.dk",
+   "date": "2026-09-08",
+   "title": "Sundby-besætning suveræne danske mestre i Yngling",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/sundby-besaetning-suveraene-danske-mestre-i-yngling/",
+   "cat": "Kapsejlads",
+   "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_michael_99590600_28417480601234355_4070724189751516970_n_cb54987d5c.jpg",
    "tjek": "2026-09-21"
   },
   {
@@ -1491,7 +1499,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
    "cat": "Udstyr & både",
-   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
+   "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber.",
+   "tjek": "2026-09-21"
   },
   {
    "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
@@ -3002,16 +3011,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
    "cat": "Andet",
    "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
-  },
-  {
-   "key": "spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Spækhuggere ændrer kursen for familen Uldall i Nordspanien",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/spaekhuggere-aendrer-kursen-for-familen-uldall-i-nordspanien/",
-   "cat": "Tursejlads",
-   "sum": "Familien Uldall dropper Middelhavet og vender nordpå fra Nordspanien på grund af risikoen for spækhuggere og varmen. De prioriterer ro og nærvær frem for at sejle mange sømil.",
-   "tjek": "2026-09-06"
   }
  ]
 }
