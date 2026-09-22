@@ -1,12 +1,20 @@
 {
- "generated": "2026-09-22T00:09:47+00:00",
- "count": 445,
+ "generated": "2026-09-22T05:00:17+00:00",
+ "count": 446,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 145,
+ "arkiv_antal": 146,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34445",
+   "source": "Bådmagasinet",
+   "date": "2026-09-22",
+   "title": "Nationalmuseet åbner maritim legeplads",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34445-nationalmuseet-abner-maritim-legeplads-i-holbaek",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_facebook_1789953786566_7507610326811419600.jpg"
+  },
   {
    "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
    "source": "Minbåd.dk",
@@ -149,21 +157,21 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "baadmagasinet-34440",
-   "source": "Bådmagasinet",
-   "date": "2026-09-19",
-   "title": "Silverrudder: Ny rekord i dramatisk og uheldsramt udgave af den populære sejlads",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34440-silverrudder-ny-rekord-i-dramatisk-og-uheldsramt-udgave",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_813520521_10240039917809653_2043720394577576592_n_2.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
    "source": "Dansk Sejlunion",
    "date": "2026-09-19",
    "title": "Godt gået: Sejlsportsligaen får nyt liv i klubbernes hænder",
    "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
    "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34440",
+   "source": "Bådmagasinet",
+   "date": "2026-09-19",
+   "title": "Silverrudder: Ny rekord i dramatisk og uheldsramt udgave af den populære sejlads",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34440-silverrudder-ny-rekord-i-dramatisk-og-uheldsramt-udgave",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_813520521_10240039917809653_2043720394577576592_n_2.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -1121,7 +1129,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34399-spogelsesbade-hober-sig-op-i-danske-havne-nu-kraever-branchen-et-landsdaekkende-register",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_1.jpg",
    "cat": "Havneliv",
-   "sum": "Artiklen omhandler problemet med efterladte både i danske lystbådehavne, hvor branchen nu kræver et landsdækkende register for at kunne spore ejerne. Erhvervsministeren har bedt Søfartsstyrelsen om at vurdere sagen."
+   "sum": "Artiklen omhandler problemet med efterladte både i danske lystbådehavne, hvor branchen nu kræver et landsdækkende register for at kunne spore ejerne. Erhvervsministeren har bedt Søfartsstyrelsen om at vurdere sagen.",
+   "tjek": "2026-09-22"
   },
   {
    "key": "baadmagasinet-34395",
@@ -1131,7 +1140,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34395-dragor-havn-har-flere-gaestesejlere-frokostbillet-er-et-nyt-tilbud",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/foto_dragør_kommune_2.jpg",
    "cat": "Havneliv",
-   "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson."
+   "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson.",
+   "tjek": "2026-09-22"
   },
   {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
@@ -3003,15 +3013,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
    "cat": "Andet",
    "sum": "Den tidligere sejler Mickey Liechtenstein Rasmussen har udviklet platformen NorDok, som samler oplysninger om over 5.000 lystbådehavne i Norden og Tyskland. Havnene kan gratis opdatere egne profiler, og platformen henvender sig blandt andet til gæstesejlere."
-  },
-  {
-   "key": "baadmagasinet-34321",
-   "source": "Bådmagasinet",
-   "date": "2026-08-06",
-   "title": "Ny digital havneguide - NorDok vil samle 5.000 lystbådehavne i fire lande",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34321-endnu-en-digital-havneguide-vil-samle-5-000-lystbadehavne-i-fire-lande",
-   "cat": "Andet",
-   "sum": "NorDok er en ny digital havneguide, der samler oplysninger om 5"
   }
  ]
 }
