@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T18:57:45+00:00",
+ "generated": "2026-09-22T22:13:59+00:00",
  "count": 142,
  "items": [
   {
@@ -112,7 +112,8 @@
    "date": "2026-07-24",
    "title": "10 gode råd før du køber brugt båd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/b/csm_aske_0250719_135705_23bc36e486.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/b/csm_aske_0250719_135705_23bc36e486.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
@@ -127,7 +128,8 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
