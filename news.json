@@ -1,21 +1,19 @@
 {
- "generated": "2026-09-23T10:04:55+00:00",
- "count": 445,
+ "generated": "2026-09-23T15:05:35+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 145,
+ "arkiv_antal": 144,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"K"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
+   "key": "ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser",
    "source": "Minbåd.dk",
    "date": "2026-09-23",
-   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
-   "cat": "Sikkerhed"
+   "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg"
   },
   {
    "key": "fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd",
@@ -26,12 +24,30 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg"
   },
   {
+   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-23",
+   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-09-23",
    "title": "Anders Johansen i JPK 10.30 sejlede sit hårdeste og hurtigste Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_21fd76a205.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_834d2c12cd.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34451",
+   "source": "Bådmagasinet",
+   "date": "2026-09-23",
+   "title": "Årets Havn: Kun én uge tilbage – hvilken dansk havn fortjener titlen?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34451-arets-havn-kun-en-uge-tilbage-hvilken-dansk-havn-fortjener-titlen",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_kerteminde_marina_drone_2.jpg"
   },
   {
    "key": "baadmagasinet-34450",
@@ -47,7 +63,7 @@
    "date": "2026-09-22",
    "title": "Ni AC40’ere klar til America’s Cup-opgør i Napoli",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_ac__WhatsApp-Image-2026-09-21-at-153815_8e7b304ef8.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_ac__WhatsApp-Image-2026-09-21-at-153815_6609fb63d2.jpeg",
    "cat": "Kapsejlads"
   },
   {
@@ -65,7 +81,8 @@
    "date": "2026-09-22",
    "title": "To ud af tre eliteatleter tjener højst 5.000 kroner på sporten",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/to-ud-af-tre-eliteatleter-tjener-hoejst-5000-kroner-paa-sporten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_Anne-Marie_Rindom-laens_torsdag.jpg_627d6eabe0.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_Anne-Marie_Rindom-laens_torsdag.jpg_627d6eabe0.jpg",
+   "cat": "Andet"
   },
   {
    "key": "askeladden-navnet-overlever-konkurs-med-baadserie-under-7-meter",
@@ -117,7 +134,8 @@
    "date": "2026-09-21",
    "title": "Silverrudder-sejler gik ud på kølen af First 18 og faldt i vandet - tæt på at gi op",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_fe747f247a.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_fe747f247a.png",
+   "cat": "Sikkerhed"
   },
   {
    "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
@@ -165,6 +183,14 @@
    "cat": "Sikkerhed"
   },
   {
+   "key": "baadmagasinet-34442",
+   "source": "Bådmagasinet",
+   "date": "2026-09-21",
+   "title": "Politiet fik bid! Jolle stjålet onsdag - kom tilbage til sin ejer torsdag",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34442-politiet-fik-bid-jolle-stjalet-onsdag-kom-tilbage-til-sin-ejer-torsdag",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/patruljebaad_og_jolle_2.jpg"
+  },
+  {
    "key": "baadmagasinet-34444",
    "source": "Bådmagasinet",
    "date": "2026-09-21",
@@ -174,20 +200,12 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "baadmagasinet-34442",
-   "source": "Bådmagasinet",
-   "date": "2026-09-21",
-   "title": "Politiet fik bid! Jolle stjålet onsdag - kom tilbage til sin ejer torsdag",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34442-politiet-fik-bid-jolle-stjalet-onsdag-kom-tilbage-til-sin-ejer-torsdag",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/patruljebaad_og_jolle_2.jpg"
-  },
-  {
    "key": "saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri",
    "source": "Minbåd.dk",
    "date": "2026-09-20",
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_69c57c4fbf.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -227,21 +245,21 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__a422aad8d6.png",
-   "cat": "Sikkerhed"
-  },
-  {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_a3499f74c6.jpg"
+  },
+  {
+   "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png",
+   "cat": "Sikkerhed"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
@@ -379,7 +397,7 @@
    "date": "2026-09-17",
    "title": "Ét point skiller før H-båds finale i Sønderborg - se live",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0e49d9d19a.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0848225c74.jpeg",
    "cat": "Kapsejlads",
    "sum": "Eliteserien Fynske Bank Cup i H-båd afgøres i Sønderborg med ti både. Morten Scheel Nielsen fører med ét point forud for weekendens sidste stævne, der kan følges live."
   },
@@ -389,7 +407,7 @@
    "date": "2026-09-17",
    "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_56c5b60c85.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_e47604f9df.png",
    "cat": "Sikkerhed",
    "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr."
   },
@@ -503,7 +521,7 @@
    "date": "2026-09-15",
    "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_e29d2b3bb4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_b02c0c6597.jpg",
    "cat": "Sikkerhed",
    "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab.",
    "tjek": "2026-09-23"
@@ -525,7 +543,7 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_26513f2c7b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen.",
    "tjek": "2026-09-23"
@@ -655,9 +673,9 @@
    "date": "2026-09-13",
    "title": "Seks U-DM mestre kåret efter svær weekend på Øresund",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
    "tjek": "2026-09-23"
   },
   {
@@ -1404,7 +1422,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
    "cat": "Sikkerhed",
-   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget",
+   "tjek": "2026-09-23"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -2987,25 +3006,6 @@
    "cat": "Kapsejlads",
    "sum": "Sundby-holdet missede bronze med ét point ved Yngling-VM efter en tyvstart i første sejlads og en stærk afslutning. De sluttede femte, mens Norge tog alle medaljer.",
    "tjek": "2026-08-22"
-  },
-  {
-   "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-08",
-   "title": "Videoklip: Her går det helt galt for bådfolket.",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Videoen samler spektakulære og farlige episoder med både, hvor uheld og dårlige beslutninger fanges på kamera. Klippene viser, hvor hurtigt ting kan gå galt på vandet, hvis man mister overblikket."
-  },
-  {
-   "key": "baadmagasinet-34322",
-   "source": "Bådmagasinet",
-   "date": "2026-08-08",
-   "title": "Skagen: Havnefoged må pakke bådene i op til otte lag",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34322-havnefoged-ma-pakke-badene-i-otte-lag-i-skagen",
-   "cat": "Havneliv",
-   "sum": "Skagen Lystbådehavn er hårdt presset om sommeren med op til 250 både dagligt og må fortøje fartøjer i op til otte lag. Havnefogeden bemærker, at bådene er blevet 30 procent større, og havnen lejer derfor ekstra bassin."
   }
  ]
 }
