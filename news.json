@@ -1,19 +1,20 @@
 {
- "generated": "2026-09-23T15:05:35+00:00",
- "count": 444,
+ "generated": "2026-09-23T19:05:50+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser",
+   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
    "source": "Minbåd.dk",
    "date": "2026-09-23",
-   "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg"
+   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd",
@@ -24,13 +25,12 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg"
   },
   {
-   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
+   "key": "ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser",
    "source": "Minbåd.dk",
    "date": "2026-09-23",
-   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
-   "cat": "Sikkerhed"
+   "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_d52bd156e4.jpg"
   },
   {
    "key": "anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder",
