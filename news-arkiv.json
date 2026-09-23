@@ -1,16 +1,36 @@
 {
- "generated": "2026-09-23T05:16:44+00:00",
- "count": 143,
+ "generated": "2026-09-23T10:04:55+00:00",
+ "count": 145,
  "items": [
   {
-   "key": "bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama",
+   "key": "det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt",
    "source": "Minbåd.dk",
-   "date": "2026-08-07",
-   "title": "Bavaria-sejlere tog natten til Anholt: Solopgang og genakker-drama",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/august/article/bavaria-sejlere-tog-natten-til-anholt-solopgang-og-genakker-drama/",
-   "cat": "Tursejlads",
-   "sum": "Louise og Philip fra Frederiksværk sejler til Anholt og deler oplevelsen på YouTube. Turen byder på natsejlads, solopgang og udfordringer med genakkeren på hjemturen.",
-   "tjek": "2026-09-06"
+   "date": "2026-08-08",
+   "title": "Det skal der være i værktøjskassen på en sejlbåd - læserne har talt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/august/article/det-skal-der-vaere-i-vaerktoejskassen-paa-en-sejlbaad-laeserne-har-talt/",
+   "cat": "Udstyr & både",
+   "sum": "En bådejer havde kun en spisekniv som værktøj. Læsere giver råd om vigtigt værktøj til motor, el og rig, samt gaffatape og strips.",
+   "tjek": "2026-08-21"
+  },
+  {
+   "key": "baadmagasinet-34327",
+   "source": "Bådmagasinet",
+   "date": "2026-08-08",
+   "title": "Gammel kærlighed ruster aldrig – Team Ginger missede VM-podiet med ét sølle point",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34327-gammel-kaerlighed-ruster-aldrig-team-ginger-missede-vm-podiet-med-et-solle-point",
+   "cat": "Kapsejlads",
+   "sum": "Team Ginger missede VM-bronzen med ét point efter diskvalifikation. Bedste danske båd ved Yngling-VM i Norge, hvor værterne tog alle medaljer.",
+   "tjek": "2026-08-15"
+  },
+  {
+   "key": "baadmagasinet-34324",
+   "source": "Bådmagasinet",
+   "date": "2026-08-08",
+   "title": "Ungdoms EM: Suveræn sejr til Eske Dietz fra Hellerup Sejlklub",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34324-ungdoms-em-suveraen-sejr-til-eske-dietz-fra-hellerup",
+   "cat": "Kapsejlads",
+   "sum": "Eske Dietz fra Hellerup Sejlklub er blevet ungdoms Europamester efter en suveræn serie på fire førstepladser.",
+   "tjek": "2026-08-15"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -58,7 +78,8 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -129,7 +150,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-23",
    "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
+   "cat": "Sikkerhed"
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
@@ -177,7 +199,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-20",
    "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/",
+   "cat": "Sikkerhed"
   },
   {
    "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
@@ -232,7 +255,8 @@
    "date": "2026-07-17",
    "title": "Politiet med humoristisk opråb til sejlerne: Smarte solbriller er ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
