@@ -1,19 +1,19 @@
 {
- "generated": "2026-09-24T11:50:27+00:00",
- "count": 445,
+ "generated": "2026-09-24T17:15:02+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 145,
+ "arkiv_antal": 143,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "shogun-69-svensk-fartmaskine-kan-sejles-doublehanded",
+   "key": "kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere",
    "source": "Minbåd.dk",
    "date": "2026-09-24",
-   "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_8dcdf70ffd.jpg"
+   "title": "Kong Harald var en af os – nu skal sejlsporten åbne døren for flere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_e29155a289.png"
   },
   {
    "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
@@ -24,12 +24,20 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg"
   },
   {
+   "key": "shogun-69-svensk-fartmaskine-kan-sejles-doublehanded",
+   "source": "Minbåd.dk",
+   "date": "2026-09-24",
+   "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg"
+  },
+  {
    "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
    "source": "Minbåd.dk",
    "date": "2026-09-24",
    "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_58cbf28de6.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_978a288204.png",
    "cat": "Udstyr & både"
   },
   {
@@ -64,7 +72,7 @@
    "date": "2026-09-23",
    "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -190,6 +198,15 @@
    "cat": "Sikkerhed"
   },
   {
+   "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_7fdd73228a.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
    "source": "Minbåd.dk",
    "date": "2026-09-21",
@@ -197,15 +214,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
    "cat": "Sikkerhed"
-  },
-  {
-   "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
-   "source": "Minbåd.dk",
-   "date": "2026-09-21",
-   "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_175f99b90e.jpg",
-   "cat": "Kapsejlads"
   },
   {
    "key": "seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip",
@@ -414,17 +422,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
-   "source": "Minbåd.dk",
-   "date": "2026-09-17",
-   "title": "De bor på et bådeværft i Mexico – to både koster 52.000 kroner om året",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_way_-crew_82f47a5e96.jpg",
-   "cat": "Havneliv",
-   "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år.",
-   "tjek": "2026-09-24"
-  },
-  {
    "key": "nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-09-17",
@@ -447,6 +444,17 @@
    "tjek": "2026-09-24"
   },
   {
+   "key": "de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-17",
+   "title": "De bor på et bådeværft i Mexico – to både koster 52.000 kroner om året",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/de-bor-paa-et-baadevaerft-i-mexico-to-baade-koster-52000-kroner-om-aaret/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_way_-crew_62918c86ab.jpg",
+   "cat": "Havneliv",
+   "sum": "Amerikansk par bor på bådeværft i Mexico og bruger 52.000 kr. årligt på to sejlbåde; 172.000 kr. på reservedele over to år.",
+   "tjek": "2026-09-24"
+  },
+  {
    "key": "genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr",
    "source": "Minbåd.dk",
    "date": "2026-09-17",
@@ -463,7 +471,7 @@
    "date": "2026-09-17",
    "title": "Danske farvande kan gå fra 39 til 250 dage med marine hedebølger om året",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_fa4ce5f9d0.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_6f068c31e3.png",
    "cat": "Andet",
    "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal.",
    "tjek": "2026-09-24"
@@ -528,7 +536,7 @@
    "date": "2026-09-16",
    "title": "Risbjerg køber Renbåd og udvider med ny afdeling i Humlebæk",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_b7bd1bb968.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_94a6083660.jpg",
    "cat": "Udstyr & både",
    "sum": "Risbjerg overtager Renbåd og opretter ny afdeling i Humlebæk for at styrke salg og service til bådejere",
    "tjek": "2026-09-24"
@@ -649,9 +657,9 @@
    "date": "2026-09-14",
    "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
    "cat": "Kapsejlads",
    "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
    "tjek": "2026-09-24"
   },
   {
@@ -773,17 +781,6 @@
    "tjek": "2026-09-20"
   },
   {
-   "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
-   "source": "Minbåd.dk",
-   "date": "2026-09-12",
-   "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
-   "tjek": "2026-09-24"
-  },
-  {
    "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
    "source": "Minbåd.dk",
    "date": "2026-09-12",
@@ -803,6 +800,17 @@
    "img": "https://dansksejlunion.dk/media/nxykqfn2/260912_sailingenergy_iqfoilworldsweymouth__c1_6116_den-37-johan-soee-iqfoil-worlds.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag.",
+   "tjek": "2026-09-24"
+  },
+  {
+   "key": "ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem",
+   "source": "Minbåd.dk",
+   "date": "2026-09-12",
+   "title": "ILCA 6 og iQFOiL: Munch og Søe sejler VM-bronze hjem",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/september/article/ilca-6-og-iqfoil-munch-og-soee-sejler-vm-bronze-hjem/",
+   "cat": "Kapsejlads",
+   "sum": "Anna Munch vandt VM-bronze i ILCA 6 i Irland, og Johan Søe tog VM-bronze i iQFOiL i Weymouth. Dermed sikrede Danmark to medaljer ved VM i olympiske bådklasser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_AA_unnamed_-_2026-09-12T181204.810_953412aec2.jpg",
    "tjek": "2026-09-24"
   },
   {
@@ -1248,7 +1256,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_0aa2b68855.jpg",
    "cat": "Udstyr & både",
-   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
+   "tjek": "2026-09-24"
   },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
@@ -2991,16 +3000,6 @@
    "cat": "Havneliv",
    "sum": "En brugde, verdens næststørste haj, svømmede torsdag eftermiddag tæt på kysten og ind ved Ålbæk Havn, hvilket skabte postyr blandt badegæster og havnebesøgende.",
    "tjek": "2026-08-22"
-  },
-  {
-   "key": "baadmagasinet-34330",
-   "source": "Bådmagasinet",
-   "date": "2026-08-10",
-   "title": "Jørgen Ring hædret for en helt enestående VM-indsats",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34330-jorgen-ring-blev-haedret-for-en-helt-enestaende-vm-indsats",
-   "cat": "Kapsejlads",
-   "sum": "Jørgen Ring fra Taarbæk er hædret for at have deltaget i sit 50. VM i Yngling, en enestående præstation. Han modtager det gyldne Y i sejlet.",
-   "tjek": "2026-08-17"
   }
  ]
 }
