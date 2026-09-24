@@ -1,20 +1,28 @@
 {
- "generated": "2026-09-24T00:55:42+00:00",
- "count": 443,
+ "generated": "2026-09-24T06:16:25+00:00",
+ "count": 445,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 145,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
+   "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
    "source": "Minbåd.dk",
-   "date": "2026-09-23",
-   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
-   "cat": "Sikkerhed"
+   "date": "2026-09-24",
+   "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_978a288204.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34452",
+   "source": "Bådmagasinet",
+   "date": "2026-09-24",
+   "title": "Swan bygger den største sejlbåd i værftets historie - se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34452-swan-bygger-den-storste-sejlbad-i-vaerftets-historie",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/swan_44m.jpg"
   },
   {
    "key": "fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd",
@@ -22,7 +30,17 @@
    "date": "2026-09-23",
    "title": "Fem jægere og en hund fanget i synkende jolle – kunne ikke gå ud på grund af dynd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/september/article/fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-23",
+   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser",
@@ -30,7 +48,7 @@
    "date": "2026-09-23",
    "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_d52bd156e4.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg"
   },
   {
    "key": "anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder",
@@ -38,7 +56,7 @@
    "date": "2026-09-23",
    "title": "Anders Johansen i JPK 10.30 sejlede sit hårdeste og hurtigste Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_834d2c12cd.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_21fd76a205.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -170,7 +188,7 @@
    "date": "2026-09-21",
    "title": "ROCKWOOL Racing på podiet for første gang i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_486adaee81.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -205,7 +223,7 @@
    "date": "2026-09-20",
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_69c57c4fbf.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -340,7 +358,7 @@
    "date": "2026-09-18",
    "title": "Sejlsportsligaen reddet af seks klubber efter millionhul i budgettet",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_7ddd2a02c0.jpeg",
    "cat": "Kapsejlads"
   },
   {
@@ -400,7 +418,7 @@
    "date": "2026-09-17",
    "title": "Ét point skiller før H-båds finale i Sønderborg - se live",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/et-point-skiller-foer-h-baads-finale-i-soenderborg-se-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0848225c74.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/0/csm_Billed_B._Andersen__Eliteserien_0e49d9d19a.jpeg",
    "cat": "Kapsejlads",
    "sum": "Eliteserien Fynske Bank Cup i H-båd afgøres i Sønderborg med ti både. Morten Scheel Nielsen fører med ét point forud for weekendens sidste stævne, der kan følges live.",
    "tjek": "2026-09-24"
@@ -487,7 +505,7 @@
    "date": "2026-09-16",
    "title": "Risbjerg køber Renbåd og udvider med ny afdeling i Humlebæk",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_94a6083660.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_Jesper_Morten_Mads_2_b7bd1bb968.jpg",
    "cat": "Udstyr & både",
    "sum": "Risbjerg overtager Renbåd og opretter ny afdeling i Humlebæk for at styrke salg og service til bådejere",
    "tjek": "2026-09-24"
@@ -542,7 +560,7 @@
    "date": "2026-09-15",
    "title": "Contender-kongen Søren Dulong tog 21. DM-guld",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/contender-kongen-soeren-dulong-tog-21-dm-guld/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_soeren_dulong_fkryds_top_da526c41d9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_soeren_dulong_fkryds_top_15d4e0b8d4.jpg",
    "cat": "Kapsejlads",
    "sum": "Søren Dulong Andreasen fra Hellerup Sejlklub vandt sit 21. danske mesterskab i Contender ved DM ud for Skovshoved efter fire sejre i fire sejladser.",
    "tjek": "2026-09-24"
@@ -630,9 +648,9 @@
    "date": "2026-09-14",
    "title": "32 fod, Antarktis og tre kæntringer – en sejlerbog du bør læse",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg",
    "cat": "Tursejlads",
    "sum": "Bogen Ice Bird handler om David Lewis' enkeltmandssejlads mod Antarktis i en 32 fods stålsejlbåd, hvor han oplevede storme, kæntringer og mastehavari.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg",
    "tjek": "2026-09-24"
   },
   {
@@ -1017,7 +1035,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene/",
    "cat": "Tursejlads",
    "sum": "Ægteparret Camilla og Jonas Toustrup fortæller om deres ekspeditionssejlads til Svalbard i deres ombyggede Dufour 12000 CT, hvor de oplevede isbjørne, gletsjere og barsk natur.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_9d64657053.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_9d64657053.jpg",
+   "tjek": "2026-09-24"
   },
   {
    "key": "baadmagasinet-34408",
@@ -1027,7 +1046,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34408-nye-flydebroer-og-bedre-lae-ved-mariager-fjord-omfattende-millionprojekt-pa-vej-i-hobro",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/skitse_hasloev_og_kjaersgaard_forside.jpg",
    "cat": "Havneliv",
-   "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
+   "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner.",
+   "tjek": "2026-09-24"
   },
   {
    "key": "sundby-besaetning-suveraene-danske-mestre-i-yngling",
@@ -1916,15 +1936,6 @@
    "tjek": "2026-09-02"
   },
   {
-   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-25",
-   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
-   "cat": "Sikkerhed",
-   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "source": "Dansk Sejlunion",
    "date": "2026-08-25",
@@ -1933,6 +1944,15 @@
    "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Danske sejlere deltager i VM i ILCA 6, ILCA 7 og iQFOiL i Irland og England i august-september. Mesterskaberne er vigtige forud for kvalifikationen til OL 2028."
+  },
+  {
+   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
+   "cat": "Sikkerhed",
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
   },
   {
    "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
@@ -2986,26 +3006,6 @@
    "cat": "Kapsejlads",
    "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking.",
    "tjek": "2026-08-25"
-  },
-  {
-   "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Italiensk dominans fortsætter – Høj Jensen tog VM-sølv i H-båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
-   "cat": "Kapsejlads",
-   "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk.",
-   "tjek": "2026-08-23"
-  },
-  {
-   "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Yngling-VM: Sundby-hold missede bronzen med ét point efter stærkt comeback",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback/",
-   "cat": "Kapsejlads",
-   "sum": "Sundby-holdet missede bronze med ét point ved Yngling-VM efter en tyvstart i første sejlads og en stærk afslutning. De sluttede femte, mens Norge tog alle medaljer.",
-   "tjek": "2026-08-22"
   }
  ]
 }
