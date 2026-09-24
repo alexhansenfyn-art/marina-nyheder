@@ -1,10 +1,11 @@
 {
- "generated": "2026-09-24T20:33:38+00:00",
+ "generated": "2026-09-24T23:32:34+00:00",
  "count": 442,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 142,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Turse"
  ],
  "items": [
   {
@@ -21,7 +22,8 @@
    "date": "2026-09-24",
    "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "shogun-69-svensk-fartmaskine-kan-sejles-doublehanded",
@@ -46,7 +48,8 @@
    "date": "2026-09-24",
    "title": "Gentager Luna Rossa og New Zealand finalen i Napoli?",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34453-gentager-luna-rossa-og-new-zealand-finalen-i-napoli",
-   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34452",
@@ -115,7 +118,8 @@
    "date": "2026-09-23",
    "title": "Dobbeltredning! Kajakroer måtte også reddes - da han selv forsøgte at redde sin drivende speedbåd",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34450-dobbeltredning-kajakroer-matte-ogsa-reddes-da-han-selv-forsogte-at-redde-sin-drivende-speedbad",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/dsrs-helsingør_foto_2.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/dsrs-helsingør_foto_2.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli",
