@@ -1,26 +1,36 @@
 {
- "generated": "2026-09-24T06:16:25+00:00",
+ "generated": "2026-09-24T11:50:27+00:00",
  "count": 145,
  "items": [
   {
-   "key": "italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-08-09",
-   "title": "Italiensk dominans fortsætter – Høj Jensen tog VM-sølv i H-båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/italiensk-dominans-fortsaetter-hoej-jensen-tog-vm-soelv-i-h-baad/",
+   "key": "baadmagasinet-34329",
+   "source": "Bådmagasinet",
+   "date": "2026-08-10",
+   "title": "ORC-EM: Dixi5 & og den nye dreng i klassen - Stony X, jagter medaljer i Litauen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34329-to-danske-bade-klar-til-orc-em",
    "cat": "Kapsejlads",
-   "sum": "Claus Høj Jensen vandt sølv ved H-båd VM i Stenungsund, mens italienske Flavio Favini tog sin tredje VM-titel i træk.",
-   "tjek": "2026-08-23"
+   "sum": "To danske både deltager i ORC-EM i Litauen: Dixi med Jesper Radich og den nye MAT 11 Stony X. Der er forventninger om danske medaljer.",
+   "tjek": "2026-08-17"
   },
   {
-   "key": "yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback",
+   "key": "baadmagasinet-34328",
+   "source": "Bådmagasinet",
+   "date": "2026-08-10",
+   "title": "Ungdoms-VM, ILCA 4: Sluttede i suverænt sejlvejr - nu venter ILCA 6 VM",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34328-ungdoms-vm-ilca-4-sluttet-af-i-suveraent-sejlvejr-i-aarhus-nu-venter-ilca-6-vm",
+   "cat": "Kapsejlads",
+   "sum": "Ungdoms-VM i ILCA 4 i Aarhus afsluttet med guld til Grækenland og Schweiz. Dansk fjerdeplads i U16. ILCA 6 VM starter i samme by.",
+   "tjek": "2026-08-17"
+  },
+  {
+   "key": "dolmer-og-bekking-vinder-copa-del-rey-i-cape-31",
    "source": "Minbåd.dk",
    "date": "2026-08-09",
-   "title": "Yngling-VM: Sundby-hold missede bronzen med ét point efter stærkt comeback",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/yngling-vm-sundby-hold-missede-bronzen-med-et-point-efter-staerkt-comeback/",
+   "title": "Dolmer og Bekking vinder Copa del Rey i Cape 31",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/august/article/dolmer-og-bekking-vinder-copa-del-rey-i-cape-31/",
    "cat": "Kapsejlads",
-   "sum": "Sundby-holdet missede bronze med ét point ved Yngling-VM efter en tyvstart i første sejlads og en stærk afslutning. De sluttede femte, mens Norge tog alle medaljer.",
-   "tjek": "2026-08-22"
+   "sum": "Den tyske Cape 31 Niramo vandt ORC Class C ved Copa del Rey 2026 på Mallorca. Med om bord var danskerne Jens Dolmer og Ulrik Andreasen samt hollandske Bouwe Bekking.",
+   "tjek": "2026-08-25"
   },
   {
    "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
@@ -28,7 +38,7 @@
    "date": "2026-08-08",
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_99be73d572.jpg"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -44,7 +54,7 @@
    "date": "2026-08-06",
    "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/5/csm_juel_230528_083843_808a3a2336.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/5/csm_juel_230528_083843_3912528b61.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
@@ -76,8 +86,7 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
-   "cat": "Tursejlads"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -140,16 +149,14 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-24",
    "title": "10 gode råd før du køber brugt båd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/b/csm_aske_0250719_135705_23bc36e486.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/"
   },
   {
    "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
    "source": "Motorbådsnyt",
    "date": "2026-07-23",
    "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
-   "cat": "Sikkerhed"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/"
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
@@ -157,8 +164,7 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
-   "cat": "Sikkerhed"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
@@ -230,13 +236,6 @@
    "title": "Sommerhavne: På Nyord må byens gæster droppe bilen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/july/article/sommerhavne-paa-nyord-maa-byens-gaester-droppe-bilen/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/0/csm_nyord_bdea7cbe6a.jpg"
-  },
-  {
-   "key": "dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-18",
-   "title": "På My Maritime app er dit speedbådbevis og andre digitale beviser",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/july/article/dummere-end-politiet-tillader-men-nu-er-der-styr-paa-mine-digitale-beviser-via-my-maritime-app/"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
