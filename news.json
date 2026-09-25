@@ -1,28 +1,44 @@
 {
- "generated": "2026-09-25T01:57:39+00:00",
- "count": 442,
+ "generated": "2026-09-25T07:54:16+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 144,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_ac58308935.jpg"
+  },
+  {
+   "key": "test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-25",
+   "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg"
+  },
+  {
+   "key": "baadmagasinet-34454",
+   "source": "Bådmagasinet",
+   "date": "2026-09-25",
+   "title": "Søsportens Sikkerhedsråd kommer med opfordring - men hvad ligger bag tallene?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34454-silvrrudder-fik-sosportens-sikkerhedsrad-til-tasterne-og-kommer-med-opfordring",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_billede_solosejlads_2.jpg",
+   "cat": "Sikkerhed"
+  },
   {
    "key": "kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere",
    "source": "Minbåd.dk",
    "date": "2026-09-24",
    "title": "Kong Harald var en af os – nu skal sejlsporten åbne døren for flere",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_e29155a289.png"
-  },
-  {
-   "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-24",
-   "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg",
-   "cat": "Udstyr & både"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_042a6dc596.png"
   },
   {
    "key": "shogun-69-svensk-fartmaskine-kan-sejles-doublehanded",
@@ -30,7 +46,7 @@
    "date": "2026-09-24",
    "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_8dcdf70ffd.jpg"
   },
   {
    "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
@@ -38,7 +54,16 @@
    "date": "2026-09-24",
    "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_978a288204.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_58cbf28de6.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
+   "source": "Minbåd.dk",
+   "date": "2026-09-24",
+   "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__dc223e8670.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -121,6 +146,15 @@
    "cat": "Sikkerhed"
   },
   {
+   "key": "sejlbaade-i-centrum-for-narkotransporter-over-atlanten-baad-knaldet-med-25-ton-kokain",
+   "source": "Minbåd.dk",
+   "date": "2026-09-22",
+   "title": "Sejlbåde i centrum for narkotransporter over Atlanten - båd knaldet med 2,5 ton kokain",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/sejlbaade-i-centrum-for-narkotransporter-over-atlanten-baad-knaldet-med-25-ton-kokain/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_dra_30_1368500741940624_396659450008403285_n_39097a134a.jpg",
+   "cat": "Andet"
+  },
+  {
    "key": "ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli",
    "source": "Minbåd.dk",
    "date": "2026-09-22",
@@ -128,15 +162,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_ac__WhatsApp-Image-2026-09-21-at-153815_6609fb63d2.jpeg",
    "cat": "Kapsejlads"
-  },
-  {
-   "key": "sejlbaade-i-centrum-for-narkotransporter-over-atlanten-baad-knaldet-med-25-ton-kokain",
-   "source": "Minbåd.dk",
-   "date": "2026-09-22",
-   "title": "Sejlbåde i centrum for narkotransporter over Atlanten - båd knaldet med 2,5 ton kokain",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/sejlbaade-i-centrum-for-narkotransporter-over-atlanten-baad-knaldet-med-25-ton-kokain/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_dra_30_1368500741940624_396659450008403285_n_a4c66144b3.jpg",
-   "cat": "Andet"
   },
   {
    "key": "to-ud-af-tre-eliteatleter-tjener-hoejst-5000-kroner-paa-sporten",
@@ -175,6 +200,14 @@
    "cat": "Kapsejlads"
   },
   {
+   "key": "baadmagasinet-34445",
+   "source": "Bådmagasinet",
+   "date": "2026-09-22",
+   "title": "Nationalmuseet åbner maritim legeplads",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34445-nationalmuseet-abner-maritim-legeplads-i-holbaek",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_facebook_1789953786566_7507610326811419600.jpg"
+  },
+  {
    "key": "baadmagasinet-34446",
    "source": "Bådmagasinet",
    "date": "2026-09-22",
@@ -182,14 +215,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34446-13-ar-efter-de-stoppede-team-viltoft-genforenet-og-vandt-dm-til-minde-om-gammel-holdkammerat",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_viltoft_0695.jpg",
    "cat": "Kapsejlads"
-  },
-  {
-   "key": "baadmagasinet-34445",
-   "source": "Bådmagasinet",
-   "date": "2026-09-22",
-   "title": "Nationalmuseet åbner maritim legeplads",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34445-nationalmuseet-abner-maritim-legeplads-i-holbaek",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_facebook_1789953786566_7507610326811419600.jpg"
   },
   {
    "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
@@ -438,7 +463,7 @@
    "date": "2026-09-17",
    "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_ffdd5ad65b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_4c2a569147.jpg",
    "cat": "Kapsejlads",
    "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn.",
    "tjek": "2026-09-25"
@@ -471,7 +496,7 @@
    "date": "2026-09-17",
    "title": "Genofix-håndtag giver bedre greb om bord og sikrer rullegenuaen i hårdt vejr",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/genofix-haandtag-giver-bedre-greb-om-bord-og-sikrer-rullegenuaen-i-haardt-vejr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_e47604f9df.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/0/csm_Genofix_vv203_56c5b60c85.png",
    "cat": "Sikkerhed",
    "sum": "Genofix er et sikkerhedshåndtag, der monteres på rullegenuaen og giver bedre greb ved ombord- og afstigning samt sikrer sejlet i hårdt vejr.",
    "tjek": "2026-09-25"
@@ -536,7 +561,7 @@
    "date": "2026-09-16",
    "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_f08072928a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
    "cat": "Udstyr & både",
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner.",
    "tjek": "2026-09-25"
@@ -613,9 +638,9 @@
    "date": "2026-09-15",
    "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "cat": "Sikkerhed",
    "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "tjek": "2026-09-25"
   },
   {
@@ -856,17 +881,6 @@
    "tjek": "2026-09-25"
   },
   {
-   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
-   "source": "Minbåd.dk",
-   "date": "2026-09-11",
-   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
-   "cat": "Sikkerhed",
-   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
-   "tjek": "2026-09-25"
-  },
-  {
    "key": "ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit",
    "source": "Motorbådsnyt",
    "date": "2026-09-11",
@@ -875,6 +889,38 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/b/csm_gran_tu_top_4_4a489ebd2d.png",
    "cat": "Udstyr & både",
    "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr.",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
+   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "img": "https://havneguide.dk/sites/default/files/styles/max_650x650/public/2023-05/havnefoged_5_illustration_gert_eilenberger1024_1_500_pixl_bred.jpg.webp?itok=VTGJXj06",
+   "cat": "Havneliv",
+   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb.",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "havneguide.dk/baadpladser",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "Salg og udlejning af bådpladser",
+   "url": "https://havneguide.dk/baadpladser",
+   "cat": "Havnepriser",
+   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads.",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
    "tjek": "2026-09-25"
   },
   {
@@ -887,25 +933,6 @@
    "cat": "Sikkerhed",
    "sum": "En far og hans seksårige søn hørte projektiler flyve tæt forbi deres båd på Køge Bugt. Politiet fandt ni afskudte hylstre på land ved Billesborgvej i Køge og søger nu vidner.",
    "tjek": "2026-09-25"
-  },
-  {
-   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
-   "source": "Havneguide",
-   "date": "2026-09-11",
-   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
-   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
-   "img": "https://havneguide.dk/sites/default/files/styles/max_650x650/public/2023-05/havnefoged_5_illustration_gert_eilenberger1024_1_500_pixl_bred.jpg.webp?itok=VTGJXj06",
-   "cat": "Havneliv",
-   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb."
-  },
-  {
-   "key": "havneguide.dk/baadpladser",
-   "source": "Havneguide",
-   "date": "2026-09-11",
-   "title": "Salg og udlejning af bådpladser",
-   "url": "https://havneguide.dk/baadpladser",
-   "cat": "Havnepriser",
-   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
   },
   {
    "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
@@ -1010,7 +1037,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
    "cat": "Udstyr & både",
-   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
+   "tjek": "2026-09-25"
   },
   {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
@@ -1074,7 +1102,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene/",
    "cat": "Tursejlads",
    "sum": "Ægteparret Camilla og Jonas Toustrup fortæller om deres ekspeditionssejlads til Svalbard i deres ombyggede Dufour 12000 CT, hvor de oplevede isbjørne, gletsjere og barsk natur.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_9d64657053.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_a_Glestsjer_9d64657053.jpg",
+   "tjek": "2026-09-25"
   },
   {
    "key": "baadmagasinet-34408",
@@ -2973,36 +3002,6 @@
    "cat": "Kapsejlads",
    "sum": "Svenske Thomas Hansson-Mild vandt NM i OK-joller i Kristinehamn. Danskerne Bo Petersen og Steen Christensen tog henholdsvis sølv og bronze.",
    "tjek": "2026-09-06"
-  },
-  {
-   "key": "448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "448 sejlere rundede ILCA 4-VM af i Aarhus – nu venter ILCA 6-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/448-sejlere-rundede-ilca-4-vm-af-i-aarhus-nu-venter-ilca-6-vm/",
-   "cat": "Kapsejlads",
-   "sum": "448 unge sejlere gennemførte ILCA 4-VM i Aarhus. Grækenland og Schweiz tog titlerne. Nu starter ILCA 6-VM.",
-   "tjek": "2026-09-06"
-  },
-  {
-   "key": "faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-10",
-   "title": "Faldvind kæntrede fire sejlbåde – 37 personer endte i vandet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/august/article/faldvind-kaentrede-fire-sejlbaade-37-personer-endte-i-vandet/",
-   "cat": "Sikkerhed",
-   "sum": "Fire sejlbåde kæntrede i et voldsomt faldvind på de Masuriske Søer. 37 personer blev reddet, og en 17-årig fik et brækket arm.",
-   "tjek": "2026-08-25"
-  },
-  {
-   "key": "baadmagasinet-34325",
-   "source": "Bådmagasinet",
-   "date": "2026-08-10",
-   "title": "Sjældent syn i Vendsyssel: En haj skabte postyr ved Ålbæk Havn - nu er den død!",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34325-sjaeldent-syn-i-vendsyssel-en-haj-skabte-postyr-ved-albaek-havn",
-   "cat": "Havneliv",
-   "sum": "En brugde, verdens næststørste haj, svømmede torsdag eftermiddag tæt på kysten og ind ved Ålbæk Havn, hvilket skabte postyr blandt badegæster og havnebesøgende.",
-   "tjek": "2026-08-22"
   }
  ]
 }
