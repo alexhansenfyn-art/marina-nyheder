@@ -1,16 +1,34 @@
 {
- "generated": "2026-09-26T18:07:15+00:00",
- "count": 143,
+ "generated": "2026-09-26T21:15:15+00:00",
+ "count": 144,
  "items": [
+  {
+   "key": "baadmagasinet-34334",
+   "source": "Bådmagasinet",
+   "date": "2026-08-12",
+   "title": "ORC EM: Stærkt udlæg af DIXI 5 - vinder den lange Offshore. Se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34334-orc-em-staerk-udlaeg-af-dixi-vinder-den-lange-offshore",
+   "cat": "Kapsejlads",
+   "sum": "Dansk båd DIXI 5 vandt den lange offshore ved ORC EM. Turen var hård med meget lidt søvn.",
+   "tjek": "2026-08-19"
+  },
+  {
+   "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg",
+   "cat": "Havneliv",
+   "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
+  },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
-   "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -26,7 +44,7 @@
    "date": "2026-08-10",
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_c0184d2034.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_f4877dbf48.png"
   },
   {
    "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
@@ -34,7 +52,7 @@
    "date": "2026-08-08",
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_99be73d572.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -82,8 +100,7 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
-   "cat": "Tursejlads"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -130,8 +147,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-27",
    "title": "Vrag ødelagde 200 kvadratmeter beskyttet havgræs - bådejer dømt",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/0/csm_posidonia-bl_8695b050ee.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/"
   },
   {
    "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
@@ -139,15 +155,15 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg",
+   "cat": "Havnepriser"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
    "source": "Motorbådsnyt",
    "date": "2026-07-24",
    "title": "10 gode råd før du køber brugt båd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
-   "cat": "Udstyr & både"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/"
   },
   {
    "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
@@ -196,13 +212,6 @@
    "title": "Modig fynbo vil krydse Østersøen på selvbygget tømmerflåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/july/article/modig-fynbo-vil-krydse-oestersoeen-paa-selvbygget-toemmerflaade/",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png"
-  },
-  {
-   "key": "45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-20",
-   "title": "45-fods Princess reddet efter motorproblemer i kuling tæt på T-ruten",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/july/article/45-fods-princess-reddet-efter-motorproblemer-i-kuling-taet-paa-t-ruten/"
   },
   {
    "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
