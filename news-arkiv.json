@@ -1,16 +1,24 @@
 {
- "generated": "2026-09-26T14:47:15+00:00",
- "count": 142,
+ "generated": "2026-09-26T18:07:15+00:00",
+ "count": 143,
  "items": [
+  {
+   "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-11",
+   "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
+   "cat": "Tursejlads",
+   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
+  },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
    "source": "Motorbådsnyt",
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png",
-   "cat": "Udstyr & både",
-   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png"
   },
   {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
@@ -74,7 +82,8 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -137,7 +146,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-24",
    "title": "10 gode råd før du køber brugt båd",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/july/article/10-gode-raad-for-du-kober-brugt-baad/",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke",
@@ -152,7 +162,8 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",

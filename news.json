@@ -1,13 +1,31 @@
 {
- "generated": "2026-09-26T14:47:15+00:00",
- "count": 442,
+ "generated": "2026-09-26T18:07:15+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"k",
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"K",
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Ud"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34455",
+   "source": "Bådmagasinet",
+   "date": "2026-09-26",
+   "title": "LeanSails udvider og går internationalt med dansk sejlkoncept",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/34455-leansails-udvider-og-gar-internationalt-med-dansk-sejlkoncept",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/lean.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34459",
+   "source": "Bådmagasinet",
+   "date": "2026-09-26",
+   "title": "Så langt foran - og så gik det galt! Se video...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34459-sa-langt-foran-og-sa-dyr-en-bomning-se-video",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/ac_frankrig_kaentre.jpg"
+  },
   {
    "key": "baadmagasinet-34458",
    "source": "Bådmagasinet",
@@ -73,14 +91,6 @@
    "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg"
-  },
-  {
-   "key": "baadmagasinet-34455",
-   "source": "Bådmagasinet",
-   "date": "2026-09-25",
-   "title": "LeanSails udvider og går internationalt med dansk sejlkoncept",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/34455-leansails-udvider-og-gar-internationalt-med-dansk-sejlkoncept",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/lean.jpg"
   },
   {
    "key": "baadmagasinet-34453",
@@ -2985,16 +2995,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg",
    "cat": "Havneliv",
    "sum": "Skagen Lystbådehavn modtager årligt ca. 8.000 gæstesejlere, halvdelen i juli. Bådene er blevet større, og havnen er dyr, men populær. Havnefogeden ønsker at udvide sæsonen."
-  },
-  {
-   "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
-   "cat": "Tursejlads",
-   "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
   }
  ]
 }
