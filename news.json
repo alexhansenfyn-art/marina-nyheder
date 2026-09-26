@@ -1,12 +1,21 @@
 {
- "generated": "2026-09-26T10:19:16+00:00",
- "count": 441,
+ "generated": "2026-09-26T14:47:15+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 142,
  "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"k",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34458",
+   "source": "Bådmagasinet",
+   "date": "2026-09-26",
+   "title": "Highlights: Hold på hat og briller - dramatsik nosedive! Få også link til dagens sejladser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34458-highlights-fra-dag-1-hold-pa-hat-og-briller-fa-link-til-dagens-sejladser-her",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_m32405_crop169014_1280x1280_proportional_1790367707ae42_2.jpg"
+  },
   {
    "key": "baadmagasinet-34456",
    "source": "Bådmagasinet",
@@ -2986,16 +2995,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Tursejlads",
    "sum": "Flere svenske gæstehavne melder om markant flere besøgende, og antallet af bådnætter kan nå rekord. Den svage krone og skærgårdene tiltrækker især udenlandske sejlere."
-  },
-  {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png",
-   "cat": "Udstyr & både",
-   "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
   }
  ]
 }
