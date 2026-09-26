@@ -1,12 +1,23 @@
 {
- "generated": "2026-09-26T00:39:21+00:00",
- "count": 441,
+ "generated": "2026-09-26T05:35:52+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 142,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"",
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Tur"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34456",
+   "source": "Bådmagasinet",
+   "date": "2026-09-26",
+   "title": "Nedtællingen til 2027-udgaven er begyndt",
+   "url": "https://www.baadmagasinet.dk/volvo-ocean-race/34456-nedtaellingen-til-the-ocean-race-2027-er-begyndt",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/theoceanrace_countdown.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag",
    "source": "Minbåd.dk",
@@ -945,7 +956,8 @@
    "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "img": "https://havneguide.dk/sites/default/files/styles/max_650x650/public/2023-05/havnefoged_5_illustration_gert_eilenberger1024_1_500_pixl_bred.jpg.webp?itok=VTGJXj06",
    "cat": "Havneliv",
-   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb."
+   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb.",
+   "tjek": "2026-09-26"
   },
   {
    "key": "havneguide.dk/baadpladser",
@@ -954,7 +966,8 @@
    "title": "Salg og udlejning af bådpladser",
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
-   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
+   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads.",
+   "tjek": "2026-09-26"
   },
   {
    "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
@@ -2985,16 +2998,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png",
    "cat": "Udstyr & både",
    "sum": "Antwerpen byhavn har taget en ny hybrid patruljebåd i brug, der kan sejle elektrisk og dermed støjsvagt og emissionsfrit, med en benzinmotor til hurtige indsatser."
-  },
-  {
-   "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "Sponsorindhold: Da kapsejlads var et væddemål mellem to bådejere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1/",
-   "cat": "Kapsejlads",
-   "sum": "Historien om kapsejlads, der startede som væddemål mellem bådejere og senere blev organiseret med klubber og regler.",
-   "tjek": "2026-08-29"
   }
  ]
 }
