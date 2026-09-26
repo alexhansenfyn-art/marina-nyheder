@@ -1,12 +1,11 @@
 {
- "generated": "2026-09-26T21:15:15+00:00",
- "count": 444,
+ "generated": "2026-09-26T23:41:38+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"",
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":",
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -85,7 +84,8 @@
    "date": "2026-09-25",
    "title": "Dansk sejlkoncept LeanSails udvider til Sverige og Norge",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__18f0984a32.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__18f0984a32.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen",
@@ -93,7 +93,8 @@
    "date": "2026-09-25",
    "title": "Alfred og Loke vil til OL i 49er – tirsdag fortæller de om vejen",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_t_0R2A3579_65cbdc6ea5.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_t_0R2A3579_65cbdc6ea5.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
