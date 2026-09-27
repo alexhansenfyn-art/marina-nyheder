@@ -1,20 +1,28 @@
 {
- "generated": "2026-09-27T08:14:25+00:00",
- "count": 443,
+ "generated": "2026-09-27T14:02:54+00:00",
+ "count": 445,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 145,
  "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"k",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "fransk-ac40-kaentrede-fra-foeringen-i-napoli",
+   "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
    "source": "Minbåd.dk",
-   "date": "2026-09-26",
-   "title": "Fransk AC40 kæntrede fra føringen i Napoli",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/september/article/fransk-ac40-kaentrede-fra-foeringen-i-napoli/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_ac_6709_18347658163270360_8614122438157459311_n_73b0088469.jpg",
-   "cat": "Kapsejlads"
+   "date": "2026-09-27",
+   "title": "Svensk sejler kom først frem til kæntret trimaran i Silverrudder – se video fra redningen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/september/article/svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_tri_8817969172718_a8a1bdd889.jpg"
+  },
+  {
+   "key": "baadmagasinet-34460",
+   "source": "Bådmagasinet",
+   "date": "2026-09-27",
+   "title": "Live: Drama for alle pengene – nu skal finalisterne findes i Napoli",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34460-live-fra-sondagens-sejlader-finalen",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/dag3_live_napoli.jpg"
   },
   {
    "key": "askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre",
@@ -24,6 +32,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/september/article/askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "fransk-ac40-kaentrede-fra-foeringen-i-napoli",
+   "source": "Minbåd.dk",
+   "date": "2026-09-26",
+   "title": "Fransk AC40 kæntrede fra føringen i Napoli",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/september/article/fransk-ac40-kaentrede-fra-foeringen-i-napoli/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_ac_6709_18347658163270360_8614122438157459311_n_15ec86f8d0.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34455",
@@ -62,15 +79,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag",
-   "source": "Minbåd.dk",
-   "date": "2026-09-25",
-   "title": "AC40 røg rundt før starten på dramatisk America's Cup-dag",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/3/csm_a_76610_18347501965270360_3434820646439280203_n_1c4e100482.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven",
    "source": "Minbåd.dk",
    "date": "2026-09-25",
@@ -79,12 +87,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_pressenning_hal_paa_gp_covers_4ed650ea16.jpg"
   },
   {
+   "key": "ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "AC40 røg rundt før starten på dramatisk America's Cup-dag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/3/csm_a_76610_18347501965270360_3434820646439280203_n_f61bae9ab4.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge",
    "source": "Minbåd.dk",
    "date": "2026-09-25",
    "title": "Dansk sejlkoncept LeanSails udvider til Sverige og Norge",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__18f0984a32.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__3d29984204.png",
    "cat": "Udstyr & både"
   },
   {
@@ -198,7 +215,7 @@
    "date": "2026-09-23",
    "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_121ec7cce4.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -392,7 +409,7 @@
    "date": "2026-09-20",
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_81dcd2533a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-09-27"
   },
@@ -442,7 +459,7 @@
    "date": "2026-09-19",
    "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__a422aad8d6.png",
    "cat": "Sikkerhed",
    "tjek": "2026-09-27"
   },
@@ -491,7 +508,7 @@
    "date": "2026-09-18",
    "title": "Redaktøren har en båd for meget – nu skal Dehler 34’eren, med nye sejl og motor, videre",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_9e4ece37d5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_fdc5a10603.jpg",
    "cat": "Udstyr & både",
    "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn.",
    "tjek": "2026-09-27"
@@ -532,7 +549,7 @@
    "date": "2026-09-18",
    "title": "Silverrudder trækker solosejlere fra 13 nationer til Svendborg i hård vind - se tractrac",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-traekker-solosejlere-fra-13-nationer-til-svendborg-live-fra-kl-930-til-14/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_88f4c1447f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_728080ae6b.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-09-27"
   },
@@ -572,7 +589,7 @@
    "date": "2026-09-17",
    "title": "Nyborg-smedens alu-racer er efter IMOCA 60-forbillede - klar til Silverrudder fredag morgen",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/nyborg-smedens-alu-racer-er-efter-imoca-60-forbillede-klar-til-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_63e67f4850.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_kim_57267407_10163784343942600_1108531655629180913_n_4c2a569147.jpg",
    "cat": "Kapsejlads",
    "sum": "Kim Haugaard fra Nyborg Sejlforening har bygget aluminiumsraceren Khaos og stiller fredag til start i Silverrudder, hvor han sejler alene rundt om Fyn.",
    "tjek": "2026-09-27"
@@ -616,9 +633,9 @@
    "date": "2026-09-17",
    "title": "Danske farvande kan gå fra 39 til 250 dage med marine hedebølger om året",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/september/article/danske-farvande-kan-gaa-fra-39-til-250-dage-med-marine-hedeboelger-om-aaret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_fa4ce5f9d0.png",
    "cat": "Andet",
    "sum": "DMI's Klimaatlas viser, at danske farvande i fremtiden kan få markant flere marine hedebølger – op mod 250 dage om året. Havtemperaturen ventes at stige, og fænomenet kan blive en ny normal.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_kilma_maritime_hedeb_fa4ce5f9d0.png",
    "tjek": "2026-09-27"
   },
   {
@@ -742,17 +759,6 @@
    "tjek": "2026-09-27"
   },
   {
-   "key": "sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten",
-   "source": "Minbåd.dk",
-   "date": "2026-09-15",
-   "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
-   "cat": "Sikkerhed",
-   "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
-   "tjek": "2026-09-27"
-  },
-  {
    "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
    "source": "Motorbådsnyt",
    "date": "2026-09-15",
@@ -783,6 +789,17 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/dsrs_2.jpg",
    "cat": "Sikkerhed",
    "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer og slog dermed rekord. Formanden ser stigningen som udtryk for øget kendskab og opfordrer til medlemskab.",
+   "tjek": "2026-09-27"
+  },
+  {
+   "key": "sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
+   "cat": "Sikkerhed",
+   "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
    "tjek": "2026-09-27"
   },
   {
@@ -1007,7 +1024,8 @@
    "title": "Salg og udlejning af bådpladser",
    "url": "https://havneguide.dk/baadpladser",
    "cat": "Havnepriser",
-   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
+   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads.",
+   "tjek": "2026-09-27"
   },
   {
    "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
@@ -2978,26 +2996,6 @@
    "cat": "Udstyr & både",
    "sum": "Ny 17 meter trimaran VMG 53 med foils, to motorer og smartglas skal kombinere fart og komfort og udfordre luksuskatamaraner som Gunboat.",
    "tjek": "2026-08-29"
-  },
-  {
-   "key": "forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord",
-   "source": "Minbåd.dk",
-   "date": "2026-08-12",
-   "title": "Forskrækket familie efter masten knækker på Bavaria 38 - bom slog mod fribord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/forskraekket-familie-efter-masten-knaekker-paa-bavaria-38-bom-slog-mod-fribord/",
-   "cat": "Sikkerhed",
-   "sum": "En Bavaria 38 fik knækket masten efter afgang fra Ballen. Dansk Søredningstjeneste hjalp den forskrækkede besætning; mast og sejl blev efterladt i vandet.",
-   "tjek": "2026-08-29"
-  },
-  {
-   "key": "foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne",
-   "source": "Minbåd.dk",
-   "date": "2026-08-12",
-   "title": "Førte solosejlads men sov gennem alarmen og endte på klipperne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/august/article/foerte-solosejlads-men-sov-gennem-alarmen-og-endte-paa-klipperne/",
-   "cat": "Kapsejlads",
-   "sum": "Den irske singlehand-sejler Tom Dolan ramte under Solitaire du Figaro klipperne ved Île de Sein, efter han sov gennem alarmen midt i etapen. Han førte løbet, men måtte udgå efter grundstødningen.",
-   "tjek": "2026-08-27"
   }
  ]
 }
