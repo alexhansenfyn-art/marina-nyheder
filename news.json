@@ -1,11 +1,10 @@
 {
- "generated": "2026-09-27T01:53:54+00:00",
+ "generated": "2026-09-27T08:14:25+00:00",
  "count": 443,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\""
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -176,14 +175,6 @@
    "cat": "Udstyr & både"
   },
   {
-   "key": "baadmagasinet-34452",
-   "source": "Bådmagasinet",
-   "date": "2026-09-24",
-   "title": "Swan bygger den største sejlbåd i værftets historie - se video",
-   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34452-swan-bygger-den-storste-sejlbad-i-vaerftets-historie",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/swan_44m.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "source": "Dansk Sejlunion",
    "date": "2026-09-24",
@@ -192,6 +183,14 @@
    "img": "https://dansksejlunion.dk/media/ub5iizdl/skaermbillede-2025-12-02-kl-115622.png?width=1200&height=630",
    "cat": "Andet",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
+  },
+  {
+   "key": "baadmagasinet-34452",
+   "source": "Bådmagasinet",
+   "date": "2026-09-24",
+   "title": "Swan bygger den største sejlbåd i værftets historie - se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34452-swan-bygger-den-storste-sejlbad-i-vaerftets-historie",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/swan_44m.jpg"
   },
   {
    "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
@@ -998,7 +997,8 @@
    "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
    "img": "https://havneguide.dk/sites/default/files/styles/max_650x650/public/2023-05/havnefoged_5_illustration_gert_eilenberger1024_1_500_pixl_bred.jpg.webp?itok=VTGJXj06",
    "cat": "Havneliv",
-   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb."
+   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb.",
+   "tjek": "2026-09-27"
   },
   {
    "key": "havneguide.dk/baadpladser",
