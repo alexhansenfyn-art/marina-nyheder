@@ -1,12 +1,22 @@
 {
- "generated": "2026-09-28T00:01:07+00:00",
- "count": 442,
+ "generated": "2026-09-28T05:29:34+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"S"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34457",
+   "source": "Bådmagasinet",
+   "date": "2026-09-28",
+   "title": "FTLF inviterer: Styrk drømmen om langtur med andre unge",
+   "url": "https://www.baadmagasinet.dk/tursejlads/34457-ftlf-inviterer-styrk-drommen-om-langtur-med-andre-unge",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_edited-photo_3_2.jpg",
+   "cat": "Tursejlads"
+  },
   {
    "key": "burling-slog-sit-gamle-hold-vandt-i-napoli-med-luna-rossa",
    "source": "Minbåd.dk",
@@ -137,16 +147,8 @@
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_7b2541f041.jpg"
-  },
-  {
-   "key": "baadmagasinet-34453",
-   "source": "Bådmagasinet",
-   "date": "2026-09-25",
-   "title": "Live fra Napoli: Gentager Luna Rossa og New Zealand finalen i Napoli?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34453-gentager-luna-rossa-og-new-zealand-finalen-i-napoli",
-   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg",
-   "cat": "Kapsejlads"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_7b2541f041.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34454",
@@ -165,6 +167,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
    "img": "https://dansksejlunion.dk/media/5toe3v3n/2019-10-05_0079e.jpg?width=1200&height=630",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "baadmagasinet-34453",
+   "source": "Bådmagasinet",
+   "date": "2026-09-25",
+   "title": "Live fra Napoli: Gentager Luna Rossa og New Zealand finalen i Napoli?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34453-gentager-luna-rossa-og-new-zealand-finalen-i-napoli",
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
@@ -913,7 +924,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg",
+   "tjek": "2026-09-28"
   },
   {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
@@ -2988,14 +3000,6 @@
    "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
-  },
-  {
-   "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
-   "source": "Minbåd.dk",
-   "date": "2026-08-11",
-   "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
   }
  ]
 }
