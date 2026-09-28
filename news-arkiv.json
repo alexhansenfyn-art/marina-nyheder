@@ -1,7 +1,37 @@
 {
- "generated": "2026-09-28T05:29:34+00:00",
- "count": 143,
+ "generated": "2026-09-28T12:04:08+00:00",
+ "count": 145,
  "items": [
+  {
+   "key": "baadmagasinet-34336",
+   "source": "Bådmagasinet",
+   "date": "2026-08-13",
+   "title": "Vegvisir strammer sikkerheden: Seks timers tvungen hvile - skipper bestemmer selv hvornår",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34336-vegvisir-strammer-sikkerheden-seks-timers-tvungen-hvile-pa-200-somil",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører ny regel: max 36 timers sejlads i træk, derefter mindst seks timers hvile. Skipperen vælger selv, hvornår hvilen lægges, og der er særregler tæt på mål.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "baadmagasinet-34335",
+   "source": "Bådmagasinet",
+   "date": "2026-08-13",
+   "title": "J/70 Mixed-Plus Worlds: Familien Mohr i front med VMs yngste deltager om bord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34335-j-70-mixed-plus-worlds-familien-mohr-i-front",
+   "cat": "Kapsejlads",
+   "sum": "Ved J/70 Mixed-VM i Skovshoved fører familien Mohr med Danmark. De overlevede en protest og beholdte føringen; sejladserne fortsætter til lørdag.",
+   "tjek": "2026-08-20"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-12",
+   "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
+   "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630",
+   "cat": "Andet",
+   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
+  },
   {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
@@ -24,7 +54,7 @@
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__6c86a93f04.png"
   },
   {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
@@ -32,7 +62,7 @@
    "date": "2026-08-10",
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_f4877dbf48.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_c0184d2034.png"
   },
   {
    "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
@@ -88,8 +118,7 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
-   "cat": "Tursejlads"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -120,8 +149,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-29",
    "title": "Sommerhavne: Se sæler og kør gratis med bus i Østerby på Læsø",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/0/csm_bo_top_a468f7c68c.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/july/article/sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1/"
   },
   {
    "key": "dansketursejlere-nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -158,8 +186,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-23",
    "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
-   "cat": "Sikkerhed"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/"
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
@@ -184,7 +211,8 @@
    "date": "2026-07-21",
    "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
    "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg"
+   "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
@@ -208,7 +236,8 @@
    "date": "2026-07-19",
    "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
@@ -326,13 +355,6 @@
    "date": "2026-07-08",
    "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/"
-  },
-  {
-   "key": "sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-07",
-   "title": "Sommerhavne: Ankomsten til Mariager er unik med sæler, ankerpladser og stejle skrænter",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/july/article/sommerhavne-ankomsten-til-mariager-er-unik-med-saler-ankerpladser-og-stejle-skranter/"
   },
   {
    "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
