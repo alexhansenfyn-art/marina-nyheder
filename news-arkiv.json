@@ -1,25 +1,35 @@
 {
- "generated": "2026-09-28T12:04:08+00:00",
- "count": 145,
+ "generated": "2026-09-28T19:45:03+00:00",
+ "count": 146,
  "items": [
   {
-   "key": "baadmagasinet-34336",
-   "source": "Bådmagasinet",
+   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
+   "source": "Minbåd.dk",
    "date": "2026-08-13",
-   "title": "Vegvisir strammer sikkerheden: Seks timers tvungen hvile - skipper bestemmer selv hvornår",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34336-vegvisir-strammer-sikkerheden-seks-timers-tvungen-hvile-pa-200-somil",
+   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
    "cat": "Kapsejlads",
-   "sum": "Vegvisir Race Nyborg indfører ny regel: max 36 timers sejlads i træk, derefter mindst seks timers hvile. Skipperen vælger selv, hvornår hvilen lægges, og der er særregler tæt på mål.",
-   "tjek": "2026-08-20"
+   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord.",
+   "tjek": "2026-08-29"
   },
   {
-   "key": "baadmagasinet-34335",
+   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
+   "source": "Minbåd.dk",
+   "date": "2026-08-13",
+   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
+   "cat": "Kapsejlads",
+   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "baadmagasinet-34337",
    "source": "Bådmagasinet",
    "date": "2026-08-13",
-   "title": "J/70 Mixed-Plus Worlds: Familien Mohr i front med VMs yngste deltager om bord",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34335-j-70-mixed-plus-worlds-familien-mohr-i-front",
-   "cat": "Kapsejlads",
-   "sum": "Ved J/70 Mixed-VM i Skovshoved fører familien Mohr med Danmark. De overlevede en protest og beholdte føringen; sejladserne fortsætter til lørdag.",
+   "title": "Copenhagen Boat Show: Nu under 14 dage…",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34337-copenhagen-boat-show-praecis-14-dage",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum på Ishøj Havn med gratis entre. Udstillingen finder sted fra torsdag til søndag med udstillere fra flere lande.",
    "tjek": "2026-08-20"
   },
   {
@@ -28,9 +38,7 @@
    "date": "2026-08-12",
    "title": "Vær med til at forme fremtidens talentudvikling i dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
-   "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer klubber til regionale møder om kommende strategi for talent- og elitecentre. Møderne finder sted 25. og 26. august i henholdsvis Skovshoved og Fredericia."
+   "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630"
   },
   {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
@@ -118,7 +126,8 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -134,7 +143,8 @@
    "date": "2026-08-01",
    "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/b/csm_aro_top_812c47f12d.jpeg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/b/csm_aro_top_812c47f12d.jpeg",
+   "cat": "Havneliv"
   },
   {
    "key": "motorbaade-har-to-oekonomiske-fartomraader",
@@ -172,7 +182,8 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -211,8 +222,7 @@
    "date": "2026-07-21",
    "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
    "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg",
-   "cat": "Havneliv"
+   "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg"
   },
   {
    "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
@@ -236,8 +246,7 @@
    "date": "2026-07-19",
    "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg",
-   "cat": "Havneliv"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg"
   },
   {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
