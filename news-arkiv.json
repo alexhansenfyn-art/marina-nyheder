@@ -1,37 +1,7 @@
 {
- "generated": "2026-09-28T19:45:03+00:00",
- "count": 146,
+ "generated": "2026-09-28T23:59:07+00:00",
+ "count": 143,
  "items": [
-  {
-   "key": "stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Stannows XR 41 fører ORC-EM efter stærk åbning i Litauen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/stannow-xr-41-foerer-orc-em-efter-staerk-aabning-i-litauen/",
-   "cat": "Kapsejlads",
-   "sum": "Dansk XR-41 med Erik Stannow fører ORC-EM efter sejr i offshore og gode bane-resultater. Jesper Radich med om bord.",
-   "tjek": "2026-08-29"
-  },
-  {
-   "key": "singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race",
-   "source": "Minbåd.dk",
-   "date": "2026-08-13",
-   "title": "Singlehandsejlere skal stoppe seks timer i Vegvisir Race",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/singlehandsejlere-skal-stoppe-seks-timer-i-vegvisir-race/",
-   "cat": "Kapsejlads",
-   "sum": "Vegvisir Race Nyborg indfører en ny hvile-regel for singlehandsejlere. Sejlerne må maksimalt sejle 36 timer i træk og skal have mindst seks timers sammenhængende hvile, men bestemmer selv hvornår.",
-   "tjek": "2026-08-28"
-  },
-  {
-   "key": "baadmagasinet-34337",
-   "source": "Bådmagasinet",
-   "date": "2026-08-13",
-   "title": "Copenhagen Boat Show: Nu under 14 dage…",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34337-copenhagen-boat-show-praecis-14-dage",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show fejrer 10-års jubilæum på Ishøj Havn med gratis entre. Udstillingen finder sted fra torsdag til søndag med udstillere fra flere lande.",
-   "tjek": "2026-08-20"
-  },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
@@ -126,8 +96,7 @@
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg",
-   "cat": "Tursejlads"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_rute_2_99c6103018.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -143,8 +112,7 @@
    "date": "2026-08-01",
    "title": "Sommerhavne: Ærøskøbing – en stor og moderne havn med stemningen fra en lille ø",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/august/article/sommerhavne-aeroeskoebing-en-stor-og-moderne-havn-med-stemningen-fra-en-lille-oe/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/b/csm_aro_top_812c47f12d.jpeg",
-   "cat": "Havneliv"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/b/csm_aro_top_812c47f12d.jpeg"
   },
   {
    "key": "motorbaade-har-to-oekonomiske-fartomraader",
@@ -182,8 +150,7 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg",
-   "cat": "Havneliv"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -205,8 +172,7 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
-   "cat": "Sikkerhed"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
