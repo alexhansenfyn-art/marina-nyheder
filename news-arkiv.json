@@ -1,16 +1,56 @@
 {
- "generated": "2026-09-29T05:47:49+00:00",
- "count": 144,
+ "generated": "2026-09-29T11:40:26+00:00",
+ "count": 147,
  "items": [
   {
-   "key": "spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte",
-   "source": "Minbåd.dk",
+   "key": "baadmagasinet-34340",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "Verdens ældste skoleskib lægger til i Kolding: Kom om bord på Georg Stage i weekenden",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34340-verdens-aeldste-skoleskib-laegger-til-i-kolding-kom-ombord-pa-georg-stage-i-weekenden",
+   "cat": "Havneliv",
+   "sum": "Skoleskibet Georg Stage lægger til i Kolding Havn den 15.-16. august med åbent skib og mulighed for at møde elever og høre om livet til søs.",
+   "tjek": "2026-08-25"
+  },
+  {
+   "key": "baadmagasinet-34338",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "20 år med sejlerne som Søværnets ekstra øjne",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34338-20-ar-med-sejlerne-som-sovaernets-ekstra-ojne",
+   "cat": "Jubilæum",
+   "sum": "Havmiljøvogterne fejrer 20 år med frivillige fra sejlerverdenen, der startede som øjne mod olieforurening og i dag tæller knap 32.000 frivillige. Jubilæet markeres med åbent skib ved Amaliehaven.",
+   "tjek": "2026-08-24"
+  },
+  {
+   "key": "baadmagasinet-34341",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "DM i CB66: Dirty Diana jagtes af lokale udfordrere i Hornbæk",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34341-dm-i-cb66-dirty-diana-jagtes-af-lokale-udfordrere-i-hornbaek",
+   "cat": "Kapsejlads",
+   "sum": "CB66-klassen sejler DM i Hornbæk fra 14.-16. august. Forsvarende mester Dirty Diana er favorit, men lokale både fra Helsingør og svenske besætninger udfordrer.",
+   "tjek": "2026-08-21"
+  },
+  {
+   "key": "baadmagasinet-34339",
+   "source": "Bådmagasinet",
+   "date": "2026-08-14",
+   "title": "ORC-EM: Stony X har kurs mod podiet i klasse C - Dixi 5 fortsætter i suveræn stil i klasse AB",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34339-orc-em-stony-x-med-kurs-mod-podiet-dixi-5-fortsaetter-i-suveraen-stil",
+   "cat": "Kapsejlads",
+   "sum": "Ved ORC-EM i",
+   "tjek": "2026-08-21"
+  },
+  {
+   "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
+   "source": "Motorbådsnyt",
    "date": "2026-08-13",
-   "title": "Spækhuggere kan ødelægge roret – men én mindre hval får dem til at flygte",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/august/article/spaekhuggere-kan-oedelaegge-roret-men-en-mindre-hval-faar-dem-til-at-flygte/",
-   "cat": "Sikkerhed",
-   "sum": "Spækhuggere kan beskadige ror på sejlbåde, men ny forskning viser, at lyden af grindehvaler får dem til at flygte. Det kan hjælpe sejlere i områder med mange spækhuggere.",
-   "tjek": "2026-09-06"
+   "title": "Sommerhavne: Flakfortet - en oase midt i Øresund",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/august/article/sommerhavne-flakfortet-en-oase-midt-i-oeresund/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/d/csm_flak_top_7546d2444a.jpg",
+   "cat": "Tursejlads",
+   "sum": "Lars Mosbech fra Svanemøllen anbefaler Flakfortet i Øresund som sommerhavn på grund af ro, natur og det gamle fort. Havnen har faciliteter som toilet, bad og grill, og taksten er 100-200 kr."
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vaer-med-til-at-forme-fremtidens-talentudvikling-i-dansk-sejlsport",
@@ -42,7 +82,7 @@
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__6c86a93f04.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__fcb9237829.png"
   },
   {
    "key": "nyindkoebt-motorbaad-halvt-sunket-i-loegstoer",
@@ -129,8 +169,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-30",
    "title": "Motorbåde har to økonomiske fartområder",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/b/csm_sargo_0613_150759_92e9724722.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/july/article/motorbaade-har-to-oekonomiske-fartomraader/"
   },
   {
    "key": "sommerhavne-se-saeler-og-koer-gratis-med-bus-i-oesterby-1",
@@ -160,7 +199,8 @@
    "date": "2026-07-24",
    "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg",
+   "cat": "Havnepriser"
   },
   {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
@@ -182,7 +222,8 @@
    "date": "2026-07-22",
    "title": "Ny ansøgningsrunde åbner for flere redningsstiger i havnene",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/july/article/ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_TrygFondens-redningsstige-med-lys-Sikker-Havn-1200x685_504ecdd486.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
@@ -733,13 +774,6 @@
    "title": "Dansk Sejlunion inviterer til klubmøder om talent- og eliteudvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-inviterer-til-klubmoeder-om-talent-og-eliteudvikling",
    "img": "https://dansksejlunion.dk/media/b0dg5yzu/052a8190.jpg?width=1200&height=630"
-  },
-  {
-   "key": "saadan-goer-du-hvis-du-faar-dieselpest-i-tanken-og-saadan-undgaar-du-det",
-   "source": "Motorbådsnyt",
-   "date": "2026-03-22",
-   "title": "Sådan gør du, hvis du får dieselpest i tanken og sådan undgår du det",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/march/article/saadan-goer-du-hvis-du-faar-dieselpest-i-tanken-og-saadan-undgaar-du-det/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
