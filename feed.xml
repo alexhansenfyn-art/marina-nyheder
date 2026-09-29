@@ -5,8 +5,15 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Mon, 28 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dramatik mandag morgen da stålbåd endte i Skagens hårde brænding</title>
+<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34463-dramatik-mandag-morgen-stalsejlbad-pa-grund-ved-skagen</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34463-dramatik-mandag-morgen-stalsejlbad-pa-grund-ved-skagen</guid>
+<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Bådmagasinet</description>
+</item>
 <item>
 <title>Dansk Søredningsselskab vil flytte søredningen væk fra Forsvaret</title>
 <link>https://minbaad.dk/nyhed/archive/2026/28/september/article/dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret/</link>
@@ -43,13 +50,6 @@
 <description>Kilde: Minbåd.dk</description>
 </item>
 <item>
-<title>Australsk sejlbåd sank efter kollision med hval - havde heldigvis EPIRB om bord!</title>
-<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34462-australsk-sejlbad-sank-efter-sammenstod-med-hval-men-alt-korte-lige-efter-bogen</link>
-<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34462-australsk-sejlbad-sank-efter-sammenstod-med-hval-men-alt-korte-lige-efter-bogen</guid>
-<pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Bådmagasinet</description>
-</item>
-<item>
 <title>Kim Christensen og Soffe tog DM-guldet efter suveræn søndag</title>
 <link>https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34461-kim-christensen-og-soffe-tog-dm-guldet-efter-staerk-sondag</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34461-kim-christensen-og-soffe-tog-dm-guldet-efter-staerk-sondag</guid>
@@ -60,6 +60,13 @@
 <title>FTLF inviterer: Styrk drømmen om langtur med andre unge</title>
 <link>https://www.baadmagasinet.dk/tursejlads/34457-ftlf-inviterer-styrk-drommen-om-langtur-med-andre-unge</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/tursejlads/34457-ftlf-inviterer-styrk-drommen-om-langtur-med-andre-unge</guid>
+<pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Bådmagasinet</description>
+</item>
+<item>
+<title>Australsk sejlbåd sank efter kollision med hval - havde heldigvis EPIRB om bord!</title>
+<link>https://www.baadmagasinet.dk/nyheder/kortnyt/34462-australsk-sejlbad-sank-efter-sammenstod-med-hval-men-alt-korte-lige-efter-bogen</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34462-australsk-sejlbad-sank-efter-sammenstod-med-hval-men-alt-korte-lige-efter-bogen</guid>
 <pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Bådmagasinet</description>
 </item>
@@ -347,13 +354,6 @@
 <title>Seascape 27-sejler efter Silverrudder: - Et 20 timers adrenalin-trip</title>
 <link>https://minbaad.dk/nyhed/archive/2026/21/september/article/seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip/</link>
 <guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/21/september/article/seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip/</guid>
-<pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Minbåd.dk</description>
-</item>
-<item>
-<title>ROCKWOOL Racing på podiet for første gang i 2026</title>
-<link>https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/</link>
-<guid isPermaLink="true">https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/</guid>
 <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Minbåd.dk</description>
 </item>
