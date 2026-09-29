@@ -1,11 +1,10 @@
 {
- "generated": "2026-09-29T11:40:26+00:00",
- "count": 447,
+ "generated": "2026-09-29T17:03:03+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 147,
+ "arkiv_antal": 144,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\""
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -41,6 +40,14 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/harboe-cup-gav-unge-sejlere-19-sejladser-i-skaelskoer-i-smukt-septembervejr/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_o_skaelskoer_26unnamed_cbc27f36dd.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34465",
+   "source": "Bådmagasinet",
+   "date": "2026-09-29",
+   "title": "Fra flere hundrede joller til et stævne, der kan løftes: Harboe Cup har fundet sin nye størrelse",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34465-fra-flere-hundrede-joller-til-et-staevne-der-kan-loftes-harboe-cup-har-fundet-sin-nye-storrelse",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/harboe_forside.jpg"
   },
   {
    "key": "baadmagasinet-34464",
@@ -2985,16 +2992,6 @@
    "cat": "Kapsejlads",
    "sum": "Ungdoms-VM i ILCA 4 og ILCA 6 samler 900 unge sejlere fra 50 nationer i Aarhus. Mesterskabet viser byens styrke som international sejlsportsby.",
    "tjek": "2026-08-30"
-  },
-  {
-   "key": "kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-14",
-   "title": "Kim Christensen toer ved J/70-VM Mix – presser forsvarende verdensmester",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
-   "cat": "Kapsejlads",
-   "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører.",
-   "tjek": "2026-08-29"
   }
  ]
 }
