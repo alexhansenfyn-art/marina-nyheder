@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T17:03:03+00:00",
- "count": 444,
+ "generated": "2026-09-29T21:27:48+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
@@ -47,7 +47,8 @@
    "date": "2026-09-29",
    "title": "Fra flere hundrede joller til et stævne, der kan løftes: Harboe Cup har fundet sin nye størrelse",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34465-fra-flere-hundrede-joller-til-et-staevne-der-kan-loftes-harboe-cup-har-fundet-sin-nye-storrelse",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/harboe_forside.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/harboe_forside.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34464",
@@ -55,7 +56,8 @@
    "date": "2026-09-29",
    "title": "DSRS ønsker større rolle i fremtidens danske søredning",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34464-dsrs-vil-have-storre-rolle-i-fremtidens-danske-soredning",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/steen_wintlev-jensen.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/steen_wintlev-jensen.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34463",

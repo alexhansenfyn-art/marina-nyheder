@@ -1,17 +1,7 @@
 {
- "generated": "2026-09-29T17:03:03+00:00",
- "count": 144,
+ "generated": "2026-09-29T21:27:48+00:00",
+ "count": 143,
  "items": [
-  {
-   "key": "kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-14",
-   "title": "Kim Christensen toer ved J/70-VM Mix – presser forsvarende verdensmester",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/august/article/kim-christensen-toer-ved-j-70-vm-mix-presser-forsvarende-verdensmester/",
-   "cat": "Kapsejlads",
-   "sum": "Kim Christensen er bedste dansker på andenpladsen efter anden dag ved J/70 Mixed-Plus VM i Skovshoved. Spanieren Joan Cardona Mendez fører.",
-   "tjek": "2026-08-29"
-  },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
    "source": "Motorbådsnyt",
@@ -181,7 +171,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-07-23",
    "title": "Båd løb tør for benzin og affyrede nødblus - den går ikke",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/july/article/baad-loeb-toer-for-benzin-og-affyrede-noedblus-den-gaar-ikke/",
+   "cat": "Sikkerhed"
   },
   {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
