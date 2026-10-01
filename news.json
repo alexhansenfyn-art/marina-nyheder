@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T07:50:50+00:00",
+ "generated": "2026-10-01T15:31:30+00:00",
  "count": 445,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 145,
@@ -7,6 +7,31 @@
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel",
+   "source": "Minbåd.dk",
+   "date": "2026-10-01",
+   "title": "Europe-VM kommer til Aarhus i 2027 - Martin fra Kaløvig skal forsvare titel",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_79efc88eb9.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-01",
+   "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg"
+  },
+  {
+   "key": "marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-10-01",
+   "title": "Marstal-sejler pressede 11 Meter rundt om Fyn: 21 timer alene i hårdt Silverrudder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg"
+  },
   {
    "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
    "source": "Minbåd.dk",
@@ -16,12 +41,12 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_95a4252d31.jpg"
   },
   {
-   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
-   "source": "Motorbådsnyt",
+   "key": "baadmagasinet-34471",
+   "source": "Bådmagasinet",
    "date": "2026-10-01",
-   "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg"
+   "title": "Hvad kan fremtidens boliger lære af gamle skibe?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34471-hvad-kan-fremtidens-boliger-laere-af-gamle-skibe",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_img_3043.jpg"
   },
   {
    "key": "baadmagasinet-34469",
@@ -37,7 +62,7 @@
    "date": "2026-09-30",
    "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_1ebace8b4d.jpg"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -45,7 +70,7 @@
    "date": "2026-09-30",
    "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_cdfa8d73e1.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -78,7 +103,8 @@
    "date": "2026-09-30",
    "title": "Europe-VM til Aarhus i 27 – dansk verdensmester får hjemmebane",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34467-europe-vm-kommer-til-aarhus-dansk-verdensmester-far-hjemmebane",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/e_forside.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/e_forside.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34466",
@@ -223,7 +249,7 @@
    "date": "2026-09-27",
    "title": "Burling slog sit gamle hold – vandt i Napoli med Luna Rossa",
    "url": "https://minbaad.dk/nyhed/archive/2026/27/september/article/burling-slog-sit-gamle-hold-vandt-i-napoli-med-luna-rossa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/f/csm_aa_76957_18347502049270360_1598918389288853008_n_8d149364a7.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/f/csm_aa_76957_18347502049270360_1598918389288853008_n_9aa157afb3.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -317,15 +343,6 @@
    "cat": "Udstyr & både"
   },
   {
-   "key": "alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-25",
-   "title": "Alfred og Loke vil til OL i 49er – tirsdag fortæller de om vejen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_t_0R2A3579_614564298d.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt",
    "source": "Minbåd.dk",
    "date": "2026-09-25",
@@ -333,6 +350,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_7b2541f041.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Alfred og Loke vil til OL i 49er – tirsdag fortæller de om vejen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_t_0R2A3579_65cbdc6ea5.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
@@ -436,7 +462,7 @@
    "date": "2026-09-23",
    "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -446,7 +472,7 @@
    "date": "2026-09-23",
    "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_d52bd156e4.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -514,7 +540,7 @@
    "date": "2026-09-22",
    "title": "To ud af tre eliteatleter tjener højst 5.000 kroner på sporten",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/to-ud-af-tre-eliteatleter-tjener-hoejst-5000-kroner-paa-sporten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_Anne-Marie_Rindom-laens_torsdag.jpg_627d6eabe0.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_Anne-Marie_Rindom-laens_torsdag.jpg_b46472ae86.jpg",
    "cat": "Andet",
    "tjek": "2026-10-01"
   },
@@ -583,7 +609,7 @@
    "date": "2026-09-21",
    "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_a71127d6ce.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -652,8 +678,8 @@
    "date": "2026-09-20",
    "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -687,16 +713,6 @@
    "tjek": "2026-10-01"
   },
   {
-   "key": "slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Slæbt efter sin båd i en time – slovensk Silverrudder-sejler reddet af helikopter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_first_875_10165206456107859_3903435652290916225_n_63dec0a6f7.jpg",
-   "tjek": "2026-10-01"
-  },
-  {
    "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
@@ -723,6 +739,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
    "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Slæbt efter sin båd i en time – slovensk Silverrudder-sejler reddet af helikopter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_first_875_10165206456107859_3903435652290916225_n_63dec0a6f7.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -1150,7 +1176,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg",
    "cat": "Udstyr & både",
-   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne.",
+   "tjek": "2026-10-01"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
@@ -1160,7 +1187,8 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
    "img": "https://dansksejlunion.dk/media/blbdkkhg/design-uden-navn-30.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
-   "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
+   "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams.",
+   "tjek": "2026-10-01"
   },
   {
    "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
@@ -2956,36 +2984,6 @@
    "cat": "Kapsejlads",
    "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark.",
    "tjek": "2026-08-24"
-  },
-  {
-   "key": "baadmagasinet-34344",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr.",
-   "tjek": "2026-08-24"
-  },
-  {
-   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-16",
-   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg",
-   "cat": "Sikkerhed",
-   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
-  },
-  {
-   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
-   "source": "Minbåd.dk",
-   "date": "2026-08-16",
-   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
-   "cat": "Havneliv",
-   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
-   "tjek": "2026-09-06"
   }
  ]
 }

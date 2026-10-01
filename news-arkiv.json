@@ -1,36 +1,36 @@
 {
- "generated": "2026-10-01T07:50:50+00:00",
+ "generated": "2026-10-01T15:31:30+00:00",
  "count": 145,
  "items": [
   {
-   "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-16",
-   "title": "Kæmpe sejlerfest i Aarhus",
-   "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen.",
-   "tjek": "2026-08-26"
-  },
-  {
-   "key": "baadmagasinet-34345",
+   "key": "baadmagasinet-34344",
    "source": "Bådmagasinet",
-   "date": "2026-08-16",
-   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
-   "cat": "Kapsejlads",
-   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads.",
-   "tjek": "2026-08-23"
+   "date": "2026-08-17",
+   "title": "Copenhagen Boat Show: Nedtællingen er i fuld gang - husk der er gratis adgang",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34344-copenhagen-boat-show-om-en-uge-gar-det-los-husk-der-er-gratis-adgang",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbner om 10 dage med gratis adgang i anledning af 10-års jubilæum. Udstillingen i Ishøj byder på både og udstyr.",
+   "tjek": "2026-08-24"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
-   "source": "Dansk Sejlunion",
+   "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
+   "source": "Motorbådsnyt",
    "date": "2026-08-16",
-   "title": "Klubkonference 2025",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2025",
+   "title": "Motorbåd drev ind i sten og sank ved Helnæs",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg",
+   "cat": "Sikkerhed",
+   "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
+  },
+  {
+   "key": "amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig",
+   "source": "Minbåd.dk",
+   "date": "2026-08-16",
+   "title": "Camilla ville giftes på en båd – Anders gjorde drømmen virkelig",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/august/article/amilla-ville-giftes-paa-en-baad-anders-gjorde-droemmen-virkelig/",
    "cat": "Havneliv",
-   "sum": "200 deltagere mødtes til Klubkonference 2025 i Aarhus. Næste konference er planlagt til 14. november 2026.",
-   "tjek": "2026-08-23"
+   "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
+   "tjek": "2026-09-06"
   },
   {
    "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
@@ -38,7 +38,8 @@
    "date": "2026-08-14",
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -86,7 +87,8 @@
    "date": "2026-08-10",
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_c0184d2034.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/7/csm_ny_synk_c0184d2034.png",
+   "cat": "Sikkerhed"
   },
   {
    "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
@@ -140,7 +142,8 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-04",
    "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/",
+   "cat": "Tursejlads"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
