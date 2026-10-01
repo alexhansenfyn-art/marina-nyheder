@@ -1,19 +1,43 @@
 {
- "generated": "2026-10-01T01:37:20+00:00",
- "count": 442,
+ "generated": "2026-10-01T07:50:50+00:00",
+ "count": 445,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 145,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
+   "source": "Minbåd.dk",
+   "date": "2026-10-01",
+   "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_95a4252d31.jpg"
+  },
+  {
+   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-01",
+   "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg"
+  },
+  {
+   "key": "baadmagasinet-34469",
+   "source": "Bådmagasinet",
+   "date": "2026-10-01",
+   "title": "Efterlysning: Skanderborg Junior Sejlklub har haft indbrud - båd, motor & trailer stjålet!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34469-efterlyser-skanderborg-junior-sejlklub-har-haft-indbrud-bad-motor-vaek",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_5.jpg"
+  },
   {
    "key": "udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad",
    "source": "Minbåd.dk",
    "date": "2026-09-30",
    "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_9a3c8f71ac.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -21,7 +45,7 @@
    "date": "2026-09-30",
    "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_cdfa8d73e1.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -30,7 +54,7 @@
    "date": "2026-09-30",
    "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_687e76d25c.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
   },
   {
    "key": "19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7",
@@ -65,14 +89,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/ms_pirateri.jpg"
   },
   {
-   "key": "husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-29",
-   "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_r7-3_7879c7c5a2.jpg"
-  },
-  {
    "key": "autopiloten-sejlede-videre-skipper-laa-alene-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-09-29",
@@ -97,6 +113,14 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/harboe-cup-gav-unge-sejlere-19-sejladser-i-skaelskoer-i-smukt-septembervejr/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_o_skaelskoer_26unnamed_b3f765fb63.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort",
+   "source": "Minbåd.dk",
+   "date": "2026-09-29",
+   "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_r7-3_fa52b31e29.jpg"
   },
   {
    "key": "baadmagasinet-34465",
@@ -171,7 +195,7 @@
    "key": "baadmagasinet-34462",
    "source": "Bådmagasinet",
    "date": "2026-09-28",
-   "title": "Australsk sejlbåd sank efter kollision med hval - havde heldigvis EPIRB om bord!",
+   "title": "Opdateret, video: Australsk sejlbåd sank efter kollision med hval",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34462-australsk-sejlbad-sank-efter-sammenstod-med-hval-men-alt-korte-lige-efter-bogen",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/825268042_2194838531438215_2709033080407529539_n_2.jpg"
   },
@@ -217,7 +241,7 @@
    "date": "2026-09-26",
    "title": "Fransk AC40 kæntrede fra føringen i Napoli",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/september/article/fransk-ac40-kaentrede-fra-foeringen-i-napoli/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_ac_6709_18347658163270360_8614122438157459311_n_15ec86f8d0.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_ac_6709_18347658163270360_8614122438157459311_n_8fd7bac280.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -347,26 +371,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-24",
-   "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_05bf28e1fd.png",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-01"
-  },
-  {
-   "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
-   "source": "Minbåd.dk",
-   "date": "2026-09-24",
-   "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__dc223e8670.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-01"
-  },
-  {
    "key": "kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere",
    "source": "Minbåd.dk",
    "date": "2026-09-24",
@@ -383,6 +387,26 @@
    "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-24",
+   "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_58cbf28de6.png",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-24",
+   "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__793a77d673.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-10-01"
   },
   {
@@ -422,7 +446,7 @@
    "date": "2026-09-23",
    "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_d52bd156e4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -431,7 +455,7 @@
    "date": "2026-09-23",
    "title": "Anders Johansen i JPK 10.30 sejlede sit hårdeste og hurtigste Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_834d2c12cd.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_21fd76a205.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-01"
   },
@@ -441,7 +465,7 @@
    "date": "2026-09-23",
    "title": "Fem jægere og en hund fanget i synkende jolle – kunne ikke gå ud på grund af dynd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/september/article/fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_63513616a6.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -549,7 +573,7 @@
    "date": "2026-09-21",
    "title": "Silverrudder-sejler gik ud på kølen af First 18 og faldt i vandet - tæt på at gi op",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_f5f9f24d20.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_d10a07820b.png",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -569,7 +593,7 @@
    "date": "2026-09-21",
    "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_a505dcafb5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_175f99b90e.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-01"
   },
@@ -648,8 +672,8 @@
    "date": "2026-09-19",
    "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_4ee5862d63.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_4ee5862d63.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -722,16 +746,6 @@
    "tjek": "2026-09-26"
   },
   {
-   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
-   "tjek": "2026-10-01"
-  },
-  {
    "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
    "source": "Minbåd.dk",
    "date": "2026-09-18",
@@ -740,6 +754,16 @@
    "cat": "Udstyr & både",
    "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn.",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_fdc5a10603.jpg",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -830,7 +854,7 @@
    "date": "2026-09-17",
    "title": "Solpaneler efter mål - kan laves flotte",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c3057cf7cd.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_f7c745f3bf.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet.",
    "tjek": "2026-10-01"
@@ -961,7 +985,7 @@
    "date": "2026-09-15",
    "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2fa87be388.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted.",
    "tjek": "2026-10-01"
@@ -1040,7 +1064,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese/",
    "cat": "Tursejlads",
    "sum": "Bogen Ice Bird handler om David Lewis' enkeltmandssejlads mod Antarktis i en 32 fods stålsejlbåd, hvor han oplevede storme, kæntringer og mastehavari.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg",
+   "tjek": "2026-10-01"
   },
   {
    "key": "baadmagasinet-34423",
@@ -1050,7 +1075,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34423-mangler-du-en-havneplads-kob-hele-oen",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_flakfortet_2.jpg",
    "cat": "Andet",
-   "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge."
+   "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge.",
+   "tjek": "2026-10-01"
   },
   {
    "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
@@ -1113,7 +1139,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg",
+   "tjek": "2026-10-01"
   },
   {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
@@ -1662,7 +1689,7 @@
    "date": "2026-09-04",
    "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_88ceb7ec6a.jpg",
    "cat": "Udstyr & både",
    "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
@@ -1752,7 +1779,7 @@
    "date": "2026-09-03",
    "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_f1b42a3fff.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
   },
@@ -2411,7 +2438,7 @@
    "date": "2026-08-24",
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_246e79266e.jpg",
    "cat": "Udstyr & både",
    "sum": "Test af Aquila 42 Coupé, en foil-udstyret motorkatamaran, der imponerer med rolig gang og lavere brændstofforbrug. Båden kan opleves på Cph Boat Show."
   },
@@ -2521,7 +2548,7 @@
    "date": "2026-08-22",
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_c29dea1fa1.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_680a6a5d39.jpg",
    "cat": "Udstyr & både",
    "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
   },
@@ -2827,7 +2854,7 @@
    "date": "2026-08-18",
    "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_eac324b64f.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_c802b6ff98.jpg",
    "cat": "Udstyr & både",
    "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   },
@@ -2946,7 +2973,7 @@
    "date": "2026-08-16",
    "title": "Motorbåd drev ind i sten og sank ved Helnæs",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_3cc07eff44.jpeg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg",
    "cat": "Sikkerhed",
    "sum": "En motorbåd sank ud for Agernæs ved Helnæs efter at have ramt sten i høje bølger. Søredningstjenesten forsøgte bjærgning, men måtte opgive. Ingen personer kom til skade."
   },
@@ -2959,36 +2986,6 @@
    "cat": "Havneliv",
    "sum": "Blogger Anders Steen fortæller om sit bryllup med Camilla ombord på deres båd i Skovshoved Havn.",
    "tjek": "2026-09-06"
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-16",
-   "title": "Kæmpe sejlerfest i Aarhus",
-   "url": "https://dansksejlunion.dk/nyheder/2025/kaempe-sejlerfest-i-aarhus",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion inviterer til sejlerfest i Aarhus den 14. november 2026 med underholdning, mad og auktion. Festen støtter unge sejlertalenter og afholdes i forbindelse med klubkonferencen.",
-   "tjek": "2026-08-26"
-  },
-  {
-   "key": "baadmagasinet-34345",
-   "source": "Bådmagasinet",
-   "date": "2026-08-16",
-   "title": "J/70 Mixed-Plus VM: Kim Christensen slutter som bedste danske team - se kæmpe galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34345-j-70-mixed-plus-vm-kim-christensen-slutter-som-bedste-danske-team-se-stort-galleri",
-   "cat": "Kapsejlads",
-   "sum": "Ved J/70 Mixed-Plus VM i Skovshoved vandt spanske Yupi, mens Kim Christensen blev bedste dansker med sølv og vandt Corinthian-klassen. Sten Mohr endte på en skuffende fjerdeplads.",
-   "tjek": "2026-08-23"
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2025",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-16",
-   "title": "Klubkonference 2025",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2025",
-   "cat": "Havneliv",
-   "sum": "200 deltagere mødtes til Klubkonference 2025 i Aarhus. Næste konference er planlagt til 14. november 2026.",
-   "tjek": "2026-08-23"
   }
  ]
 }
