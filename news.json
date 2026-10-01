@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-01T15:31:30+00:00",
+ "generated": "2026-10-01T21:30:47+00:00",
  "count": 445,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 145,
  "errors": [
+  "AI: KeyError: 'choices'",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel",
+   "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
    "source": "Minbåd.dk",
    "date": "2026-10-01",
-   "title": "Europe-VM kommer til Aarhus i 2027 - Martin fra Kaløvig skal forsvare titel",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_79efc88eb9.jpg",
-   "cat": "Kapsejlads"
+   "title": "Mikkelsen og Rosa-Lux tog sejren ved X-99-mesterskabet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_ee754279af.jpeg"
   },
   {
    "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
@@ -25,12 +25,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg"
   },
   {
+   "key": "europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel",
+   "source": "Minbåd.dk",
+   "date": "2026-10-01",
+   "title": "Europe-VM kommer til Aarhus i 2027 - Martin fra Kaløvig skal forsvare titel",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_7e0b7a418b.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder",
    "source": "Minbåd.dk",
    "date": "2026-10-01",
    "title": "Marstal-sejler pressede 11 Meter rundt om Fyn: 21 timer alene i hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_639566ca88.jpg"
   },
   {
    "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
@@ -38,7 +47,15 @@
    "date": "2026-10-01",
    "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_95a4252d31.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg"
+  },
+  {
+   "key": "baadmagasinet-34472",
+   "source": "Bådmagasinet",
+   "date": "2026-10-01",
+   "title": "Ny KDY-formand: Carsten Dilling indstilles af valgkomitéen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34472-ny-kdy-formand-carsten-dilling-indstilles-af-valgkomiteen",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/carsten_dilling.jpg"
   },
   {
    "key": "baadmagasinet-34471",
@@ -214,7 +231,7 @@
    "date": "2026-09-28",
    "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_1a5ba7c730.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -334,21 +351,21 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge",
-   "source": "Minbåd.dk",
-   "date": "2026-09-25",
-   "title": "Dansk sejlkoncept LeanSails udvider til Sverige og Norge",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__18f0984a32.png",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt",
    "source": "Minbåd.dk",
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_7b2541f041.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Dansk sejlkoncept LeanSails udvider til Sverige og Norge",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__3d29984204.png",
    "cat": "Udstyr & både"
   },
   {
@@ -421,7 +438,7 @@
    "date": "2026-09-24",
    "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_58cbf28de6.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_978a288204.png",
    "cat": "Udstyr & både",
    "tjek": "2026-10-01"
   },
@@ -462,7 +479,7 @@
    "date": "2026-09-23",
    "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_0acc854a00.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -530,7 +547,7 @@
    "date": "2026-09-22",
    "title": "Sejlbåde i centrum for narkotransporter over Atlanten - båd knaldet med 2,5 ton kokain",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/sejlbaade-i-centrum-for-narkotransporter-over-atlanten-baad-knaldet-med-25-ton-kokain/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_dra_30_1368500741940624_396659450008403285_n_a4c66144b3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_dra_30_1368500741940624_396659450008403285_n_dc4ab20dfd.jpg",
    "cat": "Andet",
    "tjek": "2026-10-01"
   },
@@ -599,7 +616,7 @@
    "date": "2026-09-21",
    "title": "Silverrudder-sejler gik ud på kølen af First 18 og faldt i vandet - tæt på at gi op",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_d10a07820b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_f5f9f24d20.png",
    "cat": "Sikkerhed",
    "tjek": "2026-10-01"
   },
@@ -639,8 +656,8 @@
    "date": "2026-09-21",
    "title": "ROCKWOOL Racing på podiet for første gang i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -703,16 +720,6 @@
    "tjek": "2026-10-01"
   },
   {
-   "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Jan tilbage fra jordomsejling – slog Silverrudder-rekord med 14:07 i Black Marlin",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/5/csm_black_marlin_699922_10165210876997859_hhh3041608502440828484_n_298d35bbe9.jpg",
-   "tjek": "2026-10-01"
-  },
-  {
    "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
    "source": "Minbåd.dk",
    "date": "2026-09-19",
@@ -739,6 +746,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
    "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Jan tilbage fra jordomsejling – slog Silverrudder-rekord med 14:07 i Black Marlin",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/5/csm_black_marlin_699922_10165210876997859_hhh3041608502440828484_n_298d35bbe9.jpg",
    "tjek": "2026-10-01"
   },
   {
@@ -1219,7 +1236,8 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/to-danske-vm-bronzemedaljer-paa-stor-finaledag",
    "img": "https://dansksejlunion.dk/media/nxykqfn2/260912_sailingenergy_iqfoilworldsweymouth__c1_6116_den-37-johan-soee-iqfoil-worlds.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
-   "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag."
+   "sum": "Anna Munch og Johan Søe sikrede Danmark VM-bronze i ILCA 6 og iQFOiL på en stor dansk finaledag lørdag.",
+   "tjek": "2026-10-01"
   },
   {
    "key": "soeren-junker-nielsen-fra-dansk-marine-center-sejlerne-oensker-mere-service-se-5-jobannoncer",
@@ -1271,7 +1289,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/september/article/ny-gran-turismo-50-imponerer-med-store-terrasser-og-laekkert-cockpit/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/b/csm_gran_tu_top_4_4a489ebd2d.png",
    "cat": "Udstyr & både",
-   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr."
+   "sum": "Beneteau præsenterer Gran Turismo 50 som nyt flagskib med store terrasser og cockpit. Den 15,95 meter lange motorbåd starter ved 9,3 mio. kr., mens udstillingsbåden i Cannes koster 13,5 mio. kr.",
+   "tjek": "2026-10-01"
   },
   {
    "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
@@ -2964,26 +2983,6 @@
    "cat": "Kapsejlads",
    "sum": "Kim Christensen tog VM-sølv i J/70 Mixed-Plus i Skovshoved og vandt samtidig Corinthian-klassen. Danske Sten Mohr blev nummer fire.",
    "tjek": "2026-09-06"
-  },
-  {
-   "key": "baadmagasinet-34347",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "Dansk Sejlunion opruster på events og klubliv - Sophie Kirkegaard tiltræder ny stilling",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34347-dansk-sejlunion-opruster-pa-events-og-klubliv",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber.",
-   "tjek": "2026-08-26"
-  },
-  {
-   "key": "baadmagasinet-34348",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "DM: Og vinderne er...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34348-dm-og-vinderne-er",
-   "cat": "Kapsejlads",
-   "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark.",
-   "tjek": "2026-08-24"
   }
  ]
 }
