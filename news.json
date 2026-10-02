@@ -1,20 +1,19 @@
 {
- "generated": "2026-10-02T12:39:32+00:00",
- "count": 446,
+ "generated": "2026-10-02T18:03:58+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 146,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Sikker"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
+   "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
    "source": "Minbåd.dk",
    "date": "2026-10-02",
-   "title": "Hval rev roret af Beneteau 51.1 – sejler røg fra styreplads - skipper forklarer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_2af65d8c8d.jpg"
+   "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f29fd3b953.jpg"
   },
   {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
@@ -27,12 +26,20 @@
    "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
+   "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
+   "source": "Minbåd.dk",
+   "date": "2026-10-02",
+   "title": "Hval rev roret af Beneteau 51.1 – sejler røg fra styreplads - skipper forklarer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_d8b952e69d.jpg"
+  },
+  {
    "key": "sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok",
    "source": "Minbåd.dk",
    "date": "2026-10-02",
    "title": "Sejlbåd fanget i brændingen - forsejl var ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_bb8ca6fd2c.jpg"
   },
   {
    "key": "grenaa-marina-soeger-havnemester",
@@ -57,6 +64,14 @@
    "title": "Nyt netværk vil gøre langtursejlads mere tilgængelig for unge",
    "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg"
+  },
+  {
+   "key": "baadmagasinet-34475",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg"
   },
   {
    "key": "baadmagasinet-34473",
@@ -184,6 +199,14 @@
    "img": "https://www.baadmagasinet.dk/images/---sept24/foto_museet_for_lystsejlads_2.jpg"
   },
   {
+   "key": "baadmagasinet-34466",
+   "source": "Bådmagasinet",
+   "date": "2026-09-30",
+   "title": "Pirater på M/S : Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34466-pirater-pa-m-s-er-moderne-pirateri-lovloshed-eller-saesonarbejde-til-sos",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/ms_pirateri.jpg"
+  },
+  {
    "key": "baadmagasinet-34467",
    "source": "Bådmagasinet",
    "date": "2026-09-30",
@@ -191,14 +214,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34467-europe-vm-kommer-til-aarhus-dansk-verdensmester-far-hjemmebane",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/e_forside.jpg",
    "cat": "Kapsejlads"
-  },
-  {
-   "key": "baadmagasinet-34466",
-   "source": "Bådmagasinet",
-   "date": "2026-09-30",
-   "title": "Pirater på M/S : Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34466-pirater-pa-m-s-er-moderne-pirateri-lovloshed-eller-saesonarbejde-til-sos",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/ms_pirateri.jpg"
   },
   {
    "key": "autopiloten-sejlede-videre-skipper-laa-alene-i-vandet",
@@ -402,16 +417,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven",
-   "source": "Minbåd.dk",
-   "date": "2026-09-25",
-   "title": "Sådan monterer du din båds presenning med mast på - på en stille dag med en ven",
-   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_pressenning_hal_paa_gp_covers_4ed650ea16.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-02"
-  },
-  {
    "key": "ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag",
    "source": "Minbåd.dk",
    "date": "2026-09-25",
@@ -419,6 +424,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag/",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/3/csm_a_76610_18347501965270360_3434820646439280203_n_63ebcf9890.jpg",
    "cat": "Kapsejlads",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Sådan monterer du din båds presenning med mast på - på en stille dag med en ven",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_pressenning_hal_paa_gp_covers_140e269147.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-10-02"
   },
   {
@@ -447,7 +462,7 @@
    "date": "2026-09-25",
    "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_ac58308935.jpg",
    "cat": "Andet",
    "tjek": "2026-10-02"
   },
@@ -462,22 +477,22 @@
    "tjek": "2026-10-02"
   },
   {
-   "key": "baadmagasinet-34454",
-   "source": "Bådmagasinet",
-   "date": "2026-09-25",
-   "title": "Søsportens Sikkerhedsråd kommer med opfordring - men hvad ligger bag tallene?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34454-silvrrudder-fik-sosportens-sikkerhedsrad-til-tasterne-og-kommer-med-opfordring",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_billede_solosejlads_2.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-10-02"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
    "source": "Dansk Sejlunion",
    "date": "2026-09-25",
    "title": "Information om kommende prøvekrav til fritidssejladsprøver",
    "url": "https://dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
    "img": "https://dansksejlunion.dk/media/5toe3v3n/2019-10-05_0079e.jpg?width=1200&height=630",
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "baadmagasinet-34454",
+   "source": "Bådmagasinet",
+   "date": "2026-09-25",
+   "title": "Søsportens Sikkerhedsråd kommer med opfordring - men hvad ligger bag tallene?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34454-silvrrudder-fik-sosportens-sikkerhedsrad-til-tasterne-og-kommer-med-opfordring",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_billede_solosejlads_2.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-02"
   },
@@ -497,7 +512,7 @@
    "date": "2026-09-24",
    "title": "Kong Harald var en af os – nu skal sejlsporten åbne døren for flere",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_e29155a289.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_042a6dc596.png",
    "cat": "Havneliv",
    "tjek": "2026-10-02"
   },
@@ -567,7 +582,7 @@
    "date": "2026-09-23",
    "title": "Ny bådmesse i Göteborg lokker store både med lave standpriser",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/ny-baadmesse-i-goeteborg-lokker-store-baade-med-lave-standpriser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_d52bd156e4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_nmm230224_151321_94ba916d86.jpg",
    "tjek": "2026-10-02"
   },
   {
@@ -615,7 +630,7 @@
    "date": "2026-09-22",
    "title": "Ni AC40’ere klar til America’s Cup-opgør i Napoli",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/september/article/ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_ac__WhatsApp-Image-2026-09-21-at-153815_8e7b304ef8.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_ac__WhatsApp-Image-2026-09-21-at-153815_6609fb63d2.jpeg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-02"
   },
@@ -704,8 +719,8 @@
    "date": "2026-09-21",
    "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
    "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
    "tjek": "2026-10-02"
   },
   {
@@ -729,16 +744,6 @@
    "tjek": "2026-10-02"
   },
   {
-   "key": "rockwool-racing-paa-podiet-for-foerste-gang-i-2026",
-   "source": "Minbåd.dk",
-   "date": "2026-09-21",
-   "title": "ROCKWOOL Racing på podiet for første gang i 2026",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
-   "tjek": "2026-10-02"
-  },
-  {
    "key": "lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten",
    "source": "Motorbådsnyt",
    "date": "2026-09-21",
@@ -746,6 +751,16 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
    "cat": "Sikkerhed",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "rockwool-racing-paa-podiet-for-foerste-gang-i-2026",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "ROCKWOOL Racing på podiet for første gang i 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
    "tjek": "2026-10-02"
   },
   {
@@ -1196,7 +1211,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34423-mangler-du-en-havneplads-kob-hele-oen",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_flakfortet_2.jpg",
    "cat": "Andet",
-   "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge."
+   "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge.",
+   "tjek": "2026-10-02"
   },
   {
    "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
@@ -1259,7 +1275,8 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
    "cat": "Tursejlads",
    "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg",
+   "tjek": "2026-10-02"
   },
   {
    "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
@@ -2956,26 +2973,6 @@
    "cat": "Kapsejlads",
    "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire.",
    "tjek": "2026-09-03"
-  },
-  {
-   "key": "baadmagasinet-34354",
-   "source": "Bådmagasinet",
-   "date": "2026-08-19",
-   "title": "Dansk Sejlunion: Reorganiserer og ændrer 49erFX kurs – landstræner fyret",
-   "url": "https://www.baadmagasinet.dk/ol/34354-dansk-sejlunion-aendrer-49erfx-kurs-landstraener-stopper",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion reorganiserer eliteindsatsen og fyrer 49erFX-landstræner John Pink med under to år til OL i Los Angeles.",
-   "tjek": "2026-08-26"
-  },
-  {
-   "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-18",
-   "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_eac324b64f.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv bådmessen i Ellös, Sverige, forventer 130 sejl- og motorbåde, premierer og mulighed for at se både under produktion. Afholdes 21.-23. august 2026."
   }
  ]
 }
