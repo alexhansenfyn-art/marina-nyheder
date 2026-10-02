@@ -1,27 +1,7 @@
 {
- "generated": "2026-10-01T21:30:47+00:00",
- "count": 145,
+ "generated": "2026-10-02T00:18:22+00:00",
+ "count": 147,
  "items": [
-  {
-   "key": "baadmagasinet-34347",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "Dansk Sejlunion opruster på events og klubliv - Sophie Kirkegaard tiltræder ny stilling",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34347-dansk-sejlunion-opruster-pa-events-og-klubliv",
-   "cat": "Andet",
-   "sum": "Dansk Sejlunion har ansat Sophie Kirkegaard som arrangementsudvikler for at styrke events og klubliv. Hun skal udvikle nationale arrangementer og støtte lokale klubber.",
-   "tjek": "2026-08-26"
-  },
-  {
-   "key": "baadmagasinet-34348",
-   "source": "Bådmagasinet",
-   "date": "2026-08-17",
-   "title": "DM: Og vinderne er...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34348-dm-og-vinderne-er",
-   "cat": "Kapsejlads",
-   "sum": "Artiklen samler medaljetagere fra en weekend med mange danske mesterskaber i kapsejlads rundt om i Danmark.",
-   "tjek": "2026-08-24"
-  },
   {
    "key": "motorbaad-drev-ind-i-sten-og-sank-ved-helnaes",
    "source": "Motorbådsnyt",
@@ -59,16 +39,14 @@
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -93,14 +71,6 @@
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg"
-  },
-  {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -185,14 +155,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/july/article/vrag-oedelagde-200-kvadratmeter-beskyttet-havgraes-baadejer-doemt/"
   },
   {
-   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
-  },
-  {
    "key": "10-gode-raad-for-du-kober-brugt-baad",
    "source": "Motorbådsnyt",
    "date": "2026-07-24",
@@ -240,14 +202,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png"
   },
   {
-   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg"
-  },
-  {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
    "source": "Minbåd.dk",
    "date": "2026-07-19",
@@ -262,6 +216,14 @@
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
    "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_csm_sup_pr_adcd90dadf_cbeee69ff4.jpg"
+  },
+  {
+   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
+   "source": "Minbåd.dk",
+   "date": "2026-07-19",
+   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_87ff44dc04.jpg"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -295,14 +257,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg"
   },
   {
-   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg"
-  },
-  {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
@@ -325,22 +279,6 @@
    "title": "Grundstødt sejler betalte redningsfolk med kiks men manden sejlede tilbage til grunden",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_baad_grund_3_2293645541443826_2475832148515561780_n_2f42a90765.jpg"
-  },
-  {
-   "key": "planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort",
-   "source": "Minbåd.dk",
-   "date": "2026-07-12",
-   "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e94337c6b7.jpg"
-  },
-  {
-   "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
-   "source": "Minbåd.dk",
-   "date": "2026-07-09",
-   "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_no_worries-beskaaret-jpg_c090a0d923.jpg"
   },
   {
    "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
@@ -372,14 +310,6 @@
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg"
-  },
-  {
-   "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
-   "source": "Minbåd.dk",
-   "date": "2026-07-05",
-   "title": "Vejrø: Når visioner og stædighed skaber et levende ø-samfund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_vejro_1_h_f6c5611356.jpeg"
   },
   {
    "key": "askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne",
@@ -1143,6 +1073,86 @@
    "title": "Ærø slår Danmarksrekord i antal anløb",
    "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg"
+  },
+  {
+   "key": "fire-sejlbaade-til-beboelse",
+   "source": "Minbåd.dk",
+   "date": "2018-01-08",
+   "title": "Fire sejlbåde til beboelse",
+   "url": "https://minbaad.dk/nyhed/archive/2018/08/january/article/fire-sejlbaade-til-beboelse/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/b/csm_s_top_01_a401630724.jpg"
+  },
+  {
+   "key": "raad-om-bobaad-det-skal-du-vaere-opmaerksom-paa",
+   "source": "Minbåd.dk",
+   "date": "2018-01-07",
+   "title": "Råd om bobåd: Dét skal du være opmærksom på",
+   "url": "https://minbaad.dk/nyhed/archive/2018/07/january/article/raad-om-bobaad-det-skal-du-vaere-opmaerksom-paa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/f/csm_baad_05_07c6141394.jpg"
+  },
+  {
+   "key": "flere-og-flere-bor-i-baade-paa-grund-af-boligmangel",
+   "source": "Minbåd.dk",
+   "date": "2018-01-02",
+   "title": "Flere og flere bor i både på grund af boligmangel",
+   "url": "https://minbaad.dk/nyhed/archive/2018/02/january/article/flere-og-flere-bor-i-baade-paa-grund-af-boligmangel/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_aarhus_mars20161015_145215_135ce0ee37.jpg"
+  },
+  {
+   "key": "bliv-cafeejer-og-havnefoged-i-snaptun",
+   "source": "Minbåd.dk",
+   "date": "2017-11-27",
+   "title": "Bliv caféejer og havnefoged i Snaptun",
+   "url": "https://minbaad.dk/nyhed/archive/2017/27/november/article/bliv-cafeejer-og-havnefoged-i-snaptun/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/2/csm_snap_top_b9dacc2d25.jpg"
+  },
+  {
+   "key": "omoe-havn-kaaret-som-aarets-havn-2017",
+   "source": "Minbåd.dk",
+   "date": "2017-11-23",
+   "title": "Omø Havn kåret som Årets Havn 2017",
+   "url": "https://minbaad.dk/nyhed/archive/2017/23/november/article/omoe-havn-kaaret-som-aarets-havn-2017/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_pris_01_6df754e9f0.jpg"
+  },
+  {
+   "key": "hold-formen-i-nyborg-marina-nu-med-bassin-og-fitness",
+   "source": "Minbåd.dk",
+   "date": "2017-11-03",
+   "title": "Hold formen i Nyborg Marina - nu med bassin og fitness",
+   "url": "https://minbaad.dk/nyhed/archive/2017/03/november/article/hold-formen-i-nyborg-marina-nu-med-bassin-og-fitness/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_nyborg_02_81d181a6a0.jpg"
+  },
+  {
+   "key": "aarhus-havn-skal-afproeve-nye-redningsstiger",
+   "source": "Minbåd.dk",
+   "date": "2017-10-19",
+   "title": "Aarhus Havn skal afprøve nye redningsstiger",
+   "url": "https://minbaad.dk/nyhed/archive/2017/19/october/article/aarhus-havn-skal-afproeve-nye-redningsstiger/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/2/csm_LifeLadder_02_d32e0e44c4.jpg"
+  },
+  {
+   "key": "weiskvist-gaar-fra-elvstroem-sails-til-nyborg-marina",
+   "source": "Minbåd.dk",
+   "date": "2017-10-17",
+   "title": "Weiskvist går fra Elvstrøm Sails til Nyborg Marina",
+   "url": "https://minbaad.dk/nyhed/archive/2017/17/october/article/weiskvist-gaar-fra-elvstroem-sails-til-nyborg-marina/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_wei2547621_10155674683268955_1126911083_n_ee7d2bc9de.jpg"
+  },
+  {
+   "key": "otte-baade-blev-solgt-i-vejle-til-priser-fra-50-til-7200-kr",
+   "source": "Minbåd.dk",
+   "date": "2017-09-19",
+   "title": "Otte både blev solgt i Vejle til priser fra 50 til 7.200 kr.",
+   "url": "https://minbaad.dk/nyhed/archive/2017/19/september/article/otte-baade-blev-solgt-i-vejle-til-priser-fra-50-til-7200-kr/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_Vejle_baad_c91a26dbc1.jpg"
+  },
+  {
+   "key": "goer-et-kup-efterladte-baade-i-vejle-er-nu-paa-auktion",
+   "source": "Minbåd.dk",
+   "date": "2017-09-14",
+   "title": "Gør et kup: Efterladte både i Vejle er nu på auktion",
+   "url": "https://minbaad.dk/nyhed/archive/2017/14/september/article/goer-et-kup-efterladte-baade-i-vejle-er-nu-paa-auktion/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_vejle_198dffd959.jpg"
   }
  ]
 }
