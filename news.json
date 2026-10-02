@@ -1,11 +1,10 @@
 {
- "generated": "2026-10-02T00:18:22+00:00",
+ "generated": "2026-10-02T05:50:50+00:00",
  "count": 447,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 147,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udstyr"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -14,7 +13,8 @@
    "date": "2026-10-01",
    "title": "Mikkelsen og Rosa-Lux tog sejren ved X-99-mesterskabet",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_ee754279af.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_ee754279af.jpeg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
@@ -105,7 +105,8 @@
    "date": "2026-09-30",
    "title": "19-årige Mads Wegener slog OL-sejler ved ranglistestævne i ILCA",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34468",
@@ -1040,7 +1041,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
    "cat": "Udstyr & både",
-   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted.",
+   "tjek": "2026-10-02"
   },
   {
    "key": "baadmagasinet-34426",
