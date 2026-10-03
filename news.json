@@ -1,12 +1,29 @@
 {
- "generated": "2026-10-03T01:14:54+00:00",
- "count": 425,
+ "generated": "2026-10-03T06:37:16+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 125,
+ "arkiv_antal": 144,
  "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Kapsejl",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34476",
+   "source": "Bådmagasinet",
+   "date": "2026-10-03",
+   "title": "U23 VM iQFOiL: Drøn ærgerlig sidstedag kostede Rasmus finaledeltagelsen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34476-u23-vm-iqfoil-fire-sejladser-sendte-rasmus-ud-af-vm-finalen",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_iqfoil_world_championship_puck_29_09_2026_gwidon_liberss5m00521.jpg"
+  },
+  {
+   "key": "baadmagasinet-34470",
+   "source": "Bådmagasinet",
+   "date": "2026-10-03",
+   "title": "Sådan klæder Kystliv Holbæk lærere og undervisere på til at sejle med andres børn",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34470-sadan-klaeder-kystliv-holbaek-laerere-og-undervisere-pa-til-at-sejle-med-andres-born",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_821646338_1753395710125757_5464538445474826495_n.jpg"
+  },
   {
    "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
    "source": "Minbåd.dk",
@@ -42,30 +59,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_bb8ca6fd2c.jpg"
   },
   {
-   "key": "baadmagasinet-34475",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg"
-  },
-  {
-   "key": "baadmagasinet-34473",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "X-99 er tilbage – nu går den gamle klasse efter officielt DM",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34473-x-99-er-tilbage-nu-gar-den-gamle-klasse-efter-officielt-dm",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg"
-  },
-  {
-   "key": "baadmagasinet-34474",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "Gammel kærlighed ruster aldrig – seks danske Ynglinge klar til EM",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg"
-  },
-  {
    "key": "grenaa-marina-soeger-havnemester",
    "source": "FLID Havne",
    "date": "2026-10-02",
@@ -88,6 +81,30 @@
    "title": "Nyt netværk vil gøre langtursejlads mere tilgængelig for unge",
    "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg"
+  },
+  {
+   "key": "baadmagasinet-34473",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "X-99 er tilbage – nu går den gamle klasse efter officielt DM",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34473-x-99-er-tilbage-nu-gar-den-gamle-klasse-efter-officielt-dm",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg"
+  },
+  {
+   "key": "baadmagasinet-34474",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "Gammel kærlighed ruster aldrig – seks danske Ynglinge klar til EM",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg"
+  },
+  {
+   "key": "baadmagasinet-34475",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg"
   },
   {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
@@ -191,20 +208,20 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "baadmagasinet-34468",
-   "source": "Bådmagasinet",
-   "date": "2026-09-30",
-   "title": "Nu siger Anne-Marie Rindom det selv - 'jeg er tilbage'",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34468-nu-siger-anne-marie-rindom-det-selv-jeg-er-tilbage",
-   "img": "https://www.baadmagasinet.dk/images/---sept24/foto_museet_for_lystsejlads_2.jpg"
-  },
-  {
    "key": "baadmagasinet-34466",
    "source": "Bådmagasinet",
    "date": "2026-09-30",
    "title": "Pirater på M/S : Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34466-pirater-pa-m-s-er-moderne-pirateri-lovloshed-eller-saesonarbejde-til-sos",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/ms_pirateri.jpg"
+  },
+  {
+   "key": "baadmagasinet-34468",
+   "source": "Bådmagasinet",
+   "date": "2026-09-30",
+   "title": "Nu siger Anne-Marie Rindom det selv - 'jeg er tilbage'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34468-nu-siger-anne-marie-rindom-det-selv-jeg-er-tilbage",
+   "img": "https://www.baadmagasinet.dk/images/---sept24/foto_museet_for_lystsejlads_2.jpg"
   },
   {
    "key": "baadmagasinet-34467",
@@ -1074,7 +1091,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34433-fremtiden-for-langebro-til-debat-skal-den-kunne-abne-eller-lukkes-permanent",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_københavns_kommune_foto_troels_heien_2.jpg",
    "cat": "Andet",
-   "sum": "Københavns Kommune har startet høring om Langebros fremtid: fortsat oplukkelig eller permanent lukket. Renovering koster 400-417 mio. kr., mens lukning koster 170-220 mio. kr."
+   "sum": "Københavns Kommune har startet høring om Langebros fremtid: fortsat oplukkelig eller permanent lukket. Renovering koster 400-417 mio. kr., mens lukning koster 170-220 mio. kr.",
+   "tjek": "2026-10-03"
   },
   {
    "key": "risbjerg-koeber-renbaad-og-udvider-med-ny-afdeling-i-humlebaek",
@@ -1128,7 +1146,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
    "cat": "Udstyr & både",
-   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted.",
+   "tjek": "2026-10-03"
   },
   {
    "key": "baadmagasinet-34426",
@@ -1138,7 +1157,8 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34426-hvem-mangler-disse-joller-og-bade",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/helle_amstrup.jpg",
    "cat": "Andet",
-   "sum": "Debat om efterladte både tager til; billeder deles på sociale medier, og en sejlbåd er drevet ind ved Tisvilde Strand. Båden havde tidligere hjemhavn i Juelsminde Havn."
+   "sum": "Debat om efterladte både tager til; billeder deles på sociale medier, og en sejlbåd er drevet ind ved Tisvilde Strand. Båden havde tidligere hjemhavn i Juelsminde Havn.",
+   "tjek": "2026-10-03"
   },
   {
    "key": "baadmagasinet-34432",
@@ -2953,26 +2973,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/negative-kommentarer-mod-noedstedte-sejlere-faar-redningsfolk-til-at-slaa-alarm/",
    "cat": "Sikkerhed",
    "sum": "Redningsstationer i Skagen og Sæby advarer mod hårde kommentarer på sociale medier mod nødstedte sejlere. De frygter, at det kan få sejlere til at tøve med at søge hjælp."
-  },
-  {
-   "key": "sejlbaad-til-atlanterhavet-37-fod-er-stor-nok",
-   "source": "Minbåd.dk",
-   "date": "2026-08-19",
-   "title": "Sejlbåd til Atlanterhavet? 37 fod er stor nok",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/sejlbaad-til-atlanterhavet-37-fod-er-stor-nok/",
-   "cat": "Tursejlads",
-   "sum": "Artiklen diskuterer, hvor stor en sejlbåd skal være for at krydse Atlanterhavet, og fremhæver at konstruktion og udstyr er vigtigere end længde alene.",
-   "tjek": "2026-09-06"
-  },
-  {
-   "key": "luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads",
-   "source": "Minbåd.dk",
-   "date": "2026-08-19",
-   "title": "Lübeck-brødre vandt igen DM i Spækhugger - dobbelt OL-guldvinder tog 4. plads",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/august/article/luebeck-broedre-vandt-igen-dm-i-spaekhugger-dobbelt-ol-guldvinder-tog-4-plads/",
-   "cat": "Kapsejlads",
-   "sum": "Mads Emil Lübeck vandt DM i Spækhugger for tredje år i træk. 17 både deltog, og dobbelt OL-guldvinder Jørgen Bojsen-Møller blev nummer fire.",
-   "tjek": "2026-09-03"
   }
  ]
 }
