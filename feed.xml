@@ -5,7 +5,7 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Fri, 02 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Danske Tursejlere har største aktivitetsprogram nogensinde</title>
@@ -36,27 +36,6 @@
 <description>Kilde: Minbåd.dk</description>
 </item>
 <item>
-<title>Grenaa Marina søger ny havnemester</title>
-<link>https://flidhavne.dk/grenaa-marina-soeger-havnemester/</link>
-<guid isPermaLink="true">https://flidhavne.dk/grenaa-marina-soeger-havnemester/</guid>
-<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<description>Kilde: FLID Havne</description>
-</item>
-<item>
-<title>PRESSEMEDDELELSE: Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber</title>
-<link>https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/</link>
-<guid isPermaLink="true">https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/</guid>
-<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Danske Tursejlere</description>
-</item>
-<item>
-<title>Nyt netværk vil gøre langtursejlads mere tilgængelig for unge</title>
-<link>https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/</link>
-<guid isPermaLink="true">https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/</guid>
-<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Danske Tursejlere</description>
-</item>
-<item>
 <title>Online-møde med Skoleskibet DANMARK om de kommende togter</title>
 <link>https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter</guid>
@@ -76,6 +55,27 @@
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em</guid>
 <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Bådmagasinet</description>
+</item>
+<item>
+<title>Grenaa Marina søger ny havnemester</title>
+<link>https://flidhavne.dk/grenaa-marina-soeger-havnemester/</link>
+<guid isPermaLink="true">https://flidhavne.dk/grenaa-marina-soeger-havnemester/</guid>
+<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+<description>Kilde: FLID Havne</description>
+</item>
+<item>
+<title>PRESSEMEDDELELSE: Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber</title>
+<link>https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/</link>
+<guid isPermaLink="true">https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/</guid>
+<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Danske Tursejlere</description>
+</item>
+<item>
+<title>Nyt netværk vil gøre langtursejlads mere tilgængelig for unge</title>
+<link>https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/</link>
+<guid isPermaLink="true">https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/</guid>
+<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Danske Tursejlere</description>
 </item>
 <item>
 <title>Mikkelsen og Rosa-Lux tog sejren ved X-99-mesterskabet</title>
