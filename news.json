@@ -1,19 +1,39 @@
 {
- "generated": "2026-10-03T16:20:45+00:00",
- "count": 442,
+ "generated": "2026-10-03T19:31:49+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"k"
  ],
  "items": [
+  {
+   "key": "naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads",
+   "source": "Minbåd.dk",
+   "date": "2026-10-03",
+   "title": "Når Sundet bliver mørkt: 10 råd til sikker natsejlads",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_1f9c420187.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-03",
+   "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/october/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
+  },
   {
    "key": "minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026",
    "source": "Minbåd.dk",
    "date": "2026-10-03",
    "title": "Minbaad.dk vokser - styrer mod 1,5 mio. unikke læsere i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_35915dc01e.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg"
   },
   {
    "key": "baadmagasinet-34476",
@@ -21,7 +41,8 @@
    "date": "2026-10-03",
    "title": "U23 VM iQFOiL: Drøn ærgerlig sidstedag kostede Rasmus finaledeltagelsen",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34476-u23-vm-iqfoil-fire-sejladser-sendte-rasmus-ud-af-vm-finalen",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_iqfoil_world_championship_puck_29_09_2026_gwidon_liberss5m00521.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_iqfoil_world_championship_puck_29_09_2026_gwidon_liberss5m00521.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34470",
@@ -32,22 +53,12 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_821646338_1753395710125757_5464538445474826495_n.jpg"
   },
   {
-   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-02",
-   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/october/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_5598a2c768.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
-  },
-  {
    "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
    "source": "Minbåd.dk",
    "date": "2026-10-02",
    "title": "Hval rev roret af Beneteau 51.1 – sejler røg fra styreplads - skipper forklarer",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_d8b952e69d.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_de161e4d97.jpg"
   },
   {
    "key": "sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok",
@@ -64,6 +75,16 @@
    "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
    "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f29fd3b953.jpg"
+  },
+  {
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
+   "source": "Minbåd.dk",
+   "date": "2026-10-02",
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_de6539bd0e.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
   {
    "key": "grenaa-marina-soeger-havnemester",
@@ -95,7 +116,8 @@
    "date": "2026-10-02",
    "title": "X-99 er tilbage – nu går den gamle klasse efter officielt DM",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34473-x-99-er-tilbage-nu-gar-den-gamle-klasse-efter-officielt-dm",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34474",
@@ -103,7 +125,8 @@
    "date": "2026-10-02",
    "title": "Gammel kærlighed ruster aldrig – seks danske Ynglinge klar til EM",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34475",
@@ -178,7 +201,8 @@
    "date": "2026-10-01",
    "title": "Efterlysning: Skanderborg Junior Sejlklub har haft indbrud - båd, motor & trailer stjålet!",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34469-efterlyser-skanderborg-junior-sejlklub-har-haft-indbrud-bad-motor-vaek",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_5.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_5.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad",
@@ -1122,17 +1146,6 @@
    "cat": "Kapsejlads",
    "sum": "Tom Bradys hold vandt en historisk E1-sejr i Luanda, Angola, og udbyggede føringen før sæsonfinalen. Will Smiths hold røg ud efter dramatisk kvalifikation.",
    "tjek": "2026-09-29"
-  },
-  {
-   "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
-   "source": "Minbåd.dk",
-   "date": "2026-09-16",
-   "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/september/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner.",
-   "tjek": "2026-09-25"
   },
   {
    "key": "baadmagasinet-34435",
@@ -2964,15 +2977,6 @@
    "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630",
    "cat": "Andet",
    "sum": "Dansk Sejlunion omorganiserer elite- og talentafdelingen for at styrke satsningen mod OL i 2028. Sportschefen får mere sportsligt fokus, og ny chef udpeges."
-  },
-  {
-   "key": "dansketursejlere-dt-traef-i-bogense",
-   "source": "Danske Tursejlere",
-   "date": "2026-08-19",
-   "title": "Sejlertræf i Bogense – en weekend med sejlerliv, fællesskab og gode oplevelser",
-   "url": "https://dansketursejlere.dk/dt-traef-i-bogense/",
-   "cat": "Havneliv",
-   "sum": "Sejlertræ"
   }
  ]
 }
