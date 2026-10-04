@@ -1,11 +1,12 @@
 {
- "generated": "2026-10-04T14:27:07+00:00",
+ "generated": "2026-10-04T18:26:51+00:00",
  "count": 442,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 142,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\""
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"S",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udstyr & både"
  ],
  "items": [
   {
@@ -14,7 +15,8 @@
    "date": "2026-10-04",
    "title": "Konge resultat: Frederik på podiet i PAC 52 i St. Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_af93dc88f4.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_af93dc88f4.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
@@ -151,7 +153,8 @@
    "date": "2026-10-01",
    "title": "Marstal-sejler pressede 11 Meter rundt om Fyn: 21 timer alene i hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_7f837d4ba7.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_7f837d4ba7.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
@@ -219,7 +222,8 @@
    "date": "2026-09-30",
    "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_1ebace8b4d.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_1ebace8b4d.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -304,7 +308,8 @@
    "date": "2026-09-29",
    "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_r7-3_fa52b31e29.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_r7-3_fa52b31e29.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34464",
