@@ -1,7 +1,27 @@
 {
- "generated": "2026-10-05T01:00:13+00:00",
- "count": 142,
+ "generated": "2026-10-05T07:06:09+00:00",
+ "count": 143,
  "items": [
+  {
+   "key": "baadmagasinet-34351",
+   "source": "Bådmagasinet",
+   "date": "2026-08-19",
+   "title": "Ny kajakoverbæring på Refshaleøen indvies i morgen torsdag",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34351-ny-kajakoverbaering-pa-refshaleoen-indvies-pa-torsdag",
+   "img": "https://www.baadmagasinet.dk/images/-----april26/unnamed_3_2.jpg",
+   "cat": "Havneliv",
+   "sum": "Ny kajakoverbæring på Refshaleøen indvies i morgen torsdag. Overbæringen gør det nemmere og sikrere for kajakroere at skifte mellem Københavns Havn og Øresund."
+  },
+  {
+   "key": "baadmagasinet-34349",
+   "source": "Bådmagasinet",
+   "date": "2026-08-19",
+   "title": "Flere sejlere vil se klinten fra vandsiden - skaber fremgang og nye tiltag i Klintholm Havn",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34349-flere-sejlere-vil-se-klinten-fra-vandsiden-fremgang-og-nye-tiltag-i-klintholm-havn",
+   "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_elo_mortensen_1.jpg",
+   "cat": "Havneliv",
+   "sum": "Klintholm Havn oplever fremgang med flere lystbåde og gæstesejlere. Havnen renoverer anløbsbroer og klimasikrer moleområdet."
+  },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
    "source": "Dansk Sejlunion",
@@ -766,14 +786,6 @@
    "date": "2026-03-13",
    "title": "Ny elmotor til kajakfiskere: Minn Kota lancerer kompakt Terrova med GPS-anker",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/march/article/ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker/"
-  },
-  {
-   "key": "2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter",
-   "source": "FLID Havne",
-   "date": "2026-03-13",
-   "title": "2-3 ambitiøse havne søges til pilotprojekter, der skal teste nye koncepter",
-   "url": "https://flidhavne.dk/2-3-ambitioese-havne-soeges-til-pilotprojekter-der-skal-teste-nye-koncepter/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Kyst-og-naturturisme-billede-til-PM.jpg"
   },
   {
    "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
