@@ -1,16 +1,56 @@
 {
- "generated": "2026-10-06T09:30:03+00:00",
- "count": 138,
+ "generated": "2026-10-06T16:20:59+00:00",
+ "count": 147,
  "items": [
   {
-   "key": "900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm",
+   "key": "erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm",
    "source": "Minbåd.dk",
-   "date": "2026-08-20",
-   "title": "900 ILCA-sejlere satte Aarhus på verdenskortet ved dobbelt-VM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm/",
+   "date": "2026-08-21",
+   "title": "Erfaringsudveksling skal få nye sejlere med til Spækhugger-DM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm/",
    "cat": "Kapsejlads",
-   "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM.",
-   "tjek": "2026-09-05"
+   "sum": "Spækhugger-klassen gør DM mere tilgængeligt for nye sejlere med erfaringsudveksling og lavere vindgrænse. Gimli vandt for tredje år.",
+   "tjek": "2026-09-06"
+  },
+  {
+   "key": "baadmagasinet-34360",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Sehested: What goes up - must come down! Se video...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34360-sehested-what-goes-up-must-come-down-se-video",
+   "cat": "Kapsejlads",
+   "sum": "Det danske SailGP-hold fik næsten kæntret under træning i Sassnitz, men nåede at rette op, og båden repareres nu. De er klar til weekendens kapsejladser.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "baadmagasinet-34357",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Efterårsklassikeren i Lillebælt: Her sejles der om årets håneret - og pokaler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
+   "cat": "Kapsejlads",
+   "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "baadmagasinet-34359",
+   "source": "Bådmagasinet",
+   "date": "2026-08-21",
+   "title": "Copenhagen Boat Show: Nu under en uge...få link til messekataloget",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34359-copenhagen-boat-show-under-en-uge-fa-link-til-messekataloget-her",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show løber af stablen 27. august på Ishøj havn i anledning af 10-års jubilæet med gratis adgang. Messekataloget er udgivet og kan findes online.",
+   "tjek": "2026-08-28"
+  },
+  {
+   "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-20",
+   "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/a/csm_is_Beast_b4c0292f7e.jpg",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
   },
   {
    "key": "baadmagasinet-34351",
@@ -45,6 +85,13 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_eac324b64f.jpg"
   },
   {
+   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-08-17",
@@ -66,7 +113,8 @@
    "date": "2026-08-14",
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -121,8 +169,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-08",
    "title": "Videoklip: Her går det helt galt for bådfolket.",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -160,13 +207,6 @@
    "date": "2026-08-04",
    "title": "Hvilken havn fortjener din stemme i jagten på Årets Havn 2026",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/hvilken-havn-fortjener-din-stemme-jagten-paa-aarets-havn-2026-begynder/"
-  },
-  {
-   "key": "brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-04",
-   "title": "Brug sommerferien i Polen - danske sejlere deler deres rute",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/august/article/brug-sommerferien-i-polen-danske-sejlere-deler-deres-rute/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2023/hjaelp-kloden-paa-world-clean-up-day",
@@ -600,6 +640,13 @@
    "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630"
   },
   {
+   "key": "fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet",
+   "source": "Minbåd.dk",
+   "date": "2026-05-07",
+   "title": "Fra spredt til samlet: Nyt klubhus i Kaløvig indviet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/may/article/fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet/"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/scouting-camp-for-unge-windsurfere",
    "source": "Dansk Sejlunion",
    "date": "2026-05-06",
@@ -719,6 +766,13 @@
    "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
   },
   {
+   "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
+   "source": "Minbåd.dk",
+   "date": "2026-03-26",
+   "title": "Seks klubber forlod Dansk Sejlunion: Medlemstal falder igen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/march/article/seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen/"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/medlemstal-afsloerer-ny-udvikling-i-sejlsporten",
    "source": "Dansk Sejlunion",
    "date": "2026-03-26",
@@ -749,6 +803,13 @@
    "title": "Kursen sat for dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/kursen-sat-for-dansk-sejlsport",
    "img": "https://dansksejlunion.dk/media/zvxl11lg/design-uden-navn-29-kopi-3.jpg?width=1200&height=630"
+  },
+  {
+   "key": "hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-03-16",
+   "title": "Hallberg-Rassy 370 rammer balancen - vi tester i 14 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/16/march/article/hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek/"
   },
   {
    "key": "ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker",
@@ -846,6 +907,13 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/f/csm_targa_41_kasper_reese_styrer_4ef5e63448.jpg"
   },
   {
+   "key": "nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull",
+   "source": "Minbåd.dk",
+   "date": "2025-12-31",
+   "title": "Nu også i USA: Dragonfly 36 kåret som 2025 Boat of the Year – Best Multihull",
+   "url": "https://minbaad.dk/nyhed/archive/2025/31/december/article/nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull/"
+  },
+  {
    "key": "foerste-marinaer-forbyder-aeldre-baade-at-vaere-i-havnen-frygter-skrotbaade",
    "source": "Motorbådsnyt",
    "date": "2025-10-21",
@@ -860,6 +928,13 @@
    "title": "Vordingborg Kommune ønsker flere husbåde, men det møder modstand",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2025/16/october/article/vordingborg-kommune-oensker-flere-husbaade-i-praestoe-men-det-moeder-modstand/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_husbaad_kbhs_01_c0c11bb4b0.jpg"
+  },
+  {
+   "key": "beneteau-first-30-teknisk-og-praecis-planing-i-30-fod",
+   "source": "Minbåd.dk",
+   "date": "2025-10-11",
+   "title": "Beneteau First 30 – teknisk og præcis planing med 14 knob",
+   "url": "https://minbaad.dk/nyhed/archive/2025/11/october/article/beneteau-first-30-teknisk-og-praecis-planing-i-30-fod/"
   },
   {
    "key": "baadmagasinet-33636",
