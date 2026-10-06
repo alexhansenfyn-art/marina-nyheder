@@ -1,56 +1,14 @@
 {
- "generated": "2026-10-06T16:20:59+00:00",
- "count": 147,
+ "generated": "2026-10-06T21:06:05+00:00",
+ "count": 143,
  "items": [
-  {
-   "key": "erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-21",
-   "title": "Erfaringsudveksling skal få nye sejlere med til Spækhugger-DM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/erfaringsudveksling-skal-faa-nye-sejlere-med-til-spaekhugger-dm/",
-   "cat": "Kapsejlads",
-   "sum": "Spækhugger-klassen gør DM mere tilgængeligt for nye sejlere med erfaringsudveksling og lavere vindgrænse. Gimli vandt for tredje år.",
-   "tjek": "2026-09-06"
-  },
-  {
-   "key": "baadmagasinet-34360",
-   "source": "Bådmagasinet",
-   "date": "2026-08-21",
-   "title": "Sehested: What goes up - must come down! Se video...",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34360-sehested-what-goes-up-must-come-down-se-video",
-   "cat": "Kapsejlads",
-   "sum": "Det danske SailGP-hold fik næsten kæntret under træning i Sassnitz, men nåede at rette op, og båden repareres nu. De er klar til weekendens kapsejladser.",
-   "tjek": "2026-08-28"
-  },
-  {
-   "key": "baadmagasinet-34357",
-   "source": "Bådmagasinet",
-   "date": "2026-08-21",
-   "title": "Efterårsklassikeren i Lillebælt: Her sejles der om årets håneret - og pokaler",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34357-efterarsklassikeren-i-lillebaelt-her-sejles-der-om-arets-haneret",
-   "cat": "Kapsejlads",
-   "sum": "Middelfart Sejlklub inviterer til den årlige kapsejlads Vejlbylund Brandsø Rundt den 5. september med klubkamp, pokaler og fest. Der er løb for både kapsejlere og turbåde.",
-   "tjek": "2026-08-28"
-  },
-  {
-   "key": "baadmagasinet-34359",
-   "source": "Bådmagasinet",
-   "date": "2026-08-21",
-   "title": "Copenhagen Boat Show: Nu under en uge...få link til messekataloget",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34359-copenhagen-boat-show-under-en-uge-fa-link-til-messekataloget-her",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show løber af stablen 27. august på Ishøj havn i anledning af 10-års jubilæet med gratis adgang. Messekataloget er udgivet og kan findes online.",
-   "tjek": "2026-08-28"
-  },
   {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
    "source": "Motorbådsnyt",
    "date": "2026-08-20",
    "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/a/csm_is_Beast_b4c0292f7e.jpg",
-   "cat": "Jubilæum",
-   "sum": "Copenhagen Boat Show fejrer 10-årsjubilæum i Ishøj Havn 27.-30. august med gratis adgang, over 100 både, 70 udstillere og aktiviteter for hele familien."
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/a/csm_is_Beast_b4c0292f7e.jpg"
   },
   {
    "key": "baadmagasinet-34351",
@@ -113,8 +71,7 @@
    "date": "2026-08-14",
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg",
-   "cat": "Udstyr & både"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",

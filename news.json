@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-06T16:20:59+00:00",
- "count": 447,
+ "generated": "2026-10-06T21:06:05+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 147,
+ "arkiv_antal": 143,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
@@ -30,7 +30,8 @@
    "date": "2026-10-06",
    "title": "Print er ikke dødt: Bådmagasinet lancerer nyt magasin",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png",
+   "cat": "Andet"
   },
   {
    "key": "maaske-er-det-tid-til-at-finde-jollen-frem-igen",
@@ -740,7 +741,8 @@
    "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg",
-   "tjek": "2026-10-06"
+   "tjek": "2026-10-06",
+   "cat": "Udstyr & både"
   },
   {
    "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
