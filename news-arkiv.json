@@ -1,7 +1,17 @@
 {
- "generated": "2026-10-06T02:34:26+00:00",
- "count": 147,
+ "generated": "2026-10-06T09:30:03+00:00",
+ "count": 138,
  "items": [
+  {
+   "key": "900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-20",
+   "title": "900 ILCA-sejlere satte Aarhus på verdenskortet ved dobbelt-VM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/august/article/900-ilcasejlere-satte-aarhus-paa-verdenskortet-ved-dobbelt-vm/",
+   "cat": "Kapsejlads",
+   "sum": "900 unge sejlere fra 52 nationer deltog i dobbelt-VM i ILCA 4 og ILCA 6 i Aarhus. Arrangørerne håber på at være vært for endnu større events som ILCA 7-VM.",
+   "tjek": "2026-09-05"
+  },
   {
    "key": "baadmagasinet-34351",
    "source": "Bådmagasinet",
@@ -33,13 +43,6 @@
    "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_eac324b64f.jpg"
-  },
-  {
-   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
-   "source": "Minbåd.dk",
-   "date": "2026-08-17",
-   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
@@ -86,14 +89,16 @@
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -118,6 +123,14 @@
    "title": "Videoklip: Her går det helt galt for bådfolket.",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/c/csm_fejl_21a54.image_61af463af9.jpg"
+  },
+  {
+   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -193,6 +206,14 @@
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/Design-uden-navn-1024x512.png"
   },
   {
+   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
+   "source": "Minbåd.dk",
+   "date": "2026-07-24",
+   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
+  },
+  {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
    "source": "Motorbådsnyt",
    "date": "2026-07-22",
@@ -233,6 +254,14 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png"
   },
   {
+   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
+   "source": "Minbåd.dk",
+   "date": "2026-07-19",
+   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg"
+  },
+  {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
    "source": "Minbåd.dk",
    "date": "2026-07-19",
@@ -247,14 +276,6 @@
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
    "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_csm_sup_pr_adcd90dadf_cbeee69ff4.jpg"
-  },
-  {
-   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_87ff44dc04.jpg"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -288,6 +309,14 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg"
   },
   {
+   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
+   "source": "Minbåd.dk",
+   "date": "2026-07-15",
+   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg"
+  },
+  {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
@@ -310,6 +339,22 @@
    "title": "Grundstødt sejler betalte redningsfolk med kiks men manden sejlede tilbage til grunden",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/july/article/grundstoedt-sejler-betalte-redningsfolk-med-kiks-men-sejler-tilbage-til-grund/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_baad_grund_3_2293645541443826_2475832148515561780_n_2f42a90765.jpg"
+  },
+  {
+   "key": "planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort",
+   "source": "Minbåd.dk",
+   "date": "2026-07-12",
+   "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e94337c6b7.jpg"
+  },
+  {
+   "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
+   "source": "Minbåd.dk",
+   "date": "2026-07-09",
+   "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_no_worries-beskaaret-jpg_c090a0d923.jpg"
   },
   {
    "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
@@ -341,6 +386,14 @@
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg"
+  },
+  {
+   "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
+   "source": "Minbåd.dk",
+   "date": "2026-07-05",
+   "title": "Vejrø: Når visioner og stædighed skaber et levende ø-samfund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_vejro_1_h_f6c5611356.jpeg"
   },
   {
    "key": "askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne",
@@ -547,13 +600,6 @@
    "img": "https://dansksejlunion.dk/media/yijfvtje/052a8554.jpg?width=1200&height=630"
   },
   {
-   "key": "fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet",
-   "source": "Minbåd.dk",
-   "date": "2026-05-07",
-   "title": "Fra spredt til samlet: Nyt klubhus i Kaløvig indviet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/may/article/fra-spredt-til-samlet-nyt-klubhus-i-kaloevig-indviet/"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/scouting-camp-for-unge-windsurfere",
    "source": "Dansk Sejlunion",
    "date": "2026-05-06",
@@ -673,13 +719,6 @@
    "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
   },
   {
-   "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
-   "source": "Minbåd.dk",
-   "date": "2026-03-26",
-   "title": "Seks klubber forlod Dansk Sejlunion: Medlemstal falder igen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/march/article/seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen/"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/medlemstal-afsloerer-ny-udvikling-i-sejlsporten",
    "source": "Dansk Sejlunion",
    "date": "2026-03-26",
@@ -710,13 +749,6 @@
    "title": "Kursen sat for dansk sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/kursen-sat-for-dansk-sejlsport",
    "img": "https://dansksejlunion.dk/media/zvxl11lg/design-uden-navn-29-kopi-3.jpg?width=1200&height=630"
-  },
-  {
-   "key": "hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek",
-   "source": "Minbåd.dk",
-   "date": "2026-03-16",
-   "title": "Hallberg-Rassy 370 rammer balancen - vi tester i 14 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/march/article/hallberg-rassy-370-rammer-balancen-vi-tester-i-14-m-sek/"
   },
   {
    "key": "ny-elmotor-til-kajakfiskere-minn-kota-lancerer-kompakt-terrova-med-gps-anker",
@@ -814,13 +846,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/f/csm_targa_41_kasper_reese_styrer_4ef5e63448.jpg"
   },
   {
-   "key": "nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull",
-   "source": "Minbåd.dk",
-   "date": "2025-12-31",
-   "title": "Nu også i USA: Dragonfly 36 kåret som 2025 Boat of the Year – Best Multihull",
-   "url": "https://minbaad.dk/nyhed/archive/2025/31/december/article/nu-ogsaa-i-usa-dragonfly-36-kaaret-som-2025-boat-of-the-year-best-multihull/"
-  },
-  {
    "key": "foerste-marinaer-forbyder-aeldre-baade-at-vaere-i-havnen-frygter-skrotbaade",
    "source": "Motorbådsnyt",
    "date": "2025-10-21",
@@ -835,13 +860,6 @@
    "title": "Vordingborg Kommune ønsker flere husbåde, men det møder modstand",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2025/16/october/article/vordingborg-kommune-oensker-flere-husbaade-i-praestoe-men-det-moeder-modstand/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_husbaad_kbhs_01_c0c11bb4b0.jpg"
-  },
-  {
-   "key": "beneteau-first-30-teknisk-og-praecis-planing-i-30-fod",
-   "source": "Minbåd.dk",
-   "date": "2025-10-11",
-   "title": "Beneteau First 30 – teknisk og præcis planing med 14 knob",
-   "url": "https://minbaad.dk/nyhed/archive/2025/11/october/article/beneteau-first-30-teknisk-og-praecis-planing-i-30-fod/"
   },
   {
    "key": "baadmagasinet-33636",
@@ -1072,86 +1090,6 @@
    "title": "Ærø slår Danmarksrekord i antal anløb",
    "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg"
-  },
-  {
-   "key": "forhoejet-vandstand-i-oeresund",
-   "source": "Minbåd.dk",
-   "date": "2013-12-06",
-   "title": "Forhøjet vandstand i Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2013/06/december/article/forhoejet-vandstand-i-oeresund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_PC060003_d9369e3366.jpg"
-  },
-  {
-   "key": "vikingeskibsmuseet-i-fare",
-   "source": "Minbåd.dk",
-   "date": "2013-12-06",
-   "title": "Vikingeskibsmuseet i fare",
-   "url": "https://minbaad.dk/nyhed/archive/2013/06/december/article/vikingeskibsmuseet-i-fare/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/a/csm_soerenphoto-1_1e73068d1f.jpg"
-  },
-  {
-   "key": "dmi-voldsom-storm-paa-vej-hun-hedder-bodil",
-   "source": "Minbåd.dk",
-   "date": "2013-12-04",
-   "title": "DMI: Voldsom storm på vej – hun hedder Bodil",
-   "url": "https://minbaad.dk/nyhed/archive/2013/04/december/article/dmi-voldsom-storm-paa-vej-hun-hedder-bodil/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_storvarsel_ea81ef5def.jpg"
-  },
-  {
-   "key": "nedstemt-klubformand-i-bogense-skyder-igen",
-   "source": "Minbåd.dk",
-   "date": "2013-11-25",
-   "title": "Nedstemt klubformand i Bogense skyder igen",
-   "url": "https://minbaad.dk/nyhed/archive/2013/25/november/article/nedstemt-klubformand-i-bogense-skyder-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_bogensehavn_4be0f8f907.jpg"
-  },
-  {
-   "key": "flid-vil-goere-lystbaadehavnen-attraktiv-med-rabatter-til-unge",
-   "source": "Minbåd.dk",
-   "date": "2013-11-22",
-   "title": "FLID vil gøre lystbådehavnen attraktiv med rabatter til unge",
-   "url": "https://minbaad.dk/nyhed/archive/2013/22/november/article/flid-vil-goere-lystbaadehavnen-attraktiv-med-rabatter-til-unge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_havnen_attraktiv_ef26aca735.png"
-  },
-  {
-   "key": "tuborg-havn-har-faaet-jordforbindelse-priser-saenket-med-50-procent",
-   "source": "Minbåd.dk",
-   "date": "2013-11-15",
-   "title": "Tuborg Havn har fået jordforbindelse - priser sænket med 50 procent",
-   "url": "https://minbaad.dk/nyhed/archive/2013/15/november/article/tuborg-havn-har-faaet-jordforbindelse-priser-saenket-med-50-procent/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_Tuborg_havnG_7499_a9416941a2.jpg"
-  },
-  {
-   "key": "vrag-ved-proevestenen-kender-du-ejeren",
-   "source": "Minbåd.dk",
-   "date": "2013-11-14",
-   "title": "Vrag ved Prøvestenen - kender du ejeren?",
-   "url": "https://minbaad.dk/nyhed/archive/2013/14/november/article/vrag-ved-proevestenen-kender-du-ejeren/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/5/csm_vrag_proevestenen_5a1157bc9d.jpg"
-  },
-  {
-   "key": "havnelodsen-er-ikke-opdateret",
-   "source": "Minbåd.dk",
-   "date": "2013-11-14",
-   "title": "Havnelodsen er ikke opdateret",
-   "url": "https://minbaad.dk/nyhed/archive/2013/14/november/article/havnelodsen-er-ikke-opdateret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_havnelods_fredericia_6ac6204856.jpg"
-  },
-  {
-   "key": "fraekt-tyveri-fra-tuborg-havn-kan-du-hjaelpe",
-   "source": "Minbåd.dk",
-   "date": "2013-11-12",
-   "title": "Frækt tyveri fra Tuborg havn – kan du hjælpe",
-   "url": "https://minbaad.dk/nyhed/archive/2013/12/november/article/fraekt-tyveri-fra-tuborg-havn-kan-du-hjaelpe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_nathalie7_e025387672.jpg"
-  },
-  {
-   "key": "dagens-tilbud-boennerup-strand-til-salg",
-   "source": "Minbåd.dk",
-   "date": "2013-11-11",
-   "title": "Dagens tilbud: Bønnerup Strand til salg",
-   "url": "https://minbaad.dk/nyhed/archive/2013/11/november/article/dagens-tilbud-boennerup-strand-til-salg/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/0/csm_bonnerupstrand_web_aa977f181e.jpg"
   }
  ]
 }
