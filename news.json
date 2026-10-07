@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T00:45:15+00:00",
+ "generated": "2026-10-07T06:34:31+00:00",
  "count": 443,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 143,
@@ -7,6 +7,14 @@
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34482",
+   "source": "Bådmagasinet",
+   "date": "2026-10-07",
+   "title": "Danmarks første maritime kulturhavn: Ny strategi vedtaget – beboere kræver indflydelse",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34482-danmarks-forste-maritime-kulturhavn-ny-strategi-vedtaget-beboere-kraever-indflydelse",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/john_soenderby_2.jpg"
+  },
   {
    "key": "silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar",
    "source": "Minbåd.dk",
@@ -176,6 +184,14 @@
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
   },
   {
+   "key": "baadmagasinet-34470",
+   "source": "Bådmagasinet",
+   "date": "2026-10-03",
+   "title": "Sådan klæder Kystliv Holbæk lærere og undervisere på til at sejle med andres børn",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34470-sadan-klaeder-kystliv-holbaek-laerere-og-undervisere-pa-til-at-sejle-med-andres-born",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_821646338_1753395710125757_5464538445474826495_n.jpg"
+  },
+  {
    "key": "baadmagasinet-34476",
    "source": "Bådmagasinet",
    "date": "2026-10-03",
@@ -183,14 +199,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34476-u23-vm-iqfoil-fire-sejladser-sendte-rasmus-ud-af-vm-finalen",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_iqfoil_world_championship_puck_29_09_2026_gwidon_liberss5m00521.jpg",
    "cat": "Kapsejlads"
-  },
-  {
-   "key": "baadmagasinet-34470",
-   "source": "Bådmagasinet",
-   "date": "2026-10-03",
-   "title": "Sådan klæder Kystliv Holbæk lærere og undervisere på til at sejle med andres børn",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34470-sadan-klaeder-kystliv-holbaek-laerere-og-undervisere-pa-til-at-sejle-med-andres-born",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_821646338_1753395710125757_5464538445474826495_n.jpg"
   },
   {
    "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
@@ -936,7 +944,8 @@
    "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-07"
   },
   {
    "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
@@ -1034,7 +1043,8 @@
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-07"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
@@ -2970,16 +2980,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
    "cat": "Tursejlads",
    "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
-  },
-  {
-   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
-   "source": "Minbåd.dk",
-   "date": "2026-08-21",
-   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
-   "cat": "Udstyr & både",
-   "sum": "Lasse Hin",
-   "tjek": "2026-09-07"
   }
  ]
 }
