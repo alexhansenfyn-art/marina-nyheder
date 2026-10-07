@@ -1,16 +1,65 @@
 {
- "generated": "2026-10-07T06:34:31+00:00",
- "count": 143,
+ "generated": "2026-10-07T14:02:04+00:00",
+ "count": 148,
  "items": [
   {
-   "key": "derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne",
+   "key": "baadmagasinet-34364",
+   "source": "Bådmagasinet",
+   "date": "2026-08-22",
+   "title": "Live fra Sassnitz - dag 1",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34364-live-fra-sassnitz-dag-1",
+   "cat": "Kapsejlads",
+   "sum": "Live fra sejlsportseventet i Sassnitz: 13 teams er klar til dag 1, og danske Nicolai Sehested sejler i gruppe A. Der afvikles tre sejladser lørdag, inden finalen søndag.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "baadmagasinet-34361",
+   "source": "Bådmagasinet",
+   "date": "2026-08-22",
+   "title": "Hven Rundt ved Nat: En menneskealder med lanterner på Øresund",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34361-hven-rundt-ved-nat-en-menneskealder-med-lanterner-pa-oresund",
+   "cat": "Kapsejlads",
+   "sum": "Natkapsejladsen Hven Rundt ved Nat har tradition siden 1938 og byder igen 11. september på sejlads i mørket fra Svanemøllebugten. Arrangørerne inviterer både øvede og nybegyndere.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "baadmagasinet-34362",
+   "source": "Bådmagasinet",
+   "date": "2026-08-22",
+   "title": "Explorer forsvarede DM-titlen i Albin Express - se flot galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34362-explorer-forsvarede-dm-titlen-i-albin-express",
+   "cat": "Kapsejlads",
+   "sum": "Explorer (DEN 115) forsvarede DM-titlen i Albin Express ved Sønderborg, hvor tyske Fräulein P vandt samlet. Sønderborg Yacht-Club var vært for stævnet med ti lokale besætninger.",
+   "tjek": "2026-08-29"
+  },
+  {
+   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-21",
+   "title": "Sådan får du et friskere indeklima i båden",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_e675c6841f.png",
+   "cat": "Udstyr & både",
+   "sum": "Kanberra Gel neutraliserer dårlig lugt i båden med æteriske olier fra australske te-træer. Produktet forhandles hos Palby og holder 3-6 måneder."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-21",
+   "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
+   "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
+   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunion har fastlagt udtagelseskriterier til VM i Fortaleza 2027, hvor 40 procent af OL-nationspladserne i iQFOiL, ILCA 6 og ILCA 7 fordeles. Udpegninger baseres på helhedsvurderinger og objektive kriterier."
+  },
+  {
+   "key": "thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr",
    "source": "Minbåd.dk",
    "date": "2026-08-21",
-   "title": "Derfor Folkebåd: Lasse kommer tættere på naturen og elementerne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/derfor-folkebaad34-aarige-lasse-kommer-tattere-p-naturen-og-elementerne/",
-   "cat": "Udstyr & både",
-   "sum": "Lasse Hin",
-   "tjek": "2026-09-07"
+   "title": "Thomas Veber sejlede 43 sømil i ni fods alu-rib: - Et eventyr",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/august/article/thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr/",
+   "cat": "Tursejlads",
+   "sum": "Tursejleren Thomas Veber og hans hustru sejlede 43 sømil i en ni fods alu-rib op ad Luleälven, indtil et vandkraftværk stoppede dem. Turen var et eventyr, men uden for komfortzonen for hustruen."
   },
   {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
@@ -34,7 +83,8 @@
    "date": "2026-08-19",
    "title": "Dansk Sejlunion reorganiserer elite- og talentafdelingen for at styrke den sportslige udvikling",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
-   "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg",
@@ -65,7 +115,8 @@
    "date": "2026-08-16",
    "title": "Motorbåd drev ind i sten og sank ved Helnæs",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
