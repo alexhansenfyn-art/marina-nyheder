@@ -1,12 +1,20 @@
 {
- "generated": "2026-10-08T00:14:12+00:00",
- "count": 444,
+ "generated": "2026-10-08T06:10:20+00:00",
+ "count": 445,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 145,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34486",
+   "source": "Bådmagasinet",
+   "date": "2026-10-08",
+   "title": "Ny stil, samme passion – så oprandt dagen...",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34486-ny-stil-samme-passion-endelig-oprandt-dagen",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/baade_sejlmotor.jpg"
+  },
   {
    "key": "naar-teakdakket-tranger-til-renovering-og-omfugning-se-hvordan",
    "source": "Minbåd.dk",
@@ -187,15 +195,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "baadmagasinet-34478",
-   "source": "Bådmagasinet",
-   "date": "2026-10-05",
-   "title": "'Unbeatable': Sjette VM-titel til fransk matchrace-dronning",
-   "url": "https://www.baadmagasinet.dk/world-match-racing/34478-unbeatable-sjette-vm-titel-til-fransk-matchrace-dronning",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833241698_1394026842897961_330333970326388553_n.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "baadmagasinet-34477",
    "source": "Bådmagasinet",
    "date": "2026-10-05",
@@ -203,6 +202,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34477-dramatisk-brand-i-lillebaelt-33-fods-bad-sank-efter-brand",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833414479_1413240510298263_5645296013611206206_n_2.jpg",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "baadmagasinet-34478",
+   "source": "Bådmagasinet",
+   "date": "2026-10-05",
+   "title": "'Unbeatable': Sjette VM-titel til fransk matchrace-dronning",
+   "url": "https://www.baadmagasinet.dk/world-match-racing/34478-unbeatable-sjette-vm-titel-til-fransk-matchrace-dronning",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833241698_1394026842897961_330333970326388553_n.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez",
@@ -1112,7 +1120,8 @@
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-08"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
@@ -2970,15 +2979,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_c29dea1fa1.jpg",
    "cat": "Udstyr & både",
    "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
-  },
-  {
-   "key": "20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31",
-   "source": "Minbåd.dk",
-   "date": "2026-08-22",
-   "title": "20-årigt kærestepar sejler mod Middelhavet i 50 år gammel Boström 31",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/august/article/20-aarigt-kaerestepar-sejler-mod-middelhavet-i-50-aar-gammel-bostroem-31/",
-   "cat": "Tursejlads",
-   "sum": "Unge par forlader Guldborg Havn for at sejle til Middelhavet i en ældre Boström 31. De har sparet 70.000 kr. op og bruger et år på turen."
   }
  ]
 }
