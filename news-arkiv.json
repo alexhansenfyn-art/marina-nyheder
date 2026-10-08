@@ -1,56 +1,14 @@
 {
- "generated": "2026-10-08T13:36:25+00:00",
- "count": 148,
+ "generated": "2026-10-08T19:30:32+00:00",
+ "count": 144,
  "items": [
-  {
-   "key": "baadmagasinet-34368",
-   "source": "Bådmagasinet",
-   "date": "2026-08-23",
-   "title": "Oyster 825 ramte klippe – alle ti reddet før yachten kæntrede! Se video",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34368-oyster-825-ramte-klippe-under-kapsejlads-alle-ti-reddet-for-yachten-kaentrede",
-   "cat": "Sikkerhed",
-   "sum": "Oyster 825 Viva La Vida ramte en klippe under Hamilton Island Race Week, kæntrede, men alle ti om bord blev reddet.",
-   "tjek": "2026-09-03"
-  },
-  {
-   "key": "baadmagasinet-34365",
-   "source": "Bådmagasinet",
-   "date": "2026-08-23",
-   "title": "Sejlerlivet uden aldersgrænse – i Sundet mødes 65+ på vandet",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34365-sejlerlivet-uden-aldersgraense-i-sundet-modes-65-pa-vandet",
-   "cat": "Havneliv",
-   "sum": "Sejlklubben Sundet har etableret formiddagssejlads for seniorer med fokus på fællesskab og socialt samvær frem for kapsejlads. Initiativet er en del af Aktiv for Livet.",
-   "tjek": "2026-09-02"
-  },
-  {
-   "key": "baadmagasinet-34369",
-   "source": "Bådmagasinet",
-   "date": "2026-08-23",
-   "title": "OK DM: Bo Petersen takker af med guld",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34369-ok-dm-bo-petersen-takker-af-med-guld",
-   "cat": "Kapsejlads",
-   "sum": "Bo Petersen vinder DM i OK-jolle i Faaborg i sin afskedssæson. Han takker de mange frivillige og beskriver det som en perfekt afslutning i barndomsklubben.",
-   "tjek": "2026-08-30"
-  },
-  {
-   "key": "baadmagasinet-34367",
-   "source": "Bådmagasinet",
-   "date": "2026-08-23",
-   "title": "Ny dansk fartrekord – sekunder senere gik det helt galt! Se video",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34367-ny-dansk-fartrekord-sekunder-senere-gik-det-helt-galt",
-   "cat": "Kapsejlads",
-   "sum": "Danske SailGP-team satte ny dansk fartrekord (106,79 km/t), men styrtede kort efter og gik fra 2. til sidstepladsen. Franskmændene satte ny absolut rekord (107,63 km/t).",
-   "tjek": "2026-08-30"
-  },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
    "source": "Motorbådsnyt",
    "date": "2026-08-22",
    "title": "Sådan ruller du fribord og dæk med Epifanes med super finish på en Shipman 28",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/august/article/saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_680a6a5d39.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Artiklen beskriver, hvordan man rullemaler fribord og dæk på en Shipman 28 med Epifanes-maling for at opnå en næsten sprøjtelakeret finish. Inkluderer råd om forberedelse, primere og påføringsteknik."
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/6/csm_shipman_28_bliver_ny_med_epifanes_680a6a5d39.jpg"
   },
   {
    "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
@@ -66,8 +24,7 @@
    "date": "2026-08-21",
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
-   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
+   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630"
   },
   {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
