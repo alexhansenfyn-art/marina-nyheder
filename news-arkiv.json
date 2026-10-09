@@ -1,7 +1,17 @@
 {
- "generated": "2026-10-08T23:59:18+00:00",
+ "generated": "2026-10-09T06:14:44+00:00",
  "count": 144,
  "items": [
+  {
+   "key": "ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-08-23",
+   "title": "Ryggen siger stop: Bo Petersen slutter karrieren med OK DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/august/article/ryggen-siger-stop-bo-petersen-slutter-karrieren-med-ok-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Bo Petersen fra Hellerup Sejlklub vandt sit fjerde DM-guld i OK-jollen i Faaborg og afslutter karrieren på grund af rygproblemer. Hellerup besatte alle podiepladserne.",
+   "tjek": "2026-09-08"
+  },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
    "source": "Motorbådsnyt",
@@ -24,7 +34,8 @@
    "date": "2026-08-21",
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
-   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
@@ -33,14 +44,6 @@
    "title": "Over 100 både fylder Ishøj Havn til jubilæumsshow",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/august/article/over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/a/csm_is_Beast_b4c0292f7e.jpg"
-  },
-  {
-   "key": "baadmagasinet-34351",
-   "source": "Bådmagasinet",
-   "date": "2026-08-19",
-   "title": "Ny kajakoverbæring på Refshaleøen indvies i morgen torsdag",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34351-ny-kajakoverbaering-pa-refshaleoen-indvies-pa-torsdag",
-   "img": "https://www.baadmagasinet.dk/images/-----april26/unnamed_3_2.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-reorganiserer-elite-og-talentafdelingen-for-at-styrke-den-sportslige-udvikling",
