@@ -1,9 +1,10 @@
 {
- "generated": "2026-10-10T15:24:40+00:00",
- "count": 443,
+ "generated": "2026-10-10T19:34:04+00:00",
+ "count": 425,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 125,
  "errors": [
+  "https://marinaguide.dk/marinanyheder: 521 Server Error: <none> for url: https://marinaguide.dk/marinanyheder",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [

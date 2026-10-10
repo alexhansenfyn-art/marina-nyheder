@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-10T15:24:40+00:00",
- "count": 143,
+ "generated": "2026-10-10T19:34:04+00:00",
+ "count": 125,
  "items": [
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -234,14 +234,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_nybofg_ko_907830_10163759566207600_862293553713109933_n_a23c2a810b.jpg"
   },
   {
-   "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-21",
-   "title": "Toiletfaciliteter med skandinavisk hygge vækker begejstring på Vedbæk Havn",
-   "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg"
-  },
-  {
    "key": "myndigheder-stopper-fynbos-toemmerflaadetur-til-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-07-20",
@@ -384,14 +376,6 @@
    "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg"
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg"
-  },
-  {
    "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
    "source": "Minbåd.dk",
    "date": "2026-07-05",
@@ -454,14 +438,6 @@
    "img": "https://dansksejlunion.dk/media/xf2pmw4v/rebekka-og-silje-0r2a1335.jpg?width=1200&height=630"
   },
   {
-   "key": "marinaguide-juelsminde-havn-og-marina-indvier-havnetorvet",
-   "source": "MarinaGuide",
-   "date": "2026-06-17",
-   "title": "Juelsminde Havn og Marina indvier Havnetorvet",
-   "url": "https://marinaguide.dk/nyhed/juelsminde-havn-og-marina-indvier-havnetorvet",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/6/8/csm_Juelsmide_havnetorv_65c319b7df.png"
-  },
-  {
    "key": "dansketursejlere-aarets-havn-2026-hylder-de-bedste-havneoplevelser-i-danmark",
    "source": "Danske Tursejlere",
    "date": "2026-06-16",
@@ -484,14 +460,6 @@
    "title": "Stem på Årets Havn 2026",
    "url": "https://dansksejlunion.dk/nyheder/2026/stem-paa-aarets-havn-2026",
    "img": "https://dansksejlunion.dk/media/mlrj1yu2/kerteminde-marina-drone.jpg?width=1200&height=630"
-  },
-  {
-   "key": "marinaguide-danmarks-bedste-marina-staar-nu-fiks-og-faerdig",
-   "source": "MarinaGuide",
-   "date": "2026-06-11",
-   "title": "Danmarks bedste marina står nu fiks og færdig",
-   "url": "https://marinaguide.dk/nyhed/danmarks-bedste-marina-staar-nu-fiks-og-faerdig",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/8/csm_middelfart_marina_fb6c670461.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-tager-sejlsportens-stemme-med-til-folkemoedet",
@@ -800,28 +768,12 @@
    "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg"
   },
   {
-   "key": "marinaguide-fra-faergehavn-til-lystbaadehavn",
-   "source": "MarinaGuide",
-   "date": "2026-01-28",
-   "title": "Fra færgehavn til lystbådehavn",
-   "url": "https://marinaguide.dk/nyhed/fra-faergehavn-til-lystbaadehavn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/b/7/csm_Kolby_Ka__s_-_sommeraften__5323ac6b77.jpg"
-  },
-  {
    "key": "boot-2026-var-med-salg-internationalt-publikum-og-spirende-optimisme",
    "source": "Minbåd.dk",
    "date": "2026-01-26",
    "title": "boot 2026 var med salg, internationalt publikum og spirende optimisme",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/january/article/boot-2026-var-med-salg-internationalt-publikum-og-spirende-optimisme/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/e/csm_b_IMG_20260120_180516_b10e66251d.jpg"
-  },
-  {
-   "key": "marinaguide-holbaek-ny-havn-skal-tiltraekke-nye-gaestesejlere-og-skabe-aktivitet-paa-havneomraadet",
-   "source": "MarinaGuide",
-   "date": "2026-01-26",
-   "title": "Holbæk Nyhavn skal tiltrække nye gæstesejlere",
-   "url": "https://marinaguide.dk/nyhed/holbaek-ny-havn-skal-tiltraekke-nye-gaestesejlere-og-skabe-aktivitet-paa-havneomraadet",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/e/8/csm_Illu_fra_pdf_567f2764ad.jpg"
   },
   {
    "key": "sirena-60-vinder-best-interior-design-trophy-nordisk-udgave-klar-til-fredericia-udstilling",
@@ -942,36 +894,12 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/a/csm_svendborg_top_c3e75fc559.jpeg"
   },
   {
-   "key": "marinaguide-margretheholms-havn-lynetten",
-   "source": "MarinaGuide",
-   "date": "2025-07-23",
-   "title": "Margretheholms Havn Lynetten",
-   "url": "https://marinaguide.dk/nyhed/margretheholms-havn-lynetten",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/4/7/csm_lynetten-min_b9f03b8184.jpg"
-  },
-  {
    "key": "ny-puls-i-dockan-nye-restauranter-og-byliv-lokker-sejlere-til-malmoe",
    "source": "Motorbådsnyt",
    "date": "2025-07-18",
    "title": "Ny puls i Dockan: Nye restauranter og byliv lokker sejlere til Malmø",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2025/18/july/article/ny-puls-i-dockan-nye-restauranter-og-byliv-lokker-sejlere-til-malmoe/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/b/csm_malmoe_dockan_ny_byging__08cabbe445.jpg"
-  },
-  {
-   "key": "marinaguide-kan-hygge-tiltraekke-sejlere",
-   "source": "MarinaGuide",
-   "date": "2025-07-14",
-   "title": "Kan hygge tiltrække sejlere?",
-   "url": "https://marinaguide.dk/nyhed/kan-hygge-tiltraekke-sejlere",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/c/a/csm_OEster_Hurup_hyggehavn_28a837312b.jpg"
-  },
-  {
-   "key": "marinaguide-folk-og-fae-paa-endelave-havn",
-   "source": "MarinaGuide",
-   "date": "2025-07-13",
-   "title": "Folk og Fæ på Endelave Havn",
-   "url": "https://marinaguide.dk/nyhed/folk-og-fae-paa-endelave-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/8/d/csm_endelave_havn-min_c98d6461fa.jpg"
   },
   {
    "key": "stem-paa-din-favorit-jagten-paa-aarets-havn-2025-er-i-gang",
@@ -982,36 +910,12 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/e/csm_Roedvig_havn_luftfoto_a48588896d.jpg"
   },
   {
-   "key": "marinaguide-sejlere-maa-vaebne-sig-med-taalmod-naar-christiansoe-skal-besoeges-til-sommer",
-   "source": "MarinaGuide",
-   "date": "2025-06-15",
-   "title": "Sejlere må væbne sig med tålmod, når Christiansø skal besøges til sommer",
-   "url": "https://marinaguide.dk/nyhed/sejlere-maa-vaebne-sig-med-taalmod-naar-christiansoe-skal-besoeges-til-sommer",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/4/a/csm_Christians_nyheder-min_b7f578b2dc.jpg"
-  },
-  {
-   "key": "marinaguide-historisk-renovering-af-christiansoe-havn",
-   "source": "MarinaGuide",
-   "date": "2025-06-10",
-   "title": "Historisk renovering af Christiansø Havn",
-   "url": "https://marinaguide.dk/nyhed/historisk-renovering-af-christiansoe-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/b/6/csm_christianoe_renovering_nyheder-min_7ccbdc5cfe.jpg"
-  },
-  {
    "key": "sommerhavne-aegte-fiskerstemning-i-sletten",
    "source": "Motorbådsnyt",
    "date": "2025-06-07",
    "title": "Sommerhavne: Ægte fiskerstemning i Sletten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2025/07/june/article/sommerhavne-aegte-fiskerstemning-i-sletten/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/0/csm_lea_top_58491b9f67.jpg"
-  },
-  {
-   "key": "marinaguide-baadejere-skal-soege-om-byggetilladelse",
-   "source": "MarinaGuide",
-   "date": "2025-06-01",
-   "title": "Bådejere skal søge om byggetilladelse",
-   "url": "https://marinaguide.dk/nyhed/baadejere-skal-soege-om-byggetilladelse",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/4/0/csm_boba__de_i_aarhus_mg-min_e97ddc390c.jpg"
   },
   {
    "key": "boegeskov-havn-paa-stevns-igen-klar-til-sejlende-gaester-efter-modne-haandvaerkeres-indsats",
@@ -1045,22 +949,6 @@
    "img": "https://www.baadmagasinet.dk/images/---nov24/sleipner_x.jpg"
   },
   {
-   "key": "marinaguide-jyllands-svar-paa-nyhavn",
-   "source": "MarinaGuide",
-   "date": "2024-06-12",
-   "title": "Sønderborg Havn: Jyllands svar på Nyhavn",
-   "url": "https://marinaguide.dk/nyhed/jyllands-svar-paa-nyhavn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/2/6/csm_soenderborg_havn-min_deb4761abc.jpg"
-  },
-  {
-   "key": "marinaguide-nyt-forbudsomraade-omkring-lynetteholmen",
-   "source": "MarinaGuide",
-   "date": "2024-05-30",
-   "title": "Nyt forbudsområde omkring Lynetteholmen",
-   "url": "https://marinaguide.dk/nyhed/nyt-forbudsomraade-omkring-lynetteholmen",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/4/7/csm_lynetten-min_b9f03b8184.jpg"
-  },
-  {
    "key": "reportage-fiskeristyrelsen-kontrollerer-kuttere-i-det-sydfynske-ohav",
    "source": "Motorbådsnyt",
    "date": "2024-01-11",
@@ -1084,44 +972,12 @@
    "img": "https://www.baadmagasinet.dk/images/--juli23/rope_cutter.jpg"
   },
   {
-   "key": "marinaguide-7-dage-i-3-havne-for-kun-291-kr-for-alle-baadstoerrelser",
-   "source": "MarinaGuide",
-   "date": "2023-06-21",
-   "title": "7 dage i 3 havne for kun 291 kr. - gælder alle bådstørrelser",
-   "url": "https://marinaguide.dk/nyhed/7-dage-i-3-havne-for-kun-291-kr-for-alle-baadstoerrelser",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/6/1/csm_a-Lemvig_Havn_drone-min_b0729cb3e2.jpg"
-  },
-  {
-   "key": "marinaguide-rabat-paa-besoeg-i-vordingborgs-havne",
-   "source": "MarinaGuide",
-   "date": "2023-06-04",
-   "title": "Rabat på besøg i Vordingborgs havne",
-   "url": "https://marinaguide.dk/nyhed/rabat-paa-besoeg-i-vordingborgs-havne",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/e/b/csm_MMG_nyheder_Vordingborg_Nordhavn-min_308c2850d8.jpg"
-  },
-  {
-   "key": "marinaguide-lanternen-ved-esbjerg-strand-lystbaadehavn-staar-klar",
-   "source": "MarinaGuide",
-   "date": "2023-02-28",
-   "title": "Lanternen ved Esbjerg Strand Lystbådehavn står klar",
-   "url": "https://marinaguide.dk/nyhed/lanternen-ved-esbjerg-strand-lystbaadehavn-staar-klar",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/f/0/csm_lanternen-min_1__6cc741f5f5.jpg"
-  },
-  {
    "key": "baadmagasinet-31241",
    "source": "Bådmagasinet",
    "date": "2023-02-08",
    "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
    "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
    "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg"
-  },
-  {
-   "key": "marinaguide-aeroe-slaar-danmarksrekord-i-antal-anloeb",
-   "source": "MarinaGuide",
-   "date": "2023-02-02",
-   "title": "Ærø slår Danmarksrekord i antal anløb",
-   "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg"
   }
  ]
 }
