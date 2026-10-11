@@ -1,10 +1,11 @@
 {
- "generated": "2026-10-11T08:57:35+00:00",
- "count": 444,
+ "generated": "2026-10-11T15:46:49+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udst"
  ],
  "items": [
   {
@@ -13,7 +14,8 @@
    "date": "2026-10-11",
    "title": "Ralph tryller med sin fars 49 år gamle Edel 545 – til maj skal den på vandet igen",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/october/article/ralph-tryller-med-sin-fars-49-aar-gamle-edel-545-til-maj-skal-den-paa-vandet-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_3f219c3365.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_3f219c3365.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34489",

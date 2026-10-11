@@ -1,26 +1,14 @@
 {
- "generated": "2026-10-11T08:57:35+00:00",
- "count": 144,
+ "generated": "2026-10-11T15:46:49+00:00",
+ "count": 143,
  "items": [
-  {
-   "key": "baadmagasinet-34371",
-   "source": "Bådmagasinet",
-   "date": "2026-08-25",
-   "title": "Copenhagen Boat Show klar med 150 både – torsdag går det løs",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34371-copenhagen-boat-show-klar-med-150-bade-torsdag-abner-dorene",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbner torsdag i Ishøj Havn med 150 både og 70 udstillere. Gratis adgang, jubilæum og nye både.",
-   "tjek": "2026-09-01"
-  },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Store mængder alger i bornholmske havne og Klintholm kan tilstoppe bådes søvandsfiltre og true motorkøling. Havnefogeden kalder det værste set, og Hasle Havnebad er lukket."
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -28,7 +16,8 @@
    "date": "2026-08-24",
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
@@ -52,7 +41,8 @@
    "date": "2026-08-21",
    "title": "Udtagelseskriterier til World Sailing Championships 2027 i Fortaleza",
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
-   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "over-100-baade-fylder-ishoej-havn-til-jubilaeumsshow",
