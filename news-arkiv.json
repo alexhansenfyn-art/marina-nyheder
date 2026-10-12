@@ -1,7 +1,46 @@
 {
- "generated": "2026-10-12T02:27:00+00:00",
- "count": 143,
+ "generated": "2026-10-12T09:50:52+00:00",
+ "count": 146,
  "items": [
+  {
+   "key": "kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Kollision med kaskelothval sænkede katamaran i Stillehavet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/kollision-med-kaskelothval-saenkede-katamaran-midt-i-stillehavet/",
+   "cat": "Sikkerhed",
+   "sum": "En katamaran på vej over Stillehavet ramte en ung kaskelothval og blev nødsaget til at blive forladt. Besætningen blev reddet efter nødsignal."
+  },
+  {
+   "key": "jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Jan blev træt af bådvrag – så fjernede han det selv",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/jan-blev-traet-af-baadvrag-saa-fjernede-han-det-selv/",
+   "cat": "Andet",
+   "sum": "En 75-årig mand overtog et grundstødt bådvrag i Faaborg Fjord og fik det bjærget med hjælp fra dykkere og en traktor. Vraget skal nu ophugges.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg",
+   "source": "Minbåd.dk",
+   "date": "2026-08-25",
+   "title": "Otto Strandvig tog 7. DM-guld i Finnjolle efter bølgefest i Varberg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/august/article/otto-strandvig-tog-7-dm-guld-i-finnjolle-efter-boelgefest-i-varberg/",
+   "cat": "Kapsejlads",
+   "sum": "Otto Strandvig vandt DM i Finnjolle i Varberg for syvende gang efter tæt konkurrence og varierede vindforhold. Stævnet indgik i World Tour for Finns.",
+   "tjek": "2026-09-09"
+  },
+  {
+   "key": "baadmagasinet-34373",
+   "source": "Bådmagasinet",
+   "date": "2026-08-25",
+   "title": "Overlevelse til søs: Sande historier om sejlere, der kom tilbage",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34373-overlevelse-til-sos-sande-historier-om-sejlere-der-kom-tilbage",
+   "cat": "Sikkerhed",
+   "sum": "Artiklen fortæller om sejlere, der overlevede forlis, herunder Salvador Alvarenga og Poon Lim, og fremhæver fælles træk som overlevelsesinstinkt og systematik.",
+   "tjek": "2026-09-06"
+  },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
@@ -32,7 +71,8 @@
    "date": "2026-08-21",
    "title": "Sådan får du et friskere indeklima i båden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_e675c6841f.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_e675c6841f.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
@@ -94,8 +134,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-14",
    "title": "HH sejlersko satser på letvægter med maksimalt greb",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/9/1/csm_hh_12117_561_angle_79bbcdaabd.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/august/article/hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb/"
   },
   {
    "key": "sommerhavne-flakfortet-en-oase-midt-i-oeresund",
@@ -405,13 +444,6 @@
    "title": "Vejrø: Når visioner og stædighed skaber et levende ø-samfund",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_vejro_1_h_f6c5611356.jpeg"
-  },
-  {
-   "key": "askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-03",
-   "title": "Askebæger til søs: Når funktion og sikkerhed også gælder rygerne",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/july/article/askebaeger-til-soes-naar-funktion-og-sikkerhed-ogsaa-gaelder-rygerne/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
