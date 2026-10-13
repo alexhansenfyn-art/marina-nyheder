@@ -1,12 +1,22 @@
 {
- "generated": "2026-10-13T01:39:37+00:00",
- "count": 443,
+ "generated": "2026-10-13T08:32:36+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 144,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\""
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34493",
+   "source": "Bådmagasinet",
+   "date": "2026-10-13",
+   "title": "Garmin Round Denmark Race 2027: Nu også med TEXEL - og en tilmelding der snart åbner",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34493-garmin-round-denmark-race-nu-ogsa-med-texel-og-en-tilmelding-som-snart-abner",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/-0r2a2505.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "andreas-laegger-sejlbaad-til-alene-en-karabinhage-og-en-dobbeltblok-goer-forskellen",
    "source": "Minbåd.dk",
@@ -158,7 +168,7 @@
    "date": "2026-10-08",
    "title": "Helly Hansen lancerer varm hybridjakke, HP Hybrid Stretch Hooded Insulator",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/helly-hansen-lancerer-varm-hybridjakke-hp-hybrid-stretch-hooded-insulator/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_07c5e1005a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_58563fd8e4.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -288,7 +298,7 @@
    "date": "2026-10-06",
    "title": "Måske er det tid til at finde jollen frem igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_a11ddbf2b3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_520c3769cd.jpg",
    "tjek": "2026-10-13"
   },
   {
@@ -337,7 +347,7 @@
    "date": "2026-10-05",
    "title": "Strandet sejlbåd på Gran Canaria kan have dyster fortid",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/strandet-sejlbaad-paa-gran-canaria-kan-have-dyster-fortid/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_klippe_996_1342241127812882_8534070033948190072_n_678193d944.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_klippe_996_1342241127812882_8534070033948190072_n_26a2d05a21.jpg",
    "tjek": "2026-10-13"
   },
   {
@@ -435,7 +445,7 @@
    "date": "2026-10-03",
    "title": "Når Sundet bliver mørkt: 10 råd til sikker natsejlads",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_660c4f115f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_1f9c420187.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-13"
   },
@@ -475,7 +485,7 @@
    "date": "2026-10-02",
    "title": "Hval rev roret af Beneteau 51.1 – sejler røg fra styreplads - skipper forklarer",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_2af65d8c8d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_d8b952e69d.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-13"
   },
@@ -583,7 +593,7 @@
    "date": "2026-10-01",
    "title": "Europe-VM kommer til Aarhus i 2027 - Martin fra Kaløvig skal forsvare titel",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_7e0b7a418b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_79efc88eb9.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-13"
   },
@@ -603,7 +613,7 @@
    "date": "2026-10-01",
    "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_95a4252d31.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-13"
   },
@@ -681,8 +691,8 @@
    "date": "2026-09-30",
    "title": "19-årige Mads Wegener slog OL-sejler ved ranglistestævne i ILCA",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg",
    "tjek": "2026-10-13"
   },
   {
@@ -790,15 +800,8 @@
    "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg"
-  },
-  {
-   "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-28",
-   "title": "Svensk sejler kom først frem til kæntret trimaran i Silverrudder – se video fra redningen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_tri_8817969172718_8c8a1501f5.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg",
+   "tjek": "2026-10-13"
   },
   {
    "key": "dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret",
@@ -807,7 +810,8 @@
    "title": "Dansk Søredningsselskab vil flytte søredningen væk fra Forsvaret",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg",
+   "tjek": "2026-10-13"
   },
   {
    "key": "sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade",
@@ -816,7 +820,16 @@
    "title": "Sejlbåd kolliderer med hval – fire sejlere reddet efter 17 timer i redningsflåde - nu video",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg",
+   "tjek": "2026-10-13"
+  },
+  {
+   "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-28",
+   "title": "Svensk sejler kom først frem til kæntret trimaran i Silverrudder – se video fra redningen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_tri_8817969172718_8c8a1501f5.jpg"
   },
   {
    "key": "forladt-sejlbaad-har-ligget-paa-stenene-i-maanedsvis-nu-efterlyses-ejeren-bredere",
@@ -2958,16 +2971,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34376-fire-danmarksmesterskaber-pa-en-weekend-vallensbaek-er-klar",
    "cat": "Kapsejlads",
    "sum": "Vallensbæk Sejlklub afholder fire Danmarksmesterskaber i sejlsport samme weekend med 70 deltagere og over 50 frivillige. Lokale sejlere deltager på hjemmebane.",
-   "tjek": "2026-09-02"
-  },
-  {
-   "key": "baadmagasinet-34375",
-   "source": "Bådmagasinet",
-   "date": "2026-08-26",
-   "title": "Copenhagen Boat Show: Der vil til tider blive 'run' på hallen",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34375-copenhagen-boat-show-der-vil-til-tider-blive-run-pa-hallen",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbner i Ishøj med både og udstyr, men vejret kan drille, og hallen vil blive brugt som ly for regnbyger.",
    "tjek": "2026-09-02"
   }
  ]
