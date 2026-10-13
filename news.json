@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-13T16:29:23+00:00",
- "count": 444,
+ "generated": "2026-10-13T21:37:29+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"S",
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori"
  ],
  "items": [
   {
@@ -14,7 +14,8 @@
    "date": "2026-10-13",
    "title": "Efter dramatisk Silverrudder: Sikkerheden skal forbedres",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/october/article/efter-dramatisk-silverrudder-sikkerheden-skal-forbedres/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/1/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_776c3eeed9_f31cb0e1da.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/1/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_776c3eeed9_f31cb0e1da.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34493",
@@ -74,7 +75,8 @@
    "date": "2026-10-12",
    "title": "Switch VM: Dansk medaljeregn på Gardasøen - se stort galleri",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34492-switch-vm-dansk-medaljeregn-pa-gardasoen",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/vm_switch.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/vm_switch.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34490",
