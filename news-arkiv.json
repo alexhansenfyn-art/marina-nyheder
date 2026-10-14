@@ -1,26 +1,36 @@
 {
- "generated": "2026-10-14T05:27:20+00:00",
+ "generated": "2026-10-14T10:41:11+00:00",
  "count": 144,
  "items": [
   {
-   "key": "schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england",
-   "source": "Minbåd.dk",
+   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
+   "source": "Motorbådsnyt",
    "date": "2026-08-26",
-   "title": "Schubert, Munch og Søe til VM-offensiv i Irland og England",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
-   "cat": "Kapsejlads",
-   "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028.",
-   "tjek": "2026-09-09"
+   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/4/csm_Sejlerliv__2tyu__d2208b3cb0.jpg",
+   "cat": "Havneliv",
+   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
   },
   {
-   "key": "baadmagasinet-34377",
-   "source": "Bådmagasinet",
+   "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
+   "source": "Minbåd.dk",
    "date": "2026-08-26",
-   "title": "Rindom udtaget til VM – OL-comeback må rykke endnu tættere på?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34377-rindom-udtaget-til-vm-ol-comeback-rykker-endnu-taettere-pa",
+   "title": "Öppet Varv: 180 både og flere besøgende end nogensinde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde/",
+   "cat": "Udstyr & både",
+   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
+   "source": "Minbåd.dk",
+   "date": "2026-08-26",
+   "title": "Nu venter finalen i The Viking Challenge for store både - EM-gulvinder er klar i Middefart",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart/",
    "cat": "Kapsejlads",
-   "sum": "Anne-Marie Rindom er udtaget til VM 2027 i ILCA 6 sammen med Anna Munch, hvilket styrker hendes potentiale for comeback til OL 2028.",
-   "tjek": "2026-09-02"
+   "sum": "Erik Stannow og DIXI 5 vandt ORC-EM og er klar til finalen i The Viking Challenge ved Blue Week i Middelfart. Lokale aktiviteter udvider begivenheden.",
+   "tjek": "2026-09-09"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
@@ -28,7 +38,8 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
@@ -44,7 +55,8 @@
    "date": "2026-08-24",
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
@@ -91,8 +103,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-18",
    "title": "Öppet Varv samler 130 både i Ellös nord for Göteborg",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/6/csm_OppetVarv2025Press-4_eac324b64f.jpg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/august/article/oeppet-varv-samler-130-baade-i-elloes-nord-for-goeteborg/"
   },
   {
    "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
@@ -167,13 +178,6 @@
    "date": "2026-08-10",
    "title": "Nyindkøbt motorbåd halvt sunket i Løgstør",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/10/august/article/nyindkoebt-motorbaad-halvt-sunket-i-loegstoer/"
-  },
-  {
-   "key": "videoklip-her-gaar-det-helt-galt-for-baadfolket",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-08",
-   "title": "Videoklip: Her går det helt galt for bådfolket.",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/august/article/videoklip-her-gaar-det-helt-galt-for-baadfolket/"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",

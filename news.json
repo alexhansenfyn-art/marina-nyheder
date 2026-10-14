@@ -1,19 +1,45 @@
 {
- "generated": "2026-10-14T05:27:20+00:00",
+ "generated": "2026-10-14T10:41:11+00:00",
  "count": 444,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 144,
  "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe",
+   "source": "Minbåd.dk",
+   "date": "2026-10-14",
+   "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_729a68781b.jpg"
+  },
+  {
+   "key": "ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-14",
+   "title": "Ny Sirena 42 meter superyacht med gårdhave og beach club på 71 m²",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/october/article/ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_0c3fafd5cd.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco",
    "source": "Minbåd.dk",
    "date": "2026-10-14",
    "title": "Eliteskole tager 130.000 kr. for 14 dages ophold på luksuskatamaran Sunreef 100 Eco",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_427513aba7.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_427513aba7.jpg"
+  },
+  {
+   "key": "baadmagasinet-34495",
+   "source": "Bådmagasinet",
+   "date": "2026-10-14",
+   "title": "Historisk Bermuda Gold Cup skydes i gang – mens VM-finalerne i Saudi-Arabien udsættes",
+   "url": "https://www.baadmagasinet.dk/world-match-racing/34495-historisk-bermuda-gold-cup-skydes-i-gang-mens-vm-finalerne-i-saudi-arabien-udsaettes",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/bermuda.jpg"
   },
   {
    "key": "baadmagasinet-34494",
@@ -42,21 +68,12 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "vi-testede-yamahas-traadloese-joystick-i-sverige-styr-350-hk-med-en-haand-uden-at-staa-ved-rattet",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-12",
-   "title": "Vi testede Yamahas trådløse joystick i Sverige: Styr 350 hk med én hånd – uden at stå ved rattet",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/12/october/article/vi-testede-yamahas-traadloese-joystick-i-sverige-styr-350-hk-med-en-haand-uden-at-staa-ved-rattet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/2/csm_helmmaster_0260917_093952_7498face1c.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "andreas-laegger-sejlbaad-til-alene-en-karabinhage-og-en-dobbeltblok-goer-forskellen",
    "source": "Minbåd.dk",
    "date": "2026-10-12",
    "title": "Andreas lægger sejlbåd til alene – en karabinhage og en dobbeltblok gør forskellen",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/andreas-laegger-sejlbaad-til-alene-en-karabinhage-og-en-dobbeltblok-goer-forskellen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_b_20261010_155750_3d123bcd91.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_b_20261010_155750_4c34b0ef33.jpg"
   },
   {
    "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
@@ -64,7 +81,7 @@
    "date": "2026-10-12",
    "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_ac58308935.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg",
    "cat": "Andet"
   },
   {
@@ -75,6 +92,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/ny-kompakt-redningsplatform-fra-ocean-safety-til-sejlads-i-indre-farvande/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_JON_BUOY_EVAC__Fra_Taske_til_Redningsflaade_luft_ffff047386.png",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "vi-testede-yamahas-traadloese-joystick-i-sverige-styr-350-hk-med-en-haand-uden-at-staa-ved-rattet",
+   "source": "Minbåd.dk",
+   "date": "2026-10-12",
+   "title": "Vi testede Yamahas trådløse joystick i Sverige: Styr 350 hk med én hånd – uden at stå ved rattet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/vi-testede-yamahas-traadloese-joystick-i-sverige-styr-350-hk-med-en-haand-uden-at-staa-ved-rattet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/2/csm_helmmaster_0260917_093952_0ffa33eb8a.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34491",
@@ -193,7 +219,7 @@
    "date": "2026-10-08",
    "title": "Helly Hansen lancerer varm hybridjakke, HP Hybrid Stretch Hooded Insulator",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/helly-hansen-lancerer-varm-hybridjakke-hp-hybrid-stretch-hooded-insulator/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_58563fd8e4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_07c5e1005a.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -272,11 +298,11 @@
   },
   {
    "key": "saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-10-07",
    "title": "Sådan gør du din båd vinterklar - Kolding-sejler deler tips ud",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_cd182f430f.jpg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_7b2d3c2adb.jpg",
    "tjek": "2026-10-14"
   },
   {
@@ -286,7 +312,8 @@
    "title": "Danmarks første maritime kulturhavn: Ny strategi vedtaget – beboere kræver indflydelse",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34482-danmarks-forste-maritime-kulturhavn-ny-strategi-vedtaget-beboere-kraever-indflydelse",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/john_soenderby_2.jpg",
-   "tjek": "2026-10-14"
+   "tjek": "2026-10-14",
+   "cat": "Havneliv"
   },
   {
    "key": "baadmagasinet-34483",
@@ -312,7 +339,7 @@
    "date": "2026-10-06",
    "title": "Silverrudder-boss siger farvel til sin Drabant 30 efter 28 år",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/9/csm_b_MG_20260825_121845_161e9061a9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/9/csm_b_MG_20260825_121845_c14a5f1455.jpg",
    "tjek": "2026-10-14"
   },
   {
@@ -331,16 +358,16 @@
    "date": "2026-10-06",
    "title": "Måske er det tid til at finde jollen frem igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_520c3769cd.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_a11ddbf2b3.jpg",
    "tjek": "2026-10-14"
   },
   {
    "key": "minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-10-06",
    "title": "Minn Kota og Humminbird bliver ét: Nyt samlet system skal gøre fiskeriet enklere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_702dbb4aec.png",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_c3a4f1629c.png",
    "cat": "Udstyr & både",
    "tjek": "2026-10-14"
   },
@@ -458,7 +485,7 @@
    "date": "2026-10-04",
    "title": "Konge resultat: Frederik på podiet i PAC 52 i St. Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_ac6b492a9a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_af93dc88f4.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-14"
   },
@@ -468,7 +495,7 @@
    "date": "2026-10-04",
    "title": "Minbaad.dk vokser - styrer mod 1,5 mio. unikke læsere i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_35915dc01e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg",
    "cat": "Andet",
    "tjek": "2026-10-14"
   },
@@ -537,7 +564,7 @@
    "date": "2026-10-02",
    "title": "Sejlbåd fanget i brændingen - forsejl var ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_75a1dce490.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-14"
   },
@@ -626,7 +653,7 @@
    "date": "2026-10-01",
    "title": "Europe-VM kommer til Aarhus i 2027 - Martin fra Kaløvig skal forsvare titel",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_79efc88eb9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_7e0b7a418b.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-14"
   },
@@ -704,8 +731,8 @@
    "date": "2026-09-30",
    "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
    "tjek": "2026-10-14"
   },
   {
@@ -788,7 +815,7 @@
    "date": "2026-09-29",
    "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/c/csm_r7-3_7879c7c5a2.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/c/csm_r7-3_90bbdcfb43.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -822,15 +849,6 @@
    "tjek": "2026-10-06"
   },
   {
-   "key": "kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm",
-   "source": "Minbåd.dk",
-   "date": "2026-09-28",
-   "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg"
-  },
-  {
    "key": "dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret",
    "source": "Minbåd.dk",
    "date": "2026-09-28",
@@ -847,6 +865,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade/",
    "cat": "Sikkerhed",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg"
+  },
+  {
+   "key": "kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm",
+   "source": "Minbåd.dk",
+   "date": "2026-09-28",
+   "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg"
   },
   {
    "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
@@ -921,7 +948,7 @@
    "date": "2026-09-26",
    "title": "Askeladden deles efter konkurs – både Polen og Norge fører mærket videre",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/september/article/askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_8e2fdd6118.jpeg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg",
    "cat": "Udstyr & både"
   },
   {
@@ -1249,7 +1276,7 @@
    "date": "2026-09-21",
    "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_59693a52a4.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -1347,7 +1374,7 @@
    "date": "2026-09-19",
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_d14061fa73.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2304,7 +2331,7 @@
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_0aa2b68855.jpg",
    "cat": "Udstyr & både",
    "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
   },
@@ -2344,7 +2371,7 @@
    "date": "2026-09-04",
    "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_88ceb7ec6a.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg",
    "cat": "Udstyr & både",
    "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
@@ -2644,7 +2671,7 @@
    "date": "2026-08-31",
    "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_23e67ad5db.jpg",
    "cat": "Havneliv",
    "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
   },
@@ -2734,7 +2761,7 @@
    "date": "2026-08-30",
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_26ef5e19af.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
    "cat": "Udstyr & både",
    "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
   },
@@ -2937,36 +2964,6 @@
    "cat": "Kapsejlads",
    "sum": "Erik Stannow og besætningen på Dixi5 vandt EM-guld i ORC-klassen og deltager nu i finalen i The Viking Challenge under Blue Week i Middelfart.",
    "tjek": "2026-09-03"
-  },
-  {
-   "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-26",
-   "title": "Nyt samtalespil skal skabe stærkere fællesskaber ombord",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/august/article/nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/4/csm_Sejlerliv__2tyu__d2208b3cb0.jpg",
-   "cat": "Havneliv",
-   "sum": "Danske Tursejlere lancerer i samarbejde med SNAKSPIL et samtalespil kaldet Sejlerliv, designet til at styrke fællesskaber og nærværende samtaler ombord på både."
-  },
-  {
-   "key": "oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde",
-   "source": "Minbåd.dk",
-   "date": "2026-08-26",
-   "title": "Öppet Varv: 180 både og flere besøgende end nogensinde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/oeppet-varv-180-baade-og-flere-besoegende-end-nogensinde/",
-   "cat": "Udstyr & både",
-   "sum": "Öppet Varv på Orust satte rekord med 180 udstillede både og flere besøgende. Hallberg-Rassy fik den største ordreindgang i udstillingens historie.",
-   "tjek": "2026-09-11"
-  },
-  {
-   "key": "nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart",
-   "source": "Minbåd.dk",
-   "date": "2026-08-26",
-   "title": "Nu venter finalen i The Viking Challenge for store både - EM-gulvinder er klar i Middefart",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/nu-venter-finalen-i-the-viking-challenge-for-store-baade-em-gulvinder-er-klar-i-middefart/",
-   "cat": "Kapsejlads",
-   "sum": "Erik Stannow og DIXI 5 vandt ORC-EM og er klar til finalen i The Viking Challenge ved Blue Week i Middelfart. Lokale aktiviteter udvider begivenheden.",
-   "tjek": "2026-09-09"
   }
  ]
 }
