@@ -1,11 +1,10 @@
 {
- "generated": "2026-10-13T21:37:29+00:00",
+ "generated": "2026-10-14T00:39:10+00:00",
  "count": 443,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -223,7 +222,8 @@
    "title": "Når teakdækket trænger til renovering og omfugning - se hvordan",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/naar-teakdakket-tranger-til-renovering-og-omfugning-se-hvordan/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_fugemasse_hf_marine_b8a526b2a7.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-14"
   },
   {
    "key": "vendee-globe-sejler-taet-paa-dramatisk-kollision-i-saint-tropez",
@@ -231,7 +231,8 @@
    "date": "2026-10-07",
    "title": "Vendée Globe-sejler tæt på dramatisk kollision i Saint-Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/vendee-globe-sejler-taet-paa-dramatisk-kollision-i-saint-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png",
+   "tjek": "2026-10-14"
   },
   {
    "key": "garmin-round-denmark-race-faar-ny-flerskrogs-klasse-med-texel",
@@ -240,7 +241,8 @@
    "title": "Garmin Round Denmark Race får ny flerskrogs-klasse med TEXEL",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/garmin-round-denmark-race-faar-ny-flerskrogs-klasse-med-texel/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_tex_2A2505_c6a5f14a4d.jpg",
-   "cat": "Kapsejlads"
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-14"
   },
   {
    "key": "mand-reddet-kort-foer-motorbaad-sank-i-lillebaelt-se-nu-voldsomme-billeder",
@@ -249,7 +251,8 @@
    "title": "Mand reddet kort før motorbåd sank i Lillebælt – se nu voldsomme billeder",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/mand-reddet-kort-foer-motorbaad-sank-i-lillebaelt-se-nu-voldsomme-billeder/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_br_8476_1563897365773237_5928469648340990216_n_4d445ece40.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-14"
   },
   {
    "key": "saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud",
@@ -257,7 +260,8 @@
    "date": "2026-10-07",
    "title": "Sådan gør du din båd vinterklar - Kolding-sejler deler tips ud",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_cd182f430f.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_cd182f430f.jpg",
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34482",
@@ -265,7 +269,8 @@
    "date": "2026-10-07",
    "title": "Danmarks første maritime kulturhavn: Ny strategi vedtaget – beboere kræver indflydelse",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34482-danmarks-forste-maritime-kulturhavn-ny-strategi-vedtaget-beboere-kraever-indflydelse",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/john_soenderby_2.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/john_soenderby_2.jpg",
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34483",
@@ -273,7 +278,8 @@
    "date": "2026-10-07",
    "title": "Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34483-rekordmange-oplevelser-pa-programmet-for-danske-tursejleres-medlemsklubber",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_sejlklubben_københavn_3.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_sejlklubben_københavn_3.jpg",
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34485",
@@ -281,7 +287,8 @@
    "date": "2026-10-07",
    "title": "Tabt båd skabte opsigt i lyskryds",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34485-tabt-bad-skabte-opsigt-i-lyskryds",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/politivogn_foto_kim_matthai_leland.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/politivogn_foto_kim_matthai_leland.jpg",
+   "tjek": "2026-10-14"
   },
   {
    "key": "silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar",
@@ -290,7 +297,7 @@
    "title": "Silverrudder-boss siger farvel til sin Drabant 30 efter 28 år",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/9/csm_b_MG_20260825_121845_161e9061a9.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin",
@@ -300,7 +307,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_8f5afb6b28.png",
    "cat": "Andet",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "maaske-er-det-tid-til-at-finde-jollen-frem-igen",
@@ -309,7 +316,7 @@
    "title": "Måske er det tid til at finde jollen frem igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_520c3769cd.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere",
@@ -319,7 +326,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_702dbb4aec.png",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34481",
@@ -349,7 +356,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/sol-spiler-og-fire-m-sek-ved-vedbaek-cup-for-325-sejlere-se-galleri/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_055_DJI_20261004110417_0187_D_DRONE_a6fcfbfd0d.jpg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "strandet-sejlbaad-paa-gran-canaria-kan-have-dyster-fortid",
@@ -358,7 +365,7 @@
    "title": "Strandet sejlbåd på Gran Canaria kan have dyster fortid",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/strandet-sejlbaad-paa-gran-canaria-kan-have-dyster-fortid/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_klippe_996_1342241127812882_8534070033948190072_n_26a2d05a21.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "63-aarig-reddet-fra-braendende-baad-i-lillebaelt-33-fods-baad-sank",
@@ -368,7 +375,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/63-aarig-reddet-fra-braendende-baad-i-lillebaelt-33-fods-baad-sank/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/a/csm_brand_1413240510298263_5645296013611206206_n_6bb3a53f20.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "ansvars-forsikring-pantaenius",
@@ -378,7 +385,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/ansvars-forsikring-pantaenius/",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "derfor-kan-en-mindre-batteribank-vaere-nok-med-litium",
@@ -388,7 +395,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/october/article/derfor-kan-en-mindre-batteribank-vaere-nok-med-litium/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/7/csm_lit_WWp2GobOHwOLel_4be2ebeaf9.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "vi-soeger-en-havnefoged-til-vores-lystbaadehavn-paa-langelinie",
@@ -397,7 +404,7 @@
    "title": "VI SØGER EN HAVNEFOGED TIL VORES LYSTBÅDEHAVN PÅ LANGELINIE",
    "url": "https://flidhavne.dk/vi-soeger-en-havnefoged-til-vores-lystbaadehavn-paa-langelinie/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Billede-af-langeliniehavnen_3.png",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34477",
@@ -407,7 +414,7 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34477-dramatisk-brand-i-lillebaelt-33-fods-bad-sank-efter-brand",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833414479_1413240510298263_5645296013611206206_n_2.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34479",
@@ -437,7 +444,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_ac6b492a9a.jpg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026",
@@ -447,7 +454,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_35915dc01e.jpg",
    "cat": "Andet",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads",
@@ -457,7 +464,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_660c4f115f.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
@@ -468,7 +475,7 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
    "cat": "Udstyr & både",
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner.",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34470",
@@ -477,7 +484,7 @@
    "title": "Sådan klæder Kystliv Holbæk lærere og undervisere på til at sejle med andres børn",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34470-sadan-klaeder-kystliv-holbaek-laerere-og-undervisere-pa-til-at-sejle-med-andres-born",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_821646338_1753395710125757_5464538445474826495_n.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34476",
@@ -497,7 +504,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer/",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_d8b952e69d.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
@@ -506,7 +513,7 @@
    "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
    "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok",
@@ -516,7 +523,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
@@ -527,7 +534,7 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_5598a2c768.jpg",
    "cat": "Sikkerhed",
    "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav.",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "grenaa-marina-soeger-havnemester",
@@ -536,7 +543,7 @@
    "title": "Grenaa Marina søger ny havnemester",
    "url": "https://flidhavne.dk/grenaa-marina-soeger-havnemester/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "dansketursejlere-pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber",
@@ -546,7 +553,7 @@
    "url": "https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/Sejlklubben-Koebenhavn-3-scaled-e1790940216742-1024x512.jpg",
    "cat": "Havneliv",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "dansketursejlere-nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
@@ -556,7 +563,7 @@
    "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg",
    "cat": "Tursejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34475",
@@ -565,7 +572,7 @@
    "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34473",
@@ -595,7 +602,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet/",
    "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_ee754279af.jpeg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel",
@@ -605,7 +612,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/europe-vm-kommer-til-aarhus-i-2027-martin-fra-kaloevig-skal-forsvare-titel/",
    "img": "https://minbaad.dk/fileadmin/_processed_/0/3/csm_e_0gkklxlllx_-980x551_79efc88eb9.jpg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder",
@@ -615,7 +622,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
@@ -625,7 +632,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
@@ -635,7 +642,7 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34472",
@@ -673,7 +680,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -683,7 +690,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
    "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
    "cat": "Kapsejlads",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7",
@@ -693,7 +700,7 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7/",
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg",
-   "tjek": "2026-10-13"
+   "tjek": "2026-10-14"
   },
   {
    "key": "med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan",
@@ -702,8 +709,7 @@
    "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
    "cat": "Tursejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
   },
   {
    "key": "baadmagasinet-34466",
@@ -741,8 +747,7 @@
    "title": "Harboe Cup gav unge 19 sejladser i Skælskør i smukt septembervejr",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/harboe-cup-gav-unge-sejlere-19-sejladser-i-skaelskoer-i-smukt-septembervejr/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_o_skaelskoer_26unnamed_b3f765fb63.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_o_skaelskoer_26unnamed_b3f765fb63.jpg"
   },
   {
    "key": "autopiloten-sejlede-videre-skipper-laa-alene-i-vandet",
@@ -751,8 +756,7 @@
    "title": "Autopiloten sejlede videre – skipper lå alene i vandet",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/autopiloten-sejlede-videre-skipper-laa-alene-i-vandet/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_screenshot-2026-09-29-at-08-16-15-sviene-in-barca-e-finisce-in-acqua-salvato-un-velista-civitanovese-altri-5-minuti-e-avrei-mollato-cronache-maceratesi_e693b66678.png",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_screenshot-2026-09-29-at-08-16-15-sviene-in-barca-e-finisce-in-acqua-salvato-un-velista-civitanovese-altri-5-minuti-e-avrei-mollato-cronache-maceratesi_e693b66678.png"
   },
   {
    "key": "netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
@@ -760,8 +764,7 @@
    "date": "2026-09-29",
    "title": "Netværk vil gøre langtursejlads mere tilgængelig for unge",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_l_2026_mikkel-juulsgaard_unge_solnedgang-org_39b5358d68.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_l_2026_mikkel-juulsgaard_unge_solnedgang-org_39b5358d68.jpg"
   },
   {
    "key": "husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort",
@@ -770,8 +773,7 @@
    "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/c/csm_r7-3_7879c7c5a2.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-13"
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34464",
@@ -810,8 +812,7 @@
    "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg"
   },
   {
    "key": "dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret",
@@ -820,8 +821,7 @@
    "title": "Dansk Søredningsselskab vil flytte søredningen væk fra Forsvaret",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg"
   },
   {
    "key": "sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade",
@@ -830,8 +830,7 @@
    "title": "Sejlbåd kolliderer med hval – fire sejlere reddet efter 17 timer i redningsflåde - nu video",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg",
-   "tjek": "2026-10-13"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg"
   },
   {
    "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
