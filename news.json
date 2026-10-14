@@ -1,11 +1,10 @@
 {
- "generated": "2026-10-14T19:44:12+00:00",
+ "generated": "2026-10-14T22:43:58+00:00",
  "count": 442,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 142,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -57,7 +56,8 @@
    "date": "2026-10-14",
    "title": "Historisk Bermuda Gold Cup skydes i gang – mens VM-finalerne i Saudi-Arabien udsættes",
    "url": "https://www.baadmagasinet.dk/world-match-racing/34495-historisk-bermuda-gold-cup-skydes-i-gang-mens-vm-finalerne-i-saudi-arabien-udsaettes",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/bermuda.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/bermuda.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34494",
@@ -901,7 +901,8 @@
    "date": "2026-09-28",
    "title": "Svensk sejler kom først frem til kæntret trimaran i Silverrudder – se video fra redningen",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_tri_8817969172718_8c8a1501f5.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_tri_8817969172718_8c8a1501f5.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "forladt-sejlbaad-har-ligget-paa-stenene-i-maanedsvis-nu-efterlyses-ejeren-bredere",
@@ -1172,7 +1173,8 @@
    "date": "2026-09-23",
    "title": "Årets Havn: Kun én uge tilbage – hvilken dansk havn fortjener titlen?",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34451-arets-havn-kun-en-uge-tilbage-hvilken-dansk-havn-fortjener-titlen",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_kerteminde_marina_drone_2.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_kerteminde_marina_drone_2.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
