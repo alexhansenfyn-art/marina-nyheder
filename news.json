@@ -1,20 +1,19 @@
 {
- "generated": "2026-10-14T10:41:11+00:00",
+ "generated": "2026-10-14T15:34:23+00:00",
  "count": 444,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 144,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe",
+   "key": "maa-baaden-ligge-i-vandet-hele-vinteren-pantaenius-svarer-paa-sejlernes-bekymringer",
    "source": "Minbåd.dk",
    "date": "2026-10-14",
-   "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_729a68781b.jpg"
+   "title": "Må båden ligge i vandet hele vinteren? Pantaenius svarer på sejlernes bekymringer",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/maa-baaden-ligge-i-vandet-hele-vinteren-pantaenius-svarer-paa-sejlernes-bekymringer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_kertminde_is_IMsssG_20260203_155221_0b3b7ebec2.jpg"
   },
   {
    "key": "ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2",
@@ -26,12 +25,30 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe",
+   "source": "Minbåd.dk",
+   "date": "2026-10-14",
+   "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_e73a9f8819.jpg",
+   "cat": "Tursejlads"
+  },
+  {
    "key": "eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco",
    "source": "Minbåd.dk",
    "date": "2026-10-14",
    "title": "Eliteskole tager 130.000 kr. for 14 dages ophold på luksuskatamaran Sunreef 100 Eco",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_427513aba7.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_9f4674f51f.jpg"
+  },
+  {
+   "key": "baadmagasinet-34496",
+   "source": "Bådmagasinet",
+   "date": "2026-10-14",
+   "title": "J/80 DM: Hellerup-besætning nappede guldet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34496-j-80-dm-hellerup-besaetning-nappede-guldet",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/j80.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34495",
@@ -47,7 +64,8 @@
    "date": "2026-10-14",
    "title": "Elvstrøm Sails opruster - etablerer sejlloft i New Port RI",
    "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34494-elvstrom-sails-opruster-og-etablerer-virksomhed-i-usa",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/elvstrom_usa.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/elvstrom_usa.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "efter-dramatisk-silverrudder-sikkerheden-skal-forbedres",
@@ -55,7 +73,7 @@
    "date": "2026-10-13",
    "title": "Efter dramatisk Silverrudder: Sikkerheden skal forbedres",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/october/article/efter-dramatisk-silverrudder-sikkerheden-skal-forbedres/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/1/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_776c3eeed9_f31cb0e1da.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/1/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_776c3eeed9_4556191b02.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -292,7 +310,7 @@
    "date": "2026-10-07",
    "title": "Mand reddet kort før motorbåd sank i Lillebælt – se nu voldsomme billeder",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/mand-reddet-kort-foer-motorbaad-sank-i-lillebaelt-se-nu-voldsomme-billeder/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_br_8476_1563897365773237_5928469648340990216_n_4d445ece40.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_br_8476_1563897365773237_5928469648340990216_n_89f9230dbd.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-14"
   },
@@ -312,8 +330,8 @@
    "title": "Danmarks første maritime kulturhavn: Ny strategi vedtaget – beboere kræver indflydelse",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34482-danmarks-forste-maritime-kulturhavn-ny-strategi-vedtaget-beboere-kraever-indflydelse",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/john_soenderby_2.jpg",
-   "tjek": "2026-10-14",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34483",
@@ -348,7 +366,7 @@
    "date": "2026-10-06",
    "title": "Print er ikke dødt: Bådmagasinet lancerer nyt magasin",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_8f5afb6b28.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png",
    "cat": "Andet",
    "tjek": "2026-10-14"
   },
@@ -426,7 +444,7 @@
    "date": "2026-10-05",
    "title": "Henri-Lloyd genopliver Consort-jakken",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/ansvars-forsikring-pantaenius/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__b8dac9caec.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-14"
   },
@@ -485,7 +503,7 @@
    "date": "2026-10-04",
    "title": "Konge resultat: Frederik på podiet i PAC 52 i St. Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_af93dc88f4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_ac6b492a9a.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-14"
   },
@@ -555,7 +573,7 @@
    "date": "2026-10-02",
    "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f29fd3b953.jpg",
    "tjek": "2026-10-14"
   },
   {
@@ -643,7 +661,7 @@
    "date": "2026-10-01",
    "title": "Mikkelsen og Rosa-Lux tog sejren ved X-99-mesterskabet",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_ee754279af.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_1bdae5a5a4.jpeg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-14"
   },
@@ -716,16 +734,6 @@
    "tjek": "2026-10-08"
   },
   {
-   "key": "udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad",
-   "source": "Minbåd.dk",
-   "date": "2026-09-30",
-   "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-14"
-  },
-  {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
    "source": "Minbåd.dk",
    "date": "2026-09-30",
@@ -752,7 +760,18 @@
    "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
    "cat": "Tursejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg",
+   "tjek": "2026-10-14"
+  },
+  {
+   "key": "udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-14"
   },
   {
    "key": "baadmagasinet-34466",
@@ -2944,26 +2963,6 @@
    "cat": "Andet",
    "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS.",
    "tjek": "2026-09-07"
-  },
-  {
-   "key": "baadmagasinet-34383",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Copenhagen Boat Show fik en flyvende start i Ishøj",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34383-copenhagen-boat-show-fik-en-flyvende-start-i-ishoj",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op.",
-   "tjek": "2026-09-03"
-  },
-  {
-   "key": "baadmagasinet-34379",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Frisk fra EM-guld: Stannow klar til Viking Challenge-finalen i Middelfart",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34379-frisk-fra-em-guld-stannow-klar-til-viking-challenge-finalen-i-middelfart",
-   "cat": "Kapsejlads",
-   "sum": "Erik Stannow og besætningen på Dixi5 vandt EM-guld i ORC-klassen og deltager nu i finalen i The Viking Challenge under Blue Week i Middelfart.",
-   "tjek": "2026-09-03"
   }
  ]
 }
