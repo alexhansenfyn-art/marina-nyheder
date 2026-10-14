@@ -1,10 +1,11 @@
 {
- "generated": "2026-10-14T15:34:23+00:00",
- "count": 444,
+ "generated": "2026-10-14T19:44:12+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 142,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":"
  ],
  "items": [
   {

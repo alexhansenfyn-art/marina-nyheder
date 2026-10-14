@@ -1,27 +1,7 @@
 {
- "generated": "2026-10-14T15:34:23+00:00",
- "count": 144,
+ "generated": "2026-10-14T19:44:12+00:00",
+ "count": 142,
  "items": [
-  {
-   "key": "baadmagasinet-34383",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Copenhagen Boat Show fik en flyvende start i Ishøj",
-   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34383-copenhagen-boat-show-fik-en-flyvende-start-i-ishoj",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede i Ishøj med godt vejr og mange besøgende. Nye både som Beneteau First 36 og Linjett 36 blev vist, og der blev sat sikkerhedsskilte op.",
-   "tjek": "2026-09-03"
-  },
-  {
-   "key": "baadmagasinet-34379",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Frisk fra EM-guld: Stannow klar til Viking Challenge-finalen i Middelfart",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34379-frisk-fra-em-guld-stannow-klar-til-viking-challenge-finalen-i-middelfart",
-   "cat": "Kapsejlads",
-   "sum": "Erik Stannow og besætningen på Dixi5 vandt EM-guld i ORC-klassen og deltager nu i finalen i The Viking Challenge under Blue Week i Middelfart.",
-   "tjek": "2026-09-03"
-  },
   {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
    "source": "Motorbådsnyt",
@@ -36,8 +16,7 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
@@ -45,8 +24,7 @@
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
-   "cat": "Sikkerhed"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
