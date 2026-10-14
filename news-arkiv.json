@@ -1,7 +1,27 @@
 {
- "generated": "2026-10-14T00:39:10+00:00",
- "count": 143,
+ "generated": "2026-10-14T05:27:20+00:00",
+ "count": 144,
  "items": [
+  {
+   "key": "schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england",
+   "source": "Minbåd.dk",
+   "date": "2026-08-26",
+   "title": "Schubert, Munch og Søe til VM-offensiv i Irland og England",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
+   "cat": "Kapsejlads",
+   "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028.",
+   "tjek": "2026-09-09"
+  },
+  {
+   "key": "baadmagasinet-34377",
+   "source": "Bådmagasinet",
+   "date": "2026-08-26",
+   "title": "Rindom udtaget til VM – OL-comeback må rykke endnu tættere på?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34377-rindom-udtaget-til-vm-ol-comeback-rykker-endnu-taettere-pa",
+   "cat": "Kapsejlads",
+   "sum": "Anne-Marie Rindom er udtaget til VM 2027 i ILCA 6 sammen med Anna Munch, hvilket styrker hendes potentiale for comeback til OL 2028.",
+   "tjek": "2026-09-02"
+  },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
    "source": "Dansk Sejlunion",
@@ -94,8 +114,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-16",
    "title": "Motorbåd drev ind i sten og sank ved Helnæs",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/3/csm_sank_to_App_Image_2026-08-16_at_19.41.42_b3cfe1977b.jpeg"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/august/article/motorbaad-drev-ind-i-sten-og-sank-ved-helnaes/"
   },
   {
    "key": "hh-sejlersko-satser-paa-letvaegter-med-maksimalt-greb",
@@ -163,13 +182,6 @@
    "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png"
-  },
-  {
-   "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-06",
-   "title": "37-årig anholdt efter hærværk mod skibe i Stubbekøbing og Juelsminde",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/august/article/37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",

@@ -1,12 +1,28 @@
 {
- "generated": "2026-10-14T00:39:10+00:00",
- "count": 443,
+ "generated": "2026-10-14T05:27:20+00:00",
+ "count": 444,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 144,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco",
+   "source": "Minbåd.dk",
+   "date": "2026-10-14",
+   "title": "Eliteskole tager 130.000 kr. for 14 dages ophold på luksuskatamaran Sunreef 100 Eco",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_427513aba7.jpg"
+  },
+  {
+   "key": "baadmagasinet-34494",
+   "source": "Bådmagasinet",
+   "date": "2026-10-14",
+   "title": "Elvstrøm Sails opruster - etablerer sejlloft i New Port RI",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34494-elvstrom-sails-opruster-og-etablerer-virksomhed-i-usa",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/elvstrom_usa.jpg"
+  },
   {
    "key": "efter-dramatisk-silverrudder-sikkerheden-skal-forbedres",
    "source": "Minbåd.dk",
@@ -393,7 +409,7 @@
    "date": "2026-10-05",
    "title": "Derfor kan en mindre batteribank være nok med litium",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/october/article/derfor-kan-en-mindre-batteribank-vaere-nok-med-litium/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/7/csm_lit_WWp2GobOHwOLel_4be2ebeaf9.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/7/csm_lit_WWp2GobOHwOLel_e287aa62be.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-14"
   },
@@ -905,7 +921,7 @@
    "date": "2026-09-26",
    "title": "Askeladden deles efter konkurs – både Polen og Norge fører mærket videre",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/september/article/askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_8e2fdd6118.jpeg",
    "cat": "Udstyr & både"
   },
   {
@@ -963,7 +979,7 @@
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_5acbaebf84.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1331,7 +1347,7 @@
    "date": "2026-09-19",
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_d14061fa73.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1500,7 +1516,7 @@
    "date": "2026-09-17",
    "title": "Solpaneler efter mål - kan laves flotte",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_f7c745f3bf.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c3057cf7cd.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
   },
@@ -2328,7 +2344,7 @@
    "date": "2026-09-04",
    "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_88ceb7ec6a.jpg",
    "cat": "Udstyr & både",
    "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
   },
@@ -2418,7 +2434,7 @@
    "date": "2026-09-03",
    "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_f1b42a3fff.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
    "cat": "Udstyr & både",
    "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
   },
@@ -2718,7 +2734,7 @@
    "date": "2026-08-30",
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_26ef5e19af.png",
    "cat": "Udstyr & både",
    "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
   },
@@ -2788,7 +2804,7 @@
    "date": "2026-08-28",
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_402dc6d865.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
    "cat": "Sikkerhed",
    "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
   },
@@ -2951,26 +2967,6 @@
    "cat": "Kapsejlads",
    "sum": "Erik Stannow og DIXI 5 vandt ORC-EM og er klar til finalen i The Viking Challenge ved Blue Week i Middelfart. Lokale aktiviteter udvider begivenheden.",
    "tjek": "2026-09-09"
-  },
-  {
-   "key": "schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england",
-   "source": "Minbåd.dk",
-   "date": "2026-08-26",
-   "title": "Schubert, Munch og Søe til VM-offensiv i Irland og England",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/august/article/schubert-munch-og-soee-til-vm-offensiv-i-irland-og-england/",
-   "cat": "Kapsejlads",
-   "sum": "Det danske sejlerlandshold deltager i tre VM'er i klasserne ILCA 6, ILCA 7 og iQFOiL i Irland og England. Resultaterne bliver vigtige pejlemærker frem mod OL-kvalifikationen til LA2028.",
-   "tjek": "2026-09-09"
-  },
-  {
-   "key": "baadmagasinet-34377",
-   "source": "Bådmagasinet",
-   "date": "2026-08-26",
-   "title": "Rindom udtaget til VM – OL-comeback må rykke endnu tættere på?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34377-rindom-udtaget-til-vm-ol-comeback-rykker-endnu-taettere-pa",
-   "cat": "Kapsejlads",
-   "sum": "Anne-Marie Rindom er udtaget til VM 2027 i ILCA 6 sammen med Anna Munch, hvilket styrker hendes potentiale for comeback til OL 2028.",
-   "tjek": "2026-09-02"
   }
  ]
 }
