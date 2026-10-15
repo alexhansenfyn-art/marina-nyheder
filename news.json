@@ -1,13 +1,22 @@
 {
- "generated": "2026-10-15T01:56:57+00:00",
- "count": 442,
+ "generated": "2026-10-15T05:59:01+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: KeyError: 'choices'",
-  "AI: HTTPError: 503 Server Error: Service Unavailable for url: https://api.deepseek.com/chat/completions | HTTP 503: {\"error\":{\"message\":\"Service is too busy. We advise users to temporarily switch to alternative LLM API service providers. (request_id: 6baa47dd-46fd-4aa9-8a87-09f18fa16f60)\",\"type\":\"servic"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\""
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34497",
+   "source": "Bådmagasinet",
+   "date": "2026-10-15",
+   "title": "Den gamle server går på pension – ny tager over i weekenden",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34497-den-gamle-server-gar-pa-pension-ny-tager-over-i-weekenden",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_fyrtårn_oplyser_fremtidens_server_1.jpg",
+   "cat": "Andet"
+  },
   {
    "key": "maa-baaden-ligge-i-vandet-hele-vinteren-pantaenius-svarer-paa-sejlernes-bekymringer",
    "source": "Minbåd.dk",
@@ -43,21 +52,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_9f4674f51f.jpg"
   },
   {
-   "key": "baadmagasinet-34496",
-   "source": "Bådmagasinet",
-   "date": "2026-10-14",
-   "title": "J/80 DM: Hellerup-besætning nappede guldet",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34496-j-80-dm-hellerup-besaetning-nappede-guldet",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/j80.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "baadmagasinet-34495",
    "source": "Bådmagasinet",
    "date": "2026-10-14",
    "title": "Historisk Bermuda Gold Cup skydes i gang – mens VM-finalerne i Saudi-Arabien udsættes",
    "url": "https://www.baadmagasinet.dk/world-match-racing/34495-historisk-bermuda-gold-cup-skydes-i-gang-mens-vm-finalerne-i-saudi-arabien-udsaettes",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/bermuda.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34496",
+   "source": "Bådmagasinet",
+   "date": "2026-10-14",
+   "title": "J/80 DM: Hellerup-besætning nappede guldet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34496-j-80-dm-hellerup-besaetning-nappede-guldet",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/j80.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -690,7 +699,8 @@
    "title": "Marstal-sejler pressede 11 Meter rundt om Fyn: 21 timer alene i hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg",
-   "cat": "Kapsejlads"
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-15"
   },
   {
    "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
@@ -699,7 +709,8 @@
    "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-15"
   },
   {
    "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
@@ -2957,16 +2968,6 @@
    "cat": "Kapsejlads",
    "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter.",
    "tjek": "2026-09-10"
-  },
-  {
-   "key": "baadmagasinet-34380",
-   "source": "Bådmagasinet",
-   "date": "2026-08-27",
-   "title": "Forandringens vinde blæser",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34380-forandringens-vinde-blaeser",
-   "cat": "Andet",
-   "sum": "Bådmagasinet relanceres som 'Både - Sejl & Motor' med fire årlige trykte udgaver og styrket digitalt PLUS.",
-   "tjek": "2026-09-07"
   }
  ]
 }
