@@ -1,26 +1,14 @@
 {
- "generated": "2026-10-15T15:46:50+00:00",
- "count": 143,
+ "generated": "2026-10-15T19:31:01+00:00",
+ "count": 142,
  "items": [
-  {
-   "key": "baadmagasinet-34382",
-   "source": "Bådmagasinet",
-   "date": "2026-08-28",
-   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
-   "cat": "Kapsejlads",
-   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient.",
-   "tjek": "2026-09-04"
-  },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
    "source": "Motorbådsnyt",
    "date": "2026-08-27",
    "title": "150 både til Copenhagen Boat Show med gratis indgang",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/d/csm_c_CBS26__08_45094945e1.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/d/csm_c_CBS26__08_45094945e1.jpg"
   },
   {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",
@@ -36,7 +24,8 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",

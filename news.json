@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-15T15:46:50+00:00",
- "count": 443,
+ "generated": "2026-10-15T19:31:01+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 143,
+ "arkiv_antal": 142,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
+   "key": "batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst",
+   "source": "Minbåd.dk",
+   "date": "2026-10-15",
+   "title": "Batterier kan blive i båden om vinteren, men lad dem helt op først",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_batteri_i_baad_om_vinteren_38c19c7647.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok",
    "source": "Minbåd.dk",
    "date": "2026-10-15",
-   "title": "Nu også farvel til min Boheme 10 m – min Shipman 28 er nok",
+   "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__15324067b2.jpeg"
-  },
-  {
-   "key": "hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset",
-   "source": "Minbåd.dk",
-   "date": "2026-10-15",
-   "title": "Hafenkino i Saint-Tropez: Fokken drillede – og kajen blev kysset",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_ba592956bb.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg"
   },
   {
    "key": "maa-baaden-ligge-i-vandet-hele-vinteren-pantaenius-svarer-paa-sejlernes-bekymringer",
@@ -32,20 +33,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_kertminde_is_IMsssG_20260203_155221_8c3e31191a.jpg"
   },
   {
+   "key": "hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset",
+   "source": "Minbåd.dk",
+   "date": "2026-10-15",
+   "title": "Hafenkino i Saint-Tropez: Fokken drillede – og kajen blev kysset",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_0fdf73fe52.png"
+  },
+  {
    "key": "jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser",
    "source": "Minbåd.dk",
    "date": "2026-10-15",
    "title": "Jeppe Borch deler førstepladsen i Bermuda Gold Cup efter seks sejladser",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_borch_-Image-2026-10-14-at-18.36.11-1170x650_297946cb4e.jpeg"
-  },
-  {
-   "key": "batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst",
-   "source": "Minbåd.dk",
-   "date": "2026-10-15",
-   "title": "Batterier kan blive i båden om vinteren, men lad dem helt op først",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/b/csm_batteri_i_baad_om_vinteren_fd71dca036.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_borch_-Image-2026-10-14-at-18.36.11-1170x650_b0f92c4ac6.jpeg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34501",
@@ -53,7 +55,8 @@
    "date": "2026-10-15",
    "title": "Golden Globe Race: Straffes med 16 dages sejlads på stedet!",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34501-golden-globe-race-straffes-med-16-dages-sejlads-pa-stedet",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/screenshot_2026-10-15_at_15.31.48.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/screenshot_2026-10-15_at_15.31.48.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34497",
@@ -278,7 +281,7 @@
    "date": "2026-10-08",
    "title": "Helly Hansen lancerer varm hybridjakke, HP Hybrid Stretch Hooded Insulator",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/helly-hansen-lancerer-varm-hybridjakke-hp-hybrid-stretch-hooded-insulator/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_07c5e1005a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_hh_output_16x9_58563fd8e4.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-15"
   },
@@ -288,7 +291,7 @@
    "date": "2026-10-08",
    "title": "Ny maritim fagmesse i Helsinki skal samle bådbranchen i Nordeuropa",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/ny-maritim-fagmesse-i-helsinki-skal-samle-baadbranchen-i-nordeuropa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/9/csm_sik_to_20260206_104441_277c177603.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/9/csm_sik_to_20260206_104441_d756dae8b8.jpg",
    "tjek": "2026-10-15"
   },
   {
@@ -297,7 +300,7 @@
    "date": "2026-10-08",
    "title": "Sådan vasker du din bådkaleche, mindst en gang per sæson - læg den i blød i seks timer",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/saadan-vasker-du-din-baadkaleche-mindst-en-gang-per-saeson-laeg-den-i-bloed-i-seks-i-timer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_kaleche_fra_schulz_sejlmageri_13fcb7f1a4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_kaleche_fra_schulz_sejlmageri_1220033bd9.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-15"
   },
@@ -337,7 +340,7 @@
    "date": "2026-10-07",
    "title": "Når teakdækket trænger til renovering og omfugning - se hvordan",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/naar-teakdakket-tranger-til-renovering-og-omfugning-se-hvordan/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_fugemasse_hf_marine_c944a0f646.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_fugemasse_hf_marine_4ab7979291.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-15"
   },
@@ -347,7 +350,7 @@
    "date": "2026-10-07",
    "title": "Vendée Globe-sejler tæt på dramatisk kollision i Saint-Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/vendee-globe-sejler-taet-paa-dramatisk-kollision-i-saint-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_c3ff9d34d9.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png",
    "tjek": "2026-10-15"
   },
   {
@@ -422,7 +425,7 @@
    "date": "2026-10-06",
    "title": "Print er ikke dødt: Bådmagasinet lancerer nyt magasin",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_8f5afb6b28.png",
    "cat": "Andet",
    "tjek": "2026-10-15"
   },
@@ -471,7 +474,7 @@
    "date": "2026-10-05",
    "title": "Sol, spiler og 5-6 m/sek. ved Vedbæk Cup for 325 sejlere - se galleri",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/sol-spiler-og-fire-m-sek-ved-vedbaek-cup-for-325-sejlere-se-galleri/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_055_DJI_20261004110417_0187_D_DRONE_3ffc7f4d03.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_055_DJI_20261004110417_0187_D_DRONE_a6fcfbfd0d.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-15"
   },
@@ -500,7 +503,7 @@
    "date": "2026-10-05",
    "title": "Henri-Lloyd genopliver Consort-jakken",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/october/article/ansvars-forsikring-pantaenius/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__b8dac9caec.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-15"
   },
@@ -559,7 +562,7 @@
    "date": "2026-10-04",
    "title": "Konge resultat: Frederik på podiet i PAC 52 i St. Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/konge-resultat-frederik-paa-podiet-i-pac-52-i-st-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_ac6b492a9a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/e/csm_kongen_styrer_5536277070_1988840666777736080_n_af93dc88f4.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-15"
   },
@@ -569,7 +572,7 @@
    "date": "2026-10-04",
    "title": "Minbaad.dk vokser - styrer mod 1,5 mio. unikke læsere i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_35915dc01e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg",
    "cat": "Andet",
    "tjek": "2026-10-15"
   },
@@ -579,7 +582,7 @@
    "date": "2026-10-03",
    "title": "Når Sundet bliver mørkt: 10 råd til sikker natsejlads",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_1f9c420187.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_660c4f115f.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-15"
   },
@@ -638,8 +641,8 @@
    "date": "2026-10-02",
    "title": "Sejlbåd fanget i brændingen - forsejl var ikke nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
    "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
    "tjek": "2026-10-15"
   },
   {
@@ -717,8 +720,8 @@
    "date": "2026-10-01",
    "title": "Mikkelsen og Rosa-Lux tog sejren ved X-99-mesterskabet",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_1bdae5a5a4.jpeg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_x_70034_1bdae5a5a4.jpeg",
    "tjek": "2026-10-15"
   },
   {
@@ -789,15 +792,6 @@
    "tjek": "2026-10-08"
   },
   {
-   "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
-   "source": "Minbåd.dk",
-   "date": "2026-09-30",
-   "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg"
-  },
-  {
    "key": "med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan",
    "source": "Minbåd.dk",
    "date": "2026-09-30",
@@ -805,6 +799,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
    "cat": "Tursejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
+  },
+  {
+   "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg"
   },
   {
    "key": "19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7",
