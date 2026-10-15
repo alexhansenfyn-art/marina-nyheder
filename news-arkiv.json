@@ -1,36 +1,26 @@
 {
- "generated": "2026-10-15T11:33:46+00:00",
- "count": 144,
+ "generated": "2026-10-15T15:46:50+00:00",
+ "count": 143,
  "items": [
   {
-   "key": "finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Finsk bådmægler Blue Ocean går ind i Danmark – møder bådejere på Copenhagen Boat Show",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/finsk-baadmaegler-blue-ocean-gaar-ind-i-danmark-moeder-baadejere-paa-copenhagen-boat-show/",
-   "cat": "Andet",
-   "sum": "Finsk bådmægler Blue Ocean etablerer sig i Danmark med Martin Lindbæk som repræsentant og deltager i Copenhagen Boat Show i Ishøj.",
-   "tjek": "2026-09-11"
+   "key": "baadmagasinet-34382",
+   "source": "Bådmagasinet",
+   "date": "2026-08-28",
+   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
+   "cat": "Kapsejlads",
+   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient.",
+   "tjek": "2026-09-04"
   },
   {
-   "key": "nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med",
-   "source": "Minbåd.dk",
+   "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
+   "source": "Motorbådsnyt",
    "date": "2026-08-27",
-   "title": "Nibe-folk sejlede feriebåden til Ylva-DM i Middelfart – og opdagede, at de kunne følge med",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/nibe-folk-sejlede-feriebaaden-til-ylva-dm-i-middelfart-og-opdagede-at-de-kunne-foelge-med/",
-   "cat": "Kapsejlads",
-   "sum": "Et par sejlede fra Nibe til Middelfart for at deltage i Ylva-DM kombineret med sommerferie. De endte sidst, men fandt ud af, at de kunne følge med de mere erfarne.",
-   "tjek": "2026-09-10"
-  },
-  {
-   "key": "fire-ilca-dm-i-vallensbaek-med-70-sejlere",
-   "source": "Minbåd.dk",
-   "date": "2026-08-27",
-   "title": "Fire ILCA-DM i Vallensbæk med 70 sejlere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/august/article/fire-ilca-dm-i-vallensbaek-med-70-sejlere/",
-   "cat": "Kapsejlads",
-   "sum": "Fire ILCA-klasser og Europajolle afvikler DM i Vallensbæk med 70 deltagere og over 50 frivillige. Stævnet kræver stor lokal organisation og trækker på mange kræfter.",
-   "tjek": "2026-09-10"
+   "title": "150 både til Copenhagen Boat Show med gratis indgang",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/d/csm_c_CBS26__08_45094945e1.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   },
   {
    "key": "nyt-samtalespil-skal-skabe-staerkere-faellesskaber-ombord",

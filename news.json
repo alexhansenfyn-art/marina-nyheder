@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T11:33:46+00:00",
- "count": 444,
+ "generated": "2026-10-15T15:46:50+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
@@ -38,6 +38,22 @@
    "title": "Jeppe Borch deler førstepladsen i Bermuda Gold Cup efter seks sejladser",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_borch_-Image-2026-10-14-at-18.36.11-1170x650_297946cb4e.jpeg"
+  },
+  {
+   "key": "batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst",
+   "source": "Minbåd.dk",
+   "date": "2026-10-15",
+   "title": "Batterier kan blive i båden om vinteren, men lad dem helt op først",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/batterier-kan-blive-i-baaden-om-vinteren-men-lad-dem-helt-op-foerst/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/b/csm_batteri_i_baad_om_vinteren_fd71dca036.jpg"
+  },
+  {
+   "key": "baadmagasinet-34501",
+   "source": "Bådmagasinet",
+   "date": "2026-10-15",
+   "title": "Golden Globe Race: Straffes med 16 dages sejlads på stedet!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34501-golden-globe-race-straffes-med-16-dages-sejlads-pa-stedet",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/screenshot_2026-10-15_at_15.31.48.jpg"
   },
   {
    "key": "baadmagasinet-34497",
@@ -2941,26 +2957,6 @@
    "cat": "Andet",
    "sum": "Det spanske lystbådemarked",
    "tjek": "2026-09-09"
-  },
-  {
-   "key": "baadmagasinet-34382",
-   "source": "Bådmagasinet",
-   "date": "2026-08-28",
-   "title": "Ocean Race skriver historie: Nu bliver der 50/50 om bord",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34382-ocean-race",
-   "cat": "Kapsejlads",
-   "sum": "The Ocean Race Atlantic får for første gang lige mange mænd og kvinder om bord på alle både. Løbet går fra New York til Lorient.",
-   "tjek": "2026-09-04"
-  },
-  {
-   "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-27",
-   "title": "150 både til Copenhagen Boat Show med gratis indgang",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/august/article/150-baade-til-copenhagen-boat-show-med-gratis-indgang/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/d/csm_c_CBS26__08_45094945e1.jpg",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show afholdes i Ishøj med 150 både, over 70 firmaer og gratis adgang i anledning af 10-års jubilæet. Der er prøvesejlads og aktiviteter for både børn og voksne."
   }
  ]
 }
