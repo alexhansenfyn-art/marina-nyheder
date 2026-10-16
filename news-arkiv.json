@@ -1,16 +1,36 @@
 {
- "generated": "2026-10-16T05:10:59+00:00",
+ "generated": "2026-10-16T09:53:32+00:00",
  "count": 143,
  "items": [
   {
-   "key": "baadmagasinet-34378",
+   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
+   "tjek": "2026-09-12"
+  },
+  {
+   "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
+   "source": "Minbåd.dk",
+   "date": "2026-08-28",
+   "title": "ILCA 7-VM: Schubert viser høj klasse i verdens hårdeste jolle",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
+   "cat": "Kapsejlads",
+   "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "baadmagasinet-34384",
    "source": "Bådmagasinet",
    "date": "2026-08-28",
-   "title": "Fremgang på det spanske bådmarked – især større både vinder frem",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34378-fremgang-pa-det-spanske-badmarked-isaer-storre-bade-vinder-frem",
-   "cat": "Andet",
-   "sum": "Det spanske lystbådemarked",
-   "tjek": "2026-09-09"
+   "title": "Farvel til den norske konge - og en stor sejler",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34384-farvel-til-den-norske-konge-og-en-stor-sejler",
+   "cat": "Kapsejlads",
+   "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab.",
+   "tjek": "2026-09-10"
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -65,8 +85,7 @@
    "source": "Motorbådsnyt",
    "date": "2026-08-21",
    "title": "Sådan får du et friskere indeklima i båden",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/7/csm_kan_rg_9a-49ec-8678-8173a48d2ee3_e675c6841f.png"
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
@@ -375,13 +394,6 @@
    "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_no_worries-beskaaret-jpg_c090a0d923.jpg"
-  },
-  {
-   "key": "garmin-dropper-sort-boks-i-ny-livescope-2-serie",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-08",
-   "title": "Garmin dropper sort boks i ny LiveScope 2-serie",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/july/article/garmin-dropper-sort-boks-i-ny-livescope-2-serie/"
   },
   {
    "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
@@ -723,13 +735,6 @@
    "title": "En “maskinarbejder” med turbo på går i havn",
    "url": "https://flidhavne.dk/en-maskinarbejder-med-turbo-paa-gaar-i-havn/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/03/Tom-siger-farvel.png"
-  },
-  {
-   "key": "seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen",
-   "source": "Minbåd.dk",
-   "date": "2026-03-26",
-   "title": "Seks klubber forlod Dansk Sejlunion: Medlemstal falder igen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/march/article/seks-klubber-forlod-dansk-sejlunion-medlemstal-falder-igen/"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/medlemstal-afsloerer-ny-udvikling-i-sejlsporten",
