@@ -1,36 +1,16 @@
 {
- "generated": "2026-10-16T09:53:32+00:00",
- "count": 143,
+ "generated": "2026-10-16T14:55:44+00:00",
+ "count": 141,
  "items": [
   {
-   "key": "optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "Optimismen vender tilbage på Copenhagen Boat Show: – Man skal også huske at leve",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/optimismen-vender-tilbage-paa-copenhagen-boat-show-man-skal-ogsaa-huske-at-leve/",
-   "cat": "Udstyr & både",
-   "sum": "Copenhagen Boat Show åbnede med optimisme og øget salg. Forhandlere melder om stigende interesse og salg af både og motorer, og budskabet er, at man også skal huske at leve trods usikkerhed.",
-   "tjek": "2026-09-12"
-  },
-  {
-   "key": "ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse",
-   "source": "Minbåd.dk",
-   "date": "2026-08-28",
-   "title": "ILCA 7-VM: Schubert viser høj klasse i verdens hårdeste jolle",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/august/article/ilca-7-vm-schubert-viser-hoej-klasse-i-verdens-haardeste-jolleklasse/",
-   "cat": "Kapsejlads",
-   "sum": "Johan Schubert fra Horsens Sejlklub ligger nummer 33 efter to sejladser i guldfeltet ved ILCA 7-VM i Irland. Han fik en niendeplads og en 42.-plads på tredjedagen.",
-   "tjek": "2026-09-11"
-  },
-  {
-   "key": "baadmagasinet-34384",
+   "key": "baadmagasinet-34381",
    "source": "Bådmagasinet",
    "date": "2026-08-28",
-   "title": "Farvel til den norske konge - og en stor sejler",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34384-farvel-til-den-norske-konge-og-en-stor-sejler",
-   "cat": "Kapsejlads",
-   "sum": "Norges Kong Harald V er død, 89 år. Han var en aktiv og succesfuld kapsejler med OL-deltagelse og verdensmesterskab.",
-   "tjek": "2026-09-10"
+   "title": "Piraterne kommer til Sønderborg",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34381-piraterne-kommer-til-sonderborg",
+   "img": "https://www.baadmagasinet.dk/images/-----august26/pirater_soenderborg.jpg",
+   "cat": "Havneliv",
+   "sum": "Sønderborg Havn lægger kaj til piratfestival med de historiske skibe Den Store Bjørn og Belle Amie, gratis aktiviteter for hele familien."
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -54,7 +34,8 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
