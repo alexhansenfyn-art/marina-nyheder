@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T18:52:51+00:00",
+ "generated": "2026-10-17T21:31:49+00:00",
  "count": 441,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 141,
@@ -13,7 +13,8 @@
    "date": "2026-10-17",
    "title": "Frygtløs solosejler Erik Aanderaa satte kurs mod Nordpolen – sejlede 3.597 sømil",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/october/article/frygtloes-solosejler-erik-aanderaa-satte-kurs-mod-nordpolen-sejlede-3597-soemil/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/8/csm_er_490959_18624705445052326_8827862232242655978_n_74916aec72.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/8/csm_er_490959_18624705445052326_8827862232242655978_n_74916aec72.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "ronstans-kuglelejede-slaeder-goer-det-lettere-at-saette-og-bjaerge-storsejlet-fra-cockpittet",
@@ -99,7 +100,8 @@
    "date": "2026-10-15",
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__67afa54e82.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__67afa54e82.jpeg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset",
@@ -302,7 +304,8 @@
    "title": "Endnu en trimaran var sekunder fra at vælte i Silverrudder 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/october/article/endnu-en-trimaran-var-sekunder-fra-at-vaelte-i-silverrudder-2026/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_89b4d4c851.jpg",
-   "tjek": "2026-10-17"
+   "tjek": "2026-10-17",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34488",
