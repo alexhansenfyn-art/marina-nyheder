@@ -1,7 +1,27 @@
 {
- "generated": "2026-10-17T05:04:18+00:00",
- "count": 141,
+ "generated": "2026-10-17T09:26:58+00:00",
+ "count": 147,
  "items": [
+  {
+   "key": "baadmagasinet-34372",
+   "source": "Bådmagasinet",
+   "date": "2026-08-29",
+   "title": "En æra er slut! Bermuda Gold Cup siger farvel til de gamle IOD-klassikere",
+   "url": "https://www.baadmagasinet.dk/world-match-racing/34372-bermuda-gold-cup-siger-farvel-til-de-gamle-klassikere-jeppe-borch-klar-til-start",
+   "cat": "Kapsejlads",
+   "sum": "Bermuda Gold Cup skifter til Fareast 28R både, og Jeppe Borch deltager med gode chancer, da han har vundet i denne bådtype. For første gang sejler mænd og kvinder sammen i samme felt.",
+   "tjek": "2026-09-05"
+  },
+  {
+   "key": "baadmagasinet-34385",
+   "source": "Bådmagasinet",
+   "date": "2026-08-29",
+   "title": "Vagtskifte hos Columbus Marine - fejret på Copenhagen Boat Show",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34385-vagtskifte-hos-columbus-marine-fejret-pa-copenhagen-boat-show",
+   "cat": "Andet",
+   "sum": "Columbus Marine fejrede på Copenhagen Boat Show et generationsskifte, hvor Mads Lobert overtager fra Henrik Nielsen. Trods dårligt vejr besøgte omkring 1.300 gæster messen fredag.",
+   "tjek": "2026-09-05"
+  },
   {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
    "source": "Motorbådsnyt",
@@ -9,8 +29,7 @@
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
+   "cat": "Sikkerhed"
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -34,16 +53,14 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -147,16 +164,14 @@
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -164,14 +179,6 @@
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/"
-  },
-  {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
@@ -226,14 +233,6 @@
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/07/Design-uden-navn-1024x512.png"
   },
   {
-   "key": "tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-07-24",
-   "title": "Tre p-afgifter blev dråben: Sejlerpar forlader Aarhus Havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/july/article/tre-p-afgifter-blev-draaben-sejlerpar-forlader-aarhus-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_aar_20260709_203801_ed164e35ea.jpg"
-  },
-  {
    "key": "ny-ansoegningsrunde-aabner-for-flere-redningsstiger-i-havnene",
    "source": "Motorbådsnyt",
    "date": "2026-07-22",
@@ -274,14 +273,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_toe_7d55-3c91-4211-a97f-db7a5e3dcd68_97a1d1a775.png"
   },
   {
-   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
-   "source": "Minbåd.dk",
-   "date": "2026-07-19",
-   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_fc37f0e90a.jpg"
-  },
-  {
    "key": "sygeplejerske-i-husbaad-slipper-med-3100-kroner-i-husleje",
    "source": "Minbåd.dk",
    "date": "2026-07-19",
@@ -296,6 +287,14 @@
    "title": "Farligt SUP-board bliver som et badedyr i fralandsvind",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/farligt-sup-board-bliver-som-et-badedyr-i-fralandsvind/",
    "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_csm_sup_pr_adcd90dadf_cbeee69ff4.jpg"
+  },
+  {
+   "key": "fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa",
+   "source": "Minbåd.dk",
+   "date": "2026-07-19",
+   "title": "Fyldt havn: Inderste båd skal acceptere både udenpå",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/july/article/fyldt-havn-inderste-baad-skal-acceptere-baade-udenpaa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_havn180719_100320_87ff44dc04.jpg"
   },
   {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
@@ -329,14 +328,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_kvindelig_skipper_20260714_185305_d1be2a9d96.jpg"
   },
   {
-   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg"
-  },
-  {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
@@ -361,22 +352,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_baad_grund_3_2293645541443826_2475832148515561780_n_2f42a90765.jpg"
   },
   {
-   "key": "planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort",
-   "source": "Minbåd.dk",
-   "date": "2026-07-12",
-   "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e94337c6b7.jpg"
-  },
-  {
-   "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
-   "source": "Minbåd.dk",
-   "date": "2026-07-09",
-   "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_no_worries-beskaaret-jpg_c090a0d923.jpg"
-  },
-  {
    "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
    "source": "Danske Tursejlere",
    "date": "2026-07-07",
@@ -399,14 +374,6 @@
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg"
-  },
-  {
-   "key": "vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund",
-   "source": "Minbåd.dk",
-   "date": "2026-07-05",
-   "title": "Vejrø: Når visioner og stædighed skaber et levende ø-samfund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/july/article/vejroe-naar-visioner-og-staedighed-skaber-et-levende-oe-samfund/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_vejro_1_h_f6c5611356.jpeg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/em-venter-sejlerlandsholdet-jagter-topplaceringer-i-eckernfoerde",
@@ -1110,6 +1077,86 @@
    "title": "Ærø slår Danmarksrekord i antal anløb",
    "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg"
+  },
+  {
+   "key": "bonderoevshavn-i-limfjorden",
+   "source": "Minbåd.dk",
+   "date": "2011-08-06",
+   "title": "Bonderøvshavn i Limfjorden",
+   "url": "https://minbaad.dk/nyhed/archive/2011/06/august/article/bonderoevshavn-i-limfjorden/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/0/csm_havnxSundby-Hvorup_1_380c3ab1ff.jpg"
+  },
+  {
+   "key": "plyndringstogt-i-rungsted-havn-video-oenskes",
+   "source": "Minbåd.dk",
+   "date": "2011-08-02",
+   "title": "Plyndringstogt i Rungsted Havn - video ønskes",
+   "url": "https://minbaad.dk/nyhed/archive/2011/02/august/article/plyndringstogt-i-rungsted-havn-video-oenskes/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_Rungsted_havn_2_01_0344b92945.jpg"
+  },
+  {
+   "key": "sejlerne-svigter-anholt-samsoe-og-tunoe-i-aar",
+   "source": "Minbåd.dk",
+   "date": "2011-07-21",
+   "title": "Sejlerne svigter Anholt, Samsø og Tunø i år",
+   "url": "https://minbaad.dk/nyhed/archive/2011/21/july/article/sejlerne-svigter-anholt-samsoe-og-tunoe-i-aar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/c/csm_anholt-luftbild-hq_9e8b564222.jpg"
+  },
+  {
+   "key": "flere-sejlere-besoeger-skagen-og-frederikshavn",
+   "source": "Minbåd.dk",
+   "date": "2011-07-21",
+   "title": "Flere sejlere besøger Skagen og Frederikshavn",
+   "url": "https://minbaad.dk/nyhed/archive/2011/21/july/article/flere-sejlere-besoeger-skagen-og-frederikshavn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_skagen_fran_fyren_bc07bbc3ce.jpg"
+  },
+  {
+   "key": "godt-nyt-til-tursejlerne-gratis-app-havnelods",
+   "source": "Minbåd.dk",
+   "date": "2011-07-12",
+   "title": "Godt nyt til tursejlerne - gratis app havnelods",
+   "url": "https://minbaad.dk/nyhed/archive/2011/12/july/article/godt-nyt-til-tursejlerne-gratis-app-havnelods/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_androidss-480-0-0_10a3c388bf.jpg"
+  },
+  {
+   "key": "endelave-havn-nyt-badehus-og-sommersjov-for-boern",
+   "source": "Minbåd.dk",
+   "date": "2011-07-04",
+   "title": "Endelave Havn: Nyt badehus og sommersjov for børn",
+   "url": "https://minbaad.dk/nyhed/archive/2011/04/july/article/endelave-havn-nyt-badehus-og-sommersjov-for-boern/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_endelave1_8d1a8aba77.jpg"
+  },
+  {
+   "key": "lang-ventetid-paa-baadplads-i-havnene",
+   "source": "Minbåd.dk",
+   "date": "2011-06-26",
+   "title": "Lang ventetid på bådplads i havnene",
+   "url": "https://minbaad.dk/nyhed/archive/2011/26/june/article/lang-ventetid-paa-baadplads-i-havnene/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_bb1_600_8f775af1e8.jpg"
+  },
+  {
+   "key": "nyt-nej-til-marinaprojekt-i-nyborg-faergehavn",
+   "source": "Minbåd.dk",
+   "date": "2011-05-23",
+   "title": "Nyt nej til marinaprojekt i Nyborg færgehavn",
+   "url": "https://minbaad.dk/nyhed/archive/2011/23/may/article/nyt-nej-til-marinaprojekt-i-nyborg-faergehavn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/8/csm_marina914d_865a2dbe2f.jpg"
+  },
+  {
+   "key": "faerre-havne-med-blaa-flag",
+   "source": "Minbåd.dk",
+   "date": "2011-05-14",
+   "title": "Færre havne med Blå Flag",
+   "url": "https://minbaad.dk/nyhed/archive/2011/14/may/article/faerre-havne-med-blaa-flag/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/5/csm_blue_flag_a94c1fd786.jpg"
+  },
+  {
+   "key": "stadig-flere-hjertestartere-i-lystbaadehavne",
+   "source": "Minbåd.dk",
+   "date": "2011-04-10",
+   "title": "Stadig flere hjertestartere i lystbådehavne",
+   "url": "https://minbaad.dk/nyhed/archive/2011/10/april/article/stadig-flere-hjertestartere-i-lystbaadehavne/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_hjertestarteenet_4005c168e0.jpg"
   }
  ]
 }
