@@ -1,11 +1,10 @@
 {
- "generated": "2026-10-17T09:26:58+00:00",
- "count": 447,
+ "generated": "2026-10-17T13:16:11+00:00",
+ "count": 441,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 147,
+ "arkiv_antal": 141,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Ud"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -611,8 +610,8 @@
    "title": "VI SØGER EN HAVNEFOGED TIL VORES LYSTBÅDEHAVN PÅ LANGELINIE",
    "url": "https://flidhavne.dk/vi-soeger-en-havnefoged-til-vores-lystbaadehavn-paa-langelinie/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Billede-af-langeliniehavnen_3.png",
-   "tjek": "2026-10-17",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-17"
   },
   {
    "key": "baadmagasinet-34477",
@@ -741,8 +740,8 @@
    "title": "Grenaa Marina søger ny havnemester",
    "url": "https://flidhavne.dk/grenaa-marina-soeger-havnemester/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg",
-   "tjek": "2026-10-17",
-   "cat": "Andet"
+   "cat": "Andet",
+   "tjek": "2026-10-17"
   },
   {
    "key": "dansketursejlere-pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber",
@@ -937,8 +936,8 @@
    "date": "2026-09-29",
    "title": "Netværk vil gøre langtursejlads mere tilgængelig for unge",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_l_2026_mikkel-juulsgaard_unge_solnedgang-org_39b5358d68.jpg",
-   "cat": "Tursejlads"
+   "cat": "Tursejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_l_2026_mikkel-juulsgaard_unge_solnedgang-org_39b5358d68.jpg"
   },
   {
    "key": "husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort",
