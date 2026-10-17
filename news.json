@@ -1,12 +1,22 @@
 {
- "generated": "2026-10-17T00:32:01+00:00",
- "count": 440,
+ "generated": "2026-10-17T05:04:18+00:00",
+ "count": 441,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 140,
+ "arkiv_antal": 141,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34499",
+   "source": "Bådmagasinet",
+   "date": "2026-10-17",
+   "title": "Fra fodboldstøvler til sejlersko – Messi bestiller luksuskatamaran",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34499-fra-fodboldstovler-til-sejlersko-messi-bestiller-luksuskatamaran",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/5-ext1_2.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "sdan-gores-indenbordsmotoren-vinterklar-se-tjekliste",
    "source": "Minbåd.dk",
@@ -711,7 +721,8 @@
    "date": "2026-10-02",
    "title": "Grenaa Marina søger ny havnemester",
    "url": "https://flidhavne.dk/grenaa-marina-soeger-havnemester/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg"
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg",
+   "tjek": "2026-10-17"
   },
   {
    "key": "dansketursejlere-pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber",
@@ -720,7 +731,8 @@
    "title": "PRESSEMEDDELELSE: Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber",
    "url": "https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/Sejlklubben-Koebenhavn-3-scaled-e1790940216742-1024x512.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-17"
   },
   {
    "key": "dansketursejlere-nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
@@ -2942,16 +2954,6 @@
    "cat": "Andet",
    "sum": "Columbus Marine fejrede på Copenhagen Boat Show et generationsskifte, hvor Mads Lobert overtager fra Henrik Nielsen. Trods dårligt vejr besøgte omkring 1.300 gæster messen fredag.",
    "tjek": "2026-09-05"
-  },
-  {
-   "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-28",
-   "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
-   "cat": "Sikkerhed",
-   "sum": "Søsportens Sikkerhedsråd opstiller nye skilte i Ishøj Havn for at få flere sejlere til at bruge redningsvest og forebygge drukneulykker."
   }
  ]
 }
