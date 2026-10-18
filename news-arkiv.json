@@ -1,14 +1,45 @@
 {
- "generated": "2026-10-18T06:38:23+00:00",
- "count": 141,
+ "generated": "2026-10-18T11:47:17+00:00",
+ "count": 144,
  "items": [
+  {
+   "key": "nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar",
+   "source": "Minbåd.dk",
+   "date": "2026-08-30",
+   "title": "Nyt bådregister rykker nærmere – 2.000 forladte både på fem år",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/nyt-baadregister-rykker-naermere-2000-forladte-baade-paa-fem-aar/",
+   "cat": "Havneliv",
+   "sum": "Nyt bådregister skal løse problemet med tusindvis af forladte både i danske havne. Erhvervsministeren beder Søfartsstyrelsen undersøge sagen.",
+   "tjek": "2026-09-13"
+  },
+  {
+   "key": "baadmagasinet-34388",
+   "source": "Bådmagasinet",
+   "date": "2026-08-30",
+   "title": "Vejrguderne forsøgte – men bådfesten fortsatte i Ishøj",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34388-vejrguderne-forsogte-men-badfesten-fortsatte-i-ishoj",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show i Ishøj Havn trak trods regn og blæst tæt på 10.000 besøgende over fire dage. Flere bådhandlere melder om konkrete salg, bl.a. en X.43 fra X-Yachts.",
+   "tjek": "2026-09-06"
+  },
+  {
+   "key": "kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport",
+   "source": "Minbåd.dk",
+   "date": "2026-08-29",
+   "title": "Kong Harald havde ild i øjnene, når talen faldt på sejlsport",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/august/article/kong-harald-havde-ild-i-oejnene-naar-talen-faldt-paa-sejlsport/",
+   "cat": "Kapsejlads",
+   "sum": "Norges afdøde kong Harald beskrives som en passioneret kapsejler med en lang karriere i flere bådklasser, hvor han blandt andet deltog i OL. Han var kendt for at være en af holdet og opnåede gode resultater.",
+   "tjek": "2026-09-11"
+  },
   {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
    "source": "Motorbådsnyt",
    "date": "2026-08-28",
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
@@ -32,7 +63,8 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
@@ -48,7 +80,8 @@
    "date": "2026-08-24",
    "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_f775639664.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "saadan-ruller-du-fribord-og-daek-med-epifanes-med-super-finish-jeg-gjorde-det-paa-min-shipman-28",
