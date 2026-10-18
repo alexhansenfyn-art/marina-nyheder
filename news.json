@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T14:55:28+00:00",
+ "generated": "2026-10-18T18:10:33+00:00",
  "count": 441,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 141,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Kapsejlads"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
  ],
  "items": [
   {
@@ -85,7 +85,8 @@
    "date": "2026-10-16",
    "title": "Hjertmans Bådudstyr i Kolding søger elev – hurtig ansættelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/october/article/hjertmans-baadudstyr-i-kolding-soeger-butikselev-hurtig-ansaettelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/e/csm_kolding_stor_pix_ad-86a1-57931de16de8_3e41230d45.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/e/csm_kolding_stor_pix_ad-86a1-57931de16de8_3e41230d45.png",
+   "cat": "Andet"
   },
   {
    "key": "lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden",
