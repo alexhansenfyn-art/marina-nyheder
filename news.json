@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T11:47:17+00:00",
- "count": 444,
+ "generated": "2026-10-18T14:55:28+00:00",
+ "count": 441,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 141,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":"
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Kapsejlads"
  ],
  "items": [
   {
@@ -14,7 +14,8 @@
    "date": "2026-10-18",
    "title": "Ferrari bygger flyvende 30 meter 'rumskib' - skal udfordre flerskrogsbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/ferrari-bygger-flyvende-30-meter-rumskib-skal-udfordre-flerskrogsbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_3d534dc892.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_3d534dc892.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord",
@@ -381,8 +382,8 @@
    "title": "Sådan vinterkonserverer du din påhængsmotor – undgå dyre skader",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/october/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_b2255c3898.jpg",
-   "tjek": "2026-10-18",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-18"
   },
   {
    "key": "baadmagasinet-34487",
@@ -802,7 +803,8 @@
    "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg",
-   "tjek": "2026-10-15"
+   "tjek": "2026-10-15",
+   "cat": "Andet"
   },
   {
    "key": "baadmagasinet-34473",
