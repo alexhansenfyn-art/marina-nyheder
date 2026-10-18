@@ -1,11 +1,10 @@
 {
- "generated": "2026-10-18T18:10:33+00:00",
+ "generated": "2026-10-18T20:47:15+00:00",
  "count": 441,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 141,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \""
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
@@ -101,7 +100,7 @@
    "key": "baadmagasinet-34498",
    "source": "Bådmagasinet",
    "date": "2026-10-16",
-   "title": "Mindre fald i sommerens gæstesejlere i Gammel Havn i Fredericia",
+   "title": "Gammel Havn i Fredericia melder om mindre fald i antal gæstesejlere",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34498-mindre-fald-i-sommerens-gaestesejlere-i-gammel-havn-i-fredericia",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/fred_forside.jpg"
   },
