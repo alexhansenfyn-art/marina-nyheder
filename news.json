@@ -1,19 +1,28 @@
 {
- "generated": "2026-10-19T11:18:14+00:00",
- "count": 444,
+ "generated": "2026-10-19T17:37:11+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 142,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "rigskade-paa-saga-36-sender-70-aarig-ud-af-solosejladsen-golden-globe-race",
+   "source": "Minbåd.dk",
+   "date": "2026-10-19",
+   "title": "Rigskade på Saga 36 sender 70-årig ud af solosejladsen Golden Globe Race",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/rigskade-paa-saga-36-sender-70-aarig-ud-af-solosejladsen-golden-globe-race/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/9/csm_golden_less-mcintyre_ggr_a7b0974be0.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "5-gode-rd-til-vinteropbevaring-af-sejl-salt-er-fjenden",
    "source": "Minbåd.dk",
    "date": "2026-10-19",
    "title": "5 gode råd til vinteropbevaring af sejl - salt er fjenden",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/5-gode-rd-til-vinteropbevaring-af-sejl-salt-er-fjenden/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/d/csm_x_79_fyn_cup_1fd469750b.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/d/csm_x_79_fyn_cup_24d0a52ed7.jpg"
   },
   {
    "key": "kvinder-ejede-skibe-og-styrede-rederier-i-1800-tallet-nu-faar-de-en-udstilling",
@@ -21,7 +30,7 @@
    "date": "2026-10-19",
    "title": "Kvinder ejede skibe og styrede rederier i 1800-tallet – nu får de egen udstilling",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/kvinder-ejede-skibe-og-styrede-rederier-i-1800-tallet-nu-faar-de-en-udstilling/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_9df0448bc2.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_4f0a64b6a2.jpg"
   },
   {
    "key": "tre-aar-efter-den-historiske-stormflod",
@@ -43,9 +52,10 @@
    "key": "baadmagasinet-34504",
    "source": "Bådmagasinet",
    "date": "2026-10-19",
-   "title": "Hamilton nappede Poole – men denne gang var det på vandet!",
+   "title": "Hamilton nappede Poole – men denne gang på vandet!",
    "url": "https://www.baadmagasinet.dk/world-match-racing/34504-hamilton-nappede-poole-men-denne-gang-var-det-pa-vandet",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_hamilton_forside.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_hamilton_forside.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord",
@@ -71,7 +81,7 @@
    "date": "2026-10-18",
    "title": "Anholt trak tusindvis af gæstesejlere til Kattegat i 2026 - flere end normalt",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/anholt-trak-tusindvis-af-gaestesejlere-til-kattegat-i-2026-flere-end-normalt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_anholt_20200731_112616_aee35fda85.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_anholt_20200731_112616_b0e5d6abeb.jpg"
   },
   {
    "key": "frygtloes-solosejler-erik-aanderaa-satte-kurs-mod-nordpolen-sejlede-3597-soemil",
@@ -219,7 +229,7 @@
    "date": "2026-10-14",
    "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_e73a9f8819.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_729a68781b.jpg",
    "cat": "Tursejlads"
   },
   {
@@ -291,7 +301,7 @@
    "date": "2026-10-12",
    "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_ac58308935.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg",
    "cat": "Andet",
    "tjek": "2026-10-19"
   },
@@ -399,7 +409,7 @@
    "date": "2026-10-09",
    "title": "Test: Jeanneau Sun Odyssey 455 har det smarteste cockpit",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/october/article/test-jeanneau-sun-odyssey-455-har-det-smarteste-cockpit/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/0/csm_jeanneau_59ec5cf15b9_3abf326afd.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/0/csm_jeanneau_59ec5cf15b9_56fa972c31.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-19"
   },
@@ -409,7 +419,7 @@
    "date": "2026-10-09",
    "title": "Tursejlads til 10 af de smukkeste øer i Göteborgs skærgård",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/october/article/tursejlads-til-10-af-de-smukkeste-oeer-i-goeteborgs-skaergaard/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_got_astol-1_45aeedc029.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_got_astol-1_1729246427.jpg",
    "cat": "Tursejlads",
    "tjek": "2026-10-19"
   },
@@ -466,7 +476,7 @@
    "date": "2026-10-08",
    "title": "Sådan vasker du din bådkaleche, mindst en gang per sæson - læg den i blød i seks timer",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/saadan-vasker-du-din-baadkaleche-mindst-en-gang-per-saeson-laeg-den-i-bloed-i-seks-i-timer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_kaleche_fra_schulz_sejlmageri_13fcb7f1a4.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_kaleche_fra_schulz_sejlmageri_1220033bd9.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-19"
   },
@@ -516,7 +526,7 @@
    "date": "2026-10-07",
    "title": "Vendée Globe-sejler tæt på dramatisk kollision i Saint-Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/vendee-globe-sejler-taet-paa-dramatisk-kollision-i-saint-tropez/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_c3ff9d34d9.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png",
    "tjek": "2026-10-19"
   },
   {
@@ -586,22 +596,22 @@
    "tjek": "2026-10-19"
   },
   {
-   "key": "print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin",
-   "source": "Minbåd.dk",
-   "date": "2026-10-06",
-   "title": "Print er ikke dødt: Bådmagasinet lancerer nyt magasin",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png",
-   "cat": "Andet",
-   "tjek": "2026-10-19"
-  },
-  {
    "key": "maaske-er-det-tid-til-at-finde-jollen-frem-igen",
    "source": "Minbåd.dk",
    "date": "2026-10-06",
    "title": "Måske er det tid til at finde jollen frem igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_a11ddbf2b3.jpg",
+   "tjek": "2026-10-19"
+  },
+  {
+   "key": "print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin",
+   "source": "Minbåd.dk",
+   "date": "2026-10-06",
+   "title": "Print er ikke dødt: Bådmagasinet lancerer nyt magasin",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/print-er-ikke-doedt-baadmagasinet-lancerer-nyt-magasin/",
+   "cat": "Andet",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_top_Forside_BaadeSejl_Motor_605.jpg_295e0b6219.png",
    "tjek": "2026-10-19"
   },
   {
@@ -734,16 +744,6 @@
    "tjek": "2026-10-19"
   },
   {
-   "key": "naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads",
-   "source": "Minbåd.dk",
-   "date": "2026-10-03",
-   "title": "Når Sundet bliver mørkt: 10 råd til sikker natsejlads",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_660c4f115f.jpg",
-   "tjek": "2026-10-19"
-  },
-  {
    "key": "rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner",
    "source": "Motorbådsnyt",
    "date": "2026-10-03",
@@ -752,6 +752,16 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_f08072928a.jpg",
    "cat": "Udstyr & både",
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner.",
+   "tjek": "2026-10-19"
+  },
+  {
+   "key": "naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads",
+   "source": "Minbåd.dk",
+   "date": "2026-10-03",
+   "title": "Når Sundet bliver mørkt: 10 råd til sikker natsejlads",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/october/article/naar-sundet-bliver-moerkt-10-raad-til-sikker-natsejlads/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_rsnat_z_hveen_2_660c4f115f.jpg",
    "tjek": "2026-10-19"
   },
   {
@@ -779,7 +789,8 @@
    "date": "2026-10-02",
    "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg",
+   "tjek": "2026-10-19"
   },
   {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
@@ -2940,16 +2951,6 @@
    "cat": "Kapsejlads",
    "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
    "tjek": "2026-09-15"
-  },
-  {
-   "key": "22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "22-fods sejlbåd drev ind i skibsruten under Storebæltsbroen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/22-fods-sejlbaad-drev-ind-i-skibsruten-under-storebaeltsbroen/",
-   "cat": "Sikkerhed",
-   "sum": "En 22-fods sejlbåd med tre personer drev i hårdt vejr ind i skibsruten under Storebæltsbroen. Redningsfolk fra Kerteminde fik båden på slæb og bragte den sikkert i havn.",
-   "tjek": "2026-09-14"
   }
  ]
 }
