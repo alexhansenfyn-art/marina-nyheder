@@ -1,12 +1,20 @@
 {
- "generated": "2026-10-19T00:33:24+00:00",
- "count": 441,
+ "generated": "2026-10-19T05:23:16+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 142,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34502",
+   "source": "Bådmagasinet",
+   "date": "2026-10-19",
+   "title": "Ishøj: Havnebestyrelsen opsiger alle beboerne på bådene",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34502-badbeboerne-i-ishoj-havn-er-blevet-opsagt-af-havnebestyrelsen",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_foto_ishoj_havn_dk_2.jpg"
+  },
   {
    "key": "ferrari-bygger-flyvende-30-meter-rumskib-skal-udfordre-flerskrogsbaade",
    "source": "Minbåd.dk",
@@ -711,7 +719,8 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/october/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
    "cat": "Udstyr & både",
-   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
+   "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner.",
+   "tjek": "2026-10-19"
   },
   {
    "key": "baadmagasinet-34470",
@@ -2949,16 +2958,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
    "cat": "Udstyr & både",
    "sum": "Sea Ray SDX 250 Surf er en 7,67 meter bowrider med 703 kilo ballast og NextWave Surf System, designet til wakesurf. Prisen er 1,49 mio. kr., og båden kombinerer familiebåd med vandsportsegenskaber."
-  },
-  {
-   "key": "brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet",
-   "source": "Minbåd.dk",
-   "date": "2026-08-30",
-   "title": "Brandsø Rundt – her er fællesskabet lige så vigtigt som resultatet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/august/article/brandsoe-rundt-her-er-faellesskabet-lige-saa-vigtigt-som-resultatet/",
-   "cat": "Kapsejlads",
-   "sum": "Middelfart Sejlklub lægger vægt på fællesskabet ved Brandsø Rundt 5. september. Sejladsen skal samle både konkurrence og socialt samvær på havnen.",
-   "tjek": "2026-09-14"
   }
  ]
 }
