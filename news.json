@@ -1,21 +1,20 @@
 {
- "generated": "2026-10-20T15:26:47+00:00",
- "count": 444,
+ "generated": "2026-10-20T19:38:47+00:00",
+ "count": 443,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 144,
+ "arkiv_antal": 143,
  "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"H"
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
-   "key": "gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027",
+   "key": "baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret",
    "source": "Minbåd.dk",
    "date": "2026-10-20",
-   "title": "Gratis for lystsejlere at sejle gennem Kielerkanalen i 2027",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_580aef73d1.png"
+   "title": "Båd drevet på grund ved Thurø Rev – lå i dagevis og sled i ankeret",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/5/csm_thuroe_840261937_1769788987863811436_n_4f1049554b.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "helly-hansens-odin-lifa-pro-belay-jacket-med-lette-lifa-fibre-er-til-de-kolde-vintermaaneder",
@@ -27,22 +26,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027",
+   "source": "Minbåd.dk",
+   "date": "2026-10-20",
+   "title": "Gratis for lystsejlere at sejle gennem Kielerkanalen i 2027",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_ee6e423c5d.png"
+  },
+  {
    "key": "sejl-garmin-round-denmark-race-2027-for-1875-kr",
    "source": "Minbåd.dk",
    "date": "2026-10-20",
    "title": "Sejl Garmin Round Denmark Race 2027 for 1.875 kr. per person",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/sejl-garmin-round-denmark-race-2027-for-1875-kr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_276eaedc3b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_1430532d17.jpg",
    "cat": "Kapsejlads"
-  },
-  {
-   "key": "baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret",
-   "source": "Minbåd.dk",
-   "date": "2026-10-20",
-   "title": "Båd drevet på grund ved Thurø Rev – lå i dagevis og sled i ankeret",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/5/csm_thuroe_840261937_1769788987863811436_n_4f1049554b.jpg",
-   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34505",
@@ -152,7 +150,7 @@
    "date": "2026-10-17",
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__67afa54e82.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg",
    "cat": "Udstyr & både"
   },
   {
@@ -240,7 +238,7 @@
    "date": "2026-10-15",
    "title": "Hafenkino i Saint-Tropez: Fokken drillede – og kajen blev kysset",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_ba592956bb.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_0fdf73fe52.png"
   },
   {
    "key": "jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser",
@@ -278,15 +276,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_rigmand_7161-b3e9-a3980b4ddfff_f7cf3d115b.jpg"
   },
   {
-   "key": "linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe",
-   "source": "Minbåd.dk",
-   "date": "2026-10-14",
-   "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_729a68781b.jpg",
-   "cat": "Tursejlads"
-  },
-  {
    "key": "ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2",
    "source": "Minbåd.dk",
    "date": "2026-10-14",
@@ -294,6 +283,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_d4e88b23e6.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe",
+   "source": "Minbåd.dk",
+   "date": "2026-10-14",
+   "title": "Linn, Erik og gravhunden droppede karrieren i Stockholm – nu sejler de til Napoleons eksilø",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/october/article/linn-og-erik-og-gravhunden-droppede-karrieren-i-stockholm-nu-sejler-de-til-napoleons-eksiloe/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/c/csm_linn_16066_17949580971277175_5463083702167063521_n_e73a9f8819.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "baadmagasinet-34495",
@@ -415,7 +413,7 @@
    "date": "2026-10-11",
    "title": "Ralph tryller med sin fars 49 år gamle Edel 545 – til maj skal den på vandet igen",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/october/article/ralph-tryller-med-sin-fars-49-aar-gamle-edel-545-til-maj-skal-den-paa-vandet-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_2633837845.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_3f219c3365.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-20"
   },
@@ -435,7 +433,7 @@
    "date": "2026-10-10",
    "title": "Minbaad.dk vokser - styrer mod 1,5 mio. unikke læsere i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_35915dc01e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg",
    "cat": "Andet",
    "tjek": "2026-10-20"
   },
@@ -485,7 +483,7 @@
    "date": "2026-10-09",
    "title": "Havnetrick til 50 kroner: Sådan lægger du til uden bovpropel – selv i hård vind",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/october/article/havnetrick-til-50-kroner-saadan-laegger-du-til-uden-bovpropel-selv-i-haard-vind/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_laegge_til_MG_20260825_141827_a62d142bf5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_laegge_til_MG_20260825_141827_3be6b19d9b.jpg",
    "tjek": "2026-10-20"
   },
   {
@@ -523,7 +521,7 @@
    "date": "2026-10-08",
    "title": "Ny maritim fagmesse i Helsinki skal samle bådbranchen i Nordeuropa",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/october/article/ny-maritim-fagmesse-i-helsinki-skal-samle-baadbranchen-i-nordeuropa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/9/csm_sik_to_20260206_104441_d756dae8b8.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/9/csm_sik_to_20260206_104441_277c177603.jpg",
    "tjek": "2026-10-20"
   },
   {
@@ -591,8 +589,8 @@
    "date": "2026-10-07",
    "title": "Garmin Round Denmark Race får ny flerskrogs-klasse med TEXEL",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/garmin-round-denmark-race-faar-ny-flerskrogs-klasse-med-texel/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_tex_2A2505_c6a5f14a4d.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_tex_2A2505_c6a5f14a4d.jpg",
    "tjek": "2026-10-20"
   },
   {
@@ -866,7 +864,8 @@
    "title": "Grenaa Marina søger ny havnemester",
    "url": "https://flidhavne.dk/grenaa-marina-soeger-havnemester/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg",
-   "cat": "Andet"
+   "cat": "Andet",
+   "tjek": "2026-10-20"
   },
   {
    "key": "dansketursejlere-pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber",
