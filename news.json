@@ -1,13 +1,20 @@
 {
- "generated": "2026-10-20T00:44:29+00:00",
- "count": 441,
+ "generated": "2026-10-20T05:23:03+00:00",
+ "count": 442,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 141,
+ "arkiv_antal": 142,
  "errors": [
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Ud",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
+  {
+   "key": "baadmagasinet-34505",
+   "source": "Bådmagasinet",
+   "date": "2026-10-20",
+   "title": "Slut med at ro gennem det trafikerede Kronløb - ny overbæring etableret",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34505-ny-overbaering-i-nordhavn-slut-med-at-ro-gennem-det-trafikerede-kronlob",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/unnamed_2.jpg"
+  },
   {
    "key": "rigskade-paa-saga-36-sender-70-aarig-ud-af-solosejladsen-golden-globe-race",
    "source": "Minbåd.dk",
@@ -199,15 +206,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "baadmagasinet-34501",
-   "source": "Bådmagasinet",
-   "date": "2026-10-15",
-   "title": "Golden Globe Race: Straffes med 16 dages sejlads på stedet!",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34501-golden-globe-race-straffes-med-16-dages-sejlads-pa-stedet",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/screenshot_2026-10-15_at_15.31.48.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "baadmagasinet-34497",
    "source": "Bådmagasinet",
    "date": "2026-10-15",
@@ -215,6 +213,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34497-den-gamle-server-gar-pa-pension-ny-tager-over-i-weekenden",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/server_pension.jpg",
    "cat": "Andet"
+  },
+  {
+   "key": "baadmagasinet-34501",
+   "source": "Bådmagasinet",
+   "date": "2026-10-15",
+   "title": "Golden Globe Race: Straffes med 16 dages sejlads på stedet!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34501-golden-globe-race-straffes-med-16-dages-sejlads-pa-stedet",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/screenshot_2026-10-15_at_15.31.48.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "eliteskole-tager-130000-kr-for-14-dages-ophold-paa-luksuskatamaran-sunreef-100-eco",
@@ -2941,16 +2948,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
    "cat": "Kapsejlads",
    "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser.",
-   "tjek": "2026-09-15"
-  },
-  {
-   "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "Kramper i arme og ben kostede Schönherrs EM-medalje i Star",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
-   "cat": "Kapsejlads",
-   "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
    "tjek": "2026-09-15"
   }
  ]
