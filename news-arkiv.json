@@ -1,16 +1,24 @@
 {
- "generated": "2026-10-20T10:29:29+00:00",
- "count": 145,
+ "generated": "2026-10-20T15:26:47+00:00",
+ "count": 144,
  "items": [
+  {
+   "key": "baadmagasinet-34386",
+   "source": "Bådmagasinet",
+   "date": "2026-09-01",
+   "title": "HanseYachts melder om fremgang – klar til næste vækstfase",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34386-hanseyachts-melder-om-fremgang-klar-til-naeste-vaekstfase",
+   "cat": "Udstyr & både",
+   "sum": "HanseYachts melder om fremgang og vækst, præsenterer nye ledelsesmedlemmer og verdenspremierer i Cannes, samt øget brug af AI i bådudvikling.",
+   "tjek": "2026-09-08"
+  },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
    "date": "2026-08-31",
    "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
-   "cat": "Havneliv",
-   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg"
   },
   {
    "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
@@ -18,29 +26,7 @@
    "date": "2026-08-31",
    "title": "Nyt, flydende shelter i Bogense Havn & Marina",
    "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/c/csm_Bogense_Shelter_ab06f704d5.jpg",
-   "cat": "Havneliv",
-   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger."
-  },
-  {
-   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
-   "cat": "Sikkerhed",
-   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
-   "tjek": "2026-09-16"
-  },
-  {
-   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
-   "source": "Minbåd.dk",
-   "date": "2026-08-31",
-   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
-   "cat": "Kapsejlads",
-   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser.",
-   "tjek": "2026-09-15"
+   "img": "https://marinaguide.dk/fileadmin/_processed_/7/c/csm_Bogense_Shelter_ab06f704d5.jpg"
   },
   {
    "key": "sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf",
@@ -82,7 +68,8 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
