@@ -1,15 +1,45 @@
 {
- "generated": "2026-10-20T05:23:03+00:00",
- "count": 142,
+ "generated": "2026-10-20T10:29:29+00:00",
+ "count": 145,
  "items": [
   {
-   "key": "kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star",
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg",
+   "cat": "Havneliv",
+   "sum": "DM i Fladfisk afholdes i Onsevig Havn med omkring 90 både og deltagere fra hele Danmark. Weekendens stævne byder på liv på havnen, indvejning og fangster."
+  },
+  {
+   "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
+   "source": "MarinaGuide",
+   "date": "2026-08-31",
+   "title": "Nyt, flydende shelter i Bogense Havn & Marina",
+   "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
+   "img": "https://marinaguide.dk/fileadmin/_processed_/7/c/csm_Bogense_Shelter_ab06f704d5.jpg",
+   "cat": "Havneliv",
+   "sum": "Bogense Havn & Marina har søsat et nyt flydende shelter med plads til seks personer, bygget af genbrugsmaterialer og tilgængeligt fra vandsiden. Det kan bookes via bookenshelter.dk og har allerede haft 14 bookinger."
+  },
+  {
+   "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
    "source": "Minbåd.dk",
    "date": "2026-08-31",
-   "title": "Kramper i arme og ben kostede Schönherrs EM-medalje i Star",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/kramper-i-arme-og-ben-kostede-schoenherrs-em-medalje-i-star/",
+   "title": "57 fods sejlbåd er stadig strandet ved Langeland - Rune faldt i søvn for anker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker/",
+   "cat": "Sikkerhed",
+   "sum": "En 57 fods sejlbåd fra Aarhus har ligget strandet ved Tryggelev Nor i over fem uger efter, at skipperen faldt i søvn for anker og båden drev fra Marstal. Bjærgningen er vanskelig på grund af bådens størrelse og vægt.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester",
+   "source": "Minbåd.dk",
+   "date": "2026-08-31",
+   "title": "ILCA og Europajolle-DM bød på hård vind, discohits og topsejlads fra verdensmester",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/august/article/ilca-og-europajolle-dm-boed-paa-haard-vind-discohits-og-topsejlads-fra-verdensmester/",
    "cat": "Kapsejlads",
-   "sum": "Ved Star-EM i Medemblik sluttede Jørgen Schönherr på fjerdepladsen og Michael Hestbæk på sjettepladsen. EM-titlen gik til Robert Scheidt.",
+   "sum": "ILCA og Europajolle-DM i Køge Bugt med hård vind, udsatte sejladser og intens medaljekamp. Arrangørerne håndterede vejret med socialt program og sikrede fair sejladser.",
    "tjek": "2026-09-15"
   },
   {
@@ -18,7 +48,8 @@
    "date": "2026-08-30",
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
@@ -26,7 +57,8 @@
    "date": "2026-08-28",
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
