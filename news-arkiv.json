@@ -1,17 +1,7 @@
 {
- "generated": "2026-10-21T17:15:53+00:00",
- "count": 142,
+ "generated": "2026-10-21T20:41:20+00:00",
+ "count": 132,
  "items": [
-  {
-   "key": "askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom",
-   "source": "Minbåd.dk",
-   "date": "2026-09-01",
-   "title": "Askeladden Boats er konkurs efter 100 år: Kassen er tom",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/september/article/askeladden-boats-er-konkurs-efter-mere-end-100-aar-kassen-er-tom/",
-   "cat": "Udstyr & både",
-   "sum": "Det norske værft Askeladden Boats er gået konkurs efter 100 år og mere end 95.000 producerede både. Markedet for fritidsbåde er svækket, og selskabet har ikke kunnet sikre økonomien.",
-   "tjek": "2026-09-17"
-  },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
@@ -541,14 +531,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/june/article/test-bayliner-v20-med-udenbords-eller-indenbordsmotor-med-spaendende-forskelle/"
   },
   {
-   "key": "baadmagasinet-34145",
-   "source": "Bådmagasinet",
-   "date": "2026-05-30",
-   "title": "Elvstrøm Sails med fire sejldugsteknologier – men hvad passer bedst til netop dit behov?",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/34145-elvstrom-sails-med-fire-sejldugsteknologier-men-hvad-passer-bedst-til-netop-dit-behov",
-   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_elv_construction_icons_2026_3d_1_alleteknologier_2.jpg"
-  },
-  {
    "key": "ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen",
    "source": "FLID Havne",
    "date": "2026-05-28",
@@ -786,14 +768,6 @@
    "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg"
   },
   {
-   "key": "baadmagasinet-33934",
-   "source": "Bådmagasinet",
-   "date": "2026-02-25",
-   "title": "66th Edition: Registration is now open for Genoa Int. Boat Show",
-   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33934-66th-edition-registration-is-now-open-for-genoa-int-boat-show",
-   "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg"
-  },
-  {
    "key": "marinaguide-fra-faergehavn-til-lystbaadehavn",
    "source": "MarinaGuide",
    "date": "2026-01-28",
@@ -886,30 +860,6 @@
    "date": "2025-10-11",
    "title": "Beneteau First 30 – teknisk og præcis planing med 14 knob",
    "url": "https://minbaad.dk/nyhed/archive/2025/11/october/article/beneteau-first-30-teknisk-og-praecis-planing-i-30-fod/"
-  },
-  {
-   "key": "baadmagasinet-33636",
-   "source": "Bådmagasinet",
-   "date": "2025-10-01",
-   "title": "Volvo Penta brings advanced joystick features to wider boating market",
-   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33636-volvo-penta-brings-advanced-joystick-features-to-wider-boating-market",
-   "img": "https://www.baadmagasinet.dk/images/----okt25/volvo_penta.jpg"
-  },
-  {
-   "key": "baadmagasinet-33596",
-   "source": "Bådmagasinet",
-   "date": "2025-09-18",
-   "title": "Raymarine and Suzuki Marine Unveil Enhanced Engine Integration for Axiom Chartplotters",
-   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33596-raymarine-and-suzuki-marine-unveil-enhanced-engine-integration-for-axiom-chartplotters",
-   "img": "https://www.baadmagasinet.dk/images/----sept25/raymarine_axiom_suzuki_group_shot.png"
-  },
-  {
-   "key": "baadmagasinet-33567",
-   "source": "Bådmagasinet",
-   "date": "2025-09-08",
-   "title": "Honda Marine Europe announces High-Profile...",
-   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33567-honda-marine-europe-announces-high-profile",
-   "img": "https://www.baadmagasinet.dk/images/----sept25/honda.jpg"
   },
   {
    "key": "14-supertips-til-brug-af-trailer-og-slaebested",
@@ -1031,14 +981,6 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2024/28/december/article/humminbird-lancerer-de-nye-produkter-xplore-mega-live-2/"
   },
   {
-   "key": "baadmagasinet-32882",
-   "source": "Bådmagasinet",
-   "date": "2024-11-26",
-   "title": "Havnemanøvre med millimeter-præcision",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/32882-x-yachts-vaelger-sleipner",
-   "img": "https://www.baadmagasinet.dk/images/---nov24/sleipner_x.jpg"
-  },
-  {
    "key": "marinaguide-jyllands-svar-paa-nyhavn",
    "source": "MarinaGuide",
    "date": "2024-06-12",
@@ -1060,22 +1002,6 @@
    "date": "2024-01-11",
    "title": "Reportage: Fiskeristyrelsen kontrollerer kuttere i Det Sydfynske Øhav",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2024/11/january/article/reportage-fiskeristyrelsen-kontrollerer-kuttere-i-det-sydfynske-ohav/"
-  },
-  {
-   "key": "baadmagasinet-31996",
-   "source": "Bådmagasinet",
-   "date": "2023-11-16",
-   "title": "Watski går Black Week amok - spar op til 82%",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31996-watski-gar-black-week-amok-spar-op-til-82",
-   "img": "https://www.baadmagasinet.dk/images/--nov23/watski_black_week.jpg"
-  },
-  {
-   "key": "baadmagasinet-31668",
-   "source": "Bådmagasinet",
-   "date": "2023-07-19",
-   "title": "Yanmar introduces SD60 Sail Drive Rope Cutter",
-   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/31668-yanmar-introduces-sd60-sail-drive-rope-cutter",
-   "img": "https://www.baadmagasinet.dk/images/--juli23/rope_cutter.jpg"
   },
   {
    "key": "marinaguide-7-dage-i-3-havne-for-kun-291-kr-for-alle-baadstoerrelser",
@@ -1100,14 +1026,6 @@
    "title": "Lanternen ved Esbjerg Strand Lystbådehavn står klar",
    "url": "https://marinaguide.dk/nyhed/lanternen-ved-esbjerg-strand-lystbaadehavn-staar-klar",
    "img": "https://marinaguide.dk/fileadmin/_processed_/f/0/csm_lanternen-min_1__6cc741f5f5.jpg"
-  },
-  {
-   "key": "baadmagasinet-31241",
-   "source": "Bådmagasinet",
-   "date": "2023-02-08",
-   "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
-   "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg"
   },
   {
    "key": "marinaguide-aeroe-slaar-danmarksrekord-i-antal-anloeb",

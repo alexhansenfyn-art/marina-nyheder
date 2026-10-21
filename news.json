@@ -1,9 +1,11 @@
 {
- "generated": "2026-10-21T17:15:53+00:00",
- "count": 442,
+ "generated": "2026-10-21T20:41:20+00:00",
+ "count": 432,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 132,
  "errors": [
+  "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
+  "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
@@ -924,7 +926,8 @@
    "title": "PRESSEMEDDELELSE: Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber",
    "url": "https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/Sejlklubben-Koebenhavn-3-scaled-e1790940216742-1024x512.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-21"
   },
   {
    "key": "dansketursejlere-nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
@@ -933,7 +936,8 @@
    "title": "Nyt netværk vil gøre langtursejlads mere tilgængelig for unge",
    "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg",
-   "cat": "Tursejlads"
+   "cat": "Tursejlads",
+   "tjek": "2026-10-21"
   },
   {
    "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
@@ -992,7 +996,8 @@
    "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-21"
   },
   {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
@@ -1021,7 +1026,8 @@
    "title": "Marstal-sejler pressede 11 Meter rundt om Fyn: 21 timer alene i hårdt Silverrudder",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/marstal-sejler-pressede-11-meter-rundt-om-fyn-21-timer-alene-i-haardt-silverrudder/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg",
+   "tjek": "2026-10-21"
   },
   {
    "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
@@ -1030,7 +1036,8 @@
    "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
+   "tjek": "2026-10-21"
   },
   {
    "key": "baadmagasinet-34472",
@@ -1067,7 +1074,8 @@
    "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
    "cat": "Tursejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg",
+   "tjek": "2026-10-21"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -1076,7 +1084,8 @@
    "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
+   "tjek": "2026-10-21"
   },
   {
    "key": "19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7",
