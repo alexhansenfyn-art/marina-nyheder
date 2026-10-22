@@ -1,26 +1,26 @@
 {
- "generated": "2026-10-22T07:38:02+00:00",
+ "generated": "2026-10-22T13:16:09+00:00",
  "count": 134,
  "items": [
   {
-   "key": "baadmagasinet-34398",
-   "source": "Bådmagasinet",
+   "key": "silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41",
+   "source": "Minbåd.dk",
    "date": "2026-09-02",
-   "title": "Drage: Dansk-svensk dominans i en meget særlig Norsk weekend",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34398-dansk-svensk-dominans-i-en-meget-saerlig-weekend-i-norge",
+   "title": "Silverrudder får besøg af 66 X-Yachts – heraf to XR 41",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/silverrudder-faar-besoeg-af-66-x-yachts-heraf-to-xr-41/",
    "cat": "Kapsejlads",
-   "sum": "Norsk mesterskab i Drage blev gennemført trods kong Haralds død, og den svenskregistrerede Nono med danske sejlere vandt sikkert foran kongens nevø.",
-   "tjek": "2026-09-09"
+   "sum": "Silverrudder solosejladsen starter 18. september med 447 deltagere, deriblandt 66 X-Yachts og to XR 41.",
+   "tjek": "2026-09-15"
   },
   {
-   "key": "baadmagasinet-34392",
+   "key": "baadmagasinet-34389",
    "source": "Bådmagasinet",
    "date": "2026-09-02",
-   "title": "Finske Blue Ocean nu på plads i Danmark",
-   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34392-branchenyt-blue-ocean-etablerer-sig-i-danmark",
-   "cat": "Udstyr & både",
-   "sum": "Finsk yachtbroker Blue Ocean etablerer sig i Danmark med Martin Lindbæk som bådmægler. Virksomheden har erfaring med salg af sejl- og motorbåde og vil styrke tilstedeværelsen på det danske marked.",
-   "tjek": "2026-09-09"
+   "title": "90 både på jagt efter DM-guld i fladfisk",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34389-90-bade-pa-jagt-efter-dm-guld-i-fladfisk",
+   "cat": "Havneliv",
+   "sum": "Omkring 90 småbåde deltager i DM i Fladfisk på Onsevig Havn den 12.-13. september. Konkurrencen, som afholdes for 17. gang, tiltrækker lystfiskere fra hele landet og skaber aktivitet for havnen.",
+   "tjek": "2026-09-11"
   },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
@@ -44,7 +44,8 @@
    "date": "2026-08-30",
    "title": "Sea Ray SDX 250 Surf bygger sin egen bølge – 703 kilo ballast til wakesurf",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/august/article/sea-ray-sdx-250-surf-bygger-sin-egen-boelge-703-kilo-ballast-til-wakesurf/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/6/csm_SEA_RAY_SDX2aa0_SURF_3_c4002e1dd5.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa",
@@ -52,7 +53,8 @@
    "date": "2026-08-28",
    "title": "386 er druknet – nu skal nye skilte i Ishøj få flere til at tage vesten på",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/august/article/386-er-druknet-nu-skal-nye-skilte-i-ishoej-faa-flere-til-at-tage-vesten-paa/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/d/csm_d__MG_4245_8d36192124.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "150-baade-til-copenhagen-boat-show-med-gratis-indgang",
