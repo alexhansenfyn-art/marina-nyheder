@@ -1,7 +1,27 @@
 {
- "generated": "2026-10-22T01:54:43+00:00",
- "count": 132,
+ "generated": "2026-10-22T07:38:02+00:00",
+ "count": 134,
  "items": [
+  {
+   "key": "baadmagasinet-34398",
+   "source": "Bådmagasinet",
+   "date": "2026-09-02",
+   "title": "Drage: Dansk-svensk dominans i en meget særlig Norsk weekend",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34398-dansk-svensk-dominans-i-en-meget-saerlig-weekend-i-norge",
+   "cat": "Kapsejlads",
+   "sum": "Norsk mesterskab i Drage blev gennemført trods kong Haralds død, og den svenskregistrerede Nono med danske sejlere vandt sikkert foran kongens nevø.",
+   "tjek": "2026-09-09"
+  },
+  {
+   "key": "baadmagasinet-34392",
+   "source": "Bådmagasinet",
+   "date": "2026-09-02",
+   "title": "Finske Blue Ocean nu på plads i Danmark",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34392-branchenyt-blue-ocean-etablerer-sig-i-danmark",
+   "cat": "Udstyr & både",
+   "sum": "Finsk yachtbroker Blue Ocean etablerer sig i Danmark med Martin Lindbæk som bådmægler. Virksomheden har erfaring med salg af sejl- og motorbåde og vil styrke tilstedeværelsen på det danske marked.",
+   "tjek": "2026-09-09"
+  },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
