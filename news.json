@@ -1,11 +1,12 @@
 {
- "generated": "2026-10-22T18:00:52+00:00",
+ "generated": "2026-10-22T21:39:31+00:00",
  "count": 432,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 132,
  "errors": [
   "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
   "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt",
+  "AI: dansksejlunion: https://dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal: ConnectionError: HTTPSConnectionPool(host='dansksejlunion.dk', port=443): Read timed out.",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
@@ -43,6 +44,14 @@
    "title": "Unge talenter jagter sponsorer og sælger billetter til stor sejlerfest i Aarhus",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/unge-talenter-jagter-sponsorer-og-saelger-billetter-til-stor-sejlerfest-i-aarhus/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_loke_0R2A3579_d6fe6cf7e0.jpg"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
+   "source": "Dansk Sejlunion",
+   "date": "2026-10-22",
+   "title": "Jørn Duffy Villumsen hædres med Dansk Sejlunions guldnål Gennem sit store engagement i sejlerskolerne har Jørn Duffy Villumsen været med til",
+   "url": "https://dansksejlunion.dk/nyheder/2026/joern-duffy-villumsen-haedres-med-dansk-sejlunions-guldnaal",
+   "img": null
   },
   {
    "key": "norsk-kvindelig-solosejler-faar-ti-dages-tidsstraf-i-golden-globe-race-efter-ulovlige-satellitopkald",
@@ -1255,7 +1264,8 @@
    "title": "Dansk Søredningsselskab vil flytte søredningen væk fra Forsvaret",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg",
+   "tjek": "2026-10-22"
   },
   {
    "key": "sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade",
@@ -2957,16 +2967,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
    "cat": "Sikkerhed",
    "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
-  },
-  {
-   "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
-   "source": "Minbåd.dk",
-   "date": "2026-09-02",
-   "title": "FLID kræver dansk bådregister efter 2.000 både er forladt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/september/article/flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt/",
-   "cat": "Havneliv",
-   "sum": "Efterladte både skaber store problemer i danske lystbådehavne. FLID kræver et obligatorisk bådregister for at holde ejerne ansvarlige og undgå store udgifter for havnene.",
-   "tjek": "2026-09-17"
   }
  ]
 }
