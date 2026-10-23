@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T04:53:43+00:00",
- "count": 436,
+ "generated": "2026-10-23T10:09:03+00:00",
+ "count": 432,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 136,
+ "arkiv_antal": 132,
  "errors": [
   "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
   "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt",
@@ -10,13 +10,13 @@
  ],
  "items": [
   {
-   "key": "beneteau-lancerer-billigere-udgave-af-first-36-uden-skabe-planer-ved-8-m-sek",
+   "key": "ville-tage-et-foto-af-isbjerg-saa-gik-28-meter-lang-sejlbaad-paa-grund-og-mistede-roret",
    "source": "Minbåd.dk",
-   "date": "2026-10-22",
-   "title": "Beneteau lancerer billigere udgave af First 36 uden skabe - planer ved 8 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/beneteau-lancerer-billigere-udgave-af-first-36-uden-skabe-planer-ved-8-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/4/csm_first_spiriload_81023a2252.jpg",
-   "cat": "Udstyr & både"
+   "date": "2026-10-23",
+   "title": "Ville tage et foto af isbjerg – så gik 28 meter lang sejlbåd på grund og mistede roret",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/ville-tage-et-foto-af-isbjerg-saa-gik-28-meter-lang-sejlbaad-paa-grund-og-mistede-roret/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_groenl_6053840412_6737855870699448396_n_512790995d.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "fugt-er-en-stille-trussel-i-baaden-men-aridas-loesningen-er-enkel",
@@ -28,12 +28,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "beneteau-lancerer-billigere-udgave-af-first-36-uden-skabe-planer-ved-8-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-10-22",
+   "title": "Beneteau lancerer billigere udgave af First 36 uden skabe - planer ved 8 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/beneteau-lancerer-billigere-udgave-af-first-36-uden-skabe-planer-ved-8-m-sek/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/4/csm_first_spiriload_400543fbb7.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "elon-musks-starlink-mini-til-baade-giver-internet-overalt",
    "source": "Minbåd.dk",
    "date": "2026-10-22",
    "title": "Starlink Mini til både giver internet overalt",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/elon-musks-starlink-mini-til-baade-giver-internet-overalt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__e6208dbc62.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__254c363c63.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -282,16 +291,6 @@
    "tjek": "2026-10-23"
   },
   {
-   "key": "lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden",
-   "source": "Minbåd.dk",
-   "date": "2026-10-16",
-   "title": "Slidt er ikke altid OK - alger kan få konsekvenser for sikkerheden",
-   "url": "https://minbaad.dk/nyhed/archive/2026/16/october/article/lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_ce314d8e44.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-10-23"
-  },
-  {
    "key": "hjertmans-baadudstyr-i-kolding-soeger-butikselev-hurtig-ansaettelse",
    "source": "Minbåd.dk",
    "date": "2026-10-16",
@@ -299,6 +298,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/16/october/article/hjertmans-baadudstyr-i-kolding-soeger-butikselev-hurtig-ansaettelse/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/e/csm_kolding_stor_pix_ad-86a1-57931de16de8_3e41230d45.png",
    "cat": "Andet",
+   "tjek": "2026-10-23"
+  },
+  {
+   "key": "lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-16",
+   "title": "Slidt er ikke altid OK - alger kan få konsekvenser for sikkerheden",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/october/article/lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_76a90a5da8.jpg",
+   "cat": "Sikkerhed",
    "tjek": "2026-10-23"
   },
   {
@@ -393,7 +402,7 @@
    "date": "2026-10-14",
    "title": "Ny Sirena 42 meter superyacht med gårdhave og beach club på 71 m²",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/october/article/ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_012d45d046.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_0c3fafd5cd.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-23"
   },
@@ -763,7 +772,7 @@
    "date": "2026-10-06",
    "title": "Minn Kota og Humminbird bliver ét: Nyt samlet system skal gøre fiskeriet enklere",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_c3a4f1629c.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_d8b0e1cb68.png",
    "cat": "Udstyr & både",
    "tjek": "2026-10-23"
   },
@@ -812,7 +821,7 @@
    "date": "2026-10-05",
    "title": "Derfor kan en mindre batteribank være nok med litium",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/october/article/derfor-kan-en-mindre-batteribank-vaere-nok-med-litium/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/7/csm_lit_WWp2GobOHwOLel_4be2ebeaf9.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/7/csm_lit_WWp2GobOHwOLel_e287aa62be.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-23"
   },
@@ -1101,7 +1110,8 @@
    "title": "Hvad kan fremtidens boliger lære af gamle skibe?",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34471-hvad-kan-fremtidens-boliger-laere-af-gamle-skibe",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_img_3043.jpg",
-   "tjek": "2026-10-12"
+   "tjek": "2026-10-12",
+   "cat": "Andet"
   },
   {
    "key": "baadmagasinet-34469",
@@ -1120,7 +1130,8 @@
    "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
    "cat": "Tursejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg",
+   "tjek": "2026-10-23"
   },
   {
    "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
@@ -1410,7 +1421,7 @@
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_5acbaebf84.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1488,7 +1499,7 @@
    "date": "2026-09-24",
    "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__793a77d673.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2078,7 +2089,7 @@
    "date": "2026-09-15",
    "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2fa87be388.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
   },
@@ -2226,7 +2237,7 @@
    "date": "2026-09-13",
    "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_79c70a05bb.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg",
    "cat": "Udstyr & både",
    "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
   },
@@ -2624,7 +2635,7 @@
    "date": "2026-09-07",
    "title": "LEGOLAND sælger Kongeskibet Dannebrog – næsten to meter langt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_lego_d36-4f5f-9758-b77c32dc246f_741c6ff860.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_lego_d36-4f5f-9758-b77c32dc246f_47946b849c.jpg",
    "cat": "Andet",
    "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
   },
@@ -2737,7 +2748,7 @@
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_0aa2b68855.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
    "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
   },
@@ -2960,14 +2971,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
    "cat": "Sikkerhed",
    "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
-  },
-  {
-   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-31",
-   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg"
   }
  ]
 }
