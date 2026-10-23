@@ -1,13 +1,12 @@
 {
- "generated": "2026-10-23T15:09:59+00:00",
- "count": 434,
+ "generated": "2026-10-23T19:18:44+00:00",
+ "count": 432,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 134,
+ "arkiv_antal": 132,
  "errors": [
   "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
   "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"Udstyr & både",
   "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\""
  ],
  "items": [
@@ -34,7 +33,8 @@
    "date": "2026-10-23",
    "title": "Vask tovværkets salt og urenheder i vaskemaskinen - men brug kun lidt vaskemiddel og lav temperatur",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_afdc5fb98c.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_afdc5fb98c.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "ville-tage-et-foto-af-isbjerg-saa-gik-28-meter-lang-sejlbaad-paa-grund-og-mistede-roret",
@@ -801,7 +801,8 @@
    "title": "Måske er det tid til at finde jollen frem igen?",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_a11ddbf2b3.jpg",
-   "tjek": "2026-10-23"
+   "tjek": "2026-10-23",
+   "cat": "Andet"
   },
   {
    "key": "silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar",
