@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-23T19:18:44+00:00",
+ "generated": "2026-10-23T22:18:56+00:00",
  "count": 432,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 132,
  "errors": [
   "https://www.baadmagasinet.dk/nyheder/tema/havne: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/nyheder/tema/havne",
   "https://www.baadmagasinet.dk/kort-nyt: 403 Client Error: Forbidden for url: https://www.baadmagasinet.dk/kort-nyt",
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)",
-  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\""
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\": \"",
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
   {
