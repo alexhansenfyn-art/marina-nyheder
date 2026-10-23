@@ -1,7 +1,37 @@
 {
- "generated": "2026-10-23T10:09:03+00:00",
- "count": 132,
+ "generated": "2026-10-23T15:09:59+00:00",
+ "count": 134,
  "items": [
+  {
+   "key": "baadmagasinet-34402",
+   "source": "Bådmagasinet",
+   "date": "2026-09-03",
+   "title": "Schubert godt tilfreds - slutter nummer 41 ved VM - læs interview med sportschefen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34402-johan-schubert-nr-41-ved-vm-naeste-opgave-er-ol-nationskvalifikation",
+   "cat": "Kapsejlads",
+   "sum": "Johan Schubert sluttede som nummer 41 ved VM i ILCA 7 i Irland, et resultat under forventningerne. Sportschef Peter Hansen vurderer indsatsen og ser frem mod næste VM.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "baadmagasinet-34397",
+   "source": "Bådmagasinet",
+   "date": "2026-09-03",
+   "title": "Silverrudder: Når Jan skal til bryllup, må designeren selv tage over",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34397-nar-jan-skal-til-bryllup-ma-designeren-selv-tage-over",
+   "cat": "Kapsejlads",
+   "sum": "Jan Hansen misser Silverrudder pga. datters bryllup. Bådens designer Sam Manuard sejler hans Beneteau First 36 SE. Jan speaker på livestream i stedet.",
+   "tjek": "2026-09-10"
+  },
+  {
+   "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-02",
+   "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Forkert montering af sikkerhedswire på trailere kan give bøde og betinget"
+  },
   {
    "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
    "source": "Motorbådsnyt",
@@ -57,8 +87,7 @@
    "date": "2026-08-25",
    "title": "VM venter for iQ FOiL og ILCA-klasserne",
    "url": "https://dansksejlunion.dk/nyheder/2026/vm-venter-for-iq-foil-og-ilca-klasserne",
-   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
+   "img": "https://dansksejlunion.dk/media/123kv2tb/052a2588.jpg?width=1200&height=630"
   },
   {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
@@ -381,14 +410,6 @@
    "title": "Planlæg sejlture ved kortbordet med gratis havnekort",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/july/article/planlaeg-sejlture-ved-kortbordet-med-gratis-havnekort/",
    "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_flid_billede_e94337c6b7.jpg"
-  },
-  {
-   "key": "gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes",
-   "source": "Minbåd.dk",
-   "date": "2026-07-09",
-   "title": "Gode tips til rigtigt sømandsskab i havnen - hjælp fx til fortøjring",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/july/article/gode-tips-til-rigtigt-somandsskab-i-havnen-hjalp-fx-til-nar-der-skal-fortjes/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_no_worries-beskaaret-jpg_c090a0d923.jpg"
   },
   {
    "key": "dansketursejlere-90-unge-indtager-havnene-i-uge-29",
