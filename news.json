@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T00:12:15+00:00",
+ "generated": "2026-10-23T04:53:43+00:00",
  "count": 436,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 136,
@@ -1042,7 +1042,8 @@
    "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-23"
   },
   {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
