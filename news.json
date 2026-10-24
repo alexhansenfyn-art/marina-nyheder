@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T22:30:34+00:00",
- "count": 442,
+ "generated": "2026-10-24T23:01:41+00:00",
+ "count": 454,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 142,
+ "arkiv_antal": 154,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
@@ -65,7 +65,8 @@
    "date": "2026-10-23",
    "title": "Stor brand i Aarøsund: Flere både og bådhuse i flammer - se video!",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34515-stor-brand-i-aarosund-flere-bade-og-badhuse-i-flammer",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/Holbaek 2.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/Holbaek 2.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34514",
@@ -73,7 +74,8 @@
    "date": "2026-10-23",
    "title": "New Zealand tager skridtet: Nu skal redningsvesten bæres i mindre fritidsfartøjer",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34514-new-zealand-tager-skridtet-nu-skal-redningsvesten-baeres-i-mindre-fritidsfartojer",
-   "img": "https://www.baadmagasinet.dk/images/-----april26/rsz_udsejlingsskilt_net.jpg"
+   "img": "https://www.baadmagasinet.dk/images/-----april26/rsz_udsejlingsskilt_net.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34513",
@@ -1309,6 +1311,14 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "soesport-aldrig-er-faerre-druknet-i-forbindelse-med-soesport",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-29",
+   "title": "Aldrig er færre druknet i forbindelse med søsport",
+   "url": "https://www.soesport.dk/nyheder/artikler/aldrig-er-faerre-druknet-i-forbindelse-med-soesport",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "autopiloten-sejlede-videre-skipper-laa-alene-i-vandet",
    "source": "Minbåd.dk",
    "date": "2026-09-29",
@@ -1528,6 +1538,33 @@
    "title": "Information om kommende prøvekrav til fritidssejladsprøver",
    "url": "https://dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
    "img": "https://dansksejlunion.dk/media/5toe3v3n/2019-10-05_0079e.jpg?width=1200&height=630",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-solosejlere-loeber-en-stoerre-risiko",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Solosejlere løber en større risiko",
+   "url": "https://www.soesport.dk/nyheder/presse/solosejlere-loeber-en-stoerre-risiko",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639259230047231138/_8025703.JPG?width=1024&height=512&format=JPG&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-hvorfor-er-der-blaat-lys-paa-raadhuspladsen-i-koebenhavn-jysk-arena-i-silkeborg-og-i-korsoer",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Hvorfor er der blåt lys på Rådhuspladsen i København, Jysk Arena i Silkeborg og i Korsør?",
+   "url": "https://www.soesport.dk/nyheder/presse/hvorfor-er-der-blaat-lys-paa-raadhuspladsen-i-koebenhavn-jysk-arena-i-silkeborg-og-i-korsoer",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/638918107416867955/ALLE9557.JPG?width=1024&height=512&format=JPG&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-onboard-paa-rette-kurs-med-dobbelt-saa-mange-brugere-end-sejlsikkert-alarm-appen",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Onboard på rette kurs - med dobbelt så mange brugere end SejlSikkert Alarm-appen",
+   "url": "https://www.soesport.dk/nyheder/presse/onboard-paa-rette-kurs-med-dobbelt-saa-mange-brugere-end-sejlsikkert-alarm-appen",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639040603930432868/Onboard%20tile.svg?width=1024&height=512&format=svg&mode=crop",
    "cat": "Sikkerhed"
   },
   {
@@ -2909,46 +2946,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/foto_dragør_kommune_2.jpg",
    "cat": "Havneliv",
    "sum": "Dragør Havn har indført en frokostbillet for gæstesejlere, så de kan lægge til i dagtimerne. 74 har benyttet tilbuddet, og havnen oplever generelt flere gæster i denne sæson."
-  },
-  {
-   "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Hven Rundt ved Nat samler sejlere på Øresund",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/hven-rundt-ved-nat-samler-sejlere-paa-oeresund/",
-   "cat": "Kapsejlads",
-   "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere.",
-   "tjek": "2026-09-19"
-  },
-  {
-   "key": "kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Kiwi Magic fra Marselisborg tog VM-bronze i 12 mR",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
-   "cat": "Kapsejlads",
-   "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
-   "tjek": "2026-09-19"
-  },
-  {
-   "key": "ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "Ny Dragonfly 33 på vej efter den lynhurtige 36'er",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
-   "cat": "Udstyr & både",
-   "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads.",
-   "tjek": "2026-09-18"
-  },
-  {
-   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
-   "source": "Minbåd.dk",
-   "date": "2026-09-04",
-   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
-   "cat": "Jubilæum",
-   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
-   "tjek": "2026-09-17"
   }
  ]
 }

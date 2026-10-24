@@ -1,7 +1,47 @@
 {
- "generated": "2026-10-24T22:30:34+00:00",
- "count": 142,
+ "generated": "2026-10-24T23:01:41+00:00",
+ "count": 154,
  "items": [
+  {
+   "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Hven Rundt ved Nat samler sejlere på Øresund",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/hven-rundt-ved-nat-samler-sejlere-paa-oeresund/",
+   "cat": "Kapsejlads",
+   "sum": "Sejlklubben København afholder natkapsejladsen Hven Rundt ved Nat den 11. september med start i Svanemøllebugten. Arrangementet byder på ruter for både kapsejlere og tursejlere.",
+   "tjek": "2026-09-19"
+  },
+  {
+   "key": "kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Kiwi Magic fra Marselisborg tog VM-bronze i 12 mR",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/kiwi-magic-fra-marselisborg-tog-vm-bronze-i-12-mr/",
+   "cat": "Kapsejlads",
+   "sum": "Kiwi Magic fra Marselisborg tog VM-bronze i 12mR-klassen i Imperia, Italien. Efter en tæt kamp om andenpladsen måtte danskerne se Kookaburra II sikre sig sølvet.",
+   "tjek": "2026-09-19"
+  },
+  {
+   "key": "ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Ny Dragonfly 33 på vej efter den lynhurtige 36'er",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/ny-dragonfly-33-paa-vej-efter-den-lynhurtige-36er/",
+   "cat": "Udstyr & både",
+   "sum": "Dragonfly præsenterer den nye trimaran Dragonfly 33, efterfølgeren til 32'eren med teknik fra 36'eren. Båden har foldbare skrog, centerbord og er til både tur- og kapsejlads.",
+   "tjek": "2026-09-18"
+  },
+  {
+   "key": "50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "50 år med veteranskibe i Nyhavn – nu bliver der plads til flere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/50-aar-med-veteranskibe-i-nyhavn-nu-bliver-der-plads-til-flere/",
+   "cat": "Jubilæum",
+   "sum": "Veteranskibene i Nyhavn fejrer 50 år, og der åbnes for flere bevaringsværdige træskibe på Charlottenborgsiden. Jubilæumsprogram afvikles 5. september.",
+   "tjek": "2026-09-17"
+  },
   {
    "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
    "source": "Motorbådsnyt",
@@ -191,6 +231,14 @@
    "date": "2026-08-11",
    "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/"
+  },
+  {
+   "key": "soesport-en-god-tur-starter-med-god-forberedelse",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-08-07",
+   "title": "En god tur starter med god forberedelse",
+   "url": "https://www.soesport.dk/nyheder/kampagner/en-god-tur-starter-med-god-forberedelse",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639209920432812501/Banner%20web.svg?width=1024&height=512&format=svg&mode=crop"
   },
   {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
@@ -595,6 +643,14 @@
    "img": "https://flidhavne.dk/wp-content/uploads/2026/05/Gang-paa-bro_skoejter_Soesportens-sikkerhedsraad.png"
   },
   {
+   "key": "soesport-kom-sikkert-i-gang-med-sejlsaesonen-den-der-fejler-i-forberedelsen-forbereder-sine-fejl",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-05-19",
+   "title": "Kom sikkert i gang med sejlsæsonen: Den, der fejler i forberedelsen, forbereder sine fejl",
+   "url": "https://www.soesport.dk/nyheder/artikler/kom-sikkert-i-gang-med-sejlsaesonen-den-der-fejler-i-forberedelsen-forbereder-sine-fejl",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639099424057488539/Vedligehold%20motor%20.jpg?width=1024&height=512&format=jpg&mode=crop"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/vm-og-em-venter-travle-mesterskabsuger-for-sejlerlandsholdet",
    "source": "Dansk Sejlunion",
    "date": "2026-05-11",
@@ -634,6 +690,22 @@
    "img": "https://dansksejlunion.dk/media/n25bqkot/design-uden-navn-29-kopi-10.jpg?width=1200&height=630"
   },
   {
+   "key": "soesport-soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-04-28",
+   "title": "Søsportens Sikkerhedsråd hjælper dig med at tjekke vesten på Boat Show",
+   "url": "https://www.soesport.dk/nyheder/presse/soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639129705132492878/Ny%20redningsvest.png?width=1024&height=512&format=png&mode=crop"
+  },
+  {
+   "key": "soesport-foer-du-tager-afsted-taenk-paa-dem-derhjemme",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-04-28",
+   "title": "Før du tager afsted, tænk på dem derhjemme",
+   "url": "https://www.soesport.dk/nyheder/presse/foer-du-tager-afsted-taenk-paa-dem-derhjemme",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639129705659543078/Udsejlingsskilt.png?width=1024&height=512&format=png&mode=crop"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/omt-maritime-design-cup-2026-kom-med-paa-vandet-i-skovshoved",
    "source": "Dansk Sejlunion",
    "date": "2026-04-27",
@@ -656,6 +728,14 @@
    "title": "Åbent brev til Norge",
    "url": "https://dansksejlunion.dk/nyheder/2026/aabent-brev-til-norge",
    "img": "https://dansksejlunion.dk/media/4fibirrr/295hojskole290719.jpg?width=1200&height=630"
+  },
+  {
+   "key": "soesport-foer-du-tager-afsted",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-04-23",
+   "title": "Før du tager afsted",
+   "url": "https://www.soesport.dk/nyheder/kampagner/foer-du-tager-afsted",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/638875540434082611/Kampagne-%20omsorg.png?width=1024&height=512&format=png&mode=crop"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/europaeiske-sejlforbund-fulgte-world-sailings-neutralitetslinje-om-rusland",
@@ -698,12 +778,28 @@
    "img": "https://dansksejlunion.dk/media/refipyek/unavngivet-800-x-419-px.jpg?width=1200&height=630"
   },
   {
+   "key": "soesport-soesportens-sikkerhedsraad-lancerer-national-tjek-vest-dag",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-04-07",
+   "title": "Søsportens Sikkerhedsråd lancerer national tjek vest-dag",
+   "url": "https://www.soesport.dk/nyheder/presse/soesportens-sikkerhedsraad-lancerer-national-tjek-vest-dag",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639111475197392194/Redningsveste%20sammenligning.jpg?width=1024&height=512&format=jpg&mode=crop"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
    "source": "Dansk Sejlunion",
    "date": "2026-04-04",
    "title": "Stærke danske takter i Palma trods manglende medaljer",
    "url": "https://dansksejlunion.dk/nyheder/2026/staerke-danske-takter-i-palma-trods-manglende-medaljer",
    "img": "https://dansksejlunion.dk/media/yx2b1v2g/260330_sailingenergy_sofia_d_ac2_2275.jpg?width=1200&height=630"
+  },
+  {
+   "key": "soesport-soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-03-30",
+   "title": "Søsportens Sikkerhedsråd gør din sejlads mere sikker med ny podcastsserie",
+   "url": "https://www.soesport.dk/nyheder/presse/soesportens-sikkerhedsraad-goer-din-sejlads-mere-sikker-med-ny-podcastsserie",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/638875706220145019/Billede%202.JPG?width=1024&height=512&format=JPG&mode=crop"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/sejlerlandsholdet-aabner-saesonen-paa-mallorca",
@@ -782,6 +878,14 @@
    "title": "INDKALDELSE TIL GENERALFORSAMLING",
    "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg"
+  },
+  {
+   "key": "soesport-hvordan-bliver-du-sikker-senior-til-soes",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-03-05",
+   "title": "Hvordan bliver du sikker senior til søs?",
+   "url": "https://www.soesport.dk/nyheder/artikler/hvordan-bliver-du-sikker-senior-til-soes",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639081211528127697/COLOURBOX35484136.jpg?width=1024&height=512&format=jpg&mode=crop"
   },
   {
    "key": "baadmagasinet-33934",
