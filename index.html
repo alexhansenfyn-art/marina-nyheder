@@ -473,6 +473,14 @@
   function render() {
     var list = document.getElementById("list");
     var items = filtrer();
+    // "23 / 454": hvor mange nyheder der vises af alle. Kun naar arkivet er
+    // hentet, ellers taeller vi kun de nyeste 300 og tallet ville vaere forkert.
+    var antalEl = document.getElementById("antal");
+    if (antalEl && state.totalAntal) {
+      var talt = state.arkivHentet || !state.arkiv;
+      antalEl.textContent = (talt && items.length !== state.items.length)
+        ? items.length + " / " + state.totalAntal : state.totalAntal;
+    }
     if (!items.length) {
       list.innerHTML = '<div class="empty">Ingen nyheder matcher filtrene.</div>';
       return;
@@ -546,6 +554,15 @@
   function buildChips(holderId, values, offMap) {
     var holder = document.getElementById(holderId);
     holder.innerHTML = "";
+    // Antal nyheder bag hvert emne og hver kilde. Tallene vises først, når
+    // hele arkivet er hentet - ellers ville de kun tælle de nyeste 300.
+    var visTal = state.arkivHentet || !state.arkiv, tal = {};
+    if (visTal) {
+      state.items.forEach(function(it){
+        var k = holderId === "catChips" ? (it.cat || "Andet") : it.source;
+        tal[k] = (tal[k] || 0) + 1;
+      });
+    }
     values.forEach(function(v){
       var lab = document.createElement("label");
       lab.className = "chip";
@@ -556,7 +573,7 @@
       box.checked = !offMap[v];
 
       var txt = document.createElement("span");
-      txt.textContent = v;
+      txt.textContent = visTal ? v + " (" + (tal[v] || 0) + ")" : v;
 
       box.addEventListener("change", function(){
         offMap[v] = !box.checked;
@@ -782,7 +799,8 @@
       opdaterFiltre();
       var antal = document.getElementById("antal");
       // Tallet er hele arkivet, ikke kun det der er hentet ind endnu.
-      if (antal) antal.textContent = data.count || state.items.length;
+      state.totalAntal = data.count || state.items.length;
+      if (antal) antal.textContent = state.totalAntal;
       visOpdateret(data.generated);
       wireControls();
       render();
