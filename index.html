@@ -554,12 +554,13 @@
   function buildChips(holderId, values, offMap) {
     var holder = document.getElementById(holderId);
     holder.innerHTML = "";
-    // Antal nyheder bag hvert emne og hver kilde. Tallene vises først, når
-    // hele arkivet er hentet - ellers ville de kun tælle de nyeste 300.
-    var visTal = state.arkivHentet || !state.arkiv, tal = {};
+    // Antal nyheder bag hvert EMNE. Kilderne får bevidst ingen tal, så bladene
+    // ikke måles op mod hinanden. Tallene vises først, når hele arkivet er
+    // hentet - ellers ville de kun tælle de nyeste 300.
+    var visTal = holderId === "catChips" && (state.arkivHentet || !state.arkiv), tal = {};
     if (visTal) {
       state.items.forEach(function(it){
-        var k = holderId === "catChips" ? (it.cat || "Andet") : it.source;
+        var k = it.cat || "Andet";
         tal[k] = (tal[k] || 0) + 1;
       });
     }
