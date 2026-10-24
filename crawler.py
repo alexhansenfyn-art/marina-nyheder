@@ -544,6 +544,50 @@ def parse_baadmagasinet(html, base_url, label):
     return list(items.values())
 
 
+def parse_soesport(xml_text, base_url, label):
+    """soesport.dk (Soesportens Sikkerhedsraad). Siden har ingen nyhedsliste og
+    ingen datoer paa artiklerne, men sitemap.xml har en lastmod pr. side.
+    Vi bruger sitemap'et: de nyeste artikler under /nyheder/ med deres lastmod
+    som dato. Datoer, som mange sider deler (en masseopdatering af sitemap'et),
+    er ikke en udgivelsesdato og droppes. Titel og billede hentes fra selve
+    artiklen for de nyeste."""
+    rows = re.findall(r"<loc>([^<]+)</loc>\s*<lastmod>([^<]+)</lastmod>", xml_text)
+    pat = re.compile(r"^/nyheder/(?:artikler|presse|kampagner|nyt)/([a-z0-9-]{6,})/?$", re.I)
+    kandidater = []
+    for loc, lm in rows:
+        m = pat.match(urlparse(loc.strip()).path)
+        if m:
+            kandidater.append((loc.strip(), m.group(1), lm.strip()[:10]))
+    delt = {}
+    for _, _, d in kandidater:
+        delt[d] = delt.get(d, 0) + 1
+    # Mange sider med samme dato = masseopdatering, ikke en udgivelsesdato
+    brugbare = [(u, s, d) for u, s, d in kandidater if delt[d] <= 5 and plausible_date(d)]
+    brugbare.sort(key=lambda r: r[2], reverse=True)
+    items = []
+    for loc, slug, d in brugbare[:SOESPORT_MAX]:
+        title, img = "", None
+        try:
+            html = fetch(loc)
+            soup = BeautifulSoup(html, "html.parser")
+            title = clean(og_meta(html, "og:title")) or clean(soup.title.get_text() if soup.title else "")
+            img = og_meta(html, "og:image") or None
+        except Exception as e:  # noqa: BLE001
+            note_ai_error(f"soesport-artikel fejlede for {loc}: {type(e).__name__}: {e}")
+        if len(title) < 12:
+            continue
+        # Sidetitlen har ofte "Soesportens Sikkerhedsraad: " foran
+        title = re.sub(r"^Søsportens Sikkerhedsråd:\s*", "", title)
+        it = {"key": "soesport-" + slug, "source": label, "date": d, "title": title, "url": loc}
+        if img:
+            it["img"] = urljoin(loc, img)
+        items.append(it)
+    return items
+
+
+SOESPORT_MAX = 12   # antal nyeste artikler der hentes fra sitemap'et
+
+
 def parse_generic(html, base_url, label):
     """Generisk parser til vilkårlige nyhedssider: links i overskrifter
     samt links med lang overskrifts-lignende tekst, på samme domæne."""
@@ -611,6 +655,8 @@ def pick_parser(url):
         return parse_dansketursejlere
     if "dansksejlunion.dk" in h:
         return parse_dansksejlunion
+    if "soesport.dk" in h:
+        return parse_soesport
     # Feed-adresser kendes paa stien, ikke paa domaenet
     sti = urlparse(url).path.lower()
     if sti.endswith(("/feed", "/feed/", ".xml", ".rss")) or "feed=" in (urlparse(url).query or ""):

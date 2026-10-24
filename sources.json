@@ -46,5 +46,9 @@
  {
   "url": "https://dansksejlunion.dk/nyheder",
   "label": "Dansk Sejlunion"
+ },
+ {
+  "url": "https://www.soesport.dk/sitemap.xml",
+  "label": "Søsportens Sikkerhedsråd"
  }
 ]
