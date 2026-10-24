@@ -1,16 +1,86 @@
 {
- "generated": "2026-10-24T11:05:27+00:00",
- "count": 133,
+ "generated": "2026-10-24T14:35:58+00:00",
+ "count": 149,
  "items": [
   {
-   "key": "baadmagasinet-34401",
+   "key": "regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-04",
+   "title": "Regnen bremsede Copenhagen Boat Show 2026 – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/september/article/regnen-bremsede-copenhagen-boat-show-2026-men-salget-gav-optimisme/",
+   "cat": "Jubilæum",
+   "sum": "Copenhagen Boat Show 2026 sluttede med 11.912 besøg trods regn, og flere både blev solgt. Arrangementet markerede 10-års jubilæum med gratis adgang.",
+   "tjek": "2026-09-17"
+  },
+  {
+   "key": "baadmagasinet-34403",
    "source": "Bådmagasinet",
+   "date": "2026-09-04",
+   "title": "Danskere øverst på podiet i alle tre klasser i Viking Challenge-finalen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34403-danskere-overst-pa-podiet-i-alle-tre-klasser-i-viking-challenge-finalen",
+   "cat": "Kapsejlads",
+   "sum": "Danske både vandt alle tre klasser i Viking Challenge-finalen i Middelfart, og danskerne tog også de samlede sejre i to af tre grupper.",
+   "tjek": "2026-09-11"
+  },
+  {
+   "key": "vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes",
+   "source": "Motorbådsnyt",
    "date": "2026-09-03",
-   "title": "Spækhuggere slår til igen: To sejlbåde beskadiget inden for et døgn",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34401-spaekhuggere-slar-til-igen-to-sejlbade-beskadiget-inden-for-et-dogn",
-   "cat": "Sikkerhed",
-   "sum": "Spækhuggere har inden for 24 timer beskadiget rorene på to sejlbåde ud for Galicien. Begge besætninger slap uskadt, og bådene nåede i havn.",
-   "tjek": "2026-09-14"
+   "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
+   "cat": "Udstyr & både",
+   "sum": "em-trak introducerer VHF'en NEXUS med indbygget AIS og antennesplitter. Via Bluetooth/Wi-Fi kan smartphone og smartwatch bruges som håndsæt og MOB-alarm."
+  },
+  {
+   "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Kong Harald: Sæt dig ned, Stig – du får min båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/kong-harald-saet-dig-ned-stig-du-faar-min-baad/",
+   "cat": "Udstyr & både",
+   "sum": "Kong Harald forærede i 2008 sin Farr 51 'Fram XV' til Norges Seilforbund, som grundlag for projektet Norsteam, hvor unge sejlere træner i storbådssejlads. Kongen deltog også selv og hus",
+   "tjek": "2026-09-18"
+  },
+  {
+   "key": "stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Stannow, Andersen og Nørgaard vandt The Viking Challenge i Middelfart",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/stannow-andersen-og-noergaard-vandt-the-viking-challenge-i-middelfart/",
+   "cat": "Kapsejlads",
+   "sum": "Tue Andersen, Erik Stannow og Niels Nørgaard Pedersen vandt deres grupper ved The Viking Challenge i Middelfart under Blue Week. Dermed er de klar til DH-DM.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Ligaen: Horsens og Bandholm sejrede i Lemvig efter vindstød på 18 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/ligaen-horsens-og-bandholm-sejrede-i-lemvig-efter-vindstoed-paa-18-m-sek/",
+   "cat": "Kapsejlads",
+   "sum": "Sejlsportsligaen afviklede to weekender i Lemvig med hård vind og skiftende forhold. Horsens Sejlklub vandt 2. division, mens Bandholm Sejlklub vandt 1. division.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Regnen bremsede Copenhagen Boat Show – men salget gav optimisme",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/regnen-bremsede-copenhagen-boat-show-men-salget-gav-optimisme/",
+   "cat": "Udstyr & både",
+   "sum": "Copenhagen Boat Show i Ishøj sluttede med 11.912 besøg trods regn. Flere udstillere meldte om konkrete handler, bl.a. en Regal-båd og syv både fra Tempo Bådsalg.",
+   "tjek": "2026-09-16"
+  },
+  {
+   "key": "garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod",
+   "source": "Minbåd.dk",
+   "date": "2026-09-03",
+   "title": "Garmin lancerer ny SmartDrive-autopilot til sejlbåde op til 45 fod",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/september/article/garmin-lancerer-ny-smartdrive-autopilot-til-sejlbaade-op-til-45-fod/",
+   "cat": "Udstyr & både",
+   "sum": "Garmin har lanceret SmartDrive, en ny autopilot til sejlbåde op til 45 fod med forbedret præcision og pålidelighed. Produktet sælges separat eller i en Corepack-pakke.",
+   "tjek": "2026-09-15"
   },
   {
    "key": "mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri",
@@ -533,6 +603,14 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/june/article/test-bayliner-v20-med-udenbords-eller-indenbordsmotor-med-spaendende-forskelle/"
   },
   {
+   "key": "baadmagasinet-34145",
+   "source": "Bådmagasinet",
+   "date": "2026-05-30",
+   "title": "Elvstrøm Sails med fire sejldugsteknologier – men hvad passer bedst til netop dit behov?",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/34145-elvstrom-sails-med-fire-sejldugsteknologier-men-hvad-passer-bedst-til-netop-dit-behov",
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_elv_construction_icons_2026_3d_1_alleteknologier_2.jpg"
+  },
+  {
    "key": "ny-udgave-af-populaert-danmarkskort-faas-igen-paa-havnen",
    "source": "FLID Havne",
    "date": "2026-05-28",
@@ -778,6 +856,14 @@
    "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg"
   },
   {
+   "key": "baadmagasinet-33934",
+   "source": "Bådmagasinet",
+   "date": "2026-02-25",
+   "title": "66th Edition: Registration is now open for Genoa Int. Boat Show",
+   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33934-66th-edition-registration-is-now-open-for-genoa-int-boat-show",
+   "img": "https://www.baadmagasinet.dk/images/-----feb26/rsz_sn65_salone_nautico_internazionale_genova_1-6_ottobre_2026.jpg"
+  },
+  {
    "key": "marinaguide-fra-faergehavn-til-lystbaadehavn",
    "source": "MarinaGuide",
    "date": "2026-01-28",
@@ -870,6 +956,30 @@
    "date": "2025-10-11",
    "title": "Beneteau First 30 – teknisk og præcis planing med 14 knob",
    "url": "https://minbaad.dk/nyhed/archive/2025/11/october/article/beneteau-first-30-teknisk-og-praecis-planing-i-30-fod/"
+  },
+  {
+   "key": "baadmagasinet-33636",
+   "source": "Bådmagasinet",
+   "date": "2025-10-01",
+   "title": "Volvo Penta brings advanced joystick features to wider boating market",
+   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33636-volvo-penta-brings-advanced-joystick-features-to-wider-boating-market",
+   "img": "https://www.baadmagasinet.dk/images/----okt25/volvo_penta.jpg"
+  },
+  {
+   "key": "baadmagasinet-33596",
+   "source": "Bådmagasinet",
+   "date": "2025-09-18",
+   "title": "Raymarine and Suzuki Marine Unveil Enhanced Engine Integration for Axiom Chartplotters",
+   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33596-raymarine-and-suzuki-marine-unveil-enhanced-engine-integration-for-axiom-chartplotters",
+   "img": "https://www.baadmagasinet.dk/images/----sept25/raymarine_axiom_suzuki_group_shot.png"
+  },
+  {
+   "key": "baadmagasinet-33567",
+   "source": "Bådmagasinet",
+   "date": "2025-09-08",
+   "title": "Honda Marine Europe announces High-Profile...",
+   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/33567-honda-marine-europe-announces-high-profile",
+   "img": "https://www.baadmagasinet.dk/images/----sept25/honda.jpg"
   },
   {
    "key": "14-supertips-til-brug-af-trailer-og-slaebested",
@@ -991,6 +1101,14 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2024/28/december/article/humminbird-lancerer-de-nye-produkter-xplore-mega-live-2/"
   },
   {
+   "key": "baadmagasinet-32882",
+   "source": "Bådmagasinet",
+   "date": "2024-11-26",
+   "title": "Havnemanøvre med millimeter-præcision",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/32882-x-yachts-vaelger-sleipner",
+   "img": "https://www.baadmagasinet.dk/images/---nov24/sleipner_x.jpg"
+  },
+  {
    "key": "marinaguide-jyllands-svar-paa-nyhavn",
    "source": "MarinaGuide",
    "date": "2024-06-12",
@@ -1012,6 +1130,22 @@
    "date": "2024-01-11",
    "title": "Reportage: Fiskeristyrelsen kontrollerer kuttere i Det Sydfynske Øhav",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2024/11/january/article/reportage-fiskeristyrelsen-kontrollerer-kuttere-i-det-sydfynske-ohav/"
+  },
+  {
+   "key": "baadmagasinet-31996",
+   "source": "Bådmagasinet",
+   "date": "2023-11-16",
+   "title": "Watski går Black Week amok - spar op til 82%",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31996-watski-gar-black-week-amok-spar-op-til-82",
+   "img": "https://www.baadmagasinet.dk/images/--nov23/watski_black_week.jpg"
+  },
+  {
+   "key": "baadmagasinet-31668",
+   "source": "Bådmagasinet",
+   "date": "2023-07-19",
+   "title": "Yanmar introduces SD60 Sail Drive Rope Cutter",
+   "url": "https://www.baadmagasinet.dk/nyheder/sailing-world-news/31668-yanmar-introduces-sd60-sail-drive-rope-cutter",
+   "img": "https://www.baadmagasinet.dk/images/--juli23/rope_cutter.jpg"
   },
   {
    "key": "marinaguide-7-dage-i-3-havne-for-kun-291-kr-for-alle-baadstoerrelser",
@@ -1036,6 +1170,14 @@
    "title": "Lanternen ved Esbjerg Strand Lystbådehavn står klar",
    "url": "https://marinaguide.dk/nyhed/lanternen-ved-esbjerg-strand-lystbaadehavn-staar-klar",
    "img": "https://marinaguide.dk/fileadmin/_processed_/f/0/csm_lanternen-min_1__6cc741f5f5.jpg"
+  },
+  {
+   "key": "baadmagasinet-31241",
+   "source": "Bådmagasinet",
+   "date": "2023-02-08",
+   "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
+   "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg"
   },
   {
    "key": "marinaguide-aeroe-slaar-danmarksrekord-i-antal-anloeb",
