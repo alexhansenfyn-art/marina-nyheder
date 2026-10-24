@@ -1095,6 +1095,14 @@ def main():
             old_items = old.get("items", [])
         except Exception:
             pass
+    # Arkivet SKAL ogsaa laeses ind. Tidligere blev kun forsiden (news.json) laest,
+    # saa en nyhed, der var rykket ned i arkivet og ikke laengere stod paa kildens
+    # egen side, forsvandt ved naeste koersel. Dedupe paa key sker nedenfor.
+    if ARKIV_FILE.exists():
+        try:
+            old_items += json.loads(ARKIV_FILE.read_text(encoding="utf-8")).get("items", [])
+        except Exception:
+            pass
     old_items = [normalize_old(i) for i in old_items]
     old_items = [i for i in old_items if not is_stale_rekeyed(i)]
 
