@@ -60,6 +60,7 @@ FORSIDE_ANTAL = 300     # Nyheder i news.json. Resten ligger i news-arkiv.json,
                         # ruller helt i bund. De fleste ser aldrig mere end de
                         # oeverste tyve, og de skal ikke betale for arkivet.
 MAX_PER_GENERIC_SOURCE = 40
+AI_TEKST_LAENGDE = (1000, 2000, 3000)  # tegn af artiklen pr. forsoeg: 1., 2. og 3. gang
 MAX_AI_PER_RUN = 40          # antal nye artikler der AI-beriges pr. kørsel
 ACCEPT = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -749,8 +750,8 @@ def deepseek(messages, json_mode=False, max_tokens=500):
     return None
 
 
-def article_text(url):
-    """Hent artiklens brødtekst (bedste bud) til brug for AI-resumé."""
+def article_text(url, maxlen=1000):
+    """Hent artiklens brødtekst (bedste bud) til brug for AI. maxlen er antal tegn."""
     try:
         soup = BeautifulSoup(fetch(url), "html.parser")
     except Exception:
@@ -758,7 +759,7 @@ def article_text(url):
     for t in soup(["script", "style", "nav", "header", "footer", "aside"]):
         t.decompose()
     ps = [clean(p.get_text()) for p in soup.find_all("p")]
-    return " ".join(p for p in ps if len(p) > 40)[:1000]
+    return " ".join(p for p in ps if len(p) > 40)[:maxlen]
 
 
 AI_ERRORS = []
@@ -788,7 +789,12 @@ def enrich_items(items):
         # De vises jo ikke offentligt, kun via genvejen til demo for en
         # redaktør, så der er ingen grund til at lade AI'en skrive nye. De
         # resuméer, der allerede findes i arkivet, rører vi ikke ved.
-        text = article_text(it["url"])
+        # Op til tre forsoeg pr. nyhed, hver gang med mere af artiklen. Giver AI'en
+        # stadig intet brugbart svar efter tredje forsoeg, bliver det "Andet", og
+        # nyheden proeves aldrig mere. Forsoeget taeller kun, naar AI'en HAR svaret
+        # uden brugbart indhold - ikke naar nettet eller API'et er nede.
+        forsoeg_nr = int(it.get("forsoeg") or 0) + 1
+        text = article_text(it["url"], AI_TEKST_LAENGDE[min(forsoeg_nr, len(AI_TEKST_LAENGDE)) - 1])
         prompt = (
             "Kategoriser denne danske nyhed om sejlads/havne.\n"
             f"Kategorier (vælg præcis én): {', '.join(CATEGORIES)}\n\n"
@@ -804,7 +810,7 @@ def enrich_items(items):
         try:
             for forsoeg in (1, 2):
                 try:
-                    raw = deepseek(messages, json_mode=True, max_tokens=60)
+                    raw = deepseek(messages, json_mode=True, max_tokens=200)
                     data = parse_json(raw)
                     break
                 except Exception:  # noqa: BLE001
@@ -812,12 +818,18 @@ def enrich_items(items):
                         raise
             cat = data.get("kategori", "")
             it["cat"] = cat if cat in CATEGORIES else "Andet"
+            it.pop("forsoeg", None)
             done += 1
         except Exception as e:  # noqa: BLE001
             detail = ""
             resp = getattr(e, "response", None)
             if resp is not None:
                 detail = f" | HTTP {resp.status_code}: {resp.text[:200]}"
+            if not isinstance(e, requests.exceptions.RequestException):
+                it["forsoeg"] = forsoeg_nr
+                if forsoeg_nr >= len(AI_TEKST_LAENGDE):
+                    it["cat"] = "Andet"      # opgivet efter tredje forsoeg
+                    it.pop("forsoeg", None)
             note_ai_error(f"{type(e).__name__}: {e}{detail}")
             failed += 1
             if failed >= 3 and done == 0:
