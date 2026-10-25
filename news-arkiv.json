@@ -1,7 +1,15 @@
 {
  "generated": "2026-10-25T00:06:04+00:00",
- "count": 515,
+ "count": 523,
  "items": [
+  {
+   "key": "dansketursejlere-aarets-havn-gennem-aarene",
+   "source": "Danske Tursejlere",
+   "date": "2026-10-25",
+   "title": "Årets Havn gennem årene: alle vindere siden 2015",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
+  },
   {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
    "source": "Minbåd.dk",
@@ -4860,6 +4868,15 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/5/csm_min_koto_plotter_MOORE24_DSC05684_cc_4ecae7f285.jpg"
   },
   {
+   "key": "aarets-havn-2024",
+   "source": "FLID Havne",
+   "date": "2024-12-11",
+   "title": "Årets Havn 2024: Sønderborg Lystbådehavn",
+   "url": "https://flidhavne.dk/aarets-havn-2024/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2024/12/Aarets-havn-og-Aarets-skulderklap-1200x900.jpg"
+  },
+  {
    "key": "baadmagasinet-32882",
    "source": "Bådmagasinet",
    "date": "2024-11-26",
@@ -4959,6 +4976,15 @@
    "cat": "Havneliv"
   },
   {
+   "key": "aarets-havn-2022-2",
+   "source": "FLID Havne",
+   "date": "2022-11-29",
+   "title": "Årets Havn 2022: Juelsminde Havn & Marina",
+   "url": "https://flidhavne.dk/aarets-havn-2022-2/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2022/11/Aarets-Havn-Foto-Sofie-Bech.jpg"
+  },
+  {
    "key": "baadmagasinet-31069",
    "source": "Bådmagasinet",
    "date": "2022-11-18",
@@ -4966,6 +4992,33 @@
    "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31069-gransegel-vers-5-0-anden-ud-af-flasken",
    "img": "https://www.baadmagasinet.dk/images/-1.nov_web22/gs_vers5.0.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "aarets-havn-2021-blev-marina-minde",
+   "source": "FLID Havne",
+   "date": "2021-11-29",
+   "title": "ÅRETS HAVN 2021 BLEV MARINA MINDE",
+   "url": "https://flidhavne.dk/aarets-havn-2021-blev-marina-minde/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2021/11/800x450-årets.webp"
+  },
+  {
+   "key": "aarets-havn-2020-kaaret",
+   "source": "FLID Havne",
+   "date": "2020-10-19",
+   "title": "Årets Havn 2020: Stort tillykke til Dyvig Bro",
+   "url": "https://flidhavne.dk/aarets-havn-2020-kaaret/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2020/10/Aarets-havn-2020-1200x797.jpg"
+  },
+  {
+   "key": "aarets-havn-2018-er-egense-lystbaadehavn",
+   "source": "FLID Havne",
+   "date": "2018-11-29",
+   "title": "Årets Havn 2018 er Egense Lystbådehavn",
+   "url": "https://flidhavne.dk/aarets-havn-2018-er-egense-lystbaadehavn/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
   },
   {
    "key": "fire-sejlbaade-til-beboelse",
@@ -5056,6 +5109,24 @@
    "url": "https://minbaad.dk/nyhed/archive/2017/14/september/article/goer-et-kup-efterladte-baade-i-vejle-er-nu-paa-auktion/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_vejle_198dffd959.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "nyborg-marina-kaaret-som-aarets-havn-2016",
+   "source": "FLID Havne",
+   "date": "2016-11-24",
+   "title": "Nyborg Marina kåret som Årets Havn 2016",
+   "url": "https://flidhavne.dk/nyborg-marina-kaaret-som-aarets-havn-2016/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
+  },
+  {
+   "key": "kerteminde-marina-kaaret-som-aarets-havn-2015",
+   "source": "FLID Havne",
+   "date": "2015-11-26",
+   "title": "Kerteminde Marina kåret som Årets Havn 2015",
+   "url": "https://flidhavne.dk/kerteminde-marina-kaaret-som-aarets-havn-2015/",
+   "cat": "Jubilæum / priser",
+   "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
   },
   {
    "key": "forhoejet-vandstand-i-oeresund",
