@@ -1,12 +1,12 @@
 {
  "generated": "2026-10-25T00:06:04+00:00",
- "count": 523,
+ "count": 526,
  "items": [
   {
    "key": "dansketursejlere-aarets-havn-gennem-aarene",
    "source": "Danske Tursejlere",
    "date": "2026-10-25",
-   "title": "Årets Havn gennem årene: alle vindere siden 2015",
+   "title": "Årets Havn gennem årene: alle vindere siden 2008",
    "url": "https://dansketursejlere.dk/aarets-havn/",
    "cat": "Jubilæum / priser"
   },
@@ -4913,6 +4913,15 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/4/csm_fiskerikontrol_8ff77f5545.jpeg"
   },
   {
+   "key": "dansketursejlere-vinderen-af-aarets-havn-2023-er-fundet",
+   "source": "Danske Tursejlere",
+   "date": "2023-12-20",
+   "title": "Årets Havn 2023: Lynæs Havn",
+   "url": "https://dansketursejlere.dk/vinderen-af-aarets-havn-2023-er-fundet/",
+   "cat": "Jubilæum / priser",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2023/12/Lynaes-2-med-DT-logo-kopier-scaled-1.jpeg"
+  },
+  {
    "key": "baadmagasinet-31996",
    "source": "Bådmagasinet",
    "date": "2023-11-16",
@@ -5010,6 +5019,15 @@
    "url": "https://flidhavne.dk/aarets-havn-2020-kaaret/",
    "cat": "Jubilæum / priser",
    "img": "https://flidhavne.dk/wp-content/uploads/2020/10/Aarets-havn-2020-1200x797.jpg"
+  },
+  {
+   "key": "dansketursejlere-marstal-havn-aarets-havn-2019",
+   "source": "Danske Tursejlere",
+   "date": "2019-11-27",
+   "title": "Marstal Havn er Årets Havn 2019",
+   "url": "https://dansketursejlere.dk/marstal-havn-aarets-havn-2019/",
+   "cat": "Jubilæum / priser",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2019/11/Marstal-Havn-680x380-logo.jpg"
   },
   {
    "key": "aarets-havn-2018-er-egense-lystbaadehavn",
@@ -5217,6 +5235,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2013/11/november/article/dagens-tilbud-boennerup-strand-til-salg/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/0/csm_bonnerupstrand_web_aa977f181e.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "baadmagasinet-956",
+   "source": "Bådmagasinet",
+   "date": "2012-02-25",
+   "title": "Årets Havn 2011: Agersø",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/956-",
+   "cat": "Jubilæum / priser",
+   "img": "https://www.baadmagasinet.dk/images/redcontent/item_images/956/img_7948_1330186358.jpeg"
   }
  ]
 }
