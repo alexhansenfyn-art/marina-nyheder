@@ -76,7 +76,7 @@ HEADERS = HEADER_SETS[0]
 # DeepSeek-model: flash er den billigste og hurtige - bruges bevidst frem for pro
 DEEPSEEK_MODELS = ["deepseek-v4-flash"]
 
-CATEGORIES = ["Havnepriser", "Havneliv", "Sikkerhed", "Kapsejlads",
+CATEGORIES = ["Havnetakster", "Havneliv", "Sikkerhed", "Kapsejlads",
               "Tursejlads", "Udstyr & både", "Jubilæum", "Andet"]
 
 # Gamle kildekoder fra tidligere news.json-format
