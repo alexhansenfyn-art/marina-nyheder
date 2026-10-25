@@ -1,9 +1,10 @@
 {
- "generated": "2026-10-25T10:11:28+00:00",
- "count": 836,
+ "generated": "2026-10-25T14:25:17+00:00",
+ "count": 846,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 536,
+ "arkiv_antal": 546,
  "errors": [
+  "AI: ValueError: kunne ikke tolke AI-svar: {\"kategori\":\"Havnel",
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
@@ -14,7 +15,7 @@
    "title": "6-7 både brændt i Aarøsund - plus nabobåde med sodskader",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flere-baade-braendt-i-aaroesund-flere-nabobaade-har-ogsaa-faaet-sodskader/",
    "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg",
-   "forsoeg": 1
+   "cat": "Havneliv"
   },
   {
    "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
@@ -274,7 +275,7 @@
    "date": "2026-10-20",
    "title": "Gratis for lystsejlere at sejle gennem Kielerkanalen i 2027",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_ee6e423c5d.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_d6c6052604.png",
    "cat": "Havnetakster"
   },
   {
@@ -337,7 +338,7 @@
    "date": "2026-10-19",
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__15324067b2.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg",
    "cat": "Udstyr & både"
   },
   {
@@ -382,18 +383,8 @@
    "date": "2026-10-18",
    "title": "Ferrari bygger flyvende 30 meter 'rumskib' - skal udfordre flerskrogsbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/ferrari-bygger-flyvende-30-meter-rumskib-skal-udfordre-flerskrogsbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_eccf75d5aa.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_3d534dc892.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-10-25"
-  },
-  {
-   "key": "to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord",
-   "source": "Minbåd.dk",
-   "date": "2026-10-18",
-   "title": "To fiskere kæntrede syv kilometer fra land i Ringkøbing Fjord",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/f/csm_hvide_sande_6356_1057862083933207_5246968273519471442_n_e357a0923f.jpg",
-   "cat": "Sikkerhed",
    "tjek": "2026-10-25"
   },
   {
@@ -404,6 +395,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/anholt-trak-tusindvis-af-gaestesejlere-til-kattegat-i-2026-flere-end-normalt/",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_anholt_20200731_112616_b0e5d6abeb.jpg",
    "cat": "Tursejlads",
+   "tjek": "2026-10-25"
+  },
+  {
+   "key": "to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-18",
+   "title": "To fiskere kæntrede syv kilometer fra land i Ringkøbing Fjord",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/october/article/to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/f/csm_hvide_sande_6356_1057862083933207_5246968273519471442_n_adc6c9d57c.jpg",
+   "cat": "Sikkerhed",
    "tjek": "2026-10-25"
   },
   {
@@ -472,7 +473,7 @@
    "date": "2026-10-16",
    "title": "Slidt er ikke altid OK - alger kan få konsekvenser for sikkerheden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/october/article/lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_76a90a5da8.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_b35f50895f.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-25"
   },
@@ -872,7 +873,7 @@
    "date": "2026-10-07",
    "title": "Sådan gør du din båd vinterklar - Kolding-sejler deler tips ud",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_bec06b0189.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_7b2d3c2adb.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-25"
   },
@@ -942,7 +943,7 @@
    "date": "2026-10-06",
    "title": "Minn Kota og Humminbird bliver ét: Nyt samlet system skal gøre fiskeriet enklere",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_d8b0e1cb68.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_c3a4f1629c.png",
    "cat": "Udstyr & både",
    "tjek": "2026-10-25"
   },
@@ -1551,7 +1552,7 @@
    "date": "2026-09-26",
    "title": "Askeladden deles efter konkurs – både Polen og Norge fører mærket videre",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/september/article/askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_8e2fdd6118.jpeg",
    "cat": "Udstyr & både"
   },
   {
@@ -1609,7 +1610,7 @@
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_5acbaebf84.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2167,7 +2168,7 @@
    "date": "2026-09-17",
    "title": "Solpaneler efter mål - kan laves flotte",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c3057cf7cd.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_f7c745f3bf.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
   },
@@ -2307,7 +2308,7 @@
    "date": "2026-09-15",
    "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2fa87be388.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
   },
@@ -2723,7 +2724,7 @@
    "date": "2026-09-09",
    "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_4c8e07aa23.jpg",
    "cat": "Udstyr & både",
    "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
   },
@@ -2864,7 +2865,7 @@
    "date": "2026-09-07",
    "title": "LEGOLAND sælger Kongeskibet Dannebrog – næsten to meter langt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/september/article/legoland-saelger-kongeskibet-dannebrog-naesten-to-meter-langt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_lego_d36-4f5f-9758-b77c32dc246f_47946b849c.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_lego_d36-4f5f-9758-b77c32dc246f_741c6ff860.jpg",
    "cat": "Andet",
    "sum": "LEGOLAND sælger for første gang en original Miniland-model af Kongeskibet Dannebrog fra 1998 på auktion. Modellen består af 25.000 klodser, er 196 cm lang, og overskuddet går til velgørenhed."
   },
