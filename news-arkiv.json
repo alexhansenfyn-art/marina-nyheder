@@ -1,15 +1,7 @@
 {
  "generated": "2026-10-25T00:06:04+00:00",
- "count": 526,
+ "count": 531,
  "items": [
-  {
-   "key": "dansketursejlere-aarets-havn-gennem-aarene",
-   "source": "Danske Tursejlere",
-   "date": "2026-10-25",
-   "title": "Årets Havn gennem årene: alle vindere siden 2008",
-   "url": "https://dansketursejlere.dk/aarets-havn/",
-   "cat": "Jubilæum / priser"
-  },
   {
    "key": "hven-rundt-ved-nat-samler-sejlere-paa-oeresund",
    "source": "Minbåd.dk",
@@ -5147,6 +5139,14 @@
    "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
   },
   {
+   "key": "dansketursejlere-aarets-havn-2014",
+   "source": "Danske Tursejlere",
+   "date": "2014-11-25",
+   "title": "Årets Havn 2014: Ballen Lystbådehavn",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
+  },
+  {
    "key": "forhoejet-vandstand-i-oeresund",
    "source": "Minbåd.dk",
    "date": "2013-12-06",
@@ -5181,6 +5181,14 @@
    "url": "https://minbaad.dk/nyhed/archive/2013/25/november/article/nedstemt-klubformand-i-bogense-skyder-igen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/e/csm_bogensehavn_4be0f8f907.jpg",
    "cat": "Andet"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2013",
+   "source": "Danske Tursejlere",
+   "date": "2013-11-25",
+   "title": "Årets Havn 2013: Hundested Havn",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
   },
   {
    "key": "flid-vil-goere-lystbaadehavnen-attraktiv-med-rabatter-til-unge",
@@ -5237,6 +5245,14 @@
    "cat": "Havneliv"
   },
   {
+   "key": "dansketursejlere-aarets-havn-2012",
+   "source": "Danske Tursejlere",
+   "date": "2012-11-25",
+   "title": "Årets Havn 2012: Juelsminde Lystbådehavn",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
+  },
+  {
    "key": "baadmagasinet-956",
    "source": "Bådmagasinet",
    "date": "2012-02-25",
@@ -5244,6 +5260,30 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/956-",
    "cat": "Jubilæum / priser",
    "img": "https://www.baadmagasinet.dk/images/redcontent/item_images/956/img_7948_1330186358.jpeg"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2010",
+   "source": "Danske Tursejlere",
+   "date": "2010-11-25",
+   "title": "Årets Havn 2010: Bogense Marina",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2009",
+   "source": "Danske Tursejlere",
+   "date": "2009-11-25",
+   "title": "Årets Havn 2009: Dyvig Bådelaug",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2008",
+   "source": "Danske Tursejlere",
+   "date": "2008-11-25",
+   "title": "Årets Havn 2008: Reersø Havn",
+   "url": "https://dansketursejlere.dk/aarets-havn/",
+   "cat": "Jubilæum / priser"
   }
  ]
 }
