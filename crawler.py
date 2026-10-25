@@ -77,7 +77,7 @@ HEADERS = HEADER_SETS[0]
 DEEPSEEK_MODELS = ["deepseek-v4-flash"]
 
 CATEGORIES = ["Havnetakster", "Havneliv", "Sikkerhed", "Kapsejlads",
-              "Tursejlads", "Udstyr & både", "Jubilæum", "Andet"]
+              "Tursejlads", "Udstyr & både", "Jubilæum / priser", "Andet"]
 
 # Gamle kildekoder fra tidligere news.json-format
 LEGACY_LABELS = {"m": "Minbåd.dk", "o": "Motorbådsnyt", "f": "FLID Havne"}
