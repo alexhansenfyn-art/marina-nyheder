@@ -1,10 +1,19 @@
 {
- "generated": "2026-10-26T01:47:05+00:00",
- "count": 846,
+ "generated": "2026-10-26T07:04:10+00:00",
+ "count": 847,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 546,
+ "arkiv_antal": 547,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34519",
+   "source": "Bådmagasinet",
+   "date": "2026-10-26",
+   "title": "Fem danske IQ-surfere jagter U19-EM i Grækenland",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34519-fem-danske-iq-surfere-jagter-u19-em-i-graekenland",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_261024_sailingenergy_varkiza_iqfoil_y&j_europeans__d.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "flere-baade-braendt-i-aaroesund-flere-nabobaade-har-ogsaa-faaet-sodskader",
    "source": "Minbåd.dk",
@@ -63,7 +72,7 @@
    "key": "baadmagasinet-34517",
    "source": "Bådmagasinet",
    "date": "2026-10-24",
-   "title": "Finanasloven vil få fatale konsekvenser for Fregatten Jylland - risikerer lukning!",
+   "title": "Finansloven vil få fatale konsekvenser for Fregatten Jylland - risikerer lukning!",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34517-fregatten-jylland-risikerer-lukning",
    "img": "https://www.baadmagasinet.dk/images/-----marts26/christiansborg_forside.jpg",
    "cat": "Andet"
@@ -868,7 +877,8 @@
    "title": "Vendée Globe-sejler tæt på dramatisk kollision i Saint-Tropez",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/vendee-globe-sejler-taet-paa-dramatisk-kollision-i-saint-tropez/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_kolli-42-spithills-aufgabe-auf-tuiga_b2fa23a2b7.png",
+   "tjek": "2026-10-26"
   },
   {
    "key": "saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud",
@@ -2984,17 +2994,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
    "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
-  },
-  {
-   "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
-   "source": "Minbåd.dk",
-   "date": "2026-09-05",
-   "title": "Tyveri og forlis på Langeland: 57 fods Maheo nu slået til pindebrænde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/05/september/article/tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende/",
-   "cat": "Sikkerhed",
-   "sum": "Efter motorproblemer strandede træskonnerten Maheo ved Langeland, dele blev stjålet, og uvejr har nu slået vraget i stykker.",
-   "tjek": "2026-09-18",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_lang_bac-185c-49d8-a363-c746f5be4d29_d6738442e0.jpg"
   }
  ]
 }
