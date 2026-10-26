@@ -1,7 +1,72 @@
 {
- "generated": "2026-10-26T07:04:10+00:00",
- "count": 547,
+ "generated": "2026-10-26T14:19:28+00:00",
+ "count": 553,
  "items": [
+  {
+   "key": "baadmagasinet-34409",
+   "source": "Bådmagasinet",
+   "date": "2026-09-07",
+   "title": "Sehesteds forløsning i Spanien - se highlights fra søndagens sejladser",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34409-sehesteds-forlosning-i-spanien",
+   "cat": "Kapsejlads",
+   "sum": "Nicolai Sehested og co. kvalificerede sig til SailGP-finalen i Valencia efter en fjerdeplads i søndagens fleet race. Det er første gang siden juni 2024, at danskerne er i en finale.",
+   "tjek": "2026-09-14",
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_fd4_5822_1.jpg"
+  },
+  {
+   "key": "dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil",
+   "source": "Minbåd.dk",
+   "date": "2026-09-06",
+   "title": "Dansk X-46 gik på grund i Sverige – nu køres båden hjem på lastbil",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/dansk-x-46-gik-paa-grund-i-sverige-nu-koeres-baaden-hjem-paa-lastbil/",
+   "cat": "Sikkerhed",
+   "sum": "En dansk X-46 gik på grund ud for Skillinge i Sverige. Tre danskere blev reddet, og båden blev efterfølgende transporteret hjem til Danmark på lastbil.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/b/csm_a_791144103_1080325891623945_5016761241987050817_n_59dcc88864.jpg",
+   "tjek": "2026-09-21"
+  },
+  {
+   "key": "sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink",
+   "source": "Minbåd.dk",
+   "date": "2026-09-06",
+   "title": "Sponsorindhold: Hvad koster internet på sejlturen? Fra havnens wi-fi til Starlink",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/september/article/sponsorindholdhvad-koster-internet-paa-sejlturen-fra-havnens-wi-fi-til-starlink/",
+   "cat": "Udstyr & både",
+   "sum": "Artiklen handler om, hvordan sejlere sikrer internet ombord, og hvad det koster. Den sammenligner havnens wi-fi med løsninger som Starlink.",
+   "tjek": "2026-09-20",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_l__20260905_163458_0823079be5.jpg"
+  },
+  {
+   "key": "baadmagasinet-34405",
+   "source": "Bådmagasinet",
+   "date": "2026-09-06",
+   "title": "To personer alvorligt kvæstet efter sammenstød med politibåd ved Middelgrundsfortet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34405-to-personer-alvorligt-kvaestet-efter-sammenstod-med-politibad-ved-middelgrundsfortet",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev alvorligt kvæstet, da en politibåd og en civil båd stødte sammen ved Middelgrundsfortet. Ulykken efterforskes af flere myndigheder, og de skadede er indlagt på Rigshospitalet.",
+   "tjek": "2026-09-16",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/kbh_politi_arkivfoto.jpg"
+  },
+  {
+   "key": "baadmagasinet-34407",
+   "source": "Bådmagasinet",
+   "date": "2026-09-06",
+   "title": "DH-DM: Vejret drillede for alvor i Middelfart",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34407-dh-dm-vejret-drillede-for-alvor",
+   "cat": "Kapsejlads",
+   "sum": "Vejret drillede ved DH-DM i Middelfart: Fredag regn, lørdag aflyst pga. lyn, men søndag gennemført. Vindere i tre klasser kåret.",
+   "tjek": "2026-09-13",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/matt11.jpg"
+  },
+  {
+   "key": "smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-05",
+   "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
+  },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
    "source": "Minbåd.dk",
