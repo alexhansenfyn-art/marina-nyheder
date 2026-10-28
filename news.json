@@ -1,10 +1,19 @@
 {
- "generated": "2026-10-28T00:04:33+00:00",
- "count": 862,
+ "generated": "2026-10-28T05:45:59+00:00",
+ "count": 863,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 562,
+ "arkiv_antal": 563,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34524",
+   "source": "Bådmagasinet",
+   "date": "2026-10-28",
+   "title": "Renovering betyder ændringer på Boot Düsseldorf – og så vender X-Yachts tilbage",
+   "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34524-boot-duesseldorf-bygger-om-og-sa-vender-x-yachts-tilbage",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/petros_michelidakis_boot.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne",
    "source": "Minbåd.dk",
@@ -159,15 +168,6 @@
    "cat": "Havneliv"
   },
   {
-   "key": "baadmagasinet-34518",
-   "source": "Bådmagasinet",
-   "date": "2026-10-25",
-   "title": "Rolex Middle Sea: Endnu en 'tough' udgave er overstået - se video og galleri",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34518-rolex-middle-sea-endnu-en-tough-udgave-er-overstaet",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_msea_2610ka_3448_2.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "marinaguide-boennerup-havn-udvikles-til-nyt-maritimt-kraftcenter",
    "source": "MarinaGuide",
    "date": "2026-10-25",
@@ -183,6 +183,15 @@
    "title": "Sejlerglæden er intakt: Anne-Marie Rindom gør comeback på Sejlerlandsholdet",
    "url": "https://dansksejlunion.dk/nyheder/2026/sejlerglaeden-er-intakt-anne-marie-rindom-goer-comeback-paa-sejlerlandsholdet",
    "img": "https://dansksejlunion.dk/media/4xafhill/anne-marie-301-2.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34518",
+   "source": "Bådmagasinet",
+   "date": "2026-10-25",
+   "title": "Rolex Middle Sea: Endnu en 'tough' udgave er overstået - se video og galleri",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34518-rolex-middle-sea-endnu-en-tough-udgave-er-overstaet",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_msea_2610ka_3448_2.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -815,7 +824,8 @@
    "title": "Første etape af Marina City står klar: Kolding inviterer til indvielse i efterårsferien",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34491-forste-etape-af-marina-city-star-klar-kolding-inviterer-til-indvielse-i-efterarsferien",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/kolding_kommune_marina_city_2.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-28"
   },
   {
    "key": "andreas-laegger-sejlbaad-til-alene-en-karabinhage-og-en-dobbeltblok-goer-forskellen",
@@ -2959,17 +2969,6 @@
    "cat": "Kapsejlads",
    "sum": "Sundby Sejlforenings besætning med Marc Wain Pedersen, Kristian Schaldemose og Michael Empacher vandt DM i Yngling i Taarbæk efter fire sejladser i træk.",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_michael_99590600_28417480601234355_4070724189751516970_n_cb54987d5c.jpg",
-   "tjek": "2026-09-21"
-  },
-  {
-   "key": "anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland",
-   "source": "Minbåd.dk",
-   "date": "2026-09-08",
-   "title": "Anna Munch blander sig i VM-toppen efter sejr i Irland",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/september/article/anna-munch-blander-sig-i-vm-toppen-efter-sejr-i-irland/",
-   "cat": "Kapsejlads",
-   "sum": "Anna Munch fra Aarhus Sejlklub ligger nummer tre efter første dag ved ILCA 6-VM i Dún Laoghaire, efter en sejr og to femtepladser.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_a_8rig_58139_1071235962482128_1188593336381016324_n_d21ee504df.jpg",
    "tjek": "2026-09-21"
   }
  ]
