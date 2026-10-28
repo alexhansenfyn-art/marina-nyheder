@@ -1,30 +1,12 @@
 {
- "generated": "2026-10-28T17:26:34+00:00",
- "count": 867,
+ "generated": "2026-10-28T21:55:55+00:00",
+ "count": 878,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 567,
+ "arkiv_antal": 578,
  "errors": [
   "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
  ],
  "items": [
-  {
-   "key": "laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug",
-   "source": "Minbåd.dk",
-   "date": "2026-10-28",
-   "title": "Lær at navigere efter sol og stjerner i Kaløvig Bådelaug",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_kal_Q45KyXfyuLCBptUYaR8dK8yYfXRpVBDSM7nZztYYDUXXC46q0UDcgiVT-_425913c9db.jpg",
-   "forsoeg": 1
-  },
-  {
-   "key": "shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser",
-   "source": "Minbåd.dk",
-   "date": "2026-10-28",
-   "title": "Shetlandsøerne opgivet - far og datter tog i stedet Caledonian Canals 29 sluser",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_c_IMG-20261002-WA0001_e53ec95c50.jpg",
-   "cat": "Tursejlads"
-  },
   {
    "key": "fem-tips-til-at-fjerne-sorte-striber-og-skimmelsvamp-fra-dine-sejl",
    "source": "Minbåd.dk",
@@ -33,6 +15,33 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/fem-tips-til-at-fjerne-sorte-striber-og-skimmelsvamp-fra-dine-sejl/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/2/csm_sejl_2A9116_0085534b59.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "ny-yamarin-aura-lounge-faar-tre-solsengeomraader-og-700-hk",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-28",
+   "title": "Ny Yamarin Aura Lounge får tre solsengeområder og 700 hk",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/october/article/ny-yamarin-aura-lounge-faar-tre-solsengeomraader-og-700-hk/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_Yamarin_Aura_Lounge_nat_d06e8f7d79.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug",
+   "source": "Minbåd.dk",
+   "date": "2026-10-28",
+   "title": "Lær at navigere efter sol og stjerner i Kaløvig Bådelaug",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_kal_Q45KyXfyuLCBptUYaR8dK8yYfXRpVBDSM7nZztYYDUXXC46q0UDcgiVT-_685d13ae77.jpg",
+   "forsoeg": 1
+  },
+  {
+   "key": "shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser",
+   "source": "Minbåd.dk",
+   "date": "2026-10-28",
+   "title": "Shetlandsøerne opgivet - far og datter tog i stedet Caledonian Canals 29 sluser",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_c_IMG-20261002-WA0001_8515196c46.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "baadmagasinet-34525",
@@ -50,15 +59,6 @@
    "title": "Renovering betyder ændringer på Boot Düsseldorf – og så vender X-Yachts tilbage",
    "url": "https://www.baadmagasinet.dk/nyheder/ba-dudstillinger/34524-boot-duesseldorf-bygger-om-og-sa-vender-x-yachts-tilbage",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/petros_michelidakis_boot.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
-   "key": "fugt-og-skimmel-i-baaden-om-efteraaret-her-er-fem-raad-der-virker",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-27",
-   "title": "Fugt og skimmel i båden om efteråret: Her er fem råd, der virker",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/27/october/article/fugt-og-skimmel-i-baaden-om-efteraaret-her-er-fem-raad-der-virker/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm_kah_0250620_140309_3c572643bc.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -87,6 +87,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/solosejler-skal-forsvare-sejren-i-route-du-rhum-i-ny-gitana-18/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_git_0602_YR_Gitana_DJI_20260602151731_0045_D_9a16417bee.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "fugt-og-skimmel-i-baaden-om-efteraaret-her-er-fem-raad-der-virker",
+   "source": "Minbåd.dk",
+   "date": "2026-10-27",
+   "title": "Fugt og skimmel i båden om efteråret: Her er fem råd, der virker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/fugt-og-skimmel-i-baaden-om-efteraaret-her-er-fem-raad-der-virker/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/8/csm_kah_0250620_140309_7897916082.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34523",
@@ -942,7 +951,8 @@
    "title": "Minbaad.dk vokser - styrer mod 1,5 mio. unikke læsere i 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/october/article/minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026/",
    "cat": "Andet",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_sol_579_948944990593021_6754005344428713775_n_cdd538454f.jpg",
+   "tjek": "2026-10-28"
   },
   {
    "key": "baadmagasinet-34488",
@@ -2955,17 +2965,6 @@
    "cat": "Sikkerhed",
    "sum": "Et tysk ægtepar måtte mandag aften have hjælp fra brandvæsenet, da deres båd tog vand ind i Rønne Havn. Båden blev pumpet tør og flyttet til en anden kajplads.",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/2/csm_b_714_202907_0483710851.jpg",
-   "tjek": "2026-09-21"
-  },
-  {
-   "key": "baadmagasinet-34412",
-   "source": "Bådmagasinet",
-   "date": "2026-09-09",
-   "title": "Tre arkitekthold skal tegne fremtidens Fregatten Jylland",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34412-tre-arkitekthold-skal-tegne-fremtidens-fregatten-jylland",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_4_fregatten_jylland_foto_fregatten_jylland_9.jpg",
-   "cat": "Andet",
-   "sum": "Fregatten Jylland i Ebeltoft står foran fornyelse. Tre arkitektfirmaer skal give bud på, hvordan skibet og museumsområdet skal formidle historien på ny.",
    "tjek": "2026-09-21"
   }
  ]

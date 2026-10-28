@@ -1,7 +1,18 @@
 {
- "generated": "2026-10-28T17:26:34+00:00",
- "count": 567,
+ "generated": "2026-10-28T21:55:55+00:00",
+ "count": 578,
  "items": [
+  {
+   "key": "baadmagasinet-34412",
+   "source": "Bådmagasinet",
+   "date": "2026-09-09",
+   "title": "Tre arkitekthold skal tegne fremtidens Fregatten Jylland",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34412-tre-arkitekthold-skal-tegne-fremtidens-fregatten-jylland",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_4_fregatten_jylland_foto_fregatten_jylland_9.jpg",
+   "cat": "Andet",
+   "sum": "Fregatten Jylland i Ebeltoft står foran fornyelse. Tre arkitektfirmaer skal give bud på, hvordan skibet og museumsområdet skal formidle historien på ny.",
+   "tjek": "2026-09-21"
+  },
   {
    "key": "baadmagasinet-34413",
    "source": "Bådmagasinet",
@@ -3079,15 +3090,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----juli26/femarn.jpg"
   },
   {
-   "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
-   "source": "Minbåd.dk",
-   "date": "2026-07-21",
-   "title": "Sejlbåd har ligget på stranden siden maj – hvem ejer båden?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_nybofg_ko_907830_10163759566207600_862293553713109933_n_a23c2a810b.jpg",
-   "cat": "Andet"
-  },
-  {
    "key": "marinaguide-toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
    "source": "MarinaGuide",
    "date": "2026-07-21",
@@ -3095,6 +3097,15 @@
    "url": "https://marinaguide.dk/nyhed/toiletfaciliteter-med-skandinavisk-hygge-vaekker-begejstring-paa-vedbaek-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/a/7/csm_hygge_pa___toilet_604dbf4d34.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden",
+   "source": "Minbåd.dk",
+   "date": "2026-07-21",
+   "title": "Sejlbåd har ligget på stranden siden maj – hvem ejer båden?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/july/article/sejlbaad-har-ligget-paa-stranden-siden-maj-hvem-ejer-baaden/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_nybofg_ko_907830_10163759566207600_862293553713109933_n_a23c2a810b.jpg",
+   "cat": "Andet"
   },
   {
    "key": "erik-anderaa-naaede-nord-for-svalbard-iskanten-kom-pludselig",
@@ -3256,6 +3267,15 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/9/csm_an_20200730_101820_28151cf98a.jpg"
   },
   {
+   "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
+   "source": "Motorbådsnyt",
+   "date": "2026-07-17",
+   "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/7/csm_sirena_60_MG_20260710_112907_5a2b76e600.jpg"
+  },
+  {
    "key": "find-naermeste-havn-paa-faa-sekunder-paa-havneguidedk",
    "source": "Minbåd.dk",
    "date": "2026-07-17",
@@ -3272,15 +3292,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/17/july/article/politiet-med-humoristisk-opraab-til-sejlerne-smarte-solbriller-er-ikke-nok/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_politi_20611_184342_995ad60064.jpg",
    "cat": "Sikkerhed"
-  },
-  {
-   "key": "vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i",
-   "source": "Motorbådsnyt",
-   "date": "2026-07-17",
-   "title": "Vi tester Sirena 60 til 23 mio. kr. - tjekket mini-superyacht du kan bo i",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/july/article/vi-tester-sirena-60-til-23-mio-kr-tjekket-mini-superyacht-du-kan-bo-i/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/7/csm_sirena_60_MG_20260710_112907_5a2b76e600.jpg"
   },
   {
    "key": "baadmagasinet-34273",
@@ -3342,15 +3353,6 @@
    "cat": "Havnetakster"
   },
   {
-   "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "Sejlere dropper Norge efter kontrol fra Kystvakten",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/sejlere-dropper-norge-efter-kontrol-fra-kystvakten/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_norge_fyr_20260701_112856_6c67b5dd70.jpg",
-   "cat": "Tursejlads"
-  },
-  {
    "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
    "source": "Danske Tursejlere",
    "date": "2026-07-15",
@@ -3358,6 +3360,15 @@
    "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
    "cat": "Andet"
+  },
+  {
+   "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
+   "source": "Minbåd.dk",
+   "date": "2026-07-15",
+   "title": "Sejlere dropper Norge efter kontrol fra Kystvakten",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/sejlere-dropper-norge-efter-kontrol-fra-kystvakten/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_norge_fyr_20260701_112856_6c67b5dd70.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "26-aarige-veronica-nyder-at-bo-alene-i-sin-42-fods-sejlbaad-i-nordnorge-hus-frister-ikke",
@@ -5506,6 +5517,96 @@
    "url": "https://flidhavne.dk/kerteminde-marina-kaaret-som-aarets-havn-2015/",
    "cat": "Jubilæum / priser",
    "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
+  },
+  {
+   "key": "populaer-aeldre-mirror-jolle-saelges-atter-i-danmark",
+   "source": "Minbåd.dk",
+   "date": "2015-09-07",
+   "title": "Populær ældre Mirror-jolle sælges atter i Danmark",
+   "url": "https://minbaad.dk/nyhed/archive/2015/07/september/article/populaer-aeldre-mirror-jolle-saelges-atter-i-danmark/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/a/csm_mireddelelse_5d4eae6e52.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "ros-til-ishoejs-flydende-baadmesse-klar-igen-naeste-aar",
+   "source": "Minbåd.dk",
+   "date": "2015-09-04",
+   "title": "Ros til Ishøjs flydende bådmesse - klar igen næste år",
+   "url": "https://minbaad.dk/nyhed/archive/2015/04/september/article/ros-til-ishoejs-flydende-baadmesse-klar-igen-naeste-aar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_1MG_9566_896de9cd9a.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "cold-hawaii-i-thy-med-saybia-og-de-eneste-to",
+   "source": "Minbåd.dk",
+   "date": "2015-09-01",
+   "title": "Cold Hawaii i Thy med Saybia og De Eneste To",
+   "url": "https://minbaad.dk/nyhed/archive/2015/01/september/article/cold-hawaii-i-thy-med-saybia-og-de-eneste-to/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/f/csm_Cold_Hawaii_3e3958ab12.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "hold-din-oel-kold-med-cup-cooler",
+   "source": "Minbåd.dk",
+   "date": "2015-08-30",
+   "title": "Hold din øl kold med Cup Cooler",
+   "url": "https://minbaad.dk/nyhed/archive/2015/30/august/article/hold-din-oel-kold-med-cup-cooler/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_cup_coolIMG_9616_e5de41eecc.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "flydende-baadudstilling-i-ishoej-et-besoeg-vaerd",
+   "source": "Minbåd.dk",
+   "date": "2015-08-29",
+   "title": "Flydende bådudstilling i Ishøj et besøg værd",
+   "url": "https://minbaad.dk/nyhed/archive/2015/29/august/article/flydende-baadudstilling-i-ishoej-et-besoeg-vaerd/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_4IMG_9599_d215d1d14f.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "i-dag-starter-flydende-baadmesse-i-ishoej-gratis-indgang",
+   "source": "Minbåd.dk",
+   "date": "2015-08-28",
+   "title": "I dag starter Flydende bådmesse i Ishøj - gratis indgang",
+   "url": "https://minbaad.dk/nyhed/archive/2015/28/august/article/i-dag-starter-flydende-baadmesse-i-ishoej-gratis-indgang/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_ishoj_luft1885302_813625335402661_3742741292784207999_n_2a312d0cd1.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "test-i-skagen-gav-salg-af-to-marex-375",
+   "source": "Minbåd.dk",
+   "date": "2015-08-28",
+   "title": "Test i Skagen gav salg af to Marex 375",
+   "url": "https://minbaad.dk/nyhed/archive/2015/28/august/article/test-i-skagen-gav-salg-af-to-marex-375/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/a/csm_marex375unnamed_01_0bce9ba7d9.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "shipshape-saelger-nu-dufour-baade",
+   "source": "Minbåd.dk",
+   "date": "2015-08-25",
+   "title": "ShipShape sælger nu Dufour-både",
+   "url": "https://minbaad.dk/nyhed/archive/2015/25/august/article/shipshape-saelger-nu-dufour-baade/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_dufour_medium_9ae5b72c01.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "off-pist-sejlads-i-en-krageroejolle",
+   "source": "Minbåd.dk",
+   "date": "2015-08-24",
+   "title": "Off pist sejlads i en Kragerøjolle",
+   "url": "https://minbaad.dk/nyhed/archive/2015/24/august/article/off-pist-sejlads-i-en-krageroejolle/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/1/csm_krag_2b9cfbedaa.jpg",
+   "cat": "Tursejlads"
+  },
+  {
+   "key": "kendt-direktoer-i-branchen-saelger-autocampere-paa-ishoejs-flydende",
+   "source": "Minbåd.dk",
+   "date": "2015-08-24",
+   "title": "Kendt direktør i branchen sælger autocampere på Ishøjs flydende",
+   "url": "https://minbaad.dk/nyhed/archive/2015/24/august/article/kendt-direktoer-i-branchen-saelger-autocampere-paa-ishoejs-flydende/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_mMG_9338_680f7df3d0.jpg",
+   "forsoeg": 1
   },
   {
    "key": "dansketursejlere-aarets-havn-2014",
