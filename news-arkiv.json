@@ -1,7 +1,28 @@
 {
- "generated": "2026-10-28T11:41:42+00:00",
- "count": 565,
+ "generated": "2026-10-28T17:26:34+00:00",
+ "count": 567,
  "items": [
+  {
+   "key": "baadmagasinet-34413",
+   "source": "Bådmagasinet",
+   "date": "2026-09-09",
+   "title": "Det ’lugter’ af VM-medaljer i England og Irland",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34413-det-lugter-af-vm-medaljer-i-england-og-irland",
+   "cat": "Kapsejlads",
+   "sum": "Danske Anna Munch er nr. 3 ved ILCA 6-VM i Irland, og Johan Søe er kvalificeret til gold-fleet ved iQFOiL-VM. Medaljer er inden for rækkevidde.",
+   "tjek": "2026-09-16",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/anna-munch_vm-20267_06_forside.jpg"
+  },
+  {
+   "key": "baadmagasinet-34408",
+   "source": "Bådmagasinet",
+   "date": "2026-09-08",
+   "title": "Nye flydebroer og bedre læ ved Mariager Fjord: Omfattende millionprojekt på vej i Hobro",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34408-nye-flydebroer-og-bedre-lae-ved-mariager-fjord-omfattende-millionprojekt-pa-vej-i-hobro",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/skitse_hasloev_og_kjaersgaard_forside.jpg",
+   "cat": "Havneliv",
+   "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
+  },
   {
    "key": "camilla-og-jonas-toustrup-kom-taet-paa-isbjoerne-svalbard-overgik-alle-droemmene",
    "source": "Minbåd.dk",

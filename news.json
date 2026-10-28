@@ -1,17 +1,28 @@
 {
- "generated": "2026-10-28T11:41:42+00:00",
- "count": 865,
+ "generated": "2026-10-28T17:26:34+00:00",
+ "count": 867,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 565,
- "errors": [],
+ "arkiv_antal": 567,
+ "errors": [
+  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
+ ],
  "items": [
+  {
+   "key": "laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug",
+   "source": "Minbåd.dk",
+   "date": "2026-10-28",
+   "title": "Lær at navigere efter sol og stjerner i Kaløvig Bådelaug",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_kal_Q45KyXfyuLCBptUYaR8dK8yYfXRpVBDSM7nZztYYDUXXC46q0UDcgiVT-_425913c9db.jpg",
+   "forsoeg": 1
+  },
   {
    "key": "shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser",
    "source": "Minbåd.dk",
    "date": "2026-10-28",
    "title": "Shetlandsøerne opgivet - far og datter tog i stedet Caledonian Canals 29 sluser",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_c_IMG-20261002-WA0001_8515196c46.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_c_IMG-20261002-WA0001_e53ec95c50.jpg",
    "cat": "Tursejlads"
   },
   {
@@ -20,8 +31,17 @@
    "date": "2026-10-28",
    "title": "Fem tips til at fjerne sorte striber og skimmelsvamp fra dine sejl",
    "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/fem-tips-til-at-fjerne-sorte-striber-og-skimmelsvamp-fra-dine-sejl/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/2/csm_sejl_2A9116_b1ce9bb876.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/2/csm_sejl_2A9116_0085534b59.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34525",
+   "source": "Bådmagasinet",
+   "date": "2026-10-28",
+   "title": "Find sekstanten frem - i Kaløvig kan du lære at navigere efter stjernerne",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34525-stjernerne",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/havnen-officielt-billede-scaled_2.jpg",
+   "cat": "Tursejlads"
   },
   {
    "key": "baadmagasinet-34524",
@@ -47,7 +67,7 @@
    "date": "2026-10-27",
    "title": "Storm Austen smadrede sejlbåde – fem sejlere reddet fra klipperne",
    "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_lanzarote-2048x1152_d332f7b249.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_lanzarote-2048x1152_006e16f5f2.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -371,7 +391,7 @@
    "date": "2026-10-21",
    "title": "Danske lystbådehavne frygter lukning, hvis havet igen går amok",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/danske-lystbaadehavne-frygter-lukning-hvis-havet-igen-gaar-amok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_39d1d68e9d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg",
    "cat": "Havneliv",
    "tjek": "2026-10-28"
   },
@@ -391,7 +411,7 @@
    "date": "2026-10-21",
    "title": "Norsk kvindelig solosejler får ti dages tidsstraf i Golden Globe Race efter ulovlige satellitopkald",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/norsk-kvindelig-solosejler-faar-ti-dages-tidsstraf-i-golden-globe-race-efter-ulovlige-satellitopkald/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_golden_straf_1667930441395919_5044874238096062592_n_6c8803aab5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_golden_straf_1667930441395919_5044874238096062592_n_a5cda0d4a6.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-28"
   },
@@ -511,7 +531,7 @@
    "date": "2026-10-19",
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__15324067b2.jpeg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-28"
   },
@@ -521,7 +541,7 @@
    "date": "2026-10-19",
    "title": "5 gode råd til vinteropbevaring af sejl - salt er fjenden",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/5-gode-rd-til-vinteropbevaring-af-sejl-salt-er-fjenden/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/d/csm_x_79_fyn_cup_1fd469750b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/d/csm_x_79_fyn_cup_24d0a52ed7.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-28"
   },
@@ -601,7 +621,7 @@
    "date": "2026-10-17",
    "title": "Frygtløs solosejler Erik Aanderaa satte kurs mod Nordpolen – sejlede 3.597 sømil",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/october/article/frygtloes-solosejler-erik-aanderaa-satte-kurs-mod-nordpolen-sejlede-3597-soemil/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/8/csm_er_490959_18624705445052326_8827862232242655978_n_400c9f5fac.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/8/csm_er_490959_18624705445052326_8827862232242655978_n_74916aec72.jpg",
    "cat": "Tursejlads",
    "tjek": "2026-10-28"
   },
@@ -631,7 +651,7 @@
    "date": "2026-10-16",
    "title": "Sådan gøres indenbordsmotoren vinterklar - se tjekliste",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/october/article/sdan-gores-indenbordsmotoren-vinterklar-se-tjekliste/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_indenbordsmotor_3ac4662579.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_indenbordsmotor_26389f3399.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-28"
   },
@@ -686,16 +706,6 @@
    "tjek": "2026-10-28"
   },
   {
-   "key": "hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset",
-   "source": "Minbåd.dk",
-   "date": "2026-10-15",
-   "title": "Hafenkino i Saint-Tropez: Fokken drillede – og kajen blev kysset",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_ba592956bb.png",
-   "cat": "Havneliv",
-   "tjek": "2026-10-28"
-  },
-  {
    "key": "jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser",
    "source": "Minbåd.dk",
    "date": "2026-10-15",
@@ -703,6 +713,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/jeppe-borch-deler-foerstepladsen-i-bermuda-gold-cup-efter-seks-sejladser/",
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_borch_-Image-2026-10-14-at-18.36.11-1170x650_b0f92c4ac6.jpeg",
+   "tjek": "2026-10-28"
+  },
+  {
+   "key": "hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset",
+   "source": "Minbåd.dk",
+   "date": "2026-10-15",
+   "title": "Hafenkino i Saint-Tropez: Fokken drillede – og kajen blev kysset",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/october/article/hafenkino-i-saint-tropez-fokken-drillede-og-kajen-blev-kysset/",
+   "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/c/csm_hafenkino_10-12-at-15-36-20-foto-schaerfen-und-skalieren_ba592956bb.png",
    "tjek": "2026-10-28"
   },
   {
@@ -816,16 +836,6 @@
    "tjek": "2026-10-21"
   },
   {
-   "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
-   "source": "Minbåd.dk",
-   "date": "2026-10-12",
-   "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
-   "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
-   "cat": "Andet",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg",
-   "tjek": "2026-10-28"
-  },
-  {
    "key": "vi-testede-yamahas-traadloese-joystick-i-sverige-styr-350-hk-med-en-haand-uden-at-staa-ved-rattet",
    "source": "Motorbådsnyt",
    "date": "2026-10-12",
@@ -843,6 +853,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34491-forste-etape-af-marina-city-star-klar-kolding-inviterer-til-indvielse-i-efterarsferien",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/kolding_kommune_marina_city_2.jpg",
    "cat": "Havneliv",
+   "tjek": "2026-10-28"
+  },
+  {
+   "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",
+   "source": "Minbåd.dk",
+   "date": "2026-10-12",
+   "title": "Vikingeskibsmuseet i efterårsferien – oplev slaget ved Niså",
+   "url": "https://minbaad.dk/nyhed/archive/2026/12/october/article/vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa/",
+   "cat": "Andet",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/b/csm_vik_581_1519626123539231_1171493045693835142_n_23f81a35b9.jpg",
    "tjek": "2026-10-28"
   },
   {
@@ -892,7 +912,8 @@
    "title": "Ralph tryller med sin fars 49 år gamle Edel 545 – til maj skal den på vandet igen",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/october/article/ralph-tryller-med-sin-fars-49-aar-gamle-edel-545-til-maj-skal-den-paa-vandet-igen/",
    "cat": "Udstyr & både",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_2633837845.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/3/csm_ralph_G_20260831_174636_2633837845.jpg",
+   "tjek": "2026-10-28"
   },
   {
    "key": "baadmagasinet-34489",
@@ -911,7 +932,8 @@
    "title": "Endnu en trimaran var sekunder fra at vælte i Silverrudder 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/october/article/endnu-en-trimaran-var-sekunder-fra-at-vaelte-i-silverrudder-2026/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_ecdc9740d7.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_naesten_kaentring_2-4659-9ec2-e5012b6f1a3f_ecdc9740d7.jpg",
+   "tjek": "2026-10-28"
   },
   {
    "key": "minbaaddk-vokser-styrer-mod-15-mio-unikke-laesere-i-2026",
@@ -2945,27 +2967,6 @@
    "cat": "Andet",
    "sum": "Fregatten Jylland i Ebeltoft står foran fornyelse. Tre arkitektfirmaer skal give bud på, hvordan skibet og museumsområdet skal formidle historien på ny.",
    "tjek": "2026-09-21"
-  },
-  {
-   "key": "baadmagasinet-34413",
-   "source": "Bådmagasinet",
-   "date": "2026-09-09",
-   "title": "Det ’lugter’ af VM-medaljer i England og Irland",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34413-det-lugter-af-vm-medaljer-i-england-og-irland",
-   "cat": "Kapsejlads",
-   "sum": "Danske Anna Munch er nr. 3 ved ILCA 6-VM i Irland, og Johan Søe er kvalificeret til gold-fleet ved iQFOiL-VM. Medaljer er inden for rækkevidde.",
-   "tjek": "2026-09-16",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/anna-munch_vm-20267_06_forside.jpg"
-  },
-  {
-   "key": "baadmagasinet-34408",
-   "source": "Bådmagasinet",
-   "date": "2026-09-08",
-   "title": "Nye flydebroer og bedre læ ved Mariager Fjord: Omfattende millionprojekt på vej i Hobro",
-   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34408-nye-flydebroer-og-bedre-lae-ved-mariager-fjord-omfattende-millionprojekt-pa-vej-i-hobro",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/skitse_hasloev_og_kjaersgaard_forside.jpg",
-   "cat": "Havneliv",
-   "sum": "Hobro Lystbådehavn opgraderes med nye flydebroer, bedre læ og promenader for omkring seks millioner kroner."
   }
  ]
 }
