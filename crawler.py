@@ -76,8 +76,20 @@ HEADERS = HEADER_SETS[0]
 # DeepSeek-model: flash er den billigste og hurtige - bruges bevidst frem for pro
 DEEPSEEK_MODELS = ["deepseek-v4-flash"]
 
-CATEGORIES = ["Havnetakster", "Havneliv", "Sikkerhed", "Kapsejlads",
-              "Tursejlads", "Udstyr & både", "Jubilæum / priser", "Andet"]
+# Kategori -> kort forklaring, der sendes med til AI'en (kun navnene vises paa siden).
+CATEGORY_HINTS = {
+    "Regler & takster": "havnetakster og priser, love, regler, myndigheder, bureaukrati, tilladelser",
+    "Havneliv": "havne, havnenyt, gæstesejlere, forladte både og vrag",
+    "Sikkerhed": "ulykker, redning, brand, tyveri, hærværk, kriminalitet, vejr og storm",
+    "Kapsejlads": "kapsejlads og konkurrencesejlads",
+    "Tursejlads": "langture, rejser og tips til tursejlere",
+    "Udstyr & både": "både, udstyr, tests, bådmesser og branchenyt",
+    "Jubilæum / priser": "jubilæer, runde fødselsdage, hædringer og priser, fx Årets Havn",
+    "Foreninger": "Dansk Sejlunion, Danske Tursejlere, KDY, FLID og sejlklubbers organisation",
+    "Kultur & folk": "museer, historie, portrætter, mindeord, bøger og personlige fortællinger",
+    "Andet": "kun hvis intet andet passer",
+}
+CATEGORIES = list(CATEGORY_HINTS)
 
 # Gamle kildekoder fra tidligere news.json-format
 LEGACY_LABELS = {"m": "Minbåd.dk", "o": "Motorbådsnyt", "f": "FLID Havne"}
@@ -797,7 +809,8 @@ def enrich_items(items):
         text = article_text(it["url"], AI_TEKST_LAENGDE[min(forsoeg_nr, len(AI_TEKST_LAENGDE)) - 1])
         prompt = (
             "Kategoriser denne danske nyhed om sejlads/havne.\n"
-            f"Kategorier (vælg præcis én): {', '.join(CATEGORIES)}\n\n"
+            "Kategorier (vælg præcis én):\n"
+            + "\n".join(f"- {k}: {v}" for k, v in CATEGORY_HINTS.items()) + "\n\n"
             f"Overskrift: {it['title']}\n"
             f"Artikeltekst: {text or '(ingen tekst fundet - brug overskriften)'}\n\n"
             'Svar KUN med JSON: {"kategori": "..."}')
@@ -810,7 +823,7 @@ def enrich_items(items):
         try:
             for forsoeg in (1, 2):
                 try:
-                    raw = deepseek(messages, json_mode=True, max_tokens=200)
+                    raw = deepseek(messages, json_mode=True, max_tokens=600)
                     data = parse_json(raw)
                     break
                 except Exception:  # noqa: BLE001
