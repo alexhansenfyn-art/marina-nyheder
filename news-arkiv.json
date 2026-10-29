@@ -1,7 +1,39 @@
 {
- "generated": "2026-10-29T08:32:24+00:00",
- "count": 590,
+ "generated": "2026-10-29T15:36:42+00:00",
+ "count": 593,
  "items": [
+  {
+   "key": "baadmagasinet-34414",
+   "source": "Bådmagasinet",
+   "date": "2026-09-10",
+   "title": "IQFoil VM: Følg Johan Søe i kampen om medaljer - live fra kl. 14",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34414-iqfoil-vm-folg-johan-soe-i-kampen-om-medaljer-live-fra-torsdagens-sejladser-kl-14",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe ligger på tredjepladsen ved IQFoil VM i Weymouth efter to sejre onsdag. Torsdagens sejladser kan følges live fra kl. 14.",
+   "tjek": "2026-09-17",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/soe_maerke.jpg"
+  },
+  {
+   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-09",
+   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+  },
+  {
+   "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-09",
+   "title": "Fra sejlerskole til L23-DM: Fordæksgast Jens Würtz fortæller bagfra feltet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/september/article/fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet/",
+   "cat": "Kapsejlads",
+   "sum": "Jens Würtz fra Nibe Sejlklub deltog kort efter sin sejlerskole i L23-DM i Kolding som gast og opnåede en ottendeplads. Oplevelsen har givet ham lyst til mere kapsejlads.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_l_23_G_7688_caac2c5f9b.jpeg",
+   "tjek": "2026-09-23"
+  },
   {
    "key": "sejlere-sendt-vaek-kort-efter-sprang-haandgranat-i-julsoe",
    "source": "Minbåd.dk",
@@ -5457,7 +5489,7 @@
    "title": "Banedanmark truer med at lukke Limfjordsbroen på grund af elektriske tog",
    "url": "https://minbaad.dk/nyhed/archive/2020/18/january/article/banedanmark-truer-med-at-lukke-limfjordsbroen-paa-grund-af-elektriske-tog/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_aalborg_klapbro_f0027aab08.jpg",
-   "forsoeg": 1
+   "cat": "Andet"
   },
   {
    "key": "er-dine-vhf-rutiner-blevet-lidt-rustne",
@@ -5718,7 +5750,7 @@
    "title": "Kendt direktør i branchen sælger autocampere på Ishøjs flydende",
    "url": "https://minbaad.dk/nyhed/archive/2015/24/august/article/kendt-direktoer-i-branchen-saelger-autocampere-paa-ishoejs-flydende/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_mMG_9338_680f7df3d0.jpg",
-   "forsoeg": 2
+   "cat": "Andet"
   },
   {
    "key": "dansketursejlere-aarets-havn-2014",
