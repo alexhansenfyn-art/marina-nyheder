@@ -1,11 +1,9 @@
 {
- "generated": "2026-10-29T15:36:42+00:00",
+ "generated": "2026-10-29T20:40:50+00:00",
  "count": 893,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 593,
- "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
- ],
+ "errors": [],
  "items": [
   {
    "key": "solosejlere-paa-otte-gigantiske-trimaraner-klar-til-route-du-rhum",
