@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T20:40:50+00:00",
+ "generated": "2026-10-29T23:01:04+00:00",
  "count": 893,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 593,
@@ -615,16 +615,6 @@
    "tjek": "2026-10-29"
   },
   {
-   "key": "tre-aar-efter-den-historiske-stormflod",
-   "source": "FLID Havne",
-   "date": "2026-10-19",
-   "title": "Tre år efter den historiske stormflod",
-   "url": "https://flidhavne.dk/tre-aar-efter-den-historiske-stormflod/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Avernakoe-skaeve-broer-2023-foto-Emil-Birkemose-scaled.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-10-29"
-  },
-  {
    "key": "baadmagasinet-34502",
    "source": "Bådmagasinet",
    "date": "2026-10-19",
@@ -632,6 +622,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34502-badbeboerne-i-ishoj-havn-er-blevet-opsagt-af-havnebestyrelsen",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_foto_ishoj_havn_dk_2.jpg",
    "cat": "Regler & takster",
+   "tjek": "2026-10-29"
+  },
+  {
+   "key": "tre-aar-efter-den-historiske-stormflod",
+   "source": "FLID Havne",
+   "date": "2026-10-19",
+   "title": "Tre år efter den historiske stormflod",
+   "url": "https://flidhavne.dk/tre-aar-efter-den-historiske-stormflod/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Avernakoe-skaeve-broer-2023-foto-Emil-Birkemose-scaled.jpg",
+   "cat": "Sikkerhed",
    "tjek": "2026-10-29"
   },
   {
@@ -911,7 +911,8 @@
    "title": "Første etape af Marina City står klar: Kolding inviterer til indvielse i efterårsferien",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34491-forste-etape-af-marina-city-star-klar-kolding-inviterer-til-indvielse-i-efterarsferien",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/kolding_kommune_marina_city_2.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-29"
   },
   {
    "key": "vikingeskibsmuseet-i-efteraarsferien-oplev-slaget-ved-nisaa",

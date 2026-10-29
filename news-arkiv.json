@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T20:40:50+00:00",
+ "generated": "2026-10-29T23:01:04+00:00",
  "count": 593,
  "items": [
   {
@@ -3666,21 +3666,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
+   "source": "FLID Havne",
+   "date": "2026-07-06",
+   "title": "90 unge i 22 både indtager havnene i uge 29",
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
    "cat": "Havneliv"
   },
   {
@@ -4199,15 +4199,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "slut-med-gtl-fuel",
-   "source": "FLID Havne",
-   "date": "2026-05-22",
-   "title": "Slut med GTL fuel",
-   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "source": "Dansk Sejlunion",
    "date": "2026-05-22",
@@ -4215,6 +4206,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "slut-med-gtl-fuel",
+   "source": "FLID Havne",
+   "date": "2026-05-22",
+   "title": "Slut med GTL fuel",
+   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -4482,21 +4482,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_boegeskov_havn_tilsanding_21ca60c59d.jpg"
   },
   {
-   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-16",
-   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
-   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
-   "cat": "Foreninger"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-04-16",
    "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "img": "https://dansksejlunion.dk/media/xt4j0a1u/johanne-og-andrea-schmidt-138a9113.jpg?width=1200&height=630",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-16",
+   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
    "cat": "Foreninger"
   },
   {
@@ -4742,15 +4742,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/b/csm_motorkurusus_watergames_3030fba20e.jpg"
   },
   {
-   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
-   "source": "Danske Tursejlere",
-   "date": "2026-03-05",
-   "title": "INDKALDELSE TIL GENERALFORSAMLING",
-   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg",
-   "cat": "Foreninger"
-  },
-  {
    "key": "soesport-hvordan-bliver-du-sikker-senior-til-soes",
    "source": "Søsportens Sikkerhedsråd",
    "date": "2026-03-05",
@@ -4758,6 +4749,15 @@
    "url": "https://www.soesport.dk/nyheder/artikler/hvordan-bliver-du-sikker-senior-til-soes",
    "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639081211528127697/COLOURBOX35484136.jpg?width=1024&height=512&format=jpg&mode=crop",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
+   "source": "Danske Tursejlere",
+   "date": "2026-03-05",
+   "title": "INDKALDELSE TIL GENERALFORSAMLING",
+   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg",
+   "cat": "Foreninger"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
