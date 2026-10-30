@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-30T13:39:07+00:00",
- "count": 908,
+ "generated": "2026-10-30T18:55:49+00:00",
+ "count": 929,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 608,
+ "arkiv_antal": 629,
  "errors": [],
  "items": [
   {
-   "key": "flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere",
+   "key": "abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter",
    "source": "Minbåd.dk",
    "date": "2026-10-30",
-   "title": "Flere sejlere er alene på vandet – nu tilbyder Ocean Signal gratis batteri til nødpejlesendere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_ba181b259f.jpg",
-   "cat": "Udstyr & både"
+   "title": "ABBA-musik og sejlerfest i Aarhus – overskuddet går til unge sejltalenter",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_fet_2567_ownload_ec187347cd.jpg",
+   "cat": "Foreninger"
   },
   {
    "key": "beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen",
@@ -24,12 +24,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere",
+   "source": "Minbåd.dk",
+   "date": "2026-10-30",
+   "title": "Flere sejlere er alene på vandet – nu tilbyder Ocean Signal gratis batteri til nødpejlesendere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_935f7e6c34.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse",
    "source": "Minbåd.dk",
    "date": "2026-10-30",
    "title": "Bådstøtter: Tyresöstøtten kan justeres efter bådens størrelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_5ff08a8a09.png",
    "cat": "Udstyr & både"
   },
   {
@@ -38,7 +47,7 @@
    "date": "2026-10-30",
    "title": "24 fjernstyrede model-både dystede om DM i hård vind i Troense",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_d167bbc72a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_02e6e71856.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -227,7 +236,7 @@
    "date": "2026-10-26",
    "title": "Elvstrøms Medemblik 84 Windstopper nu i marineblå",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/elvstroems-medemblik-84-windstopper-nu-i-marineblaa/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_MEDEMBLIK84-NAVY_16-9_6a684e43a3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/1/csm_MEDEMBLIK84-NAVY_16-9_2da400169d.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -281,7 +290,7 @@
    "date": "2026-10-25",
    "title": "Flaskepost sejlede fra Aarhus til Assens – fundet efter otte år på havet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flaskepost-sejlede-fra-aarhus-til-assens-fundet-efter-otte-aar-paa-havet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_flask_p_assens_nload_4c2301ebf2.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_flask_p_assens_nload_49d2878454.png",
    "cat": "Kultur & folk"
   },
   {
@@ -348,16 +357,6 @@
    "cat": "Kultur & folk"
   },
   {
-   "key": "vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur",
-   "source": "Minbåd.dk",
-   "date": "2026-10-23",
-   "title": "Vask tovværkets salt og urenheder i vaskemaskinen - men brug kun lidt vaskemiddel og lav temperatur",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_54fa07a8ed.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-30"
-  },
-  {
    "key": "18-danske-lystbaadehavne-sender-live",
    "source": "Minbåd.dk",
    "date": "2026-10-23",
@@ -368,12 +367,12 @@
    "tjek": "2026-10-30"
   },
   {
-   "key": "grand-s330l-rib-der-kan-erstatte-vandscooteren-og-du-sidder-bedre",
+   "key": "vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur",
    "source": "Minbåd.dk",
    "date": "2026-10-23",
-   "title": "Grand S330L: RIB, der kan erstatte vandscooteren – og du sidder bedre",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/grand-s330l-rib-der-kan-erstatte-vandscooteren-og-du-sidder-bedre/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/8/csm_grand_330_-4320-bc26-12e7975a1d5e_44d6801e7b.jpg",
+   "title": "Vask tovværkets salt og urenheder i vaskemaskinen - men brug kun lidt vaskemiddel og lav temperatur",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_afdc5fb98c.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-30"
   },
@@ -385,6 +384,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/ville-tage-et-foto-af-isbjerg-saa-gik-28-meter-lang-sejlbaad-paa-grund-og-mistede-roret/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_groenl_6053840412_6737855870699448396_n_0fbcf41834.jpg",
    "cat": "Sikkerhed",
+   "tjek": "2026-10-30"
+  },
+  {
+   "key": "grand-s330l-rib-der-kan-erstatte-vandscooteren-og-du-sidder-bedre",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-23",
+   "title": "Grand S330L: RIB, der kan erstatte vandscooteren – og du sidder bedre",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/october/article/grand-s330l-rib-der-kan-erstatte-vandscooteren-og-du-sidder-bedre/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/8/csm_grand_330_-4320-bc26-12e7975a1d5e_ea0d7e71a5.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-10-30"
   },
   {
@@ -503,7 +512,7 @@
    "date": "2026-10-21",
    "title": "Danske lystbådehavne frygter lukning, hvis havet igen går amok",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/danske-lystbaadehavne-frygter-lukning-hvis-havet-igen-gaar-amok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_39d1d68e9d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-30"
   },
@@ -513,7 +522,7 @@
    "date": "2026-10-21",
    "title": "Test: Beneteau Oceanis 37.1 med masser af plads og sikker sejlads i 10 m/sek.",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_e0744adf76.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_25168166fc.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-30"
   },
@@ -583,7 +592,7 @@
    "date": "2026-10-20",
    "title": "Sejl Garmin Round Denmark Race 2027 for 1.875 kr. per person",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/sejl-garmin-round-denmark-race-2027-for-1875-kr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_276eaedc3b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_1430532d17.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-30"
   },
@@ -643,7 +652,7 @@
    "date": "2026-10-19",
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__15324067b2.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg",
    "cat": "Kultur & folk",
    "tjek": "2026-10-30"
   },
@@ -713,8 +722,8 @@
    "date": "2026-10-18",
    "title": "Anholt trak tusindvis af gæstesejlere til Kattegat i 2026 - flere end normalt",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/anholt-trak-tusindvis-af-gaestesejlere-til-kattegat-i-2026-flere-end-normalt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_anholt_20200731_112616_b0e5d6abeb.jpg",
    "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_anholt_20200731_112616_b0e5d6abeb.jpg",
    "tjek": "2026-10-30"
   },
   {
@@ -2942,17 +2951,6 @@
    "sum": "Johan Søe avancerede til andenpladsen ved IQFoil VM i Weymouth efter",
    "tjek": "2026-09-18",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/801465145_1416673703804319_4460438238964541947_n.jpg"
-  },
-  {
-   "key": "baadmagasinet-34420",
-   "source": "Bådmagasinet",
-   "date": "2026-09-11",
-   "title": "VIDEO: Når størrelse, fart og millioner ruller – glem resultaterne, bare nyd de her både!",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
-   "cat": "Kapsejlads",
-   "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne.",
-   "tjek": "2026-09-18",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/maxi.jpg"
   }
  ]
 }

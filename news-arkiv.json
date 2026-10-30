@@ -1,7 +1,18 @@
 {
- "generated": "2026-10-30T13:39:07+00:00",
- "count": 608,
+ "generated": "2026-10-30T18:55:49+00:00",
+ "count": 629,
  "items": [
+  {
+   "key": "baadmagasinet-34420",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "VIDEO: Når størrelse, fart og millioner ruller – glem resultaterne, bare nyd de her både!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34420-noget-udansk-men-hvor-er-det-dog-fedt",
+   "cat": "Kapsejlads",
+   "sum": "Artiklen sætter fokus på de spektakulære maxi-yachter ved Maxi Yacht Rolex Cup i Porto Cervo, hvor størrelse, fart og millionbudgetter overskygger resultaterne.",
+   "tjek": "2026-09-18",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/maxi.jpg"
+  },
   {
    "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
    "source": "Minbåd.dk",
@@ -1167,8 +1178,8 @@
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -2042,8 +2053,8 @@
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
@@ -2051,8 +2062,8 @@
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -2354,15 +2365,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
-   "cat": "Havneliv"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
@@ -2370,6 +2372,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
+   "cat": "Havneliv"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -3452,15 +3463,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_57f725cbb5.jpg"
   },
   {
-   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
-   "cat": "Regler & takster"
-  },
-  {
    "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
    "source": "Danske Tursejlere",
    "date": "2026-07-15",
@@ -3468,6 +3470,15 @@
    "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
    "cat": "Foreninger"
+  },
+  {
+   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
+   "source": "Minbåd.dk",
+   "date": "2026-07-15",
+   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
+   "cat": "Regler & takster"
   },
   {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
@@ -5366,6 +5377,15 @@
    "cat": "Andet"
   },
   {
+   "key": "baadmagasinet-31241",
+   "source": "Bådmagasinet",
+   "date": "2023-02-08",
+   "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
+   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
+   "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "man-kan-ikke-sikre-sig-mod-skjulte-fejl-siger-bdbesigtiger-lars-olsen-i-sagen-om-leonora-og-sissels-beneteau-50-bdtjek",
    "source": "Minbåd.dk",
    "date": "2023-02-08",
@@ -5381,15 +5401,6 @@
    "title": "Hallberg-Rassy forhandles nu af Dansk Marine Center i Aarhus",
    "url": "https://minbaad.dk/nyhed/archive/2023/08/february/article/hallberg-rassy-forhandles-nu-af-dansk-marine-center-i-aarhus/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_HR400sailing3863LFruchaud__1__1be09491e3.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
-   "key": "baadmagasinet-31241",
-   "source": "Bådmagasinet",
-   "date": "2023-02-08",
-   "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
-   "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
-   "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -5438,15 +5449,6 @@
    "cat": "Regler & takster"
   },
   {
-   "key": "svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft",
-   "source": "Minbåd.dk",
-   "date": "2023-02-02",
-   "title": "Svendborgsund Marine Service Aps har købt Svendborg Yacht Værft",
-   "url": "https://minbaad.dk/nyhed/archive/2023/02/february/article/svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_alubaad_svendborg_yacht_1d5d299afe.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "marinaguide-aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "source": "MarinaGuide",
    "date": "2023-02-02",
@@ -5454,6 +5456,15 @@
    "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft",
+   "source": "Minbåd.dk",
+   "date": "2023-02-02",
+   "title": "Svendborgsund Marine Service Aps har købt Svendborg Yacht Værft",
+   "url": "https://minbaad.dk/nyhed/archive/2023/02/february/article/svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_alubaad_svendborg_yacht_1d5d299afe.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "pogo-36-faar-elektrisk-motor-fra-finske-oceanvolt",
@@ -5789,6 +5800,15 @@
    "cat": "Havneliv"
   },
   {
+   "key": "banner-30-til-salg-paa-mitbaadmarkeddk",
+   "source": "Minbåd.dk",
+   "date": "2016-11-24",
+   "title": "Banner 30 til salg på mitbaadmarked.dk",
+   "url": "https://minbaad.dk/nyhed/archive/2016/24/november/article/banner-30-til-salg-paa-mitbaadmarkeddk/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_banner_30_6acc096b9f.png",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "nyborg-marina-kaaret-som-aarets-havn-2016",
    "source": "FLID Havne",
    "date": "2016-11-24",
@@ -5796,6 +5816,87 @@
    "url": "https://flidhavne.dk/nyborg-marina-kaaret-som-aarets-havn-2016/",
    "cat": "Jubilæum / priser",
    "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
+  },
+  {
+   "key": "norsk-open-60-nu-hos-mathis-vaerft",
+   "source": "Minbåd.dk",
+   "date": "2016-11-22",
+   "title": "Norsk Open 60 nu hos Mathis Værft",
+   "url": "https://minbaad.dk/nyhed/archive/2016/22/november/article/norsk-open-60-nu-hos-mathis-vaerft/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_hvide_s_top14697133_681326345371692_547682598_o_e6965cf6af.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "tjek-baaden-vindstoed-paa-25-30-ms-rammer-kl-22",
+   "source": "Minbåd.dk",
+   "date": "2016-11-20",
+   "title": "Tjek båden: Vindstød på 25-30 m/s rammer kl. 22",
+   "url": "https://minbaad.dk/nyhed/archive/2016/20/november/article/tjek-baaden-vindstoed-paa-25-30-ms-rammer-kl-22/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_stor_6ea8f75cb7.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "gran-soleil-46-lc-dyr-men-laekker",
+   "source": "Minbåd.dk",
+   "date": "2016-11-17",
+   "title": "Gran Soleil 46 LC - dyr men lækker",
+   "url": "https://minbaad.dk/nyhed/archive/2016/17/november/article/gran-soleil-46-lc-dyr-men-laekker/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_Grand-Soleil-46-LC-206_01_46986ccfdd.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "signe-vores-baad-staar-stadig-men-kaos-paa-bahamas",
+   "source": "Minbåd.dk",
+   "date": "2016-11-16",
+   "title": "Signe: Vores båd står stadig men kaos på Bahamas",
+   "url": "https://minbaad.dk/nyhed/archive/2016/16/november/article/signe-vores-baad-staar-stadig-men-kaos-paa-bahamas/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_Orkan15110250_1439067042774609_1962410724156836975_o_6eff60700e.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "dufour-412-grand-large-faar-premiere-i-fredericia",
+   "source": "Minbåd.dk",
+   "date": "2016-11-14",
+   "title": "Dufour 412 Grand Large får premiere i Fredericia",
+   "url": "https://minbaad.dk/nyhed/archive/2016/14/november/article/dufour-412-grand-large-faar-premiere-i-fredericia/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_0989_cdcc73eb53.jpeg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "spar-en-mio-byg-ny-drabant-38-for-800000-kr",
+   "source": "Minbåd.dk",
+   "date": "2016-11-12",
+   "title": "Spar en mio. - byg ny Drabant 38 for 800.000 kr.",
+   "url": "https://minbaad.dk/nyhed/archive/2016/12/november/article/spar-en-mio-byg-ny-drabant-38-for-800000-kr/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/a/csm_drab_par_unnamed_b84d1708ad.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "bavaria-faar-italiensk-stil-starter-med-57-fod",
+   "source": "Minbåd.dk",
+   "date": "2016-11-11",
+   "title": "Bavaria får italiensk stil - starter med 57 fod",
+   "url": "https://minbaad.dk/nyhed/archive/2016/11/november/article/bavaria-faar-italiensk-stil-starter-med-57-fod/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_bav15046198_10154621985578955_1239081708_n_01_fb800f78d9.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "billig-sejlads-5-sejlklare-baade-under-15000-kr",
+   "source": "Minbåd.dk",
+   "date": "2016-11-11",
+   "title": "Billig sejlads: 5 sejlklare både under 15.000 kr.",
+   "url": "https://minbaad.dk/nyhed/archive/2016/11/november/article/billig-sejlads-5-sejlklare-baade-under-15000-kr/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/c/csm_brugt_top_01_79bf21acf6.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "sejleruddannelse-nye-regler-paa-vej",
+   "source": "Minbåd.dk",
+   "date": "2016-11-10",
+   "title": "Sejleruddannelse: Nye regler på vej",
+   "url": "https://minbaad.dk/nyhed/archive/2016/10/november/article/sejleruddannelse-nye-regler-paa-vej/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_elan210-3631_crop_b9f9039dc3.jpg",
+   "cat": "Regler & takster"
   },
   {
    "key": "kerteminde-marina-kaaret-som-aarets-havn-2015",
@@ -5903,6 +6004,96 @@
    "title": "Årets Havn 2014: Ballen Lystbådehavn",
    "url": "https://dansketursejlere.dk/aarets-havn/",
    "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "havnepriser-ved-vinteropbevaring",
+   "source": "Minbåd.dk",
+   "date": "2014-10-22",
+   "title": "Havnepriser ved vinteropbevaring",
+   "url": "https://minbaad.dk/nyhed/archive/2014/22/october/article/havnepriser-ved-vinteropbevaring/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_vedbaekhavn_01_4a31b38e4b.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "aarhus-borgmester-sigtes-i-sms-sag",
+   "source": "Minbåd.dk",
+   "date": "2014-10-22",
+   "title": "Aarhus-borgmester sigtes i sms-sag",
+   "url": "https://minbaad.dk/nyhed/archive/2014/22/october/article/aarhus-borgmester-sigtes-i-sms-sag/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/f/csm_aarhushavn_02_2b31c17a42.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "maritim-kulturnat-i-koebenhavn",
+   "source": "Minbåd.dk",
+   "date": "2014-10-10",
+   "title": "Maritim kulturnat i København",
+   "url": "https://minbaad.dk/nyhed/archive/2014/10/october/article/maritim-kulturnat-i-koebenhavn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/2/csm_kulturnat_6c0b0ad173.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "baadoptagning-i-saesonen-hvor-svaert-ka-det-vaere",
+   "source": "Minbåd.dk",
+   "date": "2014-09-24",
+   "title": "Bådoptagning i sæsonen: Hvor svært ka' det være",
+   "url": "https://minbaad.dk/nyhed/archive/2014/24/september/article/baadoptagning-i-saesonen-hvor-svaert-ka-det-vaere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/5/csm_lipstick_op_IMG_1291_2263b0ce94.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "penge-fra-ap-moeller-til-aarhus",
+   "source": "Minbåd.dk",
+   "date": "2014-08-27",
+   "title": "Penge fra A.P Møller til Aarhus",
+   "url": "https://minbaad.dk/nyhed/archive/2014/27/august/article/penge-fra-ap-moeller-til-aarhus/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_Aarhus_521242e606.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "nyborg-marina-planer-bremset-af-kystdirektoratet",
+   "source": "Minbåd.dk",
+   "date": "2014-08-27",
+   "title": "Nyborg Marina: Planer bremset af Kystdirektoratet",
+   "url": "https://minbaad.dk/nyhed/archive/2014/27/august/article/nyborg-marina-planer-bremset-af-kystdirektoratet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_nyborg_havneprojekt_71bf74babf.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "efterlysning-baadflygtninge-soeger-havn",
+   "source": "Minbåd.dk",
+   "date": "2014-08-20",
+   "title": "EFTERLYSNING: Bådflygtninge søger havn",
+   "url": "https://minbaad.dk/nyhed/archive/2014/20/august/article/efterlysning-baadflygtninge-soeger-havn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_a_cat_arkiv_2013_P1080366_f2a6715308.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "god-sommer-giver-flere-overnatninger-i-havnene",
+   "source": "Minbåd.dk",
+   "date": "2014-08-10",
+   "title": "God sommer giver flere overnatninger i havnene",
+   "url": "https://minbaad.dk/nyhed/archive/2014/10/august/article/god-sommer-giver-flere-overnatninger-i-havnene/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_korshavn_6bbba5efe0.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "baadflygtninge-fra-skovshoved",
+   "source": "Minbåd.dk",
+   "date": "2014-08-05",
+   "title": "Bådflygtninge fra Skovshoved",
+   "url": "https://minbaad.dk/nyhed/archive/2014/05/august/article/baadflygtninge-fra-skovshoved/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_skovshoved_havn_o_byg_b5f486056e.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "fantastisk-sejlervejr-fortsaetter-i-august",
+   "source": "Minbåd.dk",
+   "date": "2014-07-31",
+   "title": "Fantastisk sejlervejr fortsætter i august",
+   "url": "https://minbaad.dk/nyhed/archive/2014/31/july/article/fantastisk-sejlervejr-fortsaetter-i-august/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/6/csm_WP_20140717_08_47_52_Pro_f6c2f68004.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "forhoejet-vandstand-i-oeresund",
