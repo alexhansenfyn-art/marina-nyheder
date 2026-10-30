@@ -1,10 +1,19 @@
 {
- "generated": "2026-10-30T00:26:54+00:00",
- "count": 893,
+ "generated": "2026-10-30T06:31:16+00:00",
+ "count": 894,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 593,
+ "arkiv_antal": 594,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34528",
+   "source": "Bådmagasinet",
+   "date": "2026-10-30",
+   "title": "Route du Rhum: 115 solosejlere er klar – link til live fra starten søndag",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34528-115-solosejlere-klar-til-route-du-rhum-live-fra-starten-pa-sondag",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/route_2.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "solosejlere-paa-otte-gigantiske-trimaraner-klar-til-route-du-rhum",
    "source": "Minbåd.dk",
@@ -150,15 +159,6 @@
    "cat": "Sikkerhed"
   },
   {
-   "key": "baadmagasinet-34522",
-   "source": "Bådmagasinet",
-   "date": "2026-10-27",
-   "title": "Francesco Bruni forlader Luna Rossa - nu hos Tudor Team Alinghi",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34522-luna-rossa-accepterer-brunis-skifte-til-rivalerne-fra-alinghi",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/bruni.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "marinaguide-havnene-kaemper-med-efterladte-og-forfaldne-baade",
    "source": "MarinaGuide",
    "date": "2026-10-27",
@@ -166,6 +166,15 @@
    "url": "https://marinaguide.dk/nyhed/havnene-kaemper-med-efterladte-og-forfaldne-baade",
    "img": "https://marinaguide.dk/fileadmin/_processed_/f/0/csm_MN_forladt_ba__d_2b36d33196.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "baadmagasinet-34522",
+   "source": "Bådmagasinet",
+   "date": "2026-10-27",
+   "title": "Francesco Bruni forlader Luna Rossa - nu hos Tudor Team Alinghi",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34522-luna-rossa-accepterer-brunis-skifte-til-rivalerne-fra-alinghi",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/bruni.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "efter-1500-soemil-jeppe-vil-goere-op-med-myterne-om-langturssejlads",
@@ -2949,16 +2958,6 @@
    "cat": "Foreninger",
    "sum": "Danske Tursejleres Søstjerner besøger Bogense Sejlklub 12. september med en grejtrailer fyldt med vandaktiviteter for børn og familier. Fra 11-16 kan de prøve SUP, våddragter og dykkermasker.",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/a/csm_tur_top_P1013844_6417cebdd2.jpg",
-   "tjek": "2026-09-22"
-  },
-  {
-   "key": "baadmagasinet-34418",
-   "source": "Bådmagasinet",
-   "date": "2026-09-10",
-   "title": "Tre store Mercury Verado 300 hk-motorer stjålet i Norge: Kan være på vej mod Danmark",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34418-tre-store-mercury-verado-300-hk-motorer-stjalet-i-norge-kan-vaere-pa-vej-mod-danmark",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/forside_motorer.jpg",
-   "cat": "Sikkerhed",
    "tjek": "2026-09-22"
   }
  ]
