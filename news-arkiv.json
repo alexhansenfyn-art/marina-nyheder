@@ -1,7 +1,51 @@
 {
- "generated": "2026-10-30T06:31:16+00:00",
- "count": 594,
+ "generated": "2026-10-30T13:39:07+00:00",
+ "count": 608,
  "items": [
+  {
+   "key": "vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Vedbæk Cup samler igen 500 sejlere til efterårsklassiker",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/vedbaek-cup-samler-igen-500-sejlere-til-efteraarsklassiker/",
+   "cat": "Kapsejlads",
+   "sum": "Vedbæk Cup sejles 4. oktober fra Vedbæk som distancesejlads på Øresund med DH-, singlehand-, doublehand- og cruisingklasser. Sejladsen har været afholdt i over 50 år.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/0/csm_ved_15_118b73d098.jpg",
+   "tjek": "2026-09-23"
+  },
+  {
+   "key": "baadmagasinet-34417",
+   "source": "Bådmagasinet",
+   "date": "2026-09-10",
+   "title": "Søstjernerne indtager Bogense – børn og familier inviteres med på vandet",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34417-sostjernerne-indtager-bogense-born-og-familier-inviteres-med-pa-vandet",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/forside_dt.jpg",
+   "cat": "Foreninger",
+   "sum": "Danske Tursejleres Søstjernerne besøger Bogense i weekenden med aktiviteter for børn og familier, hvor der kan prøves SUP-boards, våddragter og dykning.",
+   "tjek": "2026-09-23"
+  },
+  {
+   "key": "ny-dufour-39-har-bredt-skrog-og-kontor-om-lae",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Ny Dufour 39 har bredt skrog og kontor om læ",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/ny-dufour-39-har-bredt-skrog-og-kontor-om-lae/",
+   "cat": "Udstyr & både",
+   "sum": "Dufour 39 havde verdenspremiere i Cannes. Den 12 meter lange sejlbåd koster fra ca. 2,5 mio. kr. og har bredt skrog, stor volumen og et lille kontor om læ.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/7/csm_du_G_20260908_152138_57cc8f4b78.jpg",
+   "tjek": "2026-09-22"
+  },
+  {
+   "key": "soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg",
+   "source": "Minbåd.dk",
+   "date": "2026-09-10",
+   "title": "Søstjernerne ruller ind i Bogense med trailer fuld af vandleg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/september/article/soestjernerne-ruller-ind-i-bogense-med-trailer-fuld-af-vandleg/",
+   "cat": "Foreninger",
+   "sum": "Danske Tursejleres Søstjerner besøger Bogense Sejlklub 12. september med en grejtrailer fyldt med vandaktiviteter for børn og familier. Fra 11-16 kan de prøve SUP, våddragter og dykkermasker.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/a/csm_tur_top_P1013844_6417cebdd2.jpg",
+   "tjek": "2026-09-22"
+  },
   {
    "key": "baadmagasinet-34418",
    "source": "Bådmagasinet",
@@ -525,8 +569,8 @@
    "date": "2026-09-02",
    "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
-   "cat": "Regler & takster"
+   "cat": "Regler & takster",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -5313,12 +5357,93 @@
    "cat": "Havneliv"
   },
   {
+   "key": "sponsor-artikle-gta-online-spillere-faar-baad-paa-taget-af-et-casino",
+   "source": "Minbåd.dk",
+   "date": "2023-02-09",
+   "title": "Sponsor-artikel: GTA Online-spillere får båd på taget af et casino",
+   "url": "https://minbaad.dk/nyhed/archive/2023/09/february/article/sponsor-artikle-gta-online-spillere-faar-baad-paa-taget-af-et-casino/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/6/csm_online_spil_f12ffdf56e.jpg",
+   "cat": "Andet"
+  },
+  {
+   "key": "man-kan-ikke-sikre-sig-mod-skjulte-fejl-siger-bdbesigtiger-lars-olsen-i-sagen-om-leonora-og-sissels-beneteau-50-bdtjek",
+   "source": "Minbåd.dk",
+   "date": "2023-02-08",
+   "title": "Man kan ikke sikre sig mod skjulte fejl, siger bådbesigtiger Lars Olsen i sagen om Leonora og Sissels Beneteau 50 bådtjek",
+   "url": "https://minbaad.dk/nyhed/archive/2023/08/february/article/man-kan-ikke-sikre-sig-mod-skjulte-fejl-siger-bdbesigtiger-lars-olsen-i-sagen-om-leonora-og-sissels-beneteau-50-bdtjek/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_leonora_og_sidsel_i_ishoej_paa_baad_965ea7fd9d.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "hallberg-rassy-forhandles-nu-af-dansk-marine-center-i-aarhus",
+   "source": "Minbåd.dk",
+   "date": "2023-02-08",
+   "title": "Hallberg-Rassy forhandles nu af Dansk Marine Center i Aarhus",
+   "url": "https://minbaad.dk/nyhed/archive/2023/08/february/article/hallberg-rassy-forhandles-nu-af-dansk-marine-center-i-aarhus/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/f/csm_HR400sailing3863LFruchaud__1__1be09491e3.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "baadmagasinet-31241",
    "source": "Bådmagasinet",
    "date": "2023-02-08",
    "title": "Bliv testsejler for en dag - deltag i en markeds-undersøgelse",
    "url": "https://www.baadmagasinet.dk/mest-laeste/645-sponsor-indhold/31241-blive-testsejler-for-en-dag-deltag-i-en-markedsundersogelse",
    "img": "https://www.baadmagasinet.dk/images/--feb23/motorer_2.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "delebaadstjeneste-skipperi-udvider-nu-i-australien-og-usa-efter-funding-pa-7-mio-euro-fra-yamaha-motor",
+   "source": "Minbåd.dk",
+   "date": "2023-02-07",
+   "title": "Delebådstjeneste Skipperi udvider nu i Australien og USA efter funding på 7 mio. euro fra Yamaha Motor",
+   "url": "https://minbaad.dk/nyhed/archive/2023/07/february/article/delebaadstjeneste-skipperi-udvider-nu-i-australien-og-usa-efter-funding-pa-7-mio-euro-fra-yamaha-motor/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_Skipperi_kvinder_ved_roret_e75e8d0544.jpeg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "ioc-arbejder-paa-at-faa-de-russiske-atleter-tilbage-til-ol-dif-siger-nej-tak",
+   "source": "Minbåd.dk",
+   "date": "2023-02-07",
+   "title": "IOC arbejder på at få de russiske atleter tilbage til OL - DIF siger nej tak",
+   "url": "https://minbaad.dk/nyhed/archive/2023/07/february/article/ioc-arbejder-paa-at-faa-de-russiske-atleter-tilbage-til-ol-dif-siger-nej-tak/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/3/csm_hans_natorp_dif_formand_2023_7b9df1825e.jpg",
+   "cat": "Andet"
+  },
+  {
+   "key": "sejler-idomt-5-000-kroner-i-bode-for-at-sejle-i-storskibsrute-ved-helsingor",
+   "source": "Minbåd.dk",
+   "date": "2023-02-07",
+   "title": "Sejler idømt 5.000 kroner i bøde for at sejle i storskibsrute ved Helsingør",
+   "url": "https://minbaad.dk/nyhed/archive/2023/07/february/article/sejler-idomt-5-000-kroner-i-bode-for-at-sejle-i-storskibsrute-ved-helsingor/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_helsingoer_boede_til_sejler_e5917f8f75.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "et-hav-tre-kvinder-5000-km-dansk-kvindebaad-i-maal-paa-antigua-efter-52-dage-og29-timer-paa-atlanterhavet",
+   "source": "Minbåd.dk",
+   "date": "2023-02-03",
+   "title": "Et hav, tre kvinder, 5000 km: Dansk kvindebåd i mål på Antigua efter 52 dage og 23 timer på Atlanterhavet",
+   "url": "https://minbaad.dk/nyhed/archive/2023/03/february/article/et-hav-tre-kvinder-5000-km-dansk-kvindebaad-i-maal-paa-antigua-efter-52-dage-og29-timer-paa-atlanterhavet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_Rowmodels1_9d29da6d6f.jpeg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "skat-har-talt-fuld-skattepligt-i-danmark-ved-jordomrejse-med-sejlbaad",
+   "source": "Minbåd.dk",
+   "date": "2023-02-03",
+   "title": "SKAT har talt: Fuld skattepligt i Danmark ved jordomrejse med sejlbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2023/03/february/article/skat-har-talt-fuld-skattepligt-i-danmark-ved-jordomrejse-med-sejlbaad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/6/csm_faurby_fra_luft_73280a11d4.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft",
+   "source": "Minbåd.dk",
+   "date": "2023-02-02",
+   "title": "Svendborgsund Marine Service Aps har købt Svendborg Yacht Værft",
+   "url": "https://minbaad.dk/nyhed/archive/2023/02/february/article/svendborgsund-marine-service-aps-har-kobt-svendborg-yacht-varft/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_alubaad_svendborg_yacht_1d5d299afe.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -5329,6 +5454,15 @@
    "url": "https://marinaguide.dk/nyhed/aeroe-slaar-danmarksrekord-i-antal-anloeb",
    "img": "https://marinaguide.dk/fileadmin/_processed_/d/3/csm_aeroes_havne_903f8aa468.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "pogo-36-faar-elektrisk-motor-fra-finske-oceanvolt",
+   "source": "Minbåd.dk",
+   "date": "2023-01-31",
+   "title": "Pogo 36 får elektrisk motor fra finske Oceanvolt",
+   "url": "https://minbaad.dk/nyhed/archive/2023/31/january/article/pogo-36-faar-elektrisk-motor-fra-finske-oceanvolt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/0/csm_30-Desert-Witch-OCEAN-VOLT-e1671186634667-900x444_d7350ccc92.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "aarets-havn-2022-2",
