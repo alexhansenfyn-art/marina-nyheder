@@ -1,7 +1,40 @@
 {
- "generated": "2026-10-31T02:25:39+00:00",
- "count": 629,
+ "generated": "2026-10-31T08:56:57+00:00",
+ "count": 642,
  "items": [
+  {
+   "key": "baadmagasinet-34421",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "Politiet søger vidner: Flere skud affyret nær far og søn på båd",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34421-politiet-soger-vidner-flere-skud-affyret-naer-far-og-son-pa-bad",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/blaa_blink_1.jpg",
+   "cat": "Sikkerhed",
+   "sum": "En far og hans seksårige søn hørte projektiler flyve tæt forbi deres båd på Køge Bugt. Politiet fandt ni afskudte hylstre på land ved Billesborgvej i Køge og søger nu vidner.",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
+   "cat": "Kapsejlads",
+   "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
+   "tjek": "2026-09-24"
+  },
+  {
+   "key": "baadmagasinet-34415",
+   "source": "Bådmagasinet",
+   "date": "2026-09-11",
+   "title": "IQFoil VM: Søe op som to'er - live fra fredagens sejladser kl. 14",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34415-iqfoil-vm-folg-johan-soe-i-kampen-om-medaljer-live-fra-fredagens-sejladser-kl-14",
+   "cat": "Kapsejlads",
+   "sum": "Johan Søe avancerede til andenpladsen ved IQFoil VM i Weymouth efter",
+   "tjek": "2026-09-18",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/801465145_1416673703804319_4460438238964541947_n.jpg"
+  },
   {
    "key": "baadmagasinet-34420",
    "source": "Bådmagasinet",
@@ -580,8 +613,8 @@
    "date": "2026-09-02",
    "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "cat": "Regler & takster",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg"
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
+   "cat": "Regler & takster"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -1178,8 +1211,8 @@
    "date": "2026-08-24",
    "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "cat": "Havneliv",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
@@ -2053,8 +2086,8 @@
    "date": "2026-08-11",
    "title": "Større både og 8.000 gæstesejlere fylder Skagen hver sommer",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer/",
-   "cat": "Havneliv",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_skagen_havn1__7f8da3b376.jpeg",
+   "cat": "Havneliv"
   },
   {
    "key": "svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester",
@@ -2062,8 +2095,8 @@
    "date": "2026-08-11",
    "title": "Svenske gæstehavne – flere melder om dobbelt så mange gæster",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
-   "cat": "Havneliv",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
@@ -2365,15 +2398,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-06",
-   "title": "Når sejlklubben skal forklare sin identitet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
-   "cat": "Regler & takster"
-  },
-  {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -2381,6 +2405,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
    "cat": "Havneliv"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "Når sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
+   "cat": "Regler & takster"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -3463,15 +3496,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_57f725cbb5.jpg"
   },
   {
-   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-15",
-   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
-   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
-   "cat": "Foreninger"
-  },
-  {
    "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
@@ -3479,6 +3503,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-15",
+   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
+   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
+   "cat": "Foreninger"
   },
   {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
@@ -5897,6 +5930,96 @@
    "url": "https://minbaad.dk/nyhed/archive/2016/10/november/article/sejleruddannelse-nye-regler-paa-vej/",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_elan210-3631_crop_b9f9039dc3.jpg",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "40000-saa-udspring-med-85-kmt",
+   "source": "Minbåd.dk",
+   "date": "2016-06-18",
+   "title": "40.000 så udspring med 85 km/t",
+   "url": "https://minbaad.dk/nyhed/archive/2016/18/june/article/40000-saa-udspring-med-85-kmt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/6/csm_red_1_82e9a0df77.jpg",
+   "cat": "Andet"
+  },
+  {
+   "key": "udspring-fra-operaen-live-loerdag-fra-kl-1420",
+   "source": "Minbåd.dk",
+   "date": "2016-06-17",
+   "title": "Udspring fra Operaen - live lørdag fra kl. 14.20",
+   "url": "https://minbaad.dk/nyhed/archive/2016/17/june/article/udspring-fra-operaen-live-loerdag-fra-kl-1420/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/e/csm_udspring_3_b4d143189a.jpg",
+   "cat": "Andet"
+  },
+  {
+   "key": "shorthand-staar-til-soes-med-journalist-morten-brandt",
+   "source": "Minbåd.dk",
+   "date": "2016-06-16",
+   "title": "Shorthand står til søs med journalist Morten Brandt",
+   "url": "https://minbaad.dk/nyhed/archive/2016/16/june/article/shorthand-staar-til-soes-med-journalist-morten-brandt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_morten_b_ebdcab06a3.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "hils-paa-ol-sejlere-i-horsens-i-dag",
+   "source": "Minbåd.dk",
+   "date": "2016-06-16",
+   "title": "Hils på OL-sejlere i Horsens i dag",
+   "url": "https://minbaad.dk/nyhed/archive/2016/16/june/article/hils-paa-ol-sejlere-i-horsens-i-dag/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/0/csm_OL_horsens_320cc5837b.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "mirakel-kom-aldrig-sejler-erklaeret-doed",
+   "source": "Minbåd.dk",
+   "date": "2016-06-15",
+   "title": "Mirakel kom aldrig - sejler erklæret død",
+   "url": "https://minbaad.dk/nyhed/archive/2016/15/june/article/mirakel-kom-aldrig-sejler-erklaeret-doed/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/3/csm_atlanterhavet_7de724b5b1.png",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "vikingerne-kommer-til-aarhus-bugten",
+   "source": "Minbåd.dk",
+   "date": "2016-06-15",
+   "title": "Vikingerne kommer til Aarhus Bugten",
+   "url": "https://minbaad.dk/nyhed/archive/2016/15/june/article/vikingerne-kommer-til-aarhus-bugten/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/4/csm_viking_79c681f8c2.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "fra-vaskedreng-til-baadmaegler-hos-tempo-baadsalg",
+   "source": "Minbåd.dk",
+   "date": "2016-06-12",
+   "title": "Fra vaskedreng til bådmægler hos Tempo Bådsalg",
+   "url": "https://minbaad.dk/nyhed/archive/2016/12/june/article/fra-vaskedreng-til-baadmaegler-hos-tempo-baadsalg/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/7/csm_henrik_j_82a439e6e5.jpg",
+   "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "nu-kun-plads-til-sting-koncert-med-baad",
+   "source": "Minbåd.dk",
+   "date": "2016-06-10",
+   "title": "Nu kun plads til Sting-koncert med båd",
+   "url": "https://minbaad.dk/nyhed/archive/2016/10/june/article/nu-kun-plads-til-sting-koncert-med-baad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/b/csm_Stin_8ffdd98bb5.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "soeassurancen-afviser-daekning-efter-konstruktionsfejl",
+   "source": "Minbåd.dk",
+   "date": "2016-06-09",
+   "title": "Søassurancen afviser dækning efter konstruktionsfejl",
+   "url": "https://minbaad.dk/nyhed/archive/2016/09/june/article/soeassurancen-afviser-daekning-efter-konstruktionsfejl/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/8/csm_nep_08c398b315.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "kom-til-sup-staevne-med-langdistancebaner",
+   "source": "Minbåd.dk",
+   "date": "2016-06-09",
+   "title": "Kom til SUP-stævne med langdistancebaner",
+   "url": "https://minbaad.dk/nyhed/archive/2016/09/june/article/kom-til-sup-staevne-med-langdistancebaner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_SUP_f36b1aa7f6.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "kerteminde-marina-kaaret-som-aarets-havn-2015",

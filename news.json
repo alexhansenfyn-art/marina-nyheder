@@ -1,10 +1,64 @@
 {
- "generated": "2026-10-31T02:25:39+00:00",
- "count": 929,
+ "generated": "2026-10-31T08:56:57+00:00",
+ "count": 942,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 629,
+ "arkiv_antal": 642,
  "errors": [],
  "items": [
+  {
+   "key": "ultim-trimaraner-kan-naa-40-knob-i-route-du-rhum-i-usaedvanlig-nordlig-rute",
+   "source": "Minbåd.dk",
+   "date": "2026-10-31",
+   "title": "Ultim-trimaraner kan nå 40 knob i Route du Rhum i usædvanlig nordlig rute",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/ultim-trimaraner-kan-naa-40-knob-i-route-du-rhum-i-usaedvanlig-nordlig-rute/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_ruh_9_Stichelbaut_Gitana_190828-2_f6bcdf0682.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-31",
+   "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "svensk-aegtepars-motor-driller-paa-vej-til-korsika",
+   "source": "Minbåd.dk",
+   "date": "2026-10-31",
+   "title": "Ungt svensk ægtepars motor driller på vej til Korsika",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/svensk-aegtepars-motor-driller-paa-vej-til-korsika/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/d/csm_linn_ogb8aa-6695-4a7b-a08d-797ad45a1b8d_4d33577691.jpg",
+   "cat": "Tursejlads"
+  },
+  {
+   "key": "baadmagasinet-34529",
+   "source": "Bådmagasinet",
+   "date": "2026-10-31",
+   "title": "Når hjælpen er flere døgn væk: 28 redningsaktioner til havs giver vigtig læring",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34529-nar-hjaelpen-er-flere-dogn-vaek-28-redningsaktioner-til-havs-giver-vigtig-laering",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/billede_31.10.2026_kl._06.44.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere",
+   "source": "Minbåd.dk",
+   "date": "2026-10-30",
+   "title": "Flere sejlere er alene på vandet – nu tilbyder Ocean Signal gratis batteri til nødpejlesendere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_9f8a4faa66.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense",
+   "source": "Minbåd.dk",
+   "date": "2026-10-30",
+   "title": "24 fjernstyrede model-både dystede om DM i hård vind i Troense",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_8009de8d9e.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter",
    "source": "Minbåd.dk",
@@ -15,40 +69,22 @@
    "cat": "Foreninger"
   },
   {
-   "key": "beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-30",
-   "title": "Beskyt båd og campingvogn mod fugt med DRY-BAG, der kan bruges igen og igen",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/october/article/beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_dryback_resized_d98ae7c496.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
-   "key": "flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere",
-   "source": "Minbåd.dk",
-   "date": "2026-10-30",
-   "title": "Flere sejlere er alene på vandet – nu tilbyder Ocean Signal gratis batteri til nødpejlesendere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_935f7e6c34.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse",
    "source": "Minbåd.dk",
    "date": "2026-10-30",
    "title": "Bådstøtter: Tyresöstøtten kan justeres efter bådens størrelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_5ff08a8a09.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
    "cat": "Udstyr & både"
   },
   {
-   "key": "24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense",
+   "key": "beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen",
    "source": "Minbåd.dk",
    "date": "2026-10-30",
-   "title": "24 fjernstyrede model-både dystede om DM i hård vind i Troense",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_02e6e71856.jpg",
-   "cat": "Kapsejlads"
+   "title": "Beskyt båd og campingvogn mod fugt med DRY-BAG, der kan bruges igen og igen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_dryback_resized_31323a13d0.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34528",
@@ -344,7 +380,7 @@
    "date": "2026-10-24",
    "title": "Store både og bådhuse i flammer på Aarøsund Havn - se video",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/october/article/store-baade-og-baadhuse-i-flammer-paa-aaroesund-havn-se-video/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_aar_brand-28f0-4d87-9d48-bdb741a37638_8b63f1de3b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_aar_brand-28f0-4d87-9d48-bdb741a37638_88e6d0e350.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-31"
   },
@@ -364,7 +400,7 @@
    "date": "2026-10-23",
    "title": "18 danske lystbådehavne sender live",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/18-danske-lystbaadehavne-sender-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_797e6ec77d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_a02eb17484.jpg",
    "cat": "Havneliv",
    "tjek": "2026-10-31"
   },
@@ -454,7 +490,7 @@
    "date": "2026-10-22",
    "title": "Starlink Mini til både giver internet overalt",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/elon-musks-starlink-mini-til-baade-giver-internet-overalt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__e6208dbc62.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__16b7b18e8d.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-10-31"
   },
@@ -514,7 +550,7 @@
    "date": "2026-10-21",
    "title": "Danske lystbådehavne frygter lukning, hvis havet igen går amok",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/danske-lystbaadehavne-frygter-lukning-hvis-havet-igen-gaar-amok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_39d1d68e9d.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-31"
   },
@@ -574,7 +610,7 @@
    "date": "2026-10-20",
    "title": "Båd drevet på grund ved Thurø Rev – lå i dagevis og sled i ankeret",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/5/csm_thuroe_840261937_1769788987863811436_n_07c6058208.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/5/csm_thuroe_840261937_1769788987863811436_n_4f1049554b.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-10-31"
   },
@@ -584,7 +620,7 @@
    "date": "2026-10-20",
    "title": "Gratis for lystsejlere at sejle gennem Kielerkanalen i 2027",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/gratis-for-lystsejlere-at-sejle-gennem-kielerkanalen-i-2027/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_ee6e423c5d.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_kl-3a9e1f8e1955_580aef73d1.png",
    "cat": "Regler & takster",
    "tjek": "2026-10-31"
   },
@@ -594,7 +630,7 @@
    "date": "2026-10-20",
    "title": "Sejl Garmin Round Denmark Race 2027 for 1.875 kr. per person",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/sejl-garmin-round-denmark-race-2027-for-1875-kr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_1430532d17.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_276eaedc3b.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-31"
   },
@@ -619,16 +655,6 @@
    "tjek": "2026-10-31"
   },
   {
-   "key": "baadmagasinet-34506",
-   "source": "Bådmagasinet",
-   "date": "2026-10-20",
-   "title": "Afstemningen er åben - vær med til at kåre årets bedste kapsejladsfoto",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34506-afstemningen-er-aben-vaer-med-til-at-kare-arets-bedste-kapsejladsfoto",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/sardiniacup_forside.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-10-31"
-  },
-  {
    "key": "marinaguide-slut-med-at-bo-i-husbaade-i-ishoej-havn",
    "source": "MarinaGuide",
    "date": "2026-10-20",
@@ -639,12 +665,22 @@
    "tjek": "2026-10-31"
   },
   {
+   "key": "baadmagasinet-34506",
+   "source": "Bådmagasinet",
+   "date": "2026-10-20",
+   "title": "Afstemningen er åben - vær med til at kåre årets bedste kapsejladsfoto",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34506-afstemningen-er-aben-vaer-med-til-at-kare-arets-bedste-kapsejladsfoto",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/sardiniacup_forside.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-31"
+  },
+  {
    "key": "rigskade-paa-saga-36-sender-70-aarig-ud-af-solosejladsen-golden-globe-race",
    "source": "Minbåd.dk",
    "date": "2026-10-19",
    "title": "Rigskade på Saga 36 sender 70-årig ud af solosejladsen Golden Globe Race",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/rigskade-paa-saga-36-sender-70-aarig-ud-af-solosejladsen-golden-globe-race/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/9/csm_golden_less-mcintyre_ggr_a7b0974be0.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/9/csm_golden_less-mcintyre_ggr_9ff8634944.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-31"
   },
@@ -674,8 +710,8 @@
    "date": "2026-10-19",
    "title": "Kvinder ejede skibe og styrede rederier i 1800-tallet – nu får de egen udstilling",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/kvinder-ejede-skibe-og-styrede-rederier-i-1800-tallet-nu-faar-de-en-udstilling/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_9df0448bc2.jpg",
    "cat": "Kultur & folk",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_9df0448bc2.jpg",
    "tjek": "2026-10-31"
   },
   {
@@ -714,8 +750,8 @@
    "date": "2026-10-18",
    "title": "Ferrari bygger flyvende 30 meter 'rumskib' - skal udfordre flerskrogsbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/october/article/ferrari-bygger-flyvende-30-meter-rumskib-skal-udfordre-flerskrogsbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_a4c889febf.jpg",
    "cat": "Udstyr & både",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_rum_mQ9i4TdFZGzDv2LreU_a4c889febf.jpg",
    "tjek": "2026-10-31"
   },
   {
@@ -795,7 +831,8 @@
    "title": "Gammel Havn i Fredericia melder om mindre fald i antal gæstesejlere",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34498-mindre-fald-i-sommerens-gaestesejlere-i-gammel-havn-i-fredericia",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/fred_forside.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-10-31"
   },
   {
    "key": "sdan-gores-indenbordsmotoren-vinterklar-se-tjekliste",
@@ -1536,15 +1573,6 @@
    "tjek": "2026-10-09"
   },
   {
-   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-01",
-   "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
    "source": "Minbåd.dk",
    "date": "2026-10-01",
@@ -2142,7 +2170,7 @@
    "date": "2026-09-22",
    "title": "Askeladden-navnet overlever konkurs med bådserie under 7 meter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/september/article/askeladden-navnet-overlever-konkurs-med-baadserie-under-7-meter/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/f/csm_askeladd1_65cb991068.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/f/csm_askeladd1_22de54775f.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2151,7 +2179,7 @@
    "date": "2026-09-22",
    "title": "Ny Quicksilver 625 Open får plads til syv - op til 150 hk",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/september/article/ny-quicksilver-625-open-rib-faar-plads-til-syv/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/c/csm_open_IMG_20260813_125523_98dc99832c.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/c/csm_open_IMG_20260813_125523_ff4d9d41db.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2478,7 +2506,7 @@
    "date": "2026-09-17",
    "title": "Solpaneler efter mål - kan laves flotte",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/17/september/article/solpaneler-efter-maal-paa-copenhagen-boat-show/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_f7c745f3bf.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/6/csm_solb1nnamed_c3057cf7cd.jpg",
    "cat": "Udstyr & både",
    "sum": "På Copenhagen Boat Show præsenteres SOLBIAN fleksible solpaneler, der kan tilpasses efter mål. Forhandlere tilbyder beregninger af effekt og pris på stedet."
   },
@@ -2618,7 +2646,7 @@
    "date": "2026-09-15",
    "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2fa87be388.jpg",
    "cat": "Udstyr & både",
    "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
   },
@@ -2918,39 +2946,6 @@
    "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
    "tjek": "2026-09-25"
-  },
-  {
-   "key": "baadmagasinet-34421",
-   "source": "Bådmagasinet",
-   "date": "2026-09-11",
-   "title": "Politiet søger vidner: Flere skud affyret nær far og søn på båd",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34421-politiet-soger-vidner-flere-skud-affyret-naer-far-og-son-pa-bad",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/blaa_blink_1.jpg",
-   "cat": "Sikkerhed",
-   "sum": "En far og hans seksårige søn hørte projektiler flyve tæt forbi deres båd på Køge Bugt. Politiet fandt ni afskudte hylstre på land ved Billesborgvej i Køge og søger nu vidner.",
-   "tjek": "2026-09-25"
-  },
-  {
-   "key": "ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel",
-   "source": "Minbåd.dk",
-   "date": "2026-09-11",
-   "title": "Ny Student Sailing Cup ramte plet med tæt ræs og kolde øl",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/ny-student-sailing-cup-ramte-plet-med-taet-raes-og-kolde-oel/",
-   "cat": "Kapsejlads",
-   "sum": "KØS Sejlsport og DTU Sailing afholdt første Student Sailing Cup i Svanemøllebugten med seks hold, J/70-både og fokus på rekruttering, kapsejlads og socialt fællesskab.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/9/csm_a_mage00009_e21902e29f.jpeg",
-   "tjek": "2026-09-24"
-  },
-  {
-   "key": "baadmagasinet-34415",
-   "source": "Bådmagasinet",
-   "date": "2026-09-11",
-   "title": "IQFoil VM: Søe op som to'er - live fra fredagens sejladser kl. 14",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34415-iqfoil-vm-folg-johan-soe-i-kampen-om-medaljer-live-fra-fredagens-sejladser-kl-14",
-   "cat": "Kapsejlads",
-   "sum": "Johan Søe avancerede til andenpladsen ved IQFoil VM i Weymouth efter",
-   "tjek": "2026-09-18",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/801465145_1416673703804319_4460438238964541947_n.jpg"
   }
  ]
 }
