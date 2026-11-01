@@ -1,7 +1,17 @@
 {
- "generated": "2026-11-01T16:28:19+00:00",
- "count": 655,
+ "generated": "2026-11-01T20:52:39+00:00",
+ "count": 666,
  "items": [
+  {
+   "key": "havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "GODT SØMANDSKAB I HAVNEN ER GOD STIL Der er mange spørgsmål man gerne vil have svar på inden anløb i en havn. Ikke mindst, om der nu er…",
+   "url": "https://havneguide.dk/nyheder/godt-soemandskab-i-havnen-er-god-stil",
+   "img": "https://havneguide.dk/sites/default/files/styles/max_650x650/public/2023-05/havnefoged_5_illustration_gert_eilenberger1024_1_500_pixl_bred.jpg.webp?itok=VTGJXj06",
+   "cat": "Havneliv",
+   "sum": "Havnemestre bruger meget tid på opkald om info, der findes på hjemmesider og havneguide.dk. Artiklen opfordrer sejlere til at hjælpe hinanden og tjekke oplysninger før anløb."
+  },
   {
    "key": "havneguide.dk/baadpladser",
    "source": "Havneguide",
@@ -5702,6 +5712,51 @@
    "cat": "Havneliv"
   },
   {
+   "key": "paasatning-af-stavnplatform-paa-sejlbd-med-smalt-forskib",
+   "source": "Minbåd.dk",
+   "date": "2021-09-16",
+   "title": "Sådan sætter du en stævnplatform på sejlbåd med smalt forskib",
+   "url": "https://minbaad.dk/nyhed/archive/2021/16/september/article/paasatning-af-stavnplatform-paa-sejlbd-med-smalt-forskib/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/b/csm_staevnplatform_phantom_42_cc0ee40c16.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "goetakanalen-moderniseres-til-fordel-for-sejlerne-nu-fojer-den-svenske-regering-60-mio-kroner-til-budgettet",
+   "source": "Minbåd.dk",
+   "date": "2021-09-15",
+   "title": "Götakanalen moderniseres til fordel for sejlerne - nu føjer den svenske regering 60 mio. kroner til budgettet",
+   "url": "https://minbaad.dk/nyhed/archive/2021/15/september/article/goetakanalen-moderniseres-til-fordel-for-sejlerne-nu-fojer-den-svenske-regering-60-mio-kroner-til-budgettet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_gotakanal_top_faf7acbef5.jpeg",
+   "cat": "Tursejlads"
+  },
+  {
+   "key": "kvindelig-kitesurfer-dod-under-sejlads-i-klitmoller",
+   "source": "Minbåd.dk",
+   "date": "2021-09-09",
+   "title": "Kvindelig kitesurfer død under sejlads i Klitmøller",
+   "url": "https://minbaad.dk/nyhed/archive/2021/09/september/article/kvindelig-kitesurfer-dod-under-sejlads-i-klitmoller/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_kitesurfing_ulykke_vesterhavet_oestriger_4ac2709ae9.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "redningsbaad-kantrer-under-bugsering-i-hvide-sande",
+   "source": "Minbåd.dk",
+   "date": "2021-09-08",
+   "title": "Redningsbåd kæntrer under bugsering i Hvide Sande",
+   "url": "https://minbaad.dk/nyhed/archive/2021/08/september/article/redningsbaad-kantrer-under-bugsering-i-hvide-sande/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/1/csm_frb_15_1ba592a229.jpeg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "saadan-redder-du-din-afkraeftede-makker-op-paa-sup-boardet",
+   "source": "Minbåd.dk",
+   "date": "2021-09-08",
+   "title": "Sådan redder du din afkræftede makker op på SUP-boardet",
+   "url": "https://minbaad.dk/nyhed/archive/2021/08/september/article/saadan-redder-du-din-afkraeftede-makker-op-paa-sup-boardet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sup_redning_paa_vandet_55f7da26ce.jpeg",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "aarosund-lystbaadehavn-har-kobt-20-ton-hydraulikvogn-og-tilbyder-gastebaadejere-vinterlandplads",
    "source": "Minbåd.dk",
    "date": "2021-09-08",
@@ -5709,6 +5764,51 @@
    "url": "https://minbaad.dk/nyhed/archive/2021/08/september/article/aarosund-lystbaadehavn-har-kobt-20-ton-hydraulikvogn-og-tilbyder-gastebaadejere-vinterlandplads/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/2/csm_Joergen_Andersen_og_Lars_Callesen_3d56b972df.jpeg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "copenhagen-boat-show-2021-var-med-publikumsrekord-paa-21-630-besogende",
+   "source": "Minbåd.dk",
+   "date": "2021-09-07",
+   "title": "Copenhagen Boat Show 2021 var med publikumsrekord på 21.630 besøgende",
+   "url": "https://minbaad.dk/nyhed/archive/2021/07/september/article/copenhagen-boat-show-2021-var-med-publikumsrekord-paa-21-630-besogende/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/6/csm_ishoej_messe_luft_e9ec183d9d.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "lige-ved-og-nasten-for-sejlbaad-i-michigan-se-video",
+   "source": "Minbåd.dk",
+   "date": "2021-09-06",
+   "title": "Lige ved og næsten for sejlbåd i Michigan - se video",
+   "url": "https://minbaad.dk/nyhed/archive/2021/06/september/article/lige-ved-og-nasten-for-sejlbaad-i-michigan-se-video/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/0/csm_near_miss_dcf9c41232.jpeg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "filmskaber-anders-dylov-fastholder-en-vigtig-del-af-den-danske-maritime-historie",
+   "source": "Minbåd.dk",
+   "date": "2021-09-06",
+   "title": "Filmskaber Anders Dylov fastholder en vigtig del af den danske maritime historie",
+   "url": "https://minbaad.dk/nyhed/archive/2021/06/september/article/filmskaber-anders-dylov-fastholder-en-vigtig-del-af-den-danske-maritime-historie/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dylov_styrer_1db1d95784.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "copenhagen-boat-show-stadig-aabent-lordag-og-sondag-i-solskin-100-baade-kan-ses0",
+   "source": "Minbåd.dk",
+   "date": "2021-09-04",
+   "title": "Copenhagen Boat Show stadig åbent lørdag og søndag i solskin - 100 både kan ses",
+   "url": "https://minbaad.dk/nyhed/archive/2021/04/september/article/copenhagen-boat-show-stadig-aabent-lordag-og-sondag-i-solskin-100-baade-kan-ses0/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_boat_show_x_baad_5da1027154.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "beneteau-first-36-skal-bygge-bro-mellem-racer-og-familieklassen",
+   "source": "Minbåd.dk",
+   "date": "2021-09-03",
+   "title": "Beneteau First 36 skal bygge bro mellem racer- og familieklassen",
+   "url": "https://minbaad.dk/nyhed/archive/2021/03/september/article/beneteau-first-36-skal-bygge-bro-mellem-racer-og-familieklassen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_beneteau_first_36_1_b1c3504892.jpeg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "find-lystbaadehavne-der-matcher-din-dybgang-havneportal-hjalper-paa-vej",
