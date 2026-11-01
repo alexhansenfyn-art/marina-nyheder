@@ -1,11 +1,9 @@
 {
- "generated": "2026-11-01T09:22:23+00:00",
+ "generated": "2026-11-01T16:28:19+00:00",
  "count": 955,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 655,
- "errors": [
-  "AI: ValueError: AI svarede tomt (intet indhold i svaret)"
- ],
+ "errors": [],
  "items": [
   {
    "key": "22-imoca-baade-klar-til-rekordfart-i-route-du-rhum-vild-start-venter-i-dag",
@@ -741,6 +739,16 @@
    "tjek": "2026-11-01"
   },
   {
+   "key": "tre-aar-efter-den-historiske-stormflod",
+   "source": "FLID Havne",
+   "date": "2026-10-19",
+   "title": "Tre år efter den historiske stormflod",
+   "url": "https://flidhavne.dk/tre-aar-efter-den-historiske-stormflod/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Avernakoe-skaeve-broer-2023-foto-Emil-Birkemose-scaled.jpg",
+   "cat": "Sikkerhed",
+   "tjek": "2026-11-01"
+  },
+  {
    "key": "baadmagasinet-34502",
    "source": "Bådmagasinet",
    "date": "2026-10-19",
@@ -758,16 +766,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/5-gode-rd-til-vinteropbevaring-af-sejl-salt-er-fjenden/",
    "img": "https://minbaad.dk/fileadmin/_processed_/4/d/csm_x_79_fyn_cup_24d0a52ed7.jpg",
    "cat": "Udstyr & både",
-   "tjek": "2026-11-01"
-  },
-  {
-   "key": "tre-aar-efter-den-historiske-stormflod",
-   "source": "FLID Havne",
-   "date": "2026-10-19",
-   "title": "Tre år efter den historiske stormflod",
-   "url": "https://flidhavne.dk/tre-aar-efter-den-historiske-stormflod/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Avernakoe-skaeve-broer-2023-foto-Emil-Birkemose-scaled.jpg",
-   "cat": "Sikkerhed",
    "tjek": "2026-11-01"
   },
   {
@@ -807,8 +805,7 @@
    "title": "To fiskere kæntrede syv kilometer fra land i Ringkøbing Fjord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/october/article/to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/f/csm_hvide_sande_6356_1057862083933207_5246968273519471442_n_cb89103052.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-11-01"
+   "cat": "Sikkerhed"
   },
   {
    "key": "frygtloes-solosejler-erik-aanderaa-satte-kurs-mod-nordpolen-sejlede-3597-soemil",
