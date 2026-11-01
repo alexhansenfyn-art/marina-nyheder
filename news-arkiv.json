@@ -1,7 +1,38 @@
 {
- "generated": "2026-11-01T02:15:47+00:00",
- "count": 642,
+ "generated": "2026-11-01T09:22:23+00:00",
+ "count": 655,
  "items": [
+  {
+   "key": "havneguide.dk/baadpladser",
+   "source": "Havneguide",
+   "date": "2026-09-11",
+   "title": "Salg og udlejning af bådpladser",
+   "url": "https://havneguide.dk/baadpladser",
+   "cat": "Regler & takster",
+   "sum": "Dansk portal gør det muligt at søge bådpladser i havne under Foreningen af Lystbådehavne i Danmark – både køb/indskud og leje som sæsonplads."
+  },
+  {
+   "key": "myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Myndighederne gjorde intet – så fjernede Thurøboerne selv spøgelsesbåd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/myndighederne-gjorde-intet-saa-fjernede-thuroeboerne-selv-spoegelsesbaad/",
+   "cat": "Havneliv",
+   "sum": "En strandet båd ved Thurødæmningen lå i månedsvis, uden at politi, Kystdirektorat, Søfartsstyrelsen eller kommunen tog ansvar. Thurøboere fjernede den derfor selv.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/2/csm_forladt_thuroe_20250902_153454_18cb046cbd.jpg",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget",
+   "source": "Minbåd.dk",
+   "date": "2026-09-11",
+   "title": "Bil og bådtrailer fanget af vandet i Rømø – to personer måtte på biltag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/september/article/bil-og-baadtrailer-fanget-af-vandet-i-roemoe-to-personer-fanget-paa-taget/",
+   "cat": "Sikkerhed",
+   "sum": "To personer blev fanget af vandet ved Rømø, da bil og bådtrailer endte i en rende. En SAR-helikopter måtte hejse den ene person i sikkerhed.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_r_99934836_1403072831997605_5975455086894056071_n_ea0b14b413.jpg",
+   "tjek": "2026-09-25"
+  },
   {
    "key": "baadmagasinet-34421",
    "source": "Bådmagasinet",
@@ -613,8 +644,8 @@
    "date": "2026-09-02",
    "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
-   "cat": "Regler & takster"
+   "cat": "Regler & takster",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
@@ -3764,21 +3795,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
-   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
-   "source": "FLID Havne",
-   "date": "2026-07-06",
-   "title": "90 unge i 22 både indtager havnene i uge 29",
-   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "source": "MarinaGuide",
    "date": "2026-07-06",
    "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
    "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
+   "source": "FLID Havne",
+   "date": "2026-07-06",
+   "title": "90 unge i 22 både indtager havnene i uge 29",
+   "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
    "cat": "Havneliv"
   },
   {
@@ -4297,15 +4328,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "slut-med-gtl-fuel",
-   "source": "FLID Havne",
-   "date": "2026-05-22",
-   "title": "Slut med GTL fuel",
-   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
-   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "source": "Dansk Sejlunion",
    "date": "2026-05-22",
@@ -4313,6 +4335,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
    "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "slut-med-gtl-fuel",
+   "source": "FLID Havne",
+   "date": "2026-05-22",
+   "title": "Slut med GTL fuel",
+   "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -4580,21 +4611,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_boegeskov_havn_tilsanding_21ca60c59d.jpg"
   },
   {
-   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
-   "source": "Danske Tursejlere",
-   "date": "2026-04-16",
-   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
-   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
-   "cat": "Foreninger"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-04-16",
    "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
    "img": "https://dansksejlunion.dk/media/xt4j0a1u/johanne-og-andrea-schmidt-138a9113.jpg?width=1200&height=630",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
+   "source": "Danske Tursejlere",
+   "date": "2026-04-16",
+   "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
    "cat": "Foreninger"
   },
   {
@@ -4840,15 +4871,6 @@
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/b/csm_motorkurusus_watergames_3030fba20e.jpg"
   },
   {
-   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
-   "source": "Danske Tursejlere",
-   "date": "2026-03-05",
-   "title": "INDKALDELSE TIL GENERALFORSAMLING",
-   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg",
-   "cat": "Foreninger"
-  },
-  {
    "key": "soesport-hvordan-bliver-du-sikker-senior-til-soes",
    "source": "Søsportens Sikkerhedsråd",
    "date": "2026-03-05",
@@ -4856,6 +4878,15 @@
    "url": "https://www.soesport.dk/nyheder/artikler/hvordan-bliver-du-sikker-senior-til-soes",
    "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639081211528127697/COLOURBOX35484136.jpg?width=1024&height=512&format=jpg&mode=crop",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "dansketursejlere-indkaldelse-til-generalforsamling-4",
+   "source": "Danske Tursejlere",
+   "date": "2026-03-05",
+   "title": "INDKALDELSE TIL GENERALFORSAMLING",
+   "url": "https://dansketursejlere.dk/indkaldelse-til-generalforsamling-4/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2024/02/DT-stander-i-vinden-scaled-1-1024x512.jpeg",
+   "cat": "Foreninger"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/vinderne-af-dansk-sejlunions-grandprix-serie-2025-er-fundet",
@@ -5506,6 +5537,96 @@
    "title": "Pogo 36 får elektrisk motor fra finske Oceanvolt",
    "url": "https://minbaad.dk/nyhed/archive/2023/31/january/article/pogo-36-faar-elektrisk-motor-fra-finske-oceanvolt/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/0/csm_30-Desert-Witch-OCEAN-VOLT-e1671186634667-900x444_d7350ccc92.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "25-frivillige-fra-danmarks-museum-for-lystsejlads-klades-paa",
+   "source": "Minbåd.dk",
+   "date": "2022-12-18",
+   "title": "25 frivillige fra Danmarks Museum for Lystsejlads klædes på",
+   "url": "https://minbaad.dk/nyhed/archive/2022/18/december/article/25-frivillige-fra-danmarks-museum-for-lystsejlads-klades-paa/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/f/csm_klaedes_paa_dec_12_288078e452.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "styrmand-sejler-adru-paa-samso-politiet-sigter-ingen",
+   "source": "Minbåd.dk",
+   "date": "2022-12-16",
+   "title": "Styrmand sejler ædru på Samsø - politiet sigter ingen",
+   "url": "https://minbaad.dk/nyhed/archive/2022/16/december/article/styrmand-sejler-adru-paa-samso-politiet-sigter-ingen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_samsoe_skib_b7ba9b7414.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "mads-blareroven-og-tv-vart-felix-smith-gaster-scenen-paa-boat-show-og-mange-flere",
+   "source": "Minbåd.dk",
+   "date": "2022-12-16",
+   "title": "'Blærerøven' og tv-vært Felix Smith gæster scenen på Boat Show og mange flere",
+   "url": "https://minbaad.dk/nyhed/archive/2022/16/december/article/mads-blareroven-og-tv-vart-felix-smith-gaster-scenen-paa-boat-show-og-mange-flere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/a/csm_mads_ishoej_96ada0802d.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "garmins-nye-eksklusive-marq-captain-sejlerur-har-alverdens-funktioner",
+   "source": "Minbåd.dk",
+   "date": "2022-12-15",
+   "title": "Garmins nye eksklusive MARQ Captain sejlerur har alverdens funktioner",
+   "url": "https://minbaad.dk/nyhed/archive/2022/15/december/article/garmins-nye-eksklusive-marq-captain-sejlerur-har-alverdens-funktioner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/0/csm_garmin_marc_captain_top_97b0816e2a.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "mathis-varft-a-s-skifter-navn-til-dansk-marine-center-aalborg-yacht-varft-a-s",
+   "source": "Minbåd.dk",
+   "date": "2022-12-14",
+   "title": "Mathis Værft A/S skifter navn til Dansk Marine Center – Aalborg Yacht Værft A/S",
+   "url": "https://minbaad.dk/nyhed/archive/2022/14/december/article/mathis-varft-a-s-skifter-navn-til-dansk-marine-center-aalborg-yacht-varft-a-s/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/f/csm_jacob_mikkelsen_direktoer_aalborg_vaerft_8b2a58be35.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "i-dag-kl-15-er-sidste-chance-for-at-vinde-en-redningsvest-fra-hjertmans",
+   "source": "Minbåd.dk",
+   "date": "2022-12-13",
+   "title": "I dag kl. 15 er sidste chance for at vinde en redningsvest fra Hjertmans",
+   "url": "https://minbaad.dk/nyhed/archive/2022/13/december/article/i-dag-kl-15-er-sidste-chance-for-at-vinde-en-redningsvest-fra-hjertmans/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vind_en_redningsvest_22_2041053fed.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "51-aarig-mistede-livet-laa-for-lange-i-lillebalt-efter-kantring-med-skydepram",
+   "source": "Minbåd.dk",
+   "date": "2022-12-12",
+   "title": "51-årig mistede livet - lå for længe i Lillebælt efter kæntring med skydepram",
+   "url": "https://minbaad.dk/nyhed/archive/2022/12/december/article/51-aarig-mistede-livet-laa-for-lange-i-lillebalt-efter-kantring-med-skydepram/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_helikopter_redning_aaroesund_2e5e1ee7e2.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "hallberg-rassy-400-vinder-aarets-baad-i-usa-2023-foran-x-yachts-x43",
+   "source": "Minbåd.dk",
+   "date": "2022-12-09",
+   "title": "Hallberg-Rassy 400 vinder Årets båd i USA 2023 - foran X-Yachts X4.3.",
+   "url": "https://minbaad.dk/nyhed/archive/2022/09/december/article/hallberg-rassy-400-vinder-aarets-baad-i-usa-2023-foran-x-yachts-x43/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/5/csm_hallberg_rassy_400_forkahyt_590081a85e.jpg",
+   "forsoeg": 1
+  },
+  {
+   "key": "saffier-se-24-lite-er-til-den-kranse-dagsejler",
+   "source": "Minbåd.dk",
+   "date": "2022-12-08",
+   "title": "Saffier Se 24 Lite er til den krænse dagsejler",
+   "url": "https://minbaad.dk/nyhed/archive/2022/08/december/article/saffier-se-24-lite-er-til-den-kranse-dagsejler/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/d/csm_Final-SE-24-Serie-2-Maske-0004-Kopie_b6570a4452.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "beneteau-el",
+   "source": "Minbåd.dk",
+   "date": "2022-12-06",
+   "title": "Beneteau går el-vejen med Oceanis 30.1 og First 44 med Torqeedo-motor",
+   "url": "https://minbaad.dk/nyhed/archive/2022/06/december/article/beneteau-el/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_Oceanis-30.1-3033_photocredit__Julien_Gazeau_e458600df5.jpg",
    "cat": "Udstyr & både"
   },
   {
