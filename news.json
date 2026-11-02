@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-02T17:07:49+00:00",
- "count": 992,
+ "generated": "2026-11-02T23:54:43+00:00",
+ "count": 1003,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 692,
+ "arkiv_antal": 703,
  "errors": [],
  "items": [
   {
-   "key": "tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen",
+   "key": "flaeskesteg-finnjoller-og-haard-kamp-paa-koege-bugt",
    "source": "Minbåd.dk",
    "date": "2026-11-02",
-   "title": "Tjek dine søventiler - især når båden er i vandet året rundt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_seavalve_8d72ef551d.jpg",
-   "cat": "Udstyr & både"
+   "title": "Flæskesteg, Finnjoller og hård kamp på Køge Bugt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/flaeskesteg-finnjoller-og-haard-kamp-paa-koege-bugt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_MB_finn_1__3__ed752d0dce.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "derfor-kan-en-mindre-batteribank-vaere-nok-med-litium",
@@ -24,12 +24,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen",
+   "source": "Minbåd.dk",
+   "date": "2026-11-02",
+   "title": "Tjek dine søventiler - især når båden er i vandet året rundt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_seavalve_de085e271f.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "sam-goodchild-er-stolt-af-at-vaere-favorit-foerer-nu-route-du-rhum",
    "source": "Minbåd.dk",
    "date": "2026-11-02",
    "title": "Sam Goodchild er stolt af at være favorit - fører nu Route du Rhum",
    "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/sam-goodchild-er-stolt-af-at-vaere-favorit-foerer-nu-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_mac_cif_top_1188173233548728_3967930265319548099_n_00a9d1fb6c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_mac_cif_top_1188173233548728_3967930265319548099_n_210f9b8ad8.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -65,7 +74,7 @@
    "date": "2026-11-01",
    "title": "Kollision i Route du Rhum: IMOCA sejlede ind i trimaran – fransk solosejler søger havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_db03e74267.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_85f16fd2b9.jpeg",
    "cat": "Kapsejlads"
   },
   {
@@ -150,6 +159,15 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense",
+   "source": "Minbåd.dk",
+   "date": "2026-10-30",
+   "title": "24 fjernstyrede model-både dystede om DM i hård vind i Troense",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_8009de8d9e.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter",
    "source": "Minbåd.dk",
    "date": "2026-10-30",
@@ -166,15 +184,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
    "cat": "Udstyr & både"
-  },
-  {
-   "key": "24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense",
-   "source": "Minbåd.dk",
-   "date": "2026-10-30",
-   "title": "24 fjernstyrede model-både dystede om DM i hård vind i Troense",
-   "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/24-fjernstyrede-model-baade-dystede-om-dm-i-haard-vind-i-troense/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/c/csm_m_64436405_10163094814087301_6921740145505399103_n_02e6e71856.jpg",
-   "cat": "Kapsejlads"
   },
   {
    "key": "beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen",
@@ -362,7 +371,7 @@
    "date": "2026-10-26",
    "title": "Efter 1.500 sømil: Jeppe vil gøre op med myterne om langturssejlads",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/efter-1500-soemil-jeppe-vil-goere-op-med-myterne-om-langturssejlads/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_jj_9388843_10165097891228537_5504337490504063427_n_d43ddee672.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_jj_9388843_10165097891228537_5504337490504063427_n_3826f7f7f4.jpg",
    "cat": "Tursejlads",
    "tjek": "2026-11-02"
   },
@@ -382,7 +391,7 @@
    "date": "2026-10-26",
    "title": "Rindom skal slå veninden Munch for at komme til OL - se DR-indslag",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/rindom-skal-slaa-veninden-munch-for-at-komme-til-ol-se-dr-indslag/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_rindvg_G_20260502_134937_4ec8171531.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_rindvg_G_20260502_134937_0445a3a14e.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-02"
   },
@@ -422,7 +431,7 @@
    "date": "2026-10-25",
    "title": "12 både brændt i Aarøsund - plus nabobåde med sodskader",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flere-baade-braendt-i-aaroesund-flere-nabobaade-har-ogsaa-faaet-sodskader/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_90942bc406.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-11-02"
   },
@@ -522,7 +531,7 @@
    "date": "2026-10-23",
    "title": "Vask tovværkets salt og urenheder i vaskemaskinen - men brug kun lidt vaskemiddel og lav temperatur",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/vask-tovvaerkets-salt-og-urenheder-i-vaskemaskinen-men-brug-kun-lidt-vaskemiddel-og-lav-temperatur/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_afdc5fb98c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_tovvaerk_vask_i_vaskemaskinen_a5bb2d4abd.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-02"
   },
@@ -592,7 +601,7 @@
    "date": "2026-10-22",
    "title": "Beneteau lancerer billigere udgave af First 36 uden skabe - planer ved 8 m/sek.",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/beneteau-lancerer-billigere-udgave-af-first-36-uden-skabe-planer-ved-8-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/4/csm_first_spiriload_81023a2252.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/4/csm_first_spiriload_400543fbb7.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-02"
   },
@@ -667,16 +676,6 @@
    "tjek": "2026-11-02"
   },
   {
-   "key": "test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek",
-   "source": "Minbåd.dk",
-   "date": "2026-10-21",
-   "title": "Test: Beneteau Oceanis 37.1 med masser af plads og sikker sejlads i 10 m/sek.",
-   "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_25168166fc.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-02"
-  },
-  {
    "key": "norsk-kvindelig-solosejler-faar-ti-dages-tidsstraf-i-golden-globe-race-efter-ulovlige-satellitopkald",
    "source": "Minbåd.dk",
    "date": "2026-10-21",
@@ -684,6 +683,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/norsk-kvindelig-solosejler-faar-ti-dages-tidsstraf-i-golden-globe-race-efter-ulovlige-satellitopkald/",
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_golden_straf_1667930441395919_5044874238096062592_n_a5cda0d4a6.jpg",
+   "tjek": "2026-11-02"
+  },
+  {
+   "key": "test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-10-21",
+   "title": "Test: Beneteau Oceanis 37.1 med masser af plads og sikker sejlads i 10 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek/",
+   "cat": "Udstyr & både",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_25168166fc.jpg",
    "tjek": "2026-11-02"
   },
   {
@@ -2926,17 +2935,6 @@
    "sum": "Dansk Sejlunions Ungdoms-DM hos KDY blev gennemført trods let vind og kraftig strøm. Seks danske mestre blev kåret, og størstedelen af sejladserne blev gennemført.",
    "img": "https://minbaad.dk/fileadmin/_processed_/9/b/csm_u_DSC03350_292725a0e3.jpg",
    "tjek": "2026-09-25"
-  },
-  {
-   "key": "baadmagasinet-34422",
-   "source": "Bådmagasinet",
-   "date": "2026-09-13",
-   "title": "Vedbæk Cup vender tilbage til rødderne i klubbens jubilæumsår",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34422-vedbaek-cup-vender-tilbage-til-rodderne-i-klubbens-jubilaeumsar",
-   "cat": "Kapsejlads",
-   "sum": "Vedbæk Sejlklub fejrer 75 års jubilæum, når den traditionsrige Vedbæk Cup søndag den 4. oktober sejles som klassisk distancesejlads på Øresund. Arrangørerne forventer over 100 både og op mod 500 sejlere.",
-   "tjek": "2026-09-20",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/vedbaek_cup.jpg"
   }
  ]
 }
