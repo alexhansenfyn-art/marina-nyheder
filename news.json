@@ -1,10 +1,19 @@
 {
- "generated": "2026-11-02T00:47:43+00:00",
- "count": 977,
+ "generated": "2026-11-02T06:56:04+00:00",
+ "count": 978,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 677,
+ "arkiv_antal": 678,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34531",
+   "source": "Bådmagasinet",
+   "date": "2026-11-02",
+   "title": "iQFoil UEM: Desværre - ingen danske top-placeringer men masser af erfaring med hjem",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34531-iqfoil-uem-desvaerre-ingen-danske-top-placeringer-men-masser-af-erfaring-med-hjem",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/261031_sailingenergy_varkiza_iqfoil_yj_europeans__8222.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn",
    "source": "Minbåd.dk",
@@ -749,7 +758,8 @@
    "title": "Nu også farvel til Boheme 10 m – Shipman 28 er nok",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/nu-ogsaa-farvel-til-min-boheme-10-m-min-shipman-28-er-nok/",
    "cat": "Kultur & folk",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/3/csm_boheme_10_god__creation_7070715658371156649__1__ef0f858323.jpeg",
+   "tjek": "2026-11-02"
   },
   {
    "key": "kvinder-ejede-skibe-og-styrede-rederier-i-1800-tallet-nu-faar-de-en-udstilling",
@@ -758,7 +768,8 @@
    "title": "Kvinder ejede skibe og styrede rederier i 1800-tallet – nu får de egen udstilling",
    "url": "https://minbaad.dk/nyhed/archive/2026/19/october/article/kvinder-ejede-skibe-og-styrede-rederier-i-1800-tallet-nu-faar-de-en-udstilling/",
    "cat": "Kultur & folk",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_9df0448bc2.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/3/csm_kvind_be-3920-4728-92e2-81ffa6b8fff7_9df0448bc2.jpg",
+   "tjek": "2026-11-02"
   },
   {
    "key": "tre-aar-efter-den-historiske-stormflod",
@@ -2931,17 +2942,6 @@
    "sum": "Anna Munch vinder VM-bronze i ILCA6 med en femte- og fjerdeplads i finalesejladserne, mens Johan Søe misser iQFOiL-finalen efter tredjeplads i semifinalen.",
    "tjek": "2026-09-19",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/ilca6_vm.jpg"
-  },
-  {
-   "key": "baadmagasinet-34416",
-   "source": "Bådmagasinet",
-   "date": "2026-09-12",
-   "title": "VM: Både Anna Munch og Johan Søe er klar til medaljedyst - link til live",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34416-iqfoil-vm-live-fra-finalesejladserne-kl-12-25",
-   "cat": "Kapsejlads",
-   "sum": "Johan Søe og Anna Munch er blandt toppen ved VM i henholdsvis iQFOiL og ILCA 6. Lørdag sejler de finaler og kæmper om medaljer.",
-   "tjek": "2026-09-19",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_2.jpg"
   }
  ]
 }
