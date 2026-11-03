@@ -1,7 +1,59 @@
 {
- "generated": "2026-11-03T06:51:37+00:00",
- "count": 704,
+ "generated": "2026-11-03T15:11:29+00:00",
+ "count": 709,
  "items": [
+  {
+   "key": "baadmagasinet-34428",
+   "source": "Bådmagasinet",
+   "date": "2026-09-14",
+   "title": "Så kom han op på 21 DM-guld!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34428-sa-kom-han-op-pa-21-dm-guld",
+   "cat": "Kapsejlads",
+   "sum": "Søren Dulong Andreasen fra Hellerup vandt DM-guld i Contender-klassen for 21. gang ved stævnet i Skovshoved Sejlklub med fire førstepladser i fire sejladser.",
+   "tjek": "2026-09-21",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_img_8930_2.jpg"
+  },
+  {
+   "key": "baadmagasinet-34425",
+   "source": "Bådmagasinet",
+   "date": "2026-09-14",
+   "title": "Masser af sejlerglæde trods udfordrende forhold ved i Ungdoms-DM i Rungsted",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34425-masser-af-sejlerglaede-trods-udfordrende-forhold-ved-i-ungdoms-dm-i-rungsted",
+   "cat": "Kapsejlads",
+   "sum": "Ungdoms-DM i Rungsted blev gennemført trods let vind og kraftig strøm på Øresund. Efter weekenden blev der kåret danske ungdomsmestre i alle seks klasser.",
+   "tjek": "2026-09-21",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dsc03509_2.jpg"
+  },
+  {
+   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-13",
+   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg",
+   "cat": "Jubilæum / priser",
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-13",
+   "title": "Ungdommens danmarksmestre kåret trods svære vejrforhold ved Dansk Sejlunions Ungdoms-DM",
+   "url": "https://dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
+   "img": "https://dansksejlunion.dk/media/blbdkkhg/design-uden-navn-30.jpg?width=1200&height=630",
+   "cat": "Kapsejlads",
+   "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
+  },
+  {
+   "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-13",
+   "title": "12 råd der kan redde parforholdet på sejlturen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
+   "cat": "Tursejlads",
+   "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg"
+  },
   {
    "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
    "source": "Minbåd.dk",
@@ -740,8 +792,8 @@
    "date": "2026-09-02",
    "title": "Mange bilister mister deres kørekort betinget fordi sikkerhedswiren ikke monteres korrekt på bilens karrosseri",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/september/article/mange-bilister-mister-deres-koerekort-betinget-fordi-sikkerhedswiren-ikke-monteres-korrekt-paa-bilens-karrosseri/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg",
-   "cat": "Regler & takster"
+   "cat": "Regler & takster",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/7/csm_trailer_h-_baad_porsche_d01140d71d.jpg"
   },
   {
    "key": "flid-kraever-dansk-baadregister-efter-2000-baade-er-forladt",
