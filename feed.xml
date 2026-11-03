@@ -5,8 +5,15 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Mon, 02 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nye millionplaner for Sæby Havnefront skal skabe maritim kystperle</title>
+<link>https://www.baadmagasinet.dk/nyheder/tema/havne/34533-nye-millionplaner-for-saeby-havnefront-skal-skabe-maritim-kystperle</link>
+<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/tema/havne/34533-nye-millionplaner-for-saeby-havnefront-skal-skabe-maritim-kystperle</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Bådmagasinet</description>
+</item>
 <item>
 <title>Flæskesteg, Finnjoller og hård kamp på Køge Bugt</title>
 <link>https://minbaad.dk/nyhed/archive/2026/02/november/article/flaeskesteg-finnjoller-og-haard-kamp-paa-koege-bugt/</link>
@@ -349,13 +356,6 @@
 <guid isPermaLink="true">https://motorbaadsnyt.dk/nyhed/archive/2026/25/october/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/</guid>
 <pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Motorbådsnyt</description>
-</item>
-<item>
-<title>Nyt vartegn på Papirøen: Vandkulturhuset KAI åbner snart - her kan du lægge til</title>
-<link>https://www.baadmagasinet.dk/nyheder/tema/havne/34516-nyt-vartegn-pa-papiroen-vandkulturhuset-kai-abner-den-5-december-og-du-kan-sejle-dertil</link>
-<guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/tema/havne/34516-nyt-vartegn-pa-papiroen-vandkulturhuset-kai-abner-den-5-december-og-du-kan-sejle-dertil</guid>
-<pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Bådmagasinet</description>
 </item>
 </channel>
 </rss>
