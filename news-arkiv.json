@@ -1,7 +1,82 @@
 {
- "generated": "2026-11-04T08:05:04+00:00",
- "count": 711,
+ "generated": "2026-11-04T16:22:16+00:00",
+ "count": 727,
  "items": [
+  {
+   "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Contender-kongen Søren Dulong tog 21. DM-guld",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/contender-kongen-soeren-dulong-tog-21-dm-guld/",
+   "cat": "Kapsejlads",
+   "sum": "Søren Dulong Andreasen fra Hellerup Sejlklub vandt sit 21. danske mesterskab i Contender ved DM ud for Skovshoved efter fire sejre i fire sejladser.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_soeren_dulong_fkryds_top_15d4e0b8d4.jpg",
+   "tjek": "2026-09-28"
+  },
+  {
+   "key": "dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Dansk Søredningsselskab havde travleste sommer nogensinde – 670 assistancer på vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/dansk-soeredningsselskab-havde-travleste-sommer-nogensinde-670-assistancer-paa-vandet/",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer på vandet, 15 flere end sidste år. DSRS ser stigende kendskab og behov for frivilligt søredningsberedskab.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/4/csm_bavaria_32_hmed_knaekket_mast_28306035047_n_e29d2b3bb4.jpg",
+   "tjek": "2026-09-27"
+  },
+  {
+   "key": "sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten",
+   "source": "Minbåd.dk",
+   "date": "2026-09-15",
+   "title": "Sejlerparadis i flammer på Brač – 700 mennesker evakueret fra kysten",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/september/article/sejlerparadis-i-flammer-paa-brac-700-mennesker-evakueret-fra-kysten/",
+   "cat": "Sikkerhed",
+   "sum": "Naturbrand på den kroatiske ø Brač truede havneområdet ved Milna. 700 blev evakueret, og bådejere hjalp med at bringe over 500 væk via søvejen.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/d/csm_rac-1536x865_6b66afe0f4.png",
+   "tjek": "2026-09-27"
+  },
+  {
+   "key": "baadmagasinet-34427",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "J/70 VM: Danskerne fik ørerne i maskinen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34427-j-70-vm-langt-til-toppen-for-danske-sejlere",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/j70_vm.jpeg",
+   "cat": "Kapsejlads",
+   "sum": "Tre danske besætninger deltog ved J/70 VM i Cascais, hvor den bedste danske båd blev nummer 35. Resultaterne viste et fortsat stort spring til den internationale elite.",
+   "tjek": "2026-09-22"
+  },
+  {
+   "key": "baadmagasinet-34423",
+   "source": "Bådmagasinet",
+   "date": "2026-09-14",
+   "title": "Mangler du en havneplads? Køb din egen ø - men husk, læs lige det med småt",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34423-mangler-du-en-havneplads-kob-hele-oen",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_flakfortet_2.jpg",
+   "cat": "Havneliv",
+   "sum": "Flakfortet i Øresund er sat til salg for 42 mio. kr. og inkluderer egen lystbådehavn med plads til ca. 200 både, men salget indeholder detaljer, man bør undersøge."
+  },
+  {
+   "key": "32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese",
+   "source": "Minbåd.dk",
+   "date": "2026-09-14",
+   "title": "32 fod, Antarktis og tre kæntringer – en sejlerbog du bør læse",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/32-fod-antarktis-og-tre-kaentringer-en-sejlerbog-du-boer-laese/",
+   "cat": "Kultur & folk",
+   "sum": "Bogen Ice Bird handler om David Lewis' enkeltmandssejlads mod Antarktis i en 32 fods stålsejlbåd, hvor han oplevede storme, kæntringer og mastehavari.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/c/csm_ic__1789279938394_30fbae14ca.jpg"
+  },
+  {
+   "key": "50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer",
+   "source": "Minbåd.dk",
+   "date": "2026-09-14",
+   "title": "50 både til Agersø Rundt – hvad gør de rigtigt i Korsør?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/50-baade-til-agersoe-cup-hvad-goer-de-rigtigt-i-korsoer/",
+   "cat": "Kapsejlads",
+   "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
+   "tjek": "2026-09-28"
+  },
   {
    "key": "baadmagasinet-34431",
    "source": "Bådmagasinet",
@@ -65,16 +140,6 @@
    "img": "https://dansksejlunion.dk/media/blbdkkhg/design-uden-navn-30.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
-  },
-  {
-   "key": "12-raad-der-kan-redde-parforholdet-paa-langturen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-13",
-   "title": "12 råd der kan redde parforholdet på sejlturen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/september/article/12-raad-der-kan-redde-parforholdet-paa-langturen/",
-   "cat": "Tursejlads",
-   "sum": "Artiklen giver 12 råd til par på langtursejlads om at håndtere konflikter, træthed og manøvrer om bord, så både sejlerlivet og forholdet fungerer.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_maja_20260730_210621_a3a6f83659.jpg"
   },
   {
    "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
@@ -6893,6 +6958,96 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/956-",
    "cat": "Jubilæum / priser",
    "img": "https://www.baadmagasinet.dk/images/redcontent/item_images/956/img_7948_1330186358.jpeg"
+  },
+  {
+   "key": "luksus-paa-baade-i-bella-fairline-squadron-42",
+   "source": "Minbåd.dk",
+   "date": "2012-02-22",
+   "title": "Luksus på Både i Bella: Fairline Squadron 42",
+   "url": "https://minbaad.dk/nyhed/archive/2012/22/february/article/luksus-paa-baade-i-bella-fairline-squadron-42/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/8/csm_Fairline42_web_24cc041bf9.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "tyske-sejlere-droemmer-mest-om-hallberg-rassy",
+   "source": "Minbåd.dk",
+   "date": "2012-02-22",
+   "title": "Tyske sejlere drømmer mest om Hallberg-Rassy",
+   "url": "https://minbaad.dk/nyhed/archive/2012/22/february/article/tyske-sejlere-droemmer-mest-om-hallberg-rassy/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_drommebaad83079_145337568867278_738853_1742536094_n_a99e1d2812.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "kdy-taget-med-bukserne-nede-i-rekordforsoeg",
+   "source": "Minbåd.dk",
+   "date": "2012-02-21",
+   "title": "KDY taget med bukserne nede i rekordforsøg",
+   "url": "https://minbaad.dk/nyhed/archive/2012/21/february/article/kdy-taget-med-bukserne-nede-i-rekordforsoeg/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/f/csm_kdy_klub_66d5d3cf12.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "20000-kr-i-boede-for-rekordsejlads-om-sjaelland",
+   "source": "Minbåd.dk",
+   "date": "2012-02-21",
+   "title": "20.000 kr. i bøde for rekordsejlads om Sjælland",
+   "url": "https://minbaad.dk/nyhed/archive/2012/21/february/article/20000-kr-i-boede-for-rekordsejlads-om-sjaelland/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/e/csm_speedbaad2_7fb9014c26.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "mandlige-sejleres-foretrukne-facebook-foto",
+   "source": "Minbåd.dk",
+   "date": "2012-02-21",
+   "title": "Mandlige sejleres foretrukne facebook-foto",
+   "url": "https://minbaad.dk/nyhed/archive/2012/21/february/article/mandlige-sejleres-foretrukne-facebook-foto/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/d/csm_mandlinge_sejlere409068_385142038166182_125047740842281_1641077_10336062_n_a53a9baffc.jpg",
+   "cat": "Andet"
+  },
+  {
+   "key": "kvindelige-sejleres-foretrukne-facebook-foto",
+   "source": "Minbåd.dk",
+   "date": "2012-02-20",
+   "title": "Kvindelige sejleres foretrukne facebook-foto",
+   "url": "https://minbaad.dk/nyhed/archive/2012/20/february/article/kvindelige-sejleres-foretrukne-facebook-foto/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/a/csm_kvindelig_sejler7_567734746_11176539_761487473_n_2da08f9fbc.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "danish-yachts-leverer-avancerede-fartoejer",
+   "source": "Minbåd.dk",
+   "date": "2012-02-20",
+   "title": "Danish Yachts leverer avancerede fartøjer",
+   "url": "https://minbaad.dk/nyhed/archive/2012/20/february/article/danish-yachts-leverer-avancerede-fartoejer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/e/csm_Danish-Yachts-Presents-Seastrider-SWATH_13cabfbe31.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "sejler-staar-bag-magten-over-havet-ms-selandia",
+   "source": "Minbåd.dk",
+   "date": "2012-02-20",
+   "title": "Sejler står bag Magten over havet - M/S Selandia",
+   "url": "https://minbaad.dk/nyhed/archive/2012/20/february/article/sejler-staar-bag-magten-over-havet-ms-selandia/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/f/csm_Selandia_ff1b3955de.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "tuco-har-ti-nye-ordrer-paa-leverancer-til-skibe",
+   "source": "Minbåd.dk",
+   "date": "2012-02-19",
+   "title": "Tuco har ti nye ordrer på leverancer til skibe",
+   "url": "https://minbaad.dk/nyhed/archive/2012/19/february/article/tuco-har-ti-nye-ordrer-paa-leverancer-til-skibe/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/4/csm_tuco_01_ca8999af91.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "rungsted-havnemole-ramt-af-massiv-pakis",
+   "source": "Minbåd.dk",
+   "date": "2012-02-19",
+   "title": "Rungsted Havnemole ramt af massiv pakis",
+   "url": "https://minbaad.dk/nyhed/archive/2012/19/february/article/rungsted-havnemole-ramt-af-massiv-pakis/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/a/csm_L1008807_3ce42132a4.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "redningsaktion-ophaengt-ugle",
