@@ -1,17 +1,35 @@
 {
- "generated": "2026-11-04T01:25:27+00:00",
- "count": 1009,
+ "generated": "2026-11-04T08:05:04+00:00",
+ "count": 1011,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 709,
+ "arkiv_antal": 711,
  "errors": [],
  "items": [
+  {
+   "key": "bloedt-daek-paa-baaden-saadan-reparerer-du-skader-under-glasfiberen",
+   "source": "Minbåd.dk",
+   "date": "2026-11-04",
+   "title": "Blødt dæk på båden? Sådan reparerer du skader under glasfiberen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/bloedt-daek-paa-baaden-saadan-reparerer-du-skader-under-glasfiberen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_hh_top_fe8-3763-4728-8125-e398bbef9868_4533d28852.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34535",
+   "source": "Bådmagasinet",
+   "date": "2026-11-04",
+   "title": "I Hellerup hænger medaljerne næsten på træerne",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34535-i-hellerup-haenger-medaljerne-naesten-pa-traeerne",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/hs_afriggerfest.jpeg",
+   "cat": "Jubilæum / priser"
+  },
   {
    "key": "unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner",
    "source": "Minbåd.dk",
    "date": "2026-11-03",
    "title": "Unge iværksættere fra Frederikshavn og Roskilde vil redde liv på vandet – kæmper om 100.000 kroner",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Pressefoto_AArets_Unge_Ivaerksaettere__2__3ab4c3fcc5.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Pressefoto_AArets_Unge_Ivaerksaettere__2__7b5488c22f.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -20,7 +38,7 @@
    "date": "2026-11-03",
    "title": "Route du Rhum: Charles Caudrelier har alvorlig skade på foil midt i Atlanterhavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/route-du-rhum-charles-caudrelier-har-alvorlig-skade-paa-foil-midt-i-atlanterhavet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_a58026e307.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_2c25af4098.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -29,7 +47,7 @@
    "date": "2026-11-03",
    "title": "BOAT SHOW i Fredericia bliver hvert 2. år - næste udgave i foråret 2028",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/boat-show-i-fredericia-bliver-hvert-2-aar-naeste-udgave-i-foraaret-2028/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_ef534fa00a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_535805327d.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -236,7 +254,7 @@
    "date": "2026-10-30",
    "title": "Bådstøtter: Tyresöstøtten kan justeres efter bådens størrelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_5ff08a8a09.png",
    "cat": "Udstyr & både"
   },
   {
@@ -281,7 +299,7 @@
    "date": "2026-10-29",
    "title": "Aalborg-par skriver bog om spontant eventyr gennem Göta Kanal",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/aalborg-par-skriver-bog-om-spontant-eventyr-gennem-goeta-kanal/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_2d698faf80.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_c7ad14db88.jpg",
    "cat": "Kultur & folk"
   },
   {
@@ -388,7 +406,7 @@
    "date": "2026-10-27",
    "title": "Solosejler Caudrelier skal forsvare sejren i Route du Rhum i ny Gitana 18",
    "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/solosejler-skal-forsvare-sejren-i-route-du-rhum-i-ny-gitana-18/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_git_0602_YR_Gitana_DJI_20260602151731_0045_D_9a16417bee.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_git_0602_YR_Gitana_DJI_20260602151731_0045_D_1f6ce049bd.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-04"
   },
@@ -438,7 +456,7 @@
    "date": "2026-10-26",
    "title": "Efter 1.500 sømil: Jeppe vil gøre op med myterne om langturssejlads",
    "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/efter-1500-soemil-jeppe-vil-goere-op-med-myterne-om-langturssejlads/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_jj_9388843_10165097891228537_5504337490504063427_n_7a13f6d02a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_jj_9388843_10165097891228537_5504337490504063427_n_3826f7f7f4.jpg",
    "cat": "Tursejlads",
    "tjek": "2026-11-04"
   },
@@ -508,7 +526,7 @@
    "date": "2026-10-25",
    "title": "Flaskepost sejlede fra Aarhus til Assens – fundet efter otte år på havet",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flaskepost-sejlede-fra-aarhus-til-assens-fundet-efter-otte-aar-paa-havet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_flask_p_assens_nload_61412c85b7.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/8/csm_flask_p_assens_nload_4c2301ebf2.png",
    "cat": "Kultur & folk",
    "tjek": "2026-11-04"
   },
@@ -588,7 +606,7 @@
    "date": "2026-10-23",
    "title": "18 danske lystbådehavne sender live",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/18-danske-lystbaadehavne-sender-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_414f2b4ed9.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_a02eb17484.jpg",
    "cat": "Havneliv",
    "tjek": "2026-11-04"
   },
@@ -673,16 +691,6 @@
    "tjek": "2026-11-04"
   },
   {
-   "key": "elon-musks-starlink-mini-til-baade-giver-internet-overalt",
-   "source": "Minbåd.dk",
-   "date": "2026-10-22",
-   "title": "Starlink Mini til både giver internet overalt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/elon-musks-starlink-mini-til-baade-giver-internet-overalt/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__e6208dbc62.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-04"
-  },
-  {
    "key": "unge-talenter-jagter-sponsorer-og-saelger-billetter-til-stor-sejlerfest-i-aarhus",
    "source": "Minbåd.dk",
    "date": "2026-10-22",
@@ -710,6 +718,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34509-tre-ar-efter-stormfloden-en-ny-kan-koste-lystbadehavne-livet",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_avernakoe_skaeve_broer_2023_foto_emil_birkemose.jpg",
    "cat": "Sikkerhed",
+   "tjek": "2026-11-04"
+  },
+  {
+   "key": "elon-musks-starlink-mini-til-baade-giver-internet-overalt",
+   "source": "Minbåd.dk",
+   "date": "2026-10-22",
+   "title": "Starlink Mini til både giver internet overalt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/october/article/elon-musks-starlink-mini-til-baade-giver-internet-overalt/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/d/csm_starlik_baade_l__2__e6208dbc62.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-11-04"
   },
   {
@@ -759,7 +777,8 @@
    "title": "Test: Beneteau Oceanis 37.1 med masser af plads og sikker sejlads i 10 m/sek.",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek/",
    "cat": "Udstyr & både",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_25168166fc.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_ben_topG_20261015_142453_25168166fc.jpg",
+   "tjek": "2026-11-04"
   },
   {
    "key": "ansvars-forsikring-pantaenius",
@@ -768,7 +787,8 @@
    "title": "Henri-Lloyd genopliver Consort-jakken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/october/article/ansvars-forsikring-pantaenius/",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-11-04"
   },
   {
    "key": "baadmagasinet-34507",
@@ -797,7 +817,8 @@
    "title": "Sejl Garmin Round Denmark Race 2027 for 1.875 kr. per person",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/october/article/sejl-garmin-round-denmark-race-2027-for-1875-kr/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_276eaedc3b.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/f/csm_gar_tart_dk_rundt_25_A9884_276eaedc3b.jpg",
+   "tjek": "2026-11-04"
   },
   {
    "key": "baad-drevet-paa-grund-ved-thuroe-rev-laa-i-dagevis-og-sled-i-ankeret",
@@ -2904,28 +2925,6 @@
    "cat": "Kapsejlads",
    "sum": "Næsten 50 både deltog i Agersø Rundt ved Korsør, et stævne på 27,10 sømil med tur-, doublehanded-, racing- og singlehanded-grupper. Steen Toftebjergs M.A.T. 11 vandt.",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/9/csm_mat_11_592684412653350_8754295796197282701_n_432d61ee36.jpg",
-   "tjek": "2026-09-28"
-  },
-  {
-   "key": "baadmagasinet-34431",
-   "source": "Bådmagasinet",
-   "date": "2026-09-14",
-   "title": "DEBAT: Måske fejler kapsejlerne ikke noget – måske er det kapsejladserne, vi skal ændre?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34431-debat-maske-fejler-kapsejlerne-ikke-noget-maske-er-det-kapsejladserne-vi-skal-aendre",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_807284868_10239058787941158_241880293105105134_n_2.jpg",
-   "cat": "Kapsejlads",
-   "sum": "Debatindlæg om faldende deltagelse i traditionelle kapsejladser. Artiklen peger på, at nye formater som Agersø Rundt, Silverrudder og Vegvisir tiltrækker mange både.",
-   "tjek": "2026-09-28"
-  },
-  {
-   "key": "prins-henriks-tidligere-drage-vandt-lillebaelts-regatta-med-reese",
-   "source": "Minbåd.dk",
-   "date": "2026-09-14",
-   "title": "Prins Henriks tidligere Drage vandt Lillebælts regatta med Reese",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/prins-henriks-tidligere-drage-vandt-lillebaelts-regatta-med-reese/",
-   "cat": "Kapsejlads",
-   "sum": "Henrik Reese vandt DH-klassen i Lillebælt Vest Stjerne Regatta med Dragen Najade, der tidligere tilhørte Prins Henrik. Der deltog 10 i DH-feltet og 13 i turfeltet.",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_aa_drage_top_806453316_1060798006739412_3920330405531881004_n_00b3f0b6f5.jpg",
    "tjek": "2026-09-28"
   }
  ]

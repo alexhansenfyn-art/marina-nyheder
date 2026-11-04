@@ -1,7 +1,29 @@
 {
- "generated": "2026-11-04T01:25:27+00:00",
- "count": 709,
+ "generated": "2026-11-04T08:05:04+00:00",
+ "count": 711,
  "items": [
+  {
+   "key": "baadmagasinet-34431",
+   "source": "Bådmagasinet",
+   "date": "2026-09-14",
+   "title": "DEBAT: Måske fejler kapsejlerne ikke noget – måske er det kapsejladserne, vi skal ændre?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34431-debat-maske-fejler-kapsejlerne-ikke-noget-maske-er-det-kapsejladserne-vi-skal-aendre",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_807284868_10239058787941158_241880293105105134_n_2.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Debatindlæg om faldende deltagelse i traditionelle kapsejladser. Artiklen peger på, at nye formater som Agersø Rundt, Silverrudder og Vegvisir tiltrækker mange både.",
+   "tjek": "2026-09-28"
+  },
+  {
+   "key": "prins-henriks-tidligere-drage-vandt-lillebaelts-regatta-med-reese",
+   "source": "Minbåd.dk",
+   "date": "2026-09-14",
+   "title": "Prins Henriks tidligere Drage vandt Lillebælts regatta med Reese",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/september/article/prins-henriks-tidligere-drage-vandt-lillebaelts-regatta-med-reese/",
+   "cat": "Kapsejlads",
+   "sum": "Henrik Reese vandt DH-klassen i Lillebælt Vest Stjerne Regatta med Dragen Najade, der tidligere tilhørte Prins Henrik. Der deltog 10 i DH-feltet og 13 i turfeltet.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_aa_drage_top_806453316_1060798006739412_3920330405531881004_n_00b3f0b6f5.jpg",
+   "tjek": "2026-09-28"
+  },
   {
    "key": "baadmagasinet-34428",
    "source": "Bådmagasinet",
