@@ -1,7 +1,18 @@
 {
- "generated": "2026-11-04T16:22:16+00:00",
- "count": 727,
+ "generated": "2026-11-04T22:15:40+00:00",
+ "count": 738,
  "items": [
+  {
+   "key": "baadmagasinet-34432",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "DSRS melder om 'ærgerlig' ny rekord",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34432-dsrs-melder-om-aergerlig-ny-rekord",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/dsrs_2.jpg",
+   "cat": "Sikkerhed",
+   "sum": "Dansk Søredningsselskab havde i sommeren 670 assistancer og slog dermed rekord. Formanden ser stigningen som udtryk for øget kendskab og opfordrer til medlemskab.",
+   "tjek": "2026-09-28"
+  },
   {
    "key": "contender-kongen-soeren-dulong-tog-21-dm-guld",
    "source": "Minbåd.dk",
@@ -6941,6 +6952,96 @@
    "url": "https://minbaad.dk/nyhed/archive/2013/11/november/article/dagens-tilbud-boennerup-strand-til-salg/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/0/csm_bonnerupstrand_web_aa977f181e.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "elegante-eleonora-paa-213-ton-passes-af-9-mand",
+   "source": "Minbåd.dk",
+   "date": "2013-03-29",
+   "title": "Elegante Eleonora på 213 ton passes af 9 mand",
+   "url": "https://minbaad.dk/nyhed/archive/2013/29/march/article/elegante-eleonora-paa-213-ton-passes-af-9-mand/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/d/csm_9_01_7ff049b76a.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "katrines-klumme-de-meget-meget-vrede-maend",
+   "source": "Minbåd.dk",
+   "date": "2013-03-28",
+   "title": "Katrines klumme: De meget, meget vrede mænd",
+   "url": "https://minbaad.dk/nyhed/archive/2013/28/march/article/katrines-klumme-de-meget-meget-vrede-maend/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/5/csm_vrede_maend_web_dcc9f56b9b.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "brandvaesnet-lod-tuco-hal-braende-helt-ned",
+   "source": "Minbåd.dk",
+   "date": "2013-03-27",
+   "title": "Brandvæsnet lod Tuco-hal brænde helt ned",
+   "url": "https://minbaad.dk/nyhed/archive/2013/27/march/article/brandvaesnet-lod-tuco-hal-braende-helt-ned/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_tuco_05_6d8fe26748.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "offshore-service-katamaran-braendte-hos-tuco",
+   "source": "Minbåd.dk",
+   "date": "2013-03-26",
+   "title": "Offshore service katamaran brændte hos Tuco",
+   "url": "https://minbaad.dk/nyhed/archive/2013/26/march/article/offshore-service-katamaran-braendte-hos-tuco/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_tuco_05_6d8fe26748.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "tuco-brand-opstod-maaske-i-en-baad-fotos",
+   "source": "Minbåd.dk",
+   "date": "2013-03-26",
+   "title": "Tuco-brand opstod måske i en båd - fotos",
+   "url": "https://minbaad.dk/nyhed/archive/2013/26/march/article/tuco-brand-opstod-maaske-i-en-baad-fotos/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_tuco_05_6d8fe26748.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "ny-xp-55-faar-laengere-vandlinje-end-x-55",
+   "source": "Minbåd.dk",
+   "date": "2013-03-22",
+   "title": "Ny Xp 55 får længere vandlinje end X-55",
+   "url": "https://minbaad.dk/nyhed/archive/2013/22/march/article/ny-xp-55-faar-laengere-vandlinje-end-x-55/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_xp55-front1_ediit2-1024x723_fc6999d8b8.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "venstremand-rablende-sindssygt-at-betale-for-redning-af-fulde-sejlere",
+   "source": "Minbåd.dk",
+   "date": "2013-03-20",
+   "title": "Venstremand: Rablende sindssygt at betale for redning af fulde sejlere",
+   "url": "https://minbaad.dk/nyhed/archive/2013/20/march/article/venstremand-rablende-sindssygt-at-betale-for-redning-af-fulde-sejlere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_farr_40_me_asterisk_58f0c5bff7.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "ugens-foto",
+   "source": "Minbåd.dk",
+   "date": "2013-03-19",
+   "title": "Ugens foto",
+   "url": "https://minbaad.dk/nyhed/archive/2013/19/march/article/ugens-foto/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/a/csm_baad_4efa5dc0eb.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "broer-i-koebenhavns-havn-er-foerst-klar-til-oktober",
+   "source": "Minbåd.dk",
+   "date": "2013-03-19",
+   "title": "Broer i Københavns havn er først klar til oktober",
+   "url": "https://minbaad.dk/nyhed/archive/2013/19/march/article/broer-i-koebenhavns-havn-er-foerst-klar-til-oktober/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_bro_02_a88d7bc9ae.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "proev-en-contender-naar-det-bliver-varmere",
+   "source": "Minbåd.dk",
+   "date": "2013-03-19",
+   "title": "Prøv en Contender – når det bliver varmere",
+   "url": "https://minbaad.dk/nyhed/archive/2013/19/march/article/proev-en-contender-naar-det-bliver-varmere/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/3/csm_Contender_planer_6d546e197f.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "dansketursejlere-aarets-havn-2012",
