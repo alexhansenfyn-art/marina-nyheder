@@ -5,7 +5,7 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Wed, 04 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Grædende Violette blev kastet rundt i båden under voldsom kollision i Route du Rhum</title>
@@ -50,13 +50,6 @@
 <description>Kilde: Minbåd.dk</description>
 </item>
 <item>
-<title>International trænerprofil skal stå i spidsen for det danske 49erFX-landshold</title>
-<link>https://dansksejlunion.dk/nyheder/2026/international-traenerprofil-skal-staa-i-spidsen-for-det-danske-49erfx-landshold</link>
-<guid isPermaLink="true">https://dansksejlunion.dk/nyheder/2026/international-traenerprofil-skal-staa-i-spidsen-for-det-danske-49erfx-landshold</guid>
-<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Dansk Sejlunion</description>
-</item>
-<item>
 <title>Hvad skal der ske med Færgehavn Nord? By &amp; Havn inviterer til dialogmøde</title>
 <link>https://www.baadmagasinet.dk/nyheder/tema/havne/34537-hvad-skal-der-ske-med-faergehavn-nord-by-havn-inviterer-sejlere-og-havnebrugere-til-dialogmode</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/tema/havne/34537-hvad-skal-der-ske-med-faergehavn-nord-by-havn-inviterer-sejlere-og-havnebrugere-til-dialogmode</guid>
@@ -76,6 +69,13 @@
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/kortnyt/34535-i-hellerup-haenger-medaljerne-naesten-pa-traeerne</guid>
 <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Bådmagasinet</description>
+</item>
+<item>
+<title>International trænerprofil skal stå i spidsen for det danske 49erFX-landshold</title>
+<link>https://dansksejlunion.dk/nyheder/2026/international-traenerprofil-skal-staa-i-spidsen-for-det-danske-49erfx-landshold</link>
+<guid isPermaLink="true">https://dansksejlunion.dk/nyheder/2026/international-traenerprofil-skal-staa-i-spidsen-for-det-danske-49erfx-landshold</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Dansk Sejlunion</description>
 </item>
 <item>
 <title>Unge iværksættere fra Frederikshavn og Roskilde vil redde liv på vandet – kæmper om 100.000 kroner</title>
