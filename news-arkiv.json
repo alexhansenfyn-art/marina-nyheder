@@ -1,7 +1,49 @@
 {
- "generated": "2026-11-05T02:31:24+00:00",
- "count": 738,
+ "generated": "2026-11-05T09:53:02+00:00",
+ "count": 752,
  "items": [
+  {
+   "key": "baadmagasinet-34430",
+   "source": "Bådmagasinet",
+   "date": "2026-09-16",
+   "title": "Historisk sejr til Tom Bradys hold i Angola: Udbygger føringen i dramatisk E1-finale",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34430-historisk-sejr-til-tom-bradys-hold-i-angola-udbygger-foringen-i-dramatisk-e1-finale",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/001_team_brady_getty_image_for_e1.jpg",
+   "cat": "Kapsejlads",
+   "sum": "Tom Bradys hold vandt en historisk E1-sejr i Luanda, Angola, og udbyggede føringen før sæsonfinalen. Will Smiths hold røg ud efter dramatisk kvalifikation.",
+   "tjek": "2026-09-29"
+  },
+  {
+   "key": "baadmagasinet-34435",
+   "source": "Bådmagasinet",
+   "date": "2026-09-16",
+   "title": "Risbjerg overtager Renbåd – og rykker samtidig ind på Sjælland",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34435-risbjerg-overtager-renbad-og-rykker-samtidig-ind-pa-sjaelland",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jesper_morten_mads_2.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Risbjerg A/S overtager Renbåd ApS og åbner salgs- og serviceafdeling i Humlebæk. Målet er landsdækkende service, vedligehold og opbevaring af både.",
+   "tjek": "2026-09-23"
+  },
+  {
+   "key": "cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-15",
+   "title": "Cranchi A48 går all-in med 3 x 600 hk på hækken",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/15/september/article/cranchi-a48-gaar-all-in-med-3-x-600-hk-paa-haekken/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/d/csm_s_G_20260908_140953_2410bb0270.jpg",
+   "cat": "Udstyr & både",
+   "sum": "Cranchi A48 O/B er en ny 14,56 meter luksusbåd med tre Mercury V12-motorer på hver 600 hk, i alt 1.800 hk. Den koster cirka 12 mio. kr. og sælges i Danmark af ShipShape i Rungsted."
+  },
+  {
+   "key": "baadmagasinet-34426",
+   "source": "Bådmagasinet",
+   "date": "2026-09-15",
+   "title": "Hvem mangler mon disse joller og både?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34426-hvem-mangler-disse-joller-og-bade",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/helle_amstrup.jpg",
+   "cat": "Havneliv",
+   "sum": "Debat om efterladte både tager til; billeder deles på sociale medier, og en sejlbåd er drevet ind ved Tisvilde Strand. Båden havde tidligere hjemhavn i Juelsminde Havn."
+  },
   {
    "key": "baadmagasinet-34432",
    "source": "Bådmagasinet",
@@ -793,8 +835,8 @@
    "date": "2026-09-03",
    "title": "VHF med indbygget AIS fra em-trak - mobil og ur kan tilknyttes",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/september/article/vhf-med-indbygget-ais-fra-em-trak-mobil-og-ur-kan-tilknyttes/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/6/csm_nexus_vhf_ae0d61b714.jpg"
   },
   {
    "key": "kong-harald-saet-dig-ned-stig-du-faar-min-baad",
@@ -1674,15 +1716,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_p8140261_dxo_2.jpg"
   },
   {
-   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-21",
-   "title": "Sådan får du et friskere indeklima i båden",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/kan_rg_9a-49ec-8678-8173a48d2ee3.png"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "source": "Dansk Sejlunion",
    "date": "2026-08-21",
@@ -1690,6 +1723,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/udtagelseskriterier-til-world-sailing-championships-2027-i-fortaleza",
    "img": "https://dansksejlunion.dk/media/1qpp1eog/design-uden-navn-17.jpg?width=1200&height=630",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "saadan-faar-du-et-friskere-indeklima-i-baaden",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-21",
+   "title": "Sådan får du et friskere indeklima i båden",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/august/article/saadan-faar-du-et-friskere-indeklima-i-baaden/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/kan_rg_9a-49ec-8678-8173a48d2ee3.png"
   },
   {
    "key": "thomas-veber-sejlede-43-soemil-i-ni-fods-alu-rib-et-eventyr",
@@ -5361,6 +5403,42 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/c/e/csm_Dragonfly-36-ggG_ff54c981c2_4b50c4834b.jpg"
   },
   {
+   "key": "copenhagen-boat-show-fejrer-10-aars-jubilaeum-med-gratis-entre",
+   "source": "Minbåd.dk",
+   "date": "2025-12-30",
+   "title": "Copenhagen Boat Show fejrer 10-års jubilæum med gratis entré",
+   "url": "https://minbaad.dk/nyhed/archive/2025/30/december/article/copenhagen-boat-show-fejrer-10-aars-jubilaeum-med-gratis-entre/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/b/csm_ishoej_boa3_t_show_39b5d8009c.jpg",
+   "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "saadan-koeber-du-en-baad-paa-boot-udstilling-se-20-30-baade-og-tal-med-banken",
+   "source": "Minbåd.dk",
+   "date": "2025-12-29",
+   "title": "Sådan køber du en båd på boot-udstilling: Se 20-30 både og tal med banken",
+   "url": "https://minbaad.dk/nyhed/archive/2025/29/december/article/saadan-koeber-du-en-baad-paa-boot-udstilling-se-20-30-baade-og-tal-med-banken/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/b/csm_boot_IMG_20250119_151744_ecfcbfa51d.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "verdens-stoerste-kogge-fundet-i-oeresund-arkaeologer-afsloerer-middelalderligt-superskib",
+   "source": "Minbåd.dk",
+   "date": "2025-12-28",
+   "title": "Verdens største kogge fundet i Øresund: Arkæologer afslører middelalderligt superskib",
+   "url": "https://minbaad.dk/nyhed/archive/2025/28/december/article/verdens-stoerste-kogge-fundet-i-oeresund-arkaeologer-afsloerer-middelalderligt-superskib/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/0/csm_vik_rig_05781254_1315377547297424_8928664663386959909_n_86924845b9.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "vinteropbevaring-af-baaden-billig-loesning-kan-blive-dyr-i-laengden",
+   "source": "Minbåd.dk",
+   "date": "2025-12-20",
+   "title": "Vinteropbevaring af båden: Billig løsning kan blive dyr i længden",
+   "url": "https://minbaad.dk/nyhed/archive/2025/20/december/article/vinteropbevaring-af-baaden-billig-loesning-kan-blive-dyr-i-laengden/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/0/csm_renbaad_motorbaad_i_hal_IMG_9052_0bca3a6e68.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "dansksejlunion.dk/nyheder/2025/hotel-melfarhus-bliver-navnesponsor-for-dh-dm-2026-i-middelfart",
    "source": "Dansk Sejlunion",
    "date": "2025-12-19",
@@ -5371,6 +5449,24 @@
    "img": "https://dansksejlunion.dk/media/elmjffy0/image002.jpg?width=1200&height=630"
   },
   {
+   "key": "excess-13-katamaran-lettere-skarpere-og-mere-performance",
+   "source": "Minbåd.dk",
+   "date": "2025-12-17",
+   "title": "Excess 13 katamaran: Lettere, skarpere og mere performance",
+   "url": "https://minbaad.dk/nyhed/archive/2025/17/december/article/excess-13-katamaran-lettere-skarpere-og-mere-performance/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/1/csm_Excess-13-Catamaran-Compilation_0e5dc7c5e4.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "sponsorindhold-guide-til-sikkerhed-paa-vandet-med-baadforsikring",
+   "source": "Minbåd.dk",
+   "date": "2025-12-15",
+   "title": "Sponsorindhold: Guide til sikkerhed på vandet med bådforsikring",
+   "url": "https://minbaad.dk/nyhed/archive/2025/15/december/article/sponsorindhold-guide-til-sikkerhed-paa-vandet-med-baadforsikring/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_b_20220719_184934_038503534e.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "dansketursejlere-de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app",
    "source": "Danske Tursejlere",
    "date": "2025-12-12",
@@ -5378,6 +5474,42 @@
    "url": "https://dansketursejlere.dk/de-to-soesikkerhedsapps-sejlsikkert-og-sejlsikkert-alarm-samles-i-en-app/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2025/12/7287611-Credit-Soesportens-Sikkerhedsraad.beskaaret-1024x512.jpg",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "reddere-fra-lynetten-trak-grundstoedt-granada-27-fri-i-dragoer-i-haardt-vintervejr",
+   "source": "Minbåd.dk",
+   "date": "2025-12-08",
+   "title": "Reddere fra Lynetten trak grundstødt Granada 27 fri i Dragør i hårdt vintervejr",
+   "url": "https://minbaad.dk/nyhed/archive/2025/08/december/article/reddere-fra-lynetten-trak-grundstoedt-granada-27-fri-i-dragoer-i-haardt-vintervejr/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/2/csm_redder_1__596891840_1276559317842808_7254171432477798244_n_55c5e2c223.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "redningsmand-i-ny-bog-det-er-altid-havet-der-saetter-graensen-mellem-liv-og-doed",
+   "source": "Minbåd.dk",
+   "date": "2025-12-08",
+   "title": "Redningsmand: »Det er altid havet, der sætter grænsen mellem liv og død«",
+   "url": "https://minbaad.dk/nyhed/archive/2025/08/december/article/redningsmand-i-ny-bog-det-er-altid-havet-der-saetter-graensen-mellem-liv-og-doed/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_Redningsmanden_300ppi_rgb_4843570d4f.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "hallberg-rassy-370-ny-klassiker-ses-paa-boot-udstilling-se-minbaaddk-testvideo",
+   "source": "Minbåd.dk",
+   "date": "2025-12-05",
+   "title": "Hallberg-Rassy 370 – ny klassiker - se minbaad.dk testvideo",
+   "url": "https://minbaad.dk/nyhed/archive/2025/05/december/article/hallberg-rassy-370-ny-klassiker-ses-paa-boot-udstilling-se-minbaaddk-testvideo/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/9/csm_hallberg-rassy370sailing570abylund_d23fb08899.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "lysthusbaaden-er-selvforsynet-med-solenergi-til-to-el-motoerer-og-komfort",
+   "source": "Minbåd.dk",
+   "date": "2025-12-05",
+   "title": "LystHusBåden er selvforsynet med solenergi til to el-motorer og komfort",
+   "url": "https://minbaad.dk/nyhed/archive/2025/05/december/article/lysthusbaaden-er-selvforsynet-med-solenergi-til-to-el-motoerer-og-komfort/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_lysthusbaad_top_87a4a5d6cd.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "dansketursejlere-aarets-havn-2025-er-fundet",
