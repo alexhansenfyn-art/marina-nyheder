@@ -1,18 +1,36 @@
 {
- "generated": "2026-11-07T03:15:04+00:00",
- "count": 1063,
+ "generated": "2026-11-07T10:20:00+00:00",
+ "count": 1065,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 763,
+ "arkiv_antal": 765,
  "errors": [],
  "items": [
   {
-   "key": "ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet",
+   "key": "aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler",
    "source": "Minbåd.dk",
-   "date": "2026-11-06",
-   "title": "Ny Faurby 450 DS får verdenspremiere til Åbent Værft - Nordship navn er udgået",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_fsstgitonnamed_9d66a47b93.jpg",
+   "date": "2026-11-07",
+   "title": "Åbent hus hos X-Yachts i Haderslev med foredrag af verdensomsejler",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_X-Yachts_Inhouse-Boatshow-nov.2024-23_6a3ae2152c.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34546",
+   "source": "Bådmagasinet",
+   "date": "2026-11-07",
+   "title": "I Sverige sejler bådene over bilerne – hvorfor ikke i København?",
+   "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34546-i-sverige-sejler-badene-over-bilerne-hvorfor-ikke-i-kobenhavn",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/passagen_mkb.jpeg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "baadmagasinet-34547",
+   "source": "Bådmagasinet",
+   "date": "2026-11-07",
+   "title": "Francesco Bruni sluttede på VM-podiet i Cannes",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34547-francesco-bruni-sluttede-pa-vm-podiet-i-cannes",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/rs21_world_championship_2026__code_zero_digital_for_rs_sailing_3.jpg",
+   "cat": "Kapsejlads"
   },
   {
    "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
@@ -24,12 +42,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet",
+   "source": "Minbåd.dk",
+   "date": "2026-11-06",
+   "title": "Ny Faurby 450 DS får verdenspremiere til Åbent Værft - Nordship navn er udgået",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_fsstgitonnamed_7dd74d758f.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "ny-x-15-klasse-skal-goere-wingfoil-til-kapsejlads-med-ens-udstyr",
    "source": "Minbåd.dk",
    "date": "2026-11-06",
    "title": "Ny X-15-klasse skal gøre wingfoil til tættere kapsejlads med ens udstyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-x-15-klasse-skal-goere-wingfoil-til-kapsejlads-med-ens-udstyr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_X-15-CLASS-IBIZA-WORLDS-03-11-2764-of-158_ebc3ba6271.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_X-15-CLASS-IBIZA-WORLDS-03-11-2764-of-158_dd54045d49.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -38,7 +65,7 @@
    "date": "2026-11-06",
    "title": "Trænede polske sejlere til VM-bronze – nu skal han føre danske 49erFX-sejlere mod OL",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_trae_2026-11-06T094435.146_eec7ac64cf.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_trae_2026-11-06T094435.146_b0b6cb1f17.jpg",
    "cat": "Foreninger"
   },
   {
@@ -156,15 +183,6 @@
    "title": "Blødt dæk på båden? Sådan reparerer du skader under glasfiberen",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/bloedt-daek-paa-baaden-saadan-reparerer-du-skader-under-glasfiberen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_hh_top_fe8-3763-4728-8125-e398bbef9868_553cb8982e.png",
-   "cat": "Udstyr & både"
-  },
-  {
-   "key": "aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler",
-   "source": "Minbåd.dk",
-   "date": "2026-11-04",
-   "title": "Åbent hus hos X-Yachts i Haderslev med foredrag af verdensomsejler",
-   "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_X-Yachts_Inhouse-Boatshow-nov.2024-23_3f5fd6ce55.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -367,6 +385,15 @@
    "cat": "Andet"
   },
   {
+   "key": "kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn",
+   "source": "Minbåd.dk",
+   "date": "2026-11-01",
+   "title": "Kollision i Route du Rhum: IMOCA sejlede ind i trimaran – fransk solosejler søger havn",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_bfedd43d2c.jpeg",
+   "cat": "Kapsejlads"
+  },
+  {
    "key": "regal-lx2-med-250-hk-v6-motor-amerikansk-luksus",
    "source": "Minbåd.dk",
    "date": "2026-11-01",
@@ -374,15 +401,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/regal-lx2-med-250-hk-v6-motor-amerikansk-luksus/",
    "img": "https://minbaad.dk/fileadmin/_processed_/4/4/csm_rega2000000001_0acf1b639c.jpg",
    "cat": "Udstyr & både"
-  },
-  {
-   "key": "kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn",
-   "source": "Minbåd.dk",
-   "date": "2026-11-01",
-   "title": "Kollision i Route du Rhum: IMOCA sejlede ind i trimaran – fransk solosejler søger havn",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_85f16fd2b9.jpeg",
-   "cat": "Kapsejlads"
   },
   {
    "key": "tysker-fik-en-flyvende-start-i-route-du-rhum-normale-passatvinde-er-stort-set-er-forsvundet",
@@ -403,32 +421,32 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "svensk-aegtepars-motor-driller-paa-vej-til-korsika",
-   "source": "Minbåd.dk",
-   "date": "2026-10-31",
-   "title": "Ungt svensk ægtepars motor driller på vej til Korsika",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/svensk-aegtepars-motor-driller-paa-vej-til-korsika/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/d/csm_linn_ogb8aa-6695-4a7b-a08d-797ad45a1b8d_8b3c9719c1.jpg",
-   "cat": "Tursejlads",
-   "tjek": "2026-11-07"
-  },
-  {
    "key": "ultim-trimaraner-kan-naa-40-knob-i-route-du-rhum-i-usaedvanlig-nordlig-rute",
    "source": "Minbåd.dk",
    "date": "2026-10-31",
    "title": "Ultim-trimaraner kan nå 40 knob i Route du Rhum i usædvanlig nordlig rute",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/ultim-trimaraner-kan-naa-40-knob-i-route-du-rhum-i-usaedvanlig-nordlig-rute/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_ruh_9_Stichelbaut_Gitana_190828-2_7ca375475b.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_ruh_9_Stichelbaut_Gitana_190828-2_1a28c98d3a.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-07"
   },
   {
-   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
+   "key": "svensk-aegtepars-motor-driller-paa-vej-til-korsika",
    "source": "Minbåd.dk",
    "date": "2026-10-31",
+   "title": "Ungt svensk ægtepars motor driller på vej til Korsika",
+   "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/svensk-aegtepars-motor-driller-paa-vej-til-korsika/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/d/csm_linn_ogb8aa-6695-4a7b-a08d-797ad45a1b8d_5c77be6983.jpg",
+   "cat": "Tursejlads",
+   "tjek": "2026-11-07"
+  },
+  {
+   "key": "test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-31",
    "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
-   "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_7976d96f0c.jpg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_a7e4b7aa42.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-07"
   },
@@ -448,7 +466,7 @@
    "date": "2026-10-30",
    "title": "ABBA-musik og sejlerfest i Aarhus – overskuddet går til unge sejltalenter",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_fet_2567_ownload_ec187347cd.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_fet_2567_ownload_0991a659ce.jpg",
    "cat": "Foreninger",
    "tjek": "2026-11-07"
   },
@@ -488,7 +506,7 @@
    "date": "2026-10-30",
    "title": "Beskyt båd og campingvogn mod fugt med DRY-BAG, der kan bruges igen og igen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/october/article/beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_92b7ac6457.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_d98ae7c496.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-07"
   },
@@ -508,7 +526,7 @@
    "date": "2026-10-29",
    "title": "Solosejlere på otte gigantiske trimaraner klar til Route du Rhum",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/solosejlere-paa-otte-gigantiske-trimaraner-klar-til-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/f/csm_ultim_named_-_2026-10-29T140545.716_3d0071791c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/f/csm_ultim_named_-_2026-10-29T140545.716_a095821132.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-07"
   },
@@ -528,7 +546,7 @@
    "date": "2026-10-29",
    "title": "Aalborg-par skriver bog om spontant eventyr gennem Göta Kanal",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/aalborg-par-skriver-bog-om-spontant-eventyr-gennem-goeta-kanal/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_2d698faf80.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_c7ad14db88.jpg",
    "cat": "Kultur & folk",
    "tjek": "2026-11-07"
   },
@@ -613,16 +631,6 @@
    "tjek": "2026-11-04"
   },
   {
-   "key": "storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne",
-   "source": "Minbåd.dk",
-   "date": "2026-10-27",
-   "title": "Storm Austen smadrede sejlbåde – fem sejlere reddet fra klipperne",
-   "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_lanzarote-2048x1152_006e16f5f2.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-11-07"
-  },
-  {
    "key": "rindom-om-comeback-sejladsen-gir-med-glaede",
    "source": "Minbåd.dk",
    "date": "2026-10-27",
@@ -640,6 +648,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/solosejler-skal-forsvare-sejren-i-route-du-rhum-i-ny-gitana-18/",
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_git_0602_YR_Gitana_DJI_20260602151731_0045_D_9a16417bee.jpg",
+   "tjek": "2026-11-07"
+  },
+  {
+   "key": "storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne",
+   "source": "Minbåd.dk",
+   "date": "2026-10-27",
+   "title": "Storm Austen smadrede sejlbåde – fem sejlere reddet fra klipperne",
+   "url": "https://minbaad.dk/nyhed/archive/2026/27/october/article/storm-austen-smadrede-sejlbaade-fem-sejlere-reddet-fra-klipperne/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_lanzarote-2048x1152_d332f7b249.jpg",
+   "cat": "Sikkerhed",
    "tjek": "2026-11-07"
   },
   {
@@ -996,7 +1014,7 @@
    "date": "2026-10-21",
    "title": "Henri-Lloyd genopliver Consort-jakken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/october/article/ansvars-forsikring-pantaenius/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__b8dac9caec.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1035,7 +1053,7 @@
    "date": "2026-10-20",
    "title": "Helly Hansens Odin Lifa Pro Belay Jacket med lette LIFA-fibre® er til vinteren, der aldrig stopper",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/october/article/helly-hansens-odin-lifa-pro-belay-jacket-med-lette-lifa-fibre-er-til-de-kolde-vintermaaneder/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_Lifa_Pro_Belay_63108_606_HERO__top_9e444b2dc1.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_Lifa_Pro_Belay_63108_606_HERO__top_91747baa74.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1570,7 +1588,7 @@
    "date": "2026-10-08",
    "title": "Boston Whaler 360 Outrage: Amerikansk muskelbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/october/article/boston-whaler-360-outrage-amerikansk-muskelbaad-tager-opmaerksomheden-i-helsinki/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/8/csm_Boston-Whaler-360-Outrage-He_3100efba7e.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/8/csm_Boston-Whaler-360-Outrage-He_08782a6b95.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1629,7 +1647,7 @@
    "date": "2026-10-07",
    "title": "Sådan gør du din båd vinterklar - Kolding-sejler deler tips ud",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_7b2d3c2adb.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_bec06b0189.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2456,7 +2474,7 @@
    "date": "2026-09-24",
    "title": "Test: Frauscher 797 Spectre flyver med V8-brøl og Porsche-elkraft",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/september/article/test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__eede866d17.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/1/csm_a_797_Spectre__45__793a77d673.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2515,7 +2533,7 @@
    "date": "2026-09-23",
    "title": "Fem jægere og en hund fanget i synkende jolle – kunne ikke gå ud på grund af dynd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/september/article/fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_63513616a6.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -2651,7 +2669,7 @@
    "date": "2026-09-21",
    "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_59693a52a4.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -2750,7 +2768,7 @@
    "date": "2026-09-19",
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_d14061fa73.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2882,26 +2900,6 @@
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg",
    "tjek": "2026-09-29"
-  },
-  {
-   "key": "baadmagasinet-34439",
-   "source": "Bådmagasinet",
-   "date": "2026-09-18",
-   "title": "Der skrives SailGP historie på søen i Schweiz",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34439-der-skrives-sailgp-historie-pa-soen-i-schweiz",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jl206588.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-09-25"
-  },
-  {
-   "key": "baadmagasinet-34438",
-   "source": "Bådmagasinet",
-   "date": "2026-09-18",
-   "title": "Sejlsportsligaen 2.0: Ny klubmodel skal sikre ligaens udvikling fra 2027",
-   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34438-sejlsportsligaen-2-0-ny-klubmodel-skal-sikre-ligaens-udvikling-fra-2027",
-   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_sejlsportsliga_svendborg_sund_2_foto_frederik_sivertsen_2.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-09-25"
   }
  ]
 }

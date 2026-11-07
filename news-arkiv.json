@@ -1,7 +1,27 @@
 {
- "generated": "2026-11-07T03:15:04+00:00",
- "count": 763,
+ "generated": "2026-11-07T10:20:00+00:00",
+ "count": 765,
  "items": [
+  {
+   "key": "baadmagasinet-34439",
+   "source": "Bådmagasinet",
+   "date": "2026-09-18",
+   "title": "Der skrives SailGP historie på søen i Schweiz",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34439-der-skrives-sailgp-historie-pa-soen-i-schweiz",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_jl206588.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-25"
+  },
+  {
+   "key": "baadmagasinet-34438",
+   "source": "Bådmagasinet",
+   "date": "2026-09-18",
+   "title": "Sejlsportsligaen 2.0: Ny klubmodel skal sikre ligaens udvikling fra 2027",
+   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34438-sejlsportsligaen-2-0-ny-klubmodel-skal-sikre-ligaens-udvikling-fra-2027",
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_sejlsportsliga_svendborg_sund_2_foto_frederik_sivertsen_2.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-25"
+  },
   {
    "key": "solpaneler-efter-maal-paa-copenhagen-boat-show",
    "source": "Motorbådsnyt",
@@ -857,9 +877,9 @@
    "date": "2026-09-04",
    "title": "Ny Axopar 38 er kun 35 cm længere – men næsten alt er nyt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/04/september/article/ny-axopar-38-er-kun-35-cm-laengere-men-naesten-alt-er-nyt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg",
    "cat": "Udstyr & både",
-   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk."
+   "sum": "Ny Axopar 38 er kun 35 cm længere end 37'eren, men byder på nyt skrog, mere plads og fleksible indretninger. Båden kan fås med forskellige layout og motorer op til 700 hk.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/9/csm_Axopar38-XC-03_633cdfbed4.jpg"
   },
   {
    "key": "baadmagasinet-34399",
