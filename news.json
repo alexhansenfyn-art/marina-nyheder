@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T10:20:00+00:00",
- "count": 1065,
+ "generated": "2026-11-07T16:39:31+00:00",
+ "count": 1066,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 765,
+ "arkiv_antal": 766,
  "errors": [],
  "items": [
   {
@@ -22,6 +22,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34546-i-sverige-sejler-badene-over-bilerne-hvorfor-ikke-i-kobenhavn",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/passagen_mkb.jpeg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "baadmagasinet-34545",
+   "source": "Bådmagasinet",
+   "date": "2026-11-07",
+   "title": "To unge sejlere kan vinde 100.000 kroner på en idé, der gør sejlsporten mere sikker",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34545-to-unge-sejlere-kan-vinde-100-000-kroner-pa-en-ide-der-gor-sejlsporten-mere-sikker",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/pressefoto_aaarets_unge_iværksættere_2.jp_g_2.jpeg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "baadmagasinet-34547",
@@ -2890,16 +2899,6 @@
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_silverruddef__luft_88f4c1447f.jpg",
    "tjek": "2026-09-30"
-  },
-  {
-   "key": "sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Sejlsportsligaen reddet af seks klubber efter millionhul i budgettet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/sejlsportsligaen-reddet-af-seks-klubber-efter-millionhul-i-budgettet/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/4/csm_liga_20f20_64e8cb430c.jpeg",
-   "tjek": "2026-09-29"
   }
  ]
 }
