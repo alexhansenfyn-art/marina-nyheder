@@ -1,17 +1,35 @@
 {
- "generated": "2026-11-08T06:05:14+00:00",
- "count": 1067,
+ "generated": "2026-11-08T13:28:44+00:00",
+ "count": 1068,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 767,
+ "arkiv_antal": 768,
  "errors": [],
  "items": [
+  {
+   "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
+   "source": "Minbåd.dk",
+   "date": "2026-11-08",
+   "title": "Sejlbåd fik hul i skroget langt fra kysten – fem sejlere reddet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_bccd0024c2.png",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
+   "source": "Motorbådsnyt",
+   "date": "2026-11-08",
+   "title": "Sådan vinterkonserverer du din påhængsmotor – undgå dyre skader",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/november/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_77f2813600.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige",
    "source": "Minbåd.dk",
    "date": "2026-11-07",
    "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_68c5b6d385.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
    "cat": "Kapsejlads"
   },
   {
@@ -20,7 +38,7 @@
    "date": "2026-11-07",
    "title": "Åbent hus hos X-Yachts i Haderslev med foredrag af verdensomsejler",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_X-Yachts_Inhouse-Boatshow-nov.2024-23_3f5fd6ce55.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_X-Yachts_Inhouse-Boatshow-nov.2024-23_c06dae5cbd.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -51,15 +69,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-11-06",
-   "title": "Ny Sargo 32 får mere plads og kan nøjes med én motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_66bdcf4380.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet",
    "source": "Minbåd.dk",
    "date": "2026-11-06",
@@ -85,6 +94,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol/",
    "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_trae_2026-11-06T094435.146_b0b6cb1f17.jpg",
    "cat": "Foreninger"
+  },
+  {
+   "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
+   "source": "Minbåd.dk",
+   "date": "2026-11-06",
+   "title": "Ny Sargo 32 får mere plads og kan nøjes med én motor",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_4e50d7f6f5.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34544",
@@ -394,32 +412,12 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "fire-spaekhuggere-spottet-ved-skagen-nu-er-de-tilbage",
-   "source": "Minbåd.dk",
-   "date": "2026-11-01",
-   "title": "Fire spækhuggere spottet ved Skagen – nu er de tilbage",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/fire-spaekhuggere-spottet-ved-skagen-nu-er-de-tilbage/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_spaekhugger-angreb_the_ocean_racev_jajo_fbd418e2e0_13460ba265.jpg",
-   "cat": "Andet",
-   "tjek": "2026-11-08"
-  },
-  {
-   "key": "regal-lx2-med-250-hk-v6-motor-amerikansk-luksus",
-   "source": "Minbåd.dk",
-   "date": "2026-11-01",
-   "title": "Regal LX2 med 250 hk V6-motor: Amerikansk luksus",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/regal-lx2-med-250-hk-v6-motor-amerikansk-luksus/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/4/csm_rega2000000001_0acf1b639c.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-08"
-  },
-  {
    "key": "kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn",
    "source": "Minbåd.dk",
    "date": "2026-11-01",
    "title": "Kollision i Route du Rhum: IMOCA sejlede ind i trimaran – fransk solosejler søger havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_85f16fd2b9.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_bfedd43d2c.jpeg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-08"
   },
@@ -441,6 +439,26 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/22-imoca-baade-klar-til-rekordfart-i-route-du-rhum-vild-start-venter-i-dag/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/1/csm_m_DJI_0051_d0c1de5dd9.jpg",
    "cat": "Kapsejlads",
+   "tjek": "2026-11-08"
+  },
+  {
+   "key": "fire-spaekhuggere-spottet-ved-skagen-nu-er-de-tilbage",
+   "source": "Minbåd.dk",
+   "date": "2026-11-01",
+   "title": "Fire spækhuggere spottet ved Skagen – nu er de tilbage",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/fire-spaekhuggere-spottet-ved-skagen-nu-er-de-tilbage/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_spaekhugger-angreb_the_ocean_racev_jajo_fbd418e2e0_45a151e95d.jpg",
+   "cat": "Andet",
+   "tjek": "2026-11-08"
+  },
+  {
+   "key": "regal-lx2-med-250-hk-v6-motor-amerikansk-luksus",
+   "source": "Motorbådsnyt",
+   "date": "2026-11-01",
+   "title": "Regal LX2 med 250 hk V6-motor: Amerikansk luksus",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/01/november/article/regal-lx2-med-250-hk-v6-motor-amerikansk-luksus/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/4/csm_rega2000000001_2342f00252.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-11-08"
   },
   {
@@ -469,7 +487,7 @@
    "date": "2026-10-31",
    "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_a7e4b7aa42.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-08"
   },
@@ -946,7 +964,7 @@
    "date": "2026-10-22",
    "title": "Fugt er en stille trussel i båden – men Aridas løsningen er enkel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/october/article/fugt-er-en-stille-trussel-i-baaden-men-aridas-loesningen-er-enkel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/1/csm_arida_affugter_4f412b6270.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/b/1/csm_arida_affugter_ee158e8bdc.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1032,7 +1050,7 @@
    "date": "2026-10-21",
    "title": "Henri-Lloyd genopliver Consort-jakken",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/october/article/ansvars-forsikring-pantaenius/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__b8dac9caec.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/2/csm_henri_l_DW8998__1___2__df5ca5d0b9.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1552,15 +1570,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/orc_xr41_2.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-17"
-  },
-  {
-   "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
-   "source": "Motorbådsnyt",
-   "date": "2026-10-09",
-   "title": "Sådan vinterkonserverer du din påhængsmotor – undgå dyre skader",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/october/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_77f2813600.jpg",
-   "cat": "Udstyr & både"
   },
   {
    "key": "tursejlads-til-10-af-de-smukkeste-oeer-i-goeteborgs-skaergaard",
@@ -2887,16 +2896,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
-   "tjek": "2026-09-30"
-  },
-  {
-   "key": "silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Silverrudder-sejler ramt af hjerteanfald kort efter start",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/silverrudder-sejler-ramt-af-hjerteanfald-kort-efter-start/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/b/csm_soeredning1853_1732595275347910_472426221785205549_n_7f7df422c0.jpg",
    "tjek": "2026-09-30"
   }
  ]
