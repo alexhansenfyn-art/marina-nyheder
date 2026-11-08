@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-08T13:28:44+00:00",
- "count": 1068,
+ "generated": "2026-11-08T18:32:22+00:00",
+ "count": 1079,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 768,
+ "arkiv_antal": 779,
  "errors": [],
  "items": [
   {
-   "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
+   "key": "ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager",
    "source": "Minbåd.dk",
    "date": "2026-11-08",
-   "title": "Sejlbåd fik hul i skroget langt fra kysten – fem sejlere reddet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_bccd0024c2.png",
-   "cat": "Sikkerhed"
+   "title": "Ny bog: Fra Montenegro til Danmark i flodbåd - med kvindelig fantasi som medpassager",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_l_80_Zell_am_See_og_vin_8f88968617.jpeg",
+   "cat": "Kultur & folk"
   },
   {
    "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
@@ -24,13 +24,13 @@
    "cat": "Udstyr & både"
   },
   {
-   "key": "29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige",
+   "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
    "source": "Minbåd.dk",
-   "date": "2026-11-07",
-   "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
-   "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
-   "cat": "Kapsejlads"
+   "date": "2026-11-08",
+   "title": "Sejlbåd fik hul i skroget langt fra kysten – fem sejlere reddet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_1880be15fd.png",
+   "cat": "Sikkerhed"
   },
   {
    "key": "aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler",
@@ -40,6 +40,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/aabent-hus-hos-x-yachts-i-haderslev-med-foredrag-af-verdensomsejler/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/7/csm_X-Yachts_Inhouse-Boatshow-nov.2024-23_c06dae5cbd.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige",
+   "source": "Minbåd.dk",
+   "date": "2026-11-07",
+   "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_68c5b6d385.png",
+   "cat": "Kapsejlads"
   },
   {
    "key": "baadmagasinet-34546",
@@ -83,7 +92,7 @@
    "date": "2026-11-06",
    "title": "Ny X-15-klasse skal gøre wingfoil til tættere kapsejlads med ens udstyr",
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-x-15-klasse-skal-goere-wingfoil-til-kapsejlads-med-ens-udstyr/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_X-15-CLASS-IBIZA-WORLDS-03-11-2764-of-158_dd54045d49.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_X-15-CLASS-IBIZA-WORLDS-03-11-2764-of-158_ebc3ba6271.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -300,7 +309,7 @@
    "date": "2026-11-03",
    "title": "Route du Rhum: Charles Caudrelier har alvorlig skade på foil midt i Atlanterhavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/route-du-rhum-charles-caudrelier-har-alvorlig-skade-paa-foil-midt-i-atlanterhavet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_a58026e307.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_2c25af4098.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -318,7 +327,7 @@
    "date": "2026-11-03",
    "title": "BOAT SHOW i Fredericia bliver hvert 2. år - næste udgave i foråret 2028",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/boat-show-i-fredericia-bliver-hvert-2-aar-naeste-udgave-i-foraaret-2028/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_ef534fa00a.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_535805327d.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -447,7 +456,7 @@
    "date": "2026-11-01",
    "title": "Fire spækhuggere spottet ved Skagen – nu er de tilbage",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/fire-spaekhuggere-spottet-ved-skagen-nu-er-de-tilbage/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_spaekhugger-angreb_the_ocean_racev_jajo_fbd418e2e0_45a151e95d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/b/csm_spaekhugger-angreb_the_ocean_racev_jajo_fbd418e2e0_ab8070d716.jpg",
    "cat": "Andet",
    "tjek": "2026-11-08"
   },
@@ -467,7 +476,7 @@
    "date": "2026-10-31",
    "title": "Ultim-trimaraner kan nå 40 knob i Route du Rhum i usædvanlig nordlig rute",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/ultim-trimaraner-kan-naa-40-knob-i-route-du-rhum-i-usaedvanlig-nordlig-rute/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_ruh_9_Stichelbaut_Gitana_190828-2_f6bcdf0682.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/d/csm_ruh_9_Stichelbaut_Gitana_190828-2_1a28c98d3a.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-08"
   },
@@ -527,7 +536,7 @@
    "date": "2026-10-30",
    "title": "Bådstøtter: Tyresöstøtten kan justeres efter bådens størrelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_5ff08a8a09.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-08"
   },
@@ -567,7 +576,7 @@
    "date": "2026-10-29",
    "title": "Solosejlere på otte gigantiske trimaraner klar til Route du Rhum",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/solosejlere-paa-otte-gigantiske-trimaraner-klar-til-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/f/csm_ultim_named_-_2026-10-29T140545.716_a095821132.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/f/csm_ultim_named_-_2026-10-29T140545.716_3d0071791c.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-08"
   },
@@ -622,16 +631,6 @@
    "tjek": "2026-11-08"
   },
   {
-   "key": "laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug",
-   "source": "Minbåd.dk",
-   "date": "2026-10-28",
-   "title": "Lær at navigere efter sol og stjerner i Kaløvig Bådelaug",
-   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_kal_Q45KyXfyuLCBptUYaR8dK8yYfXRpVBDSM7nZztYYDUXXC46q0UDcgiVT-_685d13ae77.jpg",
-   "cat": "Foreninger",
-   "tjek": "2026-11-08"
-  },
-  {
    "key": "shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser",
    "source": "Minbåd.dk",
    "date": "2026-10-28",
@@ -639,6 +638,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/shetlandsoeerne-opgivet-far-og-datter-tog-i-stedet-caledonian-canals-29-sluser/",
    "cat": "Tursejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/4/csm_c_IMG-20261002-WA0001_e53ec95c50.jpg",
+   "tjek": "2026-11-08"
+  },
+  {
+   "key": "laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug",
+   "source": "Minbåd.dk",
+   "date": "2026-10-28",
+   "title": "Lær at navigere efter sol og stjerner i Kaløvig Bådelaug",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/october/article/laer-at-navigere-efter-sol-og-stjerner-i-kaloevig-baadelaug/",
+   "cat": "Foreninger",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/3/csm_kal_Q45KyXfyuLCBptUYaR8dK8yYfXRpVBDSM7nZztYYDUXXC46q0UDcgiVT-_685d13ae77.jpg",
    "tjek": "2026-11-08"
   },
   {
@@ -807,8 +816,8 @@
    "date": "2026-10-25",
    "title": "12 både brændt i Aarøsund - plus nabobåde med sodskader",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flere-baade-braendt-i-aaroesund-flere-nabobaade-har-ogsaa-faaet-sodskader/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg",
    "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg",
    "tjek": "2026-11-08"
   },
   {
@@ -887,8 +896,8 @@
    "date": "2026-10-23",
    "title": "18 danske lystbådehavne sender live",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/18-danske-lystbaadehavne-sender-live/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_414f2b4ed9.jpg",
    "cat": "Havneliv",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_414f2b4ed9.jpg",
    "tjek": "2026-11-08"
   },
   {
@@ -1032,8 +1041,8 @@
    "date": "2026-10-21",
    "title": "Danske lystbådehavne frygter lukning, hvis havet igen går amok",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/danske-lystbaadehavne-frygter-lukning-hvis-havet-igen-gaar-amok/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg"
   },
   {
    "key": "test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek",
@@ -2887,16 +2896,6 @@
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
    "tjek": "2026-10-01"
-  },
-  {
-   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
-   "source": "Minbåd.dk",
-   "date": "2026-09-18",
-   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder – mange er udgået",
-   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
-   "tjek": "2026-09-30"
   }
  ]
 }
