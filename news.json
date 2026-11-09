@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-09T09:51:41+00:00",
- "count": 1083,
+ "generated": "2026-11-09T20:47:26+00:00",
+ "count": 1085,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 783,
+ "arkiv_antal": 785,
  "errors": [],
  "items": [
   {
-   "key": "70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm",
+   "key": "selden-goer-det-lettere-at-rulle-code-0-og-gennaker-ind-med-et-tryk-paa-en-knap",
    "source": "Minbåd.dk",
    "date": "2026-11-09",
-   "title": "70-årig solosejler slog hovedet på Atlanten og mistede førligheden i venstre arm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_Sailbaaden_Spirit_paa_aabent_hav_a882fb1738.png",
-   "cat": "Sikkerhed"
+   "title": "Seldén gør det lettere at rulle Code 0 og gennaker ind med et tryk på en knap",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/selden-goer-det-lettere-at-rulle-code-0-og-gennaker-ind-med-et-tryk-paa-en-knap/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/8/csm_Selden_CXe15-komponenter_i_studieopsaetning_1b81d1e1e4.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "aegtepar-lever-af-aebler-og-fisk-fra-lille-jolle-paa-fejoe-bruger-kun-2700-kr-om-maaneden",
@@ -24,10 +24,28 @@
    "cat": "Kultur & folk"
   },
   {
+   "key": "drop-tung-vinterpresenning-toptex-vejer-kun-160-gram-pr-kvadratmeter-og-lader-baaden-aande",
+   "source": "Minbåd.dk",
+   "date": "2026-11-09",
+   "title": "Drop tung vinterpresenning – Toptex vejer kun 160 gram pr. kvadratmeter og lader båden ånde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/drop-tung-vinterpresenning-toptex-vejer-kun-160-gram-pr-kvadratmeter-og-lader-baaden-aande/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_toptex1107_125731_6e7f824420.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm",
+   "source": "Minbåd.dk",
+   "date": "2026-11-09",
+   "title": "70-årig solosejler slog hovedet på Atlanten og mistede førligheden i venstre arm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/7/csm_Sailbaaden_Spirit_paa_aabent_hav_a882fb1738.png",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "baadmagasinet-34549",
    "source": "Bådmagasinet",
    "date": "2026-11-09",
-   "title": "Hun gør som Moitessier - forlader Golden Globe Race – men sejler videre",
+   "title": "Gør som Moitessier: Forlader Golden Globe Race – men sejler videre",
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34549-golden-globe-race-norsk-kvinde-traekker-sig-men-fortsaetter-jorden-rundt",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/987334.jpg",
    "cat": "Kapsejlads"
@@ -42,15 +60,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager",
-   "source": "Minbåd.dk",
-   "date": "2026-11-08",
-   "title": "Ny bog: Fra Montenegro til Danmark i flodbåd - med kvindelig fantasi som medpassager",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_l_80_Zell_am_See_og_vin_4e57089242.jpeg",
-   "cat": "Kultur & folk"
-  },
-  {
    "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
    "source": "Minbåd.dk",
    "date": "2026-11-08",
@@ -58,6 +67,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_6d562c7687.png",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager",
+   "source": "Minbåd.dk",
+   "date": "2026-11-08",
+   "title": "Ny bog: Fra Montenegro til Danmark i flodbåd - med kvindelig fantasi som medpassager",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_l_80_Zell_am_See_og_vin_4e57089242.jpeg",
+   "cat": "Kultur & folk"
   },
   {
    "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
@@ -83,7 +101,7 @@
    "date": "2026-11-07",
    "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_68c5b6d385.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
    "cat": "Kapsejlads"
   },
   {
@@ -281,7 +299,7 @@
    "date": "2026-11-04",
    "title": "Skade på gigantisk trimaran: Charles Caudrelier vender om efter kun to døgn i Route du Rhum",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/skade-paa-gigantisk-trimaran-charles-caudrelier-vender-om-efter-kun-to-doegn-i-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/5/csm_git_1930_6ae4b1b8b5b768007556bfd3_31536e022f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/5/csm_git_1930_6ae4b1b8b5b768007556bfd3_0432c79bb4.jpg",
    "cat": "Kapsejlads"
   },
   {
@@ -331,22 +349,22 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner",
-   "source": "Minbåd.dk",
-   "date": "2026-11-03",
-   "title": "Unge iværksættere fra Frederikshavn og Roskilde vil redde liv på vandet – kæmper om 100.000 kroner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Pressefoto_AArets_Unge_Ivaerksaettere__2__7b5488c22f.jpg",
-   "cat": "Sikkerhed"
-  },
-  {
    "key": "route-du-rhum-charles-caudrelier-har-alvorlig-skade-paa-foil-midt-i-atlanterhavet",
    "source": "Minbåd.dk",
    "date": "2026-11-03",
    "title": "Route du Rhum: Charles Caudrelier har alvorlig skade på foil midt i Atlanterhavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/route-du-rhum-charles-caudrelier-har-alvorlig-skade-paa-foil-midt-i-atlanterhavet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_2c25af4098.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/e/csm_gitana_922_6aa08ad9722d1772cec87853_960e63729a.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner",
+   "source": "Minbåd.dk",
+   "date": "2026-11-03",
+   "title": "Unge iværksættere fra Frederikshavn og Roskilde vil redde liv på vandet – kæmper om 100.000 kroner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/unge-ivaerksaettere-fra-frederikshavn-og-roskilde-vil-redde-liv-paa-vandet-kaemper-om-100000-kroner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Pressefoto_AArets_Unge_Ivaerksaettere__2__3ab4c3fcc5.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "sponsor-risiko-strategi-og-beslutninger-hvad-har-sejlsport-og-digitale-spil-til-faelles",
@@ -354,7 +372,7 @@
    "date": "2026-11-03",
    "title": "Sponsor: Risiko, strategi og beslutninger: Hvad har sejlsport og digitale spil til fælles?",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/sponsor-risiko-strategi-og-beslutninger-hvad-har-sejlsport-og-digitale-spil-til-faelles/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_denise-jans-9OBwt_VgPa0-unsplash_8ab85485e2.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_denise-jans-9OBwt_VgPa0-unsplash_f7e38adaaa.jpg",
    "cat": "Andet"
   },
   {
@@ -394,16 +412,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen",
-   "source": "Minbåd.dk",
-   "date": "2026-11-02",
-   "title": "Tjek dine søventiler - især når båden er i vandet året rundt",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_seavalve_796aff2df2.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-09"
-  },
-  {
    "key": "flaeskesteg-finnjoller-og-haard-kamp-paa-koege-bugt",
    "source": "Minbåd.dk",
    "date": "2026-11-02",
@@ -411,6 +419,16 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/flaeskesteg-finnjoller-og-haard-kamp-paa-koege-bugt/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_MB_finn_1__3__908e29e877.jpg",
    "cat": "Kapsejlads",
+   "tjek": "2026-11-09"
+  },
+  {
+   "key": "tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen",
+   "source": "Minbåd.dk",
+   "date": "2026-11-02",
+   "title": "Tjek dine søventiler - især når båden er i vandet året rundt",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/november/article/tjek-dine-soeventiler-isaer-naar-der-er-is-i-havnen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_seavalve_de085e271f.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-11-09"
   },
   {
@@ -469,7 +487,7 @@
    "date": "2026-11-01",
    "title": "Kollision i Route du Rhum: IMOCA sejlede ind i trimaran – fransk solosejler søger havn",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/kollision-i-route-du-rhum-imoca-sejlede-ind-i-trimaran-fransk-solosejler-soeger-havn/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_85f16fd2b9.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/4/csm_violtee_4_09_arrivee_1000_race_qaptur33_db03e74267.jpeg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-09"
   },
@@ -489,7 +507,7 @@
    "date": "2026-11-01",
    "title": "22 IMOCA-både klar til rekordfart i Route du Rhum – vild start venter i dag - se live",
    "url": "https://minbaad.dk/nyhed/archive/2026/01/november/article/22-imoca-baade-klar-til-rekordfart-i-route-du-rhum-vild-start-venter-i-dag/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/1/csm_m_DJI_0051_f36de00cd3.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/1/csm_m_DJI_0051_d0c1de5dd9.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-09"
   },
@@ -529,7 +547,7 @@
    "date": "2026-10-31",
    "title": "Ungt svensk ægtepars motor driller på vej til Korsika",
    "url": "https://minbaad.dk/nyhed/archive/2026/31/october/article/svensk-aegtepars-motor-driller-paa-vej-til-korsika/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/d/csm_linn_ogb8aa-6695-4a7b-a08d-797ad45a1b8d_4d33577691.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/d/csm_linn_ogb8aa-6695-4a7b-a08d-797ad45a1b8d_5c77be6983.jpg",
    "cat": "Tursejlads",
    "tjek": "2026-11-09"
   },
@@ -559,7 +577,7 @@
    "date": "2026-10-30",
    "title": "ABBA-musik og sejlerfest i Aarhus – overskuddet går til unge sejltalenter",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/abba-musik-og-sejlerfest-i-aarhus-overskuddet-gaar-til-unge-sejltalenter/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_fet_2567_ownload_0991a659ce.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_fet_2567_ownload_ec187347cd.jpg",
    "cat": "Foreninger",
    "tjek": "2026-11-09"
   },
@@ -569,7 +587,7 @@
    "date": "2026-10-30",
    "title": "Flere sejlere er alene på vandet – nu tilbyder Ocean Signal gratis batteri til nødpejlesendere",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/flere-sejlere-er-alene-paa-vandet-nu-tilbyder-ocean-signal-gratis-batteri-til-noedpejlesendere/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_ba181b259f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_Free_Battery_Replacement_Flyer_2026-reduceret_935f7e6c34.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-09"
   },
@@ -579,7 +597,7 @@
    "date": "2026-10-30",
    "title": "Bådstøtter: Tyresöstøtten kan justeres efter bådens størrelse",
    "url": "https://minbaad.dk/nyhed/archive/2026/30/october/article/baadstoetter-tyresoestoetten-kan-justeres-efter-baadens-stoerrelse/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_5ff08a8a09.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/e/csm_STOETTE_4b92-930e-91ac39d91efc_0f21b27e87.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-09"
   },
@@ -629,8 +647,8 @@
    "date": "2026-10-29",
    "title": "Francesca jagter samlet IMOCA-sejr i Route du Rhum – 22 solosejlere stiller op",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/francesca-jagter-samlet-imoca-sejr-i-route-du-rhum-22-solosejlere-stiller-op/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_offsh_OFFSHORE_GLEBEC_-4_fc92d8f72a.jpg",
    "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_offsh_OFFSHORE_GLEBEC_-4_fc92d8f72a.jpg",
    "tjek": "2026-11-09"
   },
   {
@@ -639,8 +657,8 @@
    "date": "2026-10-29",
    "title": "Aalborg-par skriver bog om spontant eventyr gennem Göta Kanal",
    "url": "https://minbaad.dk/nyhed/archive/2026/29/october/article/aalborg-par-skriver-bog-om-spontant-eventyr-gennem-goeta-kanal/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_c7ad14db88.jpg",
    "cat": "Kultur & folk",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/4/csm_b_mg_top__1114-high-rm266j_c7ad14db88.jpg",
    "tjek": "2026-11-09"
   },
   {
@@ -794,16 +812,6 @@
    "tjek": "2026-11-03"
   },
   {
-   "key": "rindom-skal-slaa-veninden-munch-for-at-komme-til-ol-se-dr-indslag",
-   "source": "Minbåd.dk",
-   "date": "2026-10-26",
-   "title": "Rindom skal slå veninden Munch for at komme til OL - se DR-indslag",
-   "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/rindom-skal-slaa-veninden-munch-for-at-komme-til-ol-se-dr-indslag/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_rindvg_G_20260502_134937_4ec8171531.jpg",
-   "tjek": "2026-11-09"
-  },
-  {
    "key": "efter-1500-soemil-jeppe-vil-goere-op-med-myterne-om-langturssejlads",
    "source": "Minbåd.dk",
    "date": "2026-10-26",
@@ -821,6 +829,16 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34520-stormen-tog-magten-krydstogtskib-knuste-redningsbade-mod-containerskib-se-videoen",
    "img": "https://www.baadmagasinet.dk/images/-----oktober26/kollisoion_bremerhafen.jpg",
    "cat": "Sikkerhed",
+   "tjek": "2026-11-09"
+  },
+  {
+   "key": "rindom-skal-slaa-veninden-munch-for-at-komme-til-ol-se-dr-indslag",
+   "source": "Minbåd.dk",
+   "date": "2026-10-26",
+   "title": "Rindom skal slå veninden Munch for at komme til OL - se DR-indslag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/26/october/article/rindom-skal-slaa-veninden-munch-for-at-komme-til-ol-se-dr-indslag/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/2/csm_rindvg_G_20260502_134937_4ec8171531.jpg",
    "tjek": "2026-11-09"
   },
   {
@@ -920,7 +938,8 @@
    "title": "Store både og bådhuse i flammer på Aarøsund Havn - se video",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/october/article/store-baade-og-baadhuse-i-flammer-paa-aaroesund-havn-se-video/",
    "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_aar_brand-28f0-4d87-9d48-bdb741a37638_afae49b42b.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "tjek": "2026-11-09"
   },
   {
    "key": "baadmagasinet-34517",
@@ -2874,26 +2893,6 @@
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_4ee5862d63.jpg",
    "tjek": "2026-10-02"
-  },
-  {
-   "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Jan tilbage fra jordomsejling – slog Silverrudder-rekord med 14:07 i Black Marlin",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/5/csm_black_marlin_699922_10165210876997859_hhh3041608502440828484_n_298d35bbe9.jpg",
-   "tjek": "2026-10-01"
-  },
-  {
-   "key": "slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter",
-   "source": "Minbåd.dk",
-   "date": "2026-09-19",
-   "title": "Slæbt efter sin båd i en time – slovensk Silverrudder-sejler reddet af helikopter",
-   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/slaebt-efter-sin-baad-i-en-time-slovensk-silverrudder-sejler-reddet-af-helikopter/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_first_875_10165206456107859_3903435652290916225_n_63dec0a6f7.jpg",
-   "tjek": "2026-10-01"
   }
  ]
 }
