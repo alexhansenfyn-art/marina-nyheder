@@ -1,7 +1,48 @@
 {
- "generated": "2026-11-09T02:01:00+00:00",
- "count": 779,
+ "generated": "2026-11-09T09:51:41+00:00",
+ "count": 783,
  "items": [
+  {
+   "key": "baadmagasinet-34441",
+   "source": "Bådmagasinet",
+   "date": "2026-09-19",
+   "title": "Live: Den enes død, den andens brød",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34441-live-fra-geneve",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_1fd2_2597.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-26"
+  },
+  {
+   "key": "baadmagasinet-34440",
+   "source": "Bådmagasinet",
+   "date": "2026-09-19",
+   "title": "Silverrudder: Ny rekord i dramatisk og uheldsramt udgave af den populære sejlads",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/641-singlehand/34440-silverrudder-ny-rekord-i-dramatisk-og-uheldsramt-udgave",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_813520521_10240039917809653_2043720394577576592_n_2.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-26"
+  },
+  {
+   "key": "redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Redaktøren har en båd for meget – nu skal Dehler 34’eren, med nye sejl og motor, videre",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/redaktoeren-har-en-baad-for-meget-nu-skal-dehler-34eren-med-nye-sejl-og-motor-videre/",
+   "cat": "Kultur & folk",
+   "sum": "Redaktøren sælger sin Dehler 34 med nye sejl og motor via Yachtbasen på bro 4 i Kerteminde, fordi tre både er én for meget efter flytning til Midtfyn.",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/a/csm_d_MG_20260716_141415_fdc5a10603.jpg",
+   "tjek": "2026-10-05"
+  },
+  {
+   "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder",
+   "source": "Minbåd.dk",
+   "date": "2026-09-18",
+   "title": "Trimaran væltede forover ved Lundeborg under hårdt Silverrudder",
+   "url": "https://minbaad.dk/nyhed/archive/2026/18/september/article/trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_tri_k_268817969172718_8692115315.jpg",
+   "tjek": "2026-10-01"
+  },
   {
    "key": "trimaran-vaeltede-forover-ved-lundeborg-under-haardt-silverrudder-mange-er-udgaaet",
    "source": "Minbåd.dk",
@@ -874,9 +915,9 @@
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
-   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg"
   },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
@@ -1703,15 +1744,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/cbs26__01.jpg"
   },
   {
-   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-24",
-   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
-  },
-  {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -1719,6 +1751,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-24",
+   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -2578,15 +2619,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/dixi_forside.jpg"
   },
   {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
-  },
-  {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -2603,6 +2635,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-11",
+   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -2895,15 +2936,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-06",
-   "title": "Når sejlklubben skal forklare sin identitet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
-   "cat": "Regler & takster"
-  },
-  {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -2911,6 +2943,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
    "cat": "Havneliv"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "Når sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
+   "cat": "Regler & takster"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -3993,15 +4034,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_57f725cbb5.jpg"
   },
   {
-   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
-   "source": "Danske Tursejlere",
-   "date": "2026-07-15",
-   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
-   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
-   "cat": "Foreninger"
-  },
-  {
    "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
    "source": "Minbåd.dk",
    "date": "2026-07-15",
@@ -4009,6 +4041,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
    "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
+   "source": "Danske Tursejlere",
+   "date": "2026-07-15",
+   "title": "Søstjernernes grejtrailer – maritime oplevelser for børn og familier",
+   "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
+   "cat": "Foreninger"
   },
   {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
