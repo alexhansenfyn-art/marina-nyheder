@@ -1,7 +1,37 @@
 {
- "generated": "2026-11-10T11:16:42+00:00",
- "count": 789,
+ "generated": "2026-11-10T18:43:22+00:00",
+ "count": 792,
  "items": [
+  {
+   "key": "baadmagasinet-34444",
+   "source": "Bådmagasinet",
+   "date": "2026-09-21",
+   "title": "H-båd, eliteserien: Højspændt afslutning - et amputeret felt i hård luft",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34444-h-bad-eliteserien-hojspaendt-afslutning-i-et-amputeret-felt",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/138a5232_2.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-28"
+  },
+  {
+   "key": "saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri",
+   "source": "Minbåd.dk",
+   "date": "2026-09-20",
+   "title": "Så dykker vi - H-både kæmper i Sønderborg - se galleri",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/september/article/saa-dykker-vi-h-baade-kaemper-i-soenderborg-se-galleri/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/5/csm_h_baad__1789847030106_7507162557763129115_080084daec.jpg",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "baadmagasinet-34443",
+   "source": "Bådmagasinet",
+   "date": "2026-09-20",
+   "title": "Opdateret: Sehested & Co slutter på podiet i Geneve",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34443-opdateret-sehested-co-slutter-tre-er-i-geneve",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_rp1_2835.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-27"
+  },
   {
    "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
    "source": "Motorbådsnyt",
