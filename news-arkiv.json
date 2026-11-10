@@ -1,7 +1,45 @@
 {
- "generated": "2026-11-10T02:59:33+00:00",
- "count": 785,
+ "generated": "2026-11-10T11:16:42+00:00",
+ "count": 789,
  "items": [
+  {
+   "key": "saadan-halverer-du-braendstofforbruget-paa-din-motorbaad",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-19",
+   "title": "Sådan halverer du brændstofforbruget på din motorbåd",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-19",
+   "title": "Godt gået: Sejlsportsligaen får nyt liv i klubbernes hænder",
+   "url": "https://dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
+   "img": "https://dansksejlunion.dk/media/qbvpzb40/_r1a5961_frederik-sivertsen.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Sponsor-indhold: Speedbådscertifikat under lup: De overraskende regler, mange danskere ikke kender",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/sponsor-indhold-speedbaadscertifikat-under-lup-de-overraskende-regler-mange-danskere-ikke-kender/",
+   "cat": "Regler & takster",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/6/csm_speed_kor_1__53f5e03d6c.png",
+   "tjek": "2026-10-06"
+  },
+  {
+   "key": "silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af",
+   "source": "Minbåd.dk",
+   "date": "2026-09-19",
+   "title": "Silverrudder-kollision ved Nordfyn: Comfortina 32 fik revet masten af",
+   "url": "https://minbaad.dk/nyhed/archive/2026/19/september/article/silverrudder-kollision-ved-nordfyn-comfortina-32-fik-revet-masten-af/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/6/csm_813790849_1732620458678725_5692601051580698089_n_4ee5862d63.jpg",
+   "tjek": "2026-10-02"
+  },
   {
    "key": "jan-tilbage-fra-jordomsejling-slog-silverrudder-rekord-med-1407-i-black-marlin",
    "source": "Minbåd.dk",
@@ -935,9 +973,9 @@
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
-   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg"
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
   },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
