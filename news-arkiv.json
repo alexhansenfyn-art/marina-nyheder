@@ -1,7 +1,47 @@
 {
- "generated": "2026-11-11T03:07:39+00:00",
- "count": 792,
+ "generated": "2026-11-11T11:01:29+00:00",
+ "count": 796,
  "items": [
+  {
+   "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "H-både vælter i Sønderborg: Holbæk-hold vinder Eliteserien i 17 m/sek.",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_h_b138A5hh232_175f99b90e.jpg",
+   "tjek": "2026-10-03"
+  },
+  {
+   "key": "seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Seascape 27-sejler efter Silverrudder: - Et 20 timers adrenalin-trip",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/seascape-27-sejler-efter-silverrudder-et-20-timers-adrenalin-trip/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_seascape_944_10163390436138596_4115341024533566004_n_b02f29239c.jpg",
+   "tjek": "2026-10-03"
+  },
+  {
+   "key": "rockwool-racing-paa-podiet-for-foerste-gang-i-2026",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "ROCKWOOL Racing på podiet for første gang i 2026",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/rockwool-racing-paa-podiet-for-foerste-gang-i-2026/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/7/csm_rock_5348_-_klippet_1b30326dde.jpg",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "baadmagasinet-34442",
+   "source": "Bådmagasinet",
+   "date": "2026-09-21",
+   "title": "Politiet fik bid! Jolle stjålet onsdag - kom tilbage til sin ejer torsdag",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34442-politiet-fik-bid-jolle-stjalet-onsdag-kom-tilbage-til-sin-ejer-torsdag",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/patruljebaad_og_jolle_2.jpg",
+   "tjek": "2026-10-01",
+   "cat": "Sikkerhed"
+  },
   {
    "key": "baadmagasinet-34444",
    "source": "Bådmagasinet",
@@ -2325,15 +2365,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_edited-photo_2.jpg"
   },
   {
-   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
-   "source": "Minbåd.dk",
-   "date": "2026-08-17",
-   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
-   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
-   "cat": "Foreninger",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/c/csm_sophie_026-08-17T140317.947_67d40a8b2d.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "source": "Dansk Sejlunion",
    "date": "2026-08-17",
@@ -2341,6 +2372,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/ny-arrangementsudvikler-skal-styrke-faellesskaberne-i-dansk-sejlsport",
    "img": "https://dansksejlunion.dk/media/s2hhpby3/design-uden-navn-30-kopi.jpg?width=1200&height=630",
    "cat": "Foreninger"
+  },
+  {
+   "key": "ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber",
+   "source": "Minbåd.dk",
+   "date": "2026-08-17",
+   "title": "Ny arrangementsudvikler skal styrke events og klubfællesskaber",
+   "url": "https://minbaad.dk/nyhed/archive/2026/17/august/article/ny-arrangementsudvikler-skal-styrke-events-og-klubfaellesskaber/",
+   "cat": "Foreninger",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/c/csm_sophie_026-08-17T140317.947_67d40a8b2d.jpg"
   },
   {
    "key": "kim-christensen-tog-vm-soelv-i-j-70-mix-paa-oeresund-var-hurtig-paa-laens",
