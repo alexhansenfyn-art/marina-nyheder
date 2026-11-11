@@ -1,7 +1,56 @@
 {
- "generated": "2026-11-11T11:01:29+00:00",
- "count": 796,
+ "generated": "2026-11-11T18:43:53+00:00",
+ "count": 801,
  "items": [
+  {
+   "key": "baadmagasinet-34448",
+   "source": "Bådmagasinet",
+   "date": "2026-09-22",
+   "title": "Sønderborg tog titlen – nu venter den nye Sejlsportsligaen 2.0",
+   "url": "https://www.baadmagasinet.dk/sejlsportsliga/34448-sonderborg-tog-titlen-nu-venter-sejlsportsligaen-2-0",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/ligavinder2026.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-29"
+  },
+  {
+   "key": "baadmagasinet-34446",
+   "source": "Bådmagasinet",
+   "date": "2026-09-22",
+   "title": "13 år efter de stoppede: Team Viltoft genforenet – og vandt DM til minde om gammel holdkammerat",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34446-13-ar-efter-de-stoppede-team-viltoft-genforenet-og-vandt-dm-til-minde-om-gammel-holdkammerat",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_viltoft_0695.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-09-29"
+  },
+  {
+   "key": "lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-21",
+   "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Silverrudder-sejler gik ud på kølen af First 18 og faldt i vandet - tæt på at gi op",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/6/csm_benteau_tegning_18_first_2_f5f9f24d20.png",
+   "tjek": "2026-10-05"
+  },
+  {
+   "key": "dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere",
+   "source": "Minbåd.dk",
+   "date": "2026-09-21",
+   "title": "Dansk Søredningsselskab presset under hårdt Silverrudder med væltet båd, knækket mast og mere",
+   "url": "https://minbaad.dk/nyhed/archive/2026/21/september/article/dansk-soeredningsselskab-presset-under-haardt-silverrudder-med-vaeltet-baad-knaekket-mast-og-mere/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/d/csm_sil5396251_10165211428402859_8941187259798836809_n_2c6f1812e3.jpg",
+   "tjek": "2026-10-05"
+  },
   {
    "key": "h-baade-vaelter-i-soenderborg-holbaek-hold-vinder-eliteserien-i-17-m-sek",
    "source": "Minbåd.dk",
@@ -1043,9 +1092,9 @@
    "date": "2026-09-05",
    "title": "Smart pakke i Marstal: Yam 270 RIB med elektrisk Torqeedo Travel",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/september/article/smart-pakke-i-marstal-yam-270-rib-med-elektrisk-torqeedo-travel/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg",
    "cat": "Udstyr & både",
-   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres."
+   "sum": "Test af Yamaha YAM 270 RIB med elektrisk Torqeedo Travel hos HCC Bådeværft Marstal. Priser og fordele ved elektrisk fremdrift til tendere præsenteres.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/9/csm_y_G_20260901_123408_c8d86ecdd8.jpg"
   },
   {
    "key": "tyveri-og-forlis-paa-langeland-57-fods-maheo-nu-slaaet-til-pindebraende",
@@ -4162,15 +4211,6 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_hund_20260715_100624_57f725cbb5.jpg"
   },
   {
-   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
-   "source": "Minbåd.dk",
-   "date": "2026-07-15",
-   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
-   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
-   "cat": "Regler & takster"
-  },
-  {
    "key": "dansketursejlere-soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier",
    "source": "Danske Tursejlere",
    "date": "2026-07-15",
@@ -4178,6 +4218,15 @@
    "url": "https://dansketursejlere.dk/soestjernernes-grejtrailer-maritime-oplevelser-for-boern-og-familier/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2025/06/Soestjernerne-2560-x-1280-px-1024x512.png",
    "cat": "Foreninger"
+  },
+  {
+   "key": "i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift",
+   "source": "Minbåd.dk",
+   "date": "2026-07-15",
+   "title": "I Vejle er gummibåde velkomne uden fuld havneafgift",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/july/article/i-vejle-er-gummibaade-velkomne-uden-fuld-havneafgift/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/1/csm_vejle_0190627_174523_cac080c64d.jpg",
+   "cat": "Regler & takster"
   },
   {
    "key": "sejlere-dropper-norge-efter-kontrol-fra-kystvakten",
