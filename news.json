@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T17:07:08+00:00",
+ "generated": "2026-11-12T22:45:26+00:00",
  "count": 1104,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 804,
@@ -263,7 +263,7 @@
    "date": "2026-11-08",
    "title": "Ny bog: Fra Montenegro til Danmark i flodbåd - med kvindelig fantasi som medpassager",
    "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_l_80_Zell_am_See_og_vin_4e57089242.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_l_80_Zell_am_See_og_vin_4e14fb661c.jpeg",
    "cat": "Kultur & folk"
   },
   {
@@ -290,7 +290,7 @@
    "date": "2026-11-07",
    "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_68c5b6d385.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
    "cat": "Kapsejlads"
   },
   {
@@ -330,6 +330,15 @@
    "cat": "Kapsejlads"
   },
   {
+   "key": "traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol",
+   "source": "Minbåd.dk",
+   "date": "2026-11-06",
+   "title": "Trænede polske sejlere til VM-bronze – nu skal han føre danske 49erFX-sejlere mod OL",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_trae_2026-11-06T094435.146_eec7ac64cf.jpg",
+   "cat": "Foreninger"
+  },
+  {
    "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
    "source": "Minbåd.dk",
    "date": "2026-11-06",
@@ -337,15 +346,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_4e50d7f6f5.jpg",
    "cat": "Udstyr & både"
-  },
-  {
-   "key": "traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol",
-   "source": "Minbåd.dk",
-   "date": "2026-11-06",
-   "title": "Trænede polske sejlere til VM-bronze – nu skal han føre danske 49erFX-sejlere mod OL",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/7/csm_trae_2026-11-06T094435.146_b0b6cb1f17.jpg",
-   "cat": "Foreninger"
   },
   {
    "key": "baadmagasinet-34544",
@@ -380,7 +380,7 @@
    "date": "2026-11-05",
    "title": "Tre trimaraner kæntret i Route du Rhum – alle solosejlere reddet fra Atlanterhavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/november/article/tre-trimaraner-kaentret-i-route-du-rhum-alle-solosejlere-reddet-fra-atlanterhavet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_kaentre_leves_50nload_1799917b0b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_kaentre_leves_50nload_8e84267158.png",
    "cat": "Kapsejlads",
    "tjek": "2026-11-12"
   },
