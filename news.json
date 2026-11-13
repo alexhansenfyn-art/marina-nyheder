@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T11:02:41+00:00",
- "count": 1108,
+ "generated": "2026-11-13T18:33:06+00:00",
+ "count": 1109,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 808,
+ "arkiv_antal": 809,
  "errors": [],
  "items": [
   {
@@ -320,6 +320,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_157ac15579.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/windsurfing-til-de-yngste",
+   "source": "Dansk Sejlunion",
+   "date": "2026-11-08",
+   "title": "Windsurfing til de yngste",
+   "url": "https://dansksejlunion.dk/nyheder/2026/windsurfing-til-de-yngste",
+   "img": "https://dansksejlunion.dk/media/1cglpd4m/6.jpg?width=1200&height=630",
+   "cat": "Foreninger"
   },
   {
    "key": "29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige",
@@ -2878,16 +2887,6 @@
    "cat": "Sikkerhed",
    "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
    "tjek": "2026-10-08"
-  },
-  {
-   "key": "anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder",
-   "source": "Minbåd.dk",
-   "date": "2026-09-23",
-   "title": "Anders Johansen i JPK 10.30 sejlede sit hårdeste og hurtigste Silverrudder",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/anders-johansen-i-jpk-1030-sejlede-sit-haardeste-og-hurtigste-silverrudder/",
-   "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/1/csm_lillebaeltsbro_049_28407678048882371_8475152847201633621_n_21fd76a205.jpg",
-   "tjek": "2026-10-07"
   }
  ]
 }
