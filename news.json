@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T18:33:06+00:00",
- "count": 1109,
+ "generated": "2026-11-13T23:55:17+00:00",
+ "count": 1110,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 809,
+ "arkiv_antal": 810,
  "errors": [],
  "items": [
   {
@@ -50,6 +50,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34555-tre-danske-drager-klar-til-vm-i-hong-kong-kan-de-blande-sig-i-toppen",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/dragon_worlds.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/bekendtgoerelsen-om-nye-proevekrav-til-fritidssejlerbeviser-er-nu-i-hoering",
+   "source": "Dansk Sejlunion",
+   "date": "2026-11-13",
+   "title": "Bekendtgørelsen om nye prøvekrav til fritidssejlerbeviser er nu i høring",
+   "url": "https://dansksejlunion.dk/nyheder/2026/bekendtgoerelsen-om-nye-proevekrav-til-fritidssejlerbeviser-er-nu-i-hoering",
+   "img": "https://dansksejlunion.dk/media/wrtlt4ib/dsc_1300-2.png?width=1200&height=630",
+   "cat": "Regler & takster"
   },
   {
    "key": "le-cleach-frygtede-for-sit-liv-da-32-meter-trimaran-vaeltede-om-natten-i-40-knobs-vindstoed",
@@ -2877,16 +2886,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34451-arets-havn-kun-en-uge-tilbage-hvilken-dansk-havn-fortjener-titlen",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_kerteminde_marina_drone_2.jpg",
    "cat": "Jubilæum / priser"
-  },
-  {
-   "key": "soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-23",
-   "title": "Søsportens Sikkerhedsråd til solosejlere: Har du en plan for at komme om bord igen?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/23/september/article/soesportens-sikkerhedsraad-til-solosejlere-har-du-en-plan-for-at-komme-om-bord-igen/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/6/1/csm_sil_1679_10165211430632859_2048160122396354570_n_cc90dff8b9.jpg",
-   "tjek": "2026-10-08"
   }
  ]
 }
