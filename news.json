@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-14T19:12:01+00:00",
- "count": 1113,
+ "generated": "2026-11-14T23:00:25+00:00",
+ "count": 1114,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 813,
+ "arkiv_antal": 814,
  "errors": [],
  "items": [
   {
-   "key": "sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade",
+   "key": "saadan-bygger-x-yachts-sine-baade-i-polen",
    "source": "Minbåd.dk",
    "date": "2026-11-14",
-   "title": "Sune og Amalie fik 18 tons stålbåd gratis – nu har de brugt 500.000 kr. - se 4 husbåde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_d8909ac3fa.jpeg",
-   "cat": "Kultur & folk"
+   "title": "Sådan bygger X-Yachts sine både i Polen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/saadan-bygger-x-yachts-sine-baade-i-polen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_Glansfulde_baadhuller_og_groen_stoebeform_2727c042de.png",
+   "cat": "Udstyr & både"
   },
   {
    "key": "marinecork-korken-der-udfordrer-teak-som-baaddaek",
@@ -22,6 +22,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/november/article/marinecork-korken-der-udfordrer-teak-som-baaddaek/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_cork_decking_2021-5_da709f10df.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade",
+   "source": "Minbåd.dk",
+   "date": "2026-11-14",
+   "title": "Sune og Amalie fik 18 tons stålbåd gratis – nu har de brugt 500.000 kr. - se 4 husbåde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_61dcfe86b8.jpeg",
+   "cat": "Kultur & folk"
   },
   {
    "key": "baadmagasinet-34557",
@@ -38,7 +47,7 @@
    "date": "2026-11-13",
    "title": "Ralph Jensen har på 10 år brugt 8.600 timer og 766.000 kroner på sin Thurø 33",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/november/article/ralph-jensen-har-paa-10-aar-brugt-8000-timer-og-700000-kroner-paa-sin-thuroe-33/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_IMG_20260831_184802_db15d39804.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_IMG_20260831_184802_a5dab23636.jpg",
    "cat": "Kultur & folk"
   },
   {
@@ -214,15 +223,6 @@
    "cat": "Udstyr & både"
   },
   {
-   "key": "tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner",
-   "source": "Minbåd.dk",
-   "date": "2026-11-10",
-   "title": "Tre sejl i ét: Elvstrøm Sails gør medvindssejlads lettere med Blue Water Runner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_8f9b034774.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "middelhavet-bliver-mere-voldsomt-33-grader-i-vandet-og-oedelagte-baade-i-havnene",
    "source": "Minbåd.dk",
    "date": "2026-11-10",
@@ -230,6 +230,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/middelhavet-bliver-mere-voldsomt-33-grader-i-vandet-og-oedelagte-baade-i-havnene/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_Stormfulde_boelger_og_strandede_sejlbaade_973a58f2b5.png",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner",
+   "source": "Minbåd.dk",
+   "date": "2026-11-10",
+   "title": "Tre sejl i ét: Elvstrøm Sails gør medvindssejlads lettere med Blue Water Runner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_8f9b034774.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "dan-cort-joergensen-haedret-for-sin-indsats-for-sikkerheden-til-soes",
@@ -282,7 +291,7 @@
    "date": "2026-11-09",
    "title": "70-årig solosejler slog hovedet på Atlanten og mistede førligheden i venstre arm",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_63aeda73c7.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_f6d21ca062.png",
    "cat": "Sikkerhed"
   },
   {
@@ -300,7 +309,7 @@
    "date": "2026-11-09",
    "title": "Drop tung vinterpresenning – Toptex vejer kun 160 gram pr. kvadratmeter og lader båden ånde",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/drop-tung-vinterpresenning-toptex-vejer-kun-160-gram-pr-kvadratmeter-og-lader-baaden-aande/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_toptex1107_125731_6e7f824420.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_toptex1107_125731_a63f1d413f.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -372,7 +381,7 @@
    "date": "2026-11-07",
    "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_68c5b6d385.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
    "cat": "Kapsejlads",
    "tjek": "2026-11-14"
   },
@@ -482,7 +491,7 @@
    "date": "2026-11-05",
    "title": "Tre trimaraner kæntret i Route du Rhum – alle solosejlere reddet fra Atlanterhavet",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/november/article/tre-trimaraner-kaentret-i-route-du-rhum-alle-solosejlere-reddet-fra-atlanterhavet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_kaentre_leves_50nload_8e84267158.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/c/csm_kaentre_leves_50nload_f4973cc808.png",
    "cat": "Kapsejlads",
    "tjek": "2026-11-14"
   },
@@ -492,7 +501,7 @@
    "date": "2026-11-05",
    "title": "Vandsportsklubber kan søge penge til skolesamarbejder gennem Hempel Fondens Søsat-puljen",
    "url": "https://minbaad.dk/nyhed/archive/2026/05/november/article/vandsportsklubber-kan-soege-penge-til-skolesamarbejder-gennem-hempel-fondens-soesat-puljen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_Foto_PerArnesen_DSC0052_71b4fa03af.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/a/csm_Foto_PerArnesen_DSC0052_0e8c17ac70.jpg",
    "cat": "Andet",
    "tjek": "2026-11-14"
   },
@@ -572,7 +581,7 @@
    "date": "2026-11-04",
    "title": "Bådbranchen har brug for en stærk boot Düsseldorf messe",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/baadbranchen-har-brug-for-en-staerk-boot-duesseldorf-messe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/e/csm_soeren_og_troels_c876-4669-991c-50476c991d6d_989eba08c2.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/e/csm_soeren_og_troels_c876-4669-991c-50476c991d6d_288027354d.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-14"
   },
@@ -592,7 +601,7 @@
    "date": "2026-11-04",
    "title": "Blødt dæk på båden? Sådan reparerer du skader under glasfiberen",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/bloedt-daek-paa-baaden-saadan-reparerer-du-skader-under-glasfiberen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_hh_top_fe8-3763-4728-8125-e398bbef9868_4533d28852.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/1/csm_hh_top_fe8-3763-4728-8125-e398bbef9868_809dc2b491.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-14"
   },
@@ -683,7 +692,7 @@
    "date": "2026-11-03",
    "title": "BOAT SHOW i Fredericia bliver hvert 2. år - næste udgave i foråret 2028",
    "url": "https://minbaad.dk/nyhed/archive/2026/03/november/article/boat-show-i-fredericia-bliver-hvert-2-aar-naeste-udgave-i-foraaret-2028/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_535805327d.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/5/6/csm_Boat_Show_2026_Billede_1_ef534fa00a.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-14"
   },
@@ -2878,16 +2887,6 @@
    "cat": "Udstyr & både",
    "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg",
    "tjek": "2026-10-07"
-  },
-  {
-   "key": "litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen",
-   "source": "Minbåd.dk",
-   "date": "2026-09-24",
-   "title": "Litiumbatteri som startbatteri? BMS’en kan sætte grænsen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/litiumbatteri-som-startbatteri-bmsen-kan-saette-graensen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/a/csm_bat_40579_58cbf28de6.png",
-   "cat": "Udstyr & både",
-   "tjek": "2026-10-05"
   }
  ]
 }
