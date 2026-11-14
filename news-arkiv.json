@@ -1,7 +1,26 @@
 {
- "generated": "2026-11-14T06:27:36+00:00",
- "count": 811,
+ "generated": "2026-11-14T13:50:02+00:00",
+ "count": 813,
  "items": [
+  {
+   "key": "baadmagasinet-34452",
+   "source": "Bådmagasinet",
+   "date": "2026-09-24",
+   "title": "Swan bygger den største sejlbåd i værftets historie - se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34452-swan-bygger-den-storste-sejlbad-i-vaerftets-historie",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/swan_44m.jpg",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-01"
+  },
+  {
+   "key": "fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-23",
+   "title": "Fem jægere og en hund fanget i synkende jolle – kunne ikke gå ud på grund af dynd",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/september/article/fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_63513616a6.jpg",
+   "cat": "Sikkerhed"
+  },
   {
    "key": "baadmagasinet-34451",
    "source": "Bådmagasinet",
@@ -57,7 +76,7 @@
    "date": "2026-09-22",
    "title": "Askeladden-navnet overlever konkurs med bådserie under 7 meter",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/september/article/askeladden-navnet-overlever-konkurs-med-baadserie-under-7-meter/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/f/csm_askeladd1_65cb991068.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/f/csm_askeladd1_22de54775f.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -939,9 +958,9 @@
    "date": "2026-09-09",
    "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg",
    "cat": "Udstyr & både",
-   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator."
+   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg"
   },
   {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
@@ -1560,15 +1579,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_hanse_2.jpg"
   },
   {
-   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-31",
-   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
-   "cat": "Havneliv",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg"
-  },
-  {
    "key": "marinaguide-nyt-flydende-shelter-i-bogense-havn-marina",
    "source": "MarinaGuide",
    "date": "2026-08-31",
@@ -1576,6 +1586,15 @@
    "url": "https://marinaguide.dk/nyhed/nyt-flydende-shelter-i-bogense-havn-marina",
    "img": "https://marinaguide.dk/fileadmin/_processed_/7/c/csm_Bogense_Shelter_ab06f704d5.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-31",
+   "title": "DM i Fladfisk 2026: Danmarks største og hyggeligste fiskestævne klar til start",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/august/article/dm-i-fladfisk-2026-danmarks-stoerste-og-hyggeligste-fiskestaevne-klar-til-start/",
+   "cat": "Havneliv",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/a/csm_fl_IMG_20190908_074307_b0d7619bf7.jpg"
   },
   {
    "key": "57-fods-sejlbaad-er-stadig-strandet-ved-langeland-rune-faldt-i-soevn-for-anker",
