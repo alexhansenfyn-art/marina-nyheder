@@ -1,10 +1,19 @@
 {
- "generated": "2026-11-15T02:42:34+00:00",
+ "generated": "2026-11-15T09:58:07+00:00",
  "count": 1114,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 814,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34557",
+   "source": "Bådmagasinet",
+   "date": "2026-11-15",
+   "title": "Ingen skibe i sigte – alligevel kostede sejlturen 5.000 kroner",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34557-ingen-skibe-i-sigte-alligevel-kostede-sejlturen-5-000-kroner",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/sy_asta_ais_.jpeg",
+   "cat": "Regler & takster"
+  },
   {
    "key": "saadan-bygger-x-yachts-sine-baade-i-polen",
    "source": "Minbåd.dk",
@@ -31,15 +40,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_61dcfe86b8.jpeg",
    "cat": "Kultur & folk"
-  },
-  {
-   "key": "baadmagasinet-34557",
-   "source": "Bådmagasinet",
-   "date": "2026-11-14",
-   "title": "Ingen skibe i sigte – alligevel kostede sejlturen 5.000 kroner",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34557-ingen-skibe-i-sigte-alligevel-kostede-sejlturen-5-000-kroner",
-   "img": "https://www.baadmagasinet.dk/images/-----nov26/sy_asta_ais_.jpeg",
-   "cat": "Regler & takster"
   },
   {
    "key": "ralph-jensen-har-paa-10-aar-brugt-8000-timer-og-700000-kroner-paa-sin-thuroe-33",
@@ -187,21 +187,21 @@
    "cat": "Jubilæum / priser"
   },
   {
-   "key": "baadmagasinet-34553",
-   "source": "Bådmagasinet",
-   "date": "2026-11-11",
-   "title": "RORC Transatlantic Race: Hvem kan slå Raven? Se video",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34553-rorc-transatlantic-race-hvem-kan-sla-raven-se-video",
-   "img": "https://www.baadmagasinet.dk/images/-----nov26/raven_video.jpg",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "baadmagasinet-34552",
    "source": "Bådmagasinet",
    "date": "2026-11-11",
    "title": "E1: Tom Brady og Will Smith klar til sæsonfinale i Miami",
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34552-e1-tom-brady-og-will-smith-klar-til-saesonfinale-i-miami",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/e1_finale.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34553",
+   "source": "Bådmagasinet",
+   "date": "2026-11-11",
+   "title": "RORC Transatlantic Race: Hvem kan slå Raven? Se video",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34553-rorc-transatlantic-race-hvem-kan-sla-raven-se-video",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/raven_video.jpg",
    "cat": "Kapsejlads"
   },
   {
