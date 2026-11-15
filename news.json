@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-15T17:14:11+00:00",
- "count": 1115,
+ "generated": "2026-11-15T21:52:02+00:00",
+ "count": 1116,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 815,
+ "arkiv_antal": 816,
  "errors": [],
  "items": [
   {
@@ -49,6 +49,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_c97be0fb57.jpeg",
    "cat": "Kultur & folk"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/her-er-vinderne-af-aarets-sejler-awards-2026",
+   "source": "Dansk Sejlunion",
+   "date": "2026-11-14",
+   "title": "Her er vinderne af årets Sejler Awards 2026",
+   "url": "https://dansksejlunion.dk/nyheder/2026/her-er-vinderne-af-aarets-sejler-awards-2026",
+   "img": "https://dansksejlunion.dk/media/op2ghv4l/052a9114.jpg?width=1200&height=630",
+   "cat": "Jubilæum / priser"
   },
   {
    "key": "ralph-jensen-har-paa-10-aar-brugt-8000-timer-og-700000-kroner-paa-sin-thuroe-33",
@@ -2876,16 +2885,6 @@
    "img": "https://dansksejlunion.dk/media/ub5iizdl/skaermbillede-2025-12-02-kl-115622.png?width=1200&height=630",
    "cat": "Foreninger",
    "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
-  },
-  {
-   "key": "kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere",
-   "source": "Minbåd.dk",
-   "date": "2026-09-24",
-   "title": "Kong Harald var en af os – nu skal sejlsporten åbne døren for flere",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere/",
-   "cat": "Kultur & folk",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_042a6dc596.png",
-   "tjek": "2026-10-09"
   }
  ]
 }
