@@ -1,10 +1,19 @@
 {
- "generated": "2026-11-15T09:58:07+00:00",
- "count": 1114,
+ "generated": "2026-11-15T17:14:11+00:00",
+ "count": 1115,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 814,
+ "arkiv_antal": 815,
  "errors": [],
  "items": [
+  {
+   "key": "kunstteak-loefter-dyrlaegens-first-407-foer-saesonstart",
+   "source": "Minbåd.dk",
+   "date": "2026-11-15",
+   "title": "Kunstteak og maling af fribord løfter dyrlægens First 40.7",
+   "url": "https://minbaad.dk/nyhed/archive/2026/15/november/article/kunstteak-loefter-dyrlaegens-first-407-foer-saesonstart/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_top_IMG_20260522_151020_0eeab8e41f.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "baadmagasinet-34557",
    "source": "Bådmagasinet",
@@ -13,15 +22,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34557-ingen-skibe-i-sigte-alligevel-kostede-sejlturen-5-000-kroner",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/sy_asta_ais_.jpeg",
    "cat": "Regler & takster"
-  },
-  {
-   "key": "saadan-bygger-x-yachts-sine-baade-i-polen",
-   "source": "Minbåd.dk",
-   "date": "2026-11-14",
-   "title": "Sådan bygger X-Yachts sine både i Polen",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/saadan-bygger-x-yachts-sine-baade-i-polen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_Glansfulde_baadhuller_og_groen_stoebeform_2727c042de.png",
-   "cat": "Udstyr & både"
   },
   {
    "key": "marinecork-korken-der-udfordrer-teak-som-baaddaek",
@@ -33,12 +33,21 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "saadan-bygger-x-yachts-sine-baade-i-polen",
+   "source": "Minbåd.dk",
+   "date": "2026-11-14",
+   "title": "Sådan bygger X-Yachts sine både i Polen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/saadan-bygger-x-yachts-sine-baade-i-polen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_Glansfulde_baadhuller_og_groen_stoebeform_f4ebf68149.png",
+   "cat": "Udstyr & både"
+  },
+  {
    "key": "sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade",
    "source": "Minbåd.dk",
    "date": "2026-11-14",
    "title": "Sune og Amalie fik 18 tons stålbåd gratis – nu har de brugt 500.000 kr. - se 4 husbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_61dcfe86b8.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_c97be0fb57.jpeg",
    "cat": "Kultur & folk"
   },
   {
@@ -291,7 +300,7 @@
    "date": "2026-11-09",
    "title": "70-årig solosejler slog hovedet på Atlanten og mistede førligheden i venstre arm",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_f6d21ca062.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_63aeda73c7.png",
    "cat": "Sikkerhed"
   },
   {
@@ -309,7 +318,7 @@
    "date": "2026-11-09",
    "title": "Drop tung vinterpresenning – Toptex vejer kun 160 gram pr. kvadratmeter og lader båden ånde",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/drop-tung-vinterpresenning-toptex-vejer-kun-160-gram-pr-kvadratmeter-og-lader-baaden-aande/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_toptex1107_125731_a63f1d413f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_toptex1107_125731_6e7f824420.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -340,16 +349,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
-   "source": "Minbåd.dk",
-   "date": "2026-11-08",
-   "title": "Sejlbåd fik hul i skroget langt fra kysten – fem sejlere reddet",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_6d562c7687.png",
-   "cat": "Sikkerhed",
-   "tjek": "2026-11-15"
-  },
-  {
    "key": "ny-bog-fra-montenegro-til-danmark-i-flodbaad-med-kvindelig-fantasi-som-medpassager",
    "source": "Minbåd.dk",
    "date": "2026-11-08",
@@ -360,12 +359,22 @@
    "tjek": "2026-11-15"
   },
   {
-   "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
+   "key": "sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet",
    "source": "Minbåd.dk",
    "date": "2026-11-08",
+   "title": "Sejlbåd fik hul i skroget langt fra kysten – fem sejlere reddet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/sejlbaad-fik-hul-i-skroget-langt-fra-kysten-fem-sejlere-reddet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/2/csm_Natsejlads_med_X-50-besaetning_bccd0024c2.png",
+   "cat": "Sikkerhed",
+   "tjek": "2026-11-15"
+  },
+  {
+   "key": "saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader",
+   "source": "Motorbådsnyt",
+   "date": "2026-11-08",
    "title": "Sådan vinterkonserverer du din påhængsmotor – undgå dyre skader",
-   "url": "https://minbaad.dk/nyhed/archive/2026/08/november/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_157ac15579.jpg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/november/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_b2255c3898.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-15"
   },
@@ -455,7 +464,7 @@
    "date": "2026-11-06",
    "title": "Ny Sargo 32 får mere plads og kan nøjes med én motor",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_a1726d8a82.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_66bdcf4380.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-15"
   },
@@ -875,7 +884,7 @@
    "date": "2026-10-31",
    "title": "Test: Poca 600 MK4 klarer både to tons fisk og 53 knob",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/31/october/article/test-poca-600-mk4-klarer-baade-to-tons-fisk-og-53-knob/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_ec8d90124d.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_p_0260917_101817_a7e4b7aa42.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -921,7 +930,7 @@
    "date": "2026-10-30",
    "title": "Beskyt båd og campingvogn mod fugt med DRY-BAG, der kan bruges igen og igen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/october/article/beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_92b7ac6457.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_d98ae7c496.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1452,7 +1461,7 @@
    "date": "2026-10-20",
    "title": "Helly Hansens Odin Lifa Pro Belay Jacket med lette LIFA-fibre® er til vinteren, der aldrig stopper",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/october/article/helly-hansens-odin-lifa-pro-belay-jacket-med-lette-lifa-fibre-er-til-de-kolde-vintermaaneder/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_Lifa_Pro_Belay_63108_606_HERO__top_91747baa74.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/1/csm_Lifa_Pro_Belay_63108_606_HERO__top_9e444b2dc1.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1585,7 +1594,7 @@
    "date": "2026-10-18",
    "title": "To fiskere kæntrede syv kilometer fra land i Ringkøbing Fjord",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/18/october/article/to-fiskere-kaentrede-syv-kilometer-fra-land-i-ringkoebing-fjord/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/f/csm_hvide_sande_6356_1057862083933207_5246968273519471442_n_adc6c9d57c.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/2/f/csm_hvide_sande_6356_1057862083933207_5246968273519471442_n_cb89103052.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -2253,7 +2262,7 @@
    "date": "2026-10-03",
    "title": "Rurer på propellen er sejlerens plage – Seajet Pellerclean er løsning i tre sæsoner",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/03/october/article/rurer-paa-propellen-er-sejlerens-plage-seajet-pellerclean-er-loesning-i-tre-saesoner/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_e61d912ed0.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/b/csm_propel_-MG_20260501_142439_f08072928a.jpg",
    "cat": "Udstyr & både",
    "sum": "Seajet Pellerclean er en biocidfri beskyttelse mod begroning på propeller, drev og trimflaps, som ifølge producenten holder op til tre sæsoner."
   },
@@ -2302,7 +2311,7 @@
    "date": "2026-10-02",
    "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/october/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_d3bd51f4c0.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_5598a2c768.jpg",
    "cat": "Regler & takster",
    "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
   },
@@ -2759,7 +2768,7 @@
    "date": "2026-09-25",
    "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_5acbaebf84.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2877,16 +2886,6 @@
    "cat": "Kultur & folk",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/3/csm_konge_h_4827_042a6dc596.png",
    "tjek": "2026-10-09"
-  },
-  {
-   "key": "shogun-69-svensk-fartmaskine-kan-sejles-doublehanded",
-   "source": "Minbåd.dk",
-   "date": "2026-09-24",
-   "title": "Shogun 69: Svensk fartmaskine kan sejles doublehanded",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/september/article/shogun-69-svensk-fartmaskine-kan-sejles-doublehanded/",
-   "cat": "Udstyr & både",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/e/csm_Shogun_69.2049_copy_f9b55a06ab.jpg",
-   "tjek": "2026-10-07"
   }
  ]
 }
