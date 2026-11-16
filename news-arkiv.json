@@ -1,7 +1,37 @@
 {
- "generated": "2026-11-16T02:11:35+00:00",
- "count": 817,
+ "generated": "2026-11-16T09:47:30+00:00",
+ "count": 820,
  "items": [
+  {
+   "key": "dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Dansk sejlkoncept LeanSails udvider til Sverige og Norge",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/d/csm_lean_04-21-26_at_03.14_PM__1__3d29984204.png",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-07"
+  },
+  {
+   "key": "baadmagasinet-34454",
+   "source": "Bådmagasinet",
+   "date": "2026-09-25",
+   "title": "Søsportens Sikkerhedsråd kommer med opfordring - men hvad ligger bag tallene?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34454-silvrrudder-fik-sosportens-sikkerhedsrad-til-tasterne-og-kommer-med-opfordring",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_billede_solosejlads_2.jpg",
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-02"
+  },
+  {
+   "key": "baadmagasinet-34453",
+   "source": "Bådmagasinet",
+   "date": "2026-09-25",
+   "title": "Live fra Napoli: Gentager Luna Rossa og New Zealand finalen i Napoli?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/93-america-s-cup/34453-gentager-luna-rossa-og-new-zealand-finalen-i-napoli",
+   "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-02"
+  },
   {
    "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
    "source": "Dansk Sejlunion",
@@ -742,9 +772,9 @@
    "date": "2026-09-13",
    "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg",
    "cat": "Jubilæum / priser",
-   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne."
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
