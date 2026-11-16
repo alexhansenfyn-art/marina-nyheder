@@ -1,7 +1,64 @@
 {
- "generated": "2026-11-16T09:47:30+00:00",
- "count": 820,
+ "generated": "2026-11-16T19:54:58+00:00",
+ "count": 826,
  "items": [
+  {
+   "key": "soesport-solosejlere-loeber-en-stoerre-risiko",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Solosejlere løber en større risiko",
+   "url": "https://www.soesport.dk/nyheder/presse/solosejlere-loeber-en-stoerre-risiko",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639259230047231138/_8025703.JPG?width=1024&height=512&format=JPG&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-hvorfor-er-der-blaat-lys-paa-raadhuspladsen-i-koebenhavn-jysk-arena-i-silkeborg-og-i-korsoer",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Hvorfor er der blåt lys på Rådhuspladsen i København, Jysk Arena i Silkeborg og i Korsør?",
+   "url": "https://www.soesport.dk/nyheder/presse/hvorfor-er-der-blaat-lys-paa-raadhuspladsen-i-koebenhavn-jysk-arena-i-silkeborg-og-i-korsoer",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/638918107416867955/ALLE9557.JPG?width=1024&height=512&format=JPG&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-onboard-paa-rette-kurs-med-dobbelt-saa-mange-brugere-end-sejlsikkert-alarm-appen",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-25",
+   "title": "Onboard på rette kurs - med dobbelt så mange brugere end SejlSikkert Alarm-appen",
+   "url": "https://www.soesport.dk/nyheder/presse/onboard-paa-rette-kurs-med-dobbelt-saa-mange-brugere-end-sejlsikkert-alarm-appen",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639040603930432868/Onboard%20tile.svg?width=1024&height=512&format=svg&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Sådan monterer du din båds presenning med mast på - på en stille dag med en ven",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/saadan-monterer-du-din-baads-presenning-med-mast-paa-gor-det-paa-en-stille-dag-med-en-ven/",
+   "cat": "Udstyr & både",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/7/csm_pressenning_hal_paa_gp_covers_140e269147.jpg",
+   "tjek": "2026-10-11"
+  },
+  {
+   "key": "ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "AC40 røg rundt før starten på dramatisk America's Cup-dag",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/ac40-roeg-rundt-foer-starten-paa-dramatisk-americas-cup-dag/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/3/csm_a_76610_18347501965270360_3434820646439280203_n_1c4e100482.jpg",
+   "tjek": "2026-10-09"
+  },
+  {
+   "key": "alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen",
+   "source": "Minbåd.dk",
+   "date": "2026-09-25",
+   "title": "Alfred og Loke vil til OL i 49er – tirsdag fortæller de om vejen",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/september/article/alfred-og-loke-vil-til-ol-i-49er-tirsdag-fortaeller-de-om-vejen/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/9/csm_t_0R2A3579_65cbdc6ea5.jpg",
+   "tjek": "2026-10-08"
+  },
   {
    "key": "dansk-sejlkoncept-leansails-udvider-til-sverige-og-norge",
    "source": "Minbåd.dk",
