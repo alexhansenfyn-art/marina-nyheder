@@ -1,7 +1,35 @@
 {
- "generated": "2026-11-17T02:57:34+00:00",
- "count": 826,
+ "generated": "2026-11-17T11:56:25+00:00",
+ "count": 829,
  "items": [
+  {
+   "key": "baadmagasinet-34456",
+   "source": "Bådmagasinet",
+   "date": "2026-09-26",
+   "title": "Nedtællingen til 2027-udgaven er begyndt",
+   "url": "https://www.baadmagasinet.dk/volvo-ocean-race/34456-nedtaellingen-til-the-ocean-race-2027-er-begyndt",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/theoceanrace_countdown.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-03"
+  },
+  {
+   "key": "test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-25",
+   "title": "Test: Yamarin Aura Cabin med 700 hk – 44 knob var rigeligt",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/25/september/article/test-yamarin-aura-cabin-med-700-hk-44-knob-var-rigeligt/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/1/7/csm_ya__ou26D_40e7177b60.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
+   "source": "Dansk Sejlunion",
+   "date": "2026-09-25",
+   "title": "Information om kommende prøvekrav til fritidssejladsprøver",
+   "url": "https://dansksejlunion.dk/nyheder/2026/information-om-kommende-proevekrav-til-fritidssejladsproever",
+   "img": "https://dansksejlunion.dk/media/5toe3v3n/2019-10-05_0079e.jpg?width=1200&height=630",
+   "cat": "Regler & takster"
+  },
   {
    "key": "soesport-solosejlere-loeber-en-stoerre-risiko",
    "source": "Søsportens Sikkerhedsråd",
