@@ -1,7 +1,35 @@
 {
- "generated": "2026-11-18T11:46:46+00:00",
- "count": 840,
+ "generated": "2026-11-18T19:39:11+00:00",
+ "count": 842,
  "items": [
+  {
+   "key": "dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret",
+   "source": "Minbåd.dk",
+   "date": "2026-09-28",
+   "title": "Dansk Søredningsselskab vil flytte søredningen væk fra Forsvaret",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/dansk-soeredningsselskab-vil-flytte-soeredningen-vaek-fra-forsvaret/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/b/csm_sar_soeredningf_i_rudkoebing_udrykning_67b32f4e2a.jpg",
+   "tjek": "2026-10-22"
+  },
+  {
+   "key": "sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade",
+   "source": "Minbåd.dk",
+   "date": "2026-09-28",
+   "title": "Sejlbåd kolliderer med hval – fire sejlere reddet efter 17 timer i redningsflåde - nu video",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/sejlbaad-kolliderer-med-hval-fire-sejlere-reddet-efter-17-timer-i-redningsflaade/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_synk__unclas_01__focusfillwyiwljawiiwimc4wmcismtawmcw1ntbd_469c25052b.jpg"
+  },
+  {
+   "key": "kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm",
+   "source": "Minbåd.dk",
+   "date": "2026-09-28",
+   "title": "Kim Christensen kan ikke stoppe med at vinde - nu til J/70 DM",
+   "url": "https://minbaad.dk/nyhed/archive/2026/28/september/article/kim-christensen-kan-ikke-stoppe-med-at-vinde-nu-til-j-70-dm/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/e/csm_Kim_Christensen_vandt_DM_ss3_22f468bc7c.jpg"
+  },
   {
    "key": "svensk-sejler-kom-foerst-frem-til-kaentret-trimaran-i-silverrudder-se-video-fra-redningen",
    "source": "Minbåd.dk",
@@ -233,16 +261,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----maj26/rsz_1luna.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-10-02"
-  },
-  {
-   "key": "dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "source": "Dansk Sejlunion",
-   "date": "2026-09-24",
-   "title": "Klubkonference 2026",
-   "url": "https://dansksejlunion.dk/nyheder/2025/klubkonference-2026",
-   "img": "https://dansksejlunion.dk/media/ub5iizdl/skaermbillede-2025-12-02-kl-115622.png?width=1200&height=630",
-   "cat": "Foreninger",
-   "sum": "Artiklen annoncerer årets klubkonference i Aarhus Int. Sejlsportscenter den 14. november 2026 med program for sejlklubber, netværk og foredrag."
   },
   {
    "key": "kong-harald-var-en-af-os-nu-skal-sejlsporten-aabne-doeren-for-flere",
@@ -525,8 +543,8 @@
    "date": "2026-09-19",
    "title": "Sådan halverer du brændstofforbruget på din motorbåd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/19/september/article/saadan-halverer-du-braendstofforbruget-paa-din-motorbaad/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/8/csm__ryds_650_planer_agten_99efc076fe_337367ce03.jpg"
   },
   {
    "key": "dansksejlunion.dk/nyheder/2026/godt-gaaet-sejlsportsligaen-faar-nyt-liv-i-klubbernes-haender",
