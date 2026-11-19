@@ -1,10 +1,19 @@
 {
- "generated": "2026-11-19T01:32:21+00:00",
- "count": 1142,
+ "generated": "2026-11-19T09:32:31+00:00",
+ "count": 1143,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 842,
+ "arkiv_antal": 843,
  "errors": [],
  "items": [
+  {
+   "key": "baadmagasinet-34567",
+   "source": "Bådmagasinet",
+   "date": "2026-11-19",
+   "title": "Afslutter sæsonen i Mellemøsten - er sikkerheden på plads?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34567-hvem-vinder",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/finale_sailgp.jpeg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "skipper-afviste-hjaelp-i-fire-meter-hoeje-boelger-maatte-senere-reddes-med-helikopter",
    "source": "Minbåd.dk",
@@ -40,6 +49,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/18/november/article/hankoe70-jakke-fra-elvstroem-sailwear-til-skiftende-vejr-ved-kysten/",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_DSC01222_48011f7d47.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansketursejlere-der-har-vaeret-gang-i-den-hos-danske-tursejlere",
+   "source": "Danske Tursejlere",
+   "date": "2026-11-18",
+   "title": "Der har været gang i den hos Danske Tursejlere",
+   "url": "https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/11/20261112_154121-scaled-e1795010004592-1024x510.jpg",
+   "cat": "Foreninger"
   },
   {
    "key": "baadmagasinet-34566",
@@ -94,15 +112,6 @@
    "title": "Dansk Sejlunion: World Sailing mangler retning i afgørende spørgsmål om sejlsportens OL-fremtid",
    "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-world-sailing-mangler-retning-i-afgoerende-spoergsmaal-om-sejlsportens-ol-fremtid",
    "img": "https://dansksejlunion.dk/media/osrnivmn/image000000.jpeg?width=1200&height=630",
-   "cat": "Foreninger"
-  },
-  {
-   "key": "dansketursejlere-der-har-vaeret-gang-i-den-hos-danske-tursejlere",
-   "source": "Danske Tursejlere",
-   "date": "2026-11-18",
-   "title": "Der har været gang i den hos Danske Tursejlere",
-   "url": "https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/11/20261112_154121-scaled-e1795010004592-1024x510.jpg",
    "cat": "Foreninger"
   },
   {
@@ -467,6 +476,16 @@
    "tjek": "2026-11-19"
   },
   {
+   "key": "dansketursejlere-dan-cort-joergensen-er-aarets-instruktoer-2026",
+   "source": "Danske Tursejlere",
+   "date": "2026-11-11",
+   "title": "Dan Cort Jørgensen er Årets Instruktør 2026",
+   "url": "https://dansketursejlere.dk/dan-cort-joergensen-er-aarets-instruktoer-2026/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/11/Aarets-instruktoerer-1-e1794384683958-1024x512.jpg",
+   "cat": "Jubilæum / priser",
+   "tjek": "2026-11-19"
+  },
+  {
    "key": "baadmagasinet-34552",
    "source": "Bådmagasinet",
    "date": "2026-11-11",
@@ -475,16 +494,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----nov26/e1_finale.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-19"
-  },
-  {
-   "key": "dansketursejlere-dan-cort-joergensen-er-aarets-instruktoer-2026",
-   "source": "Danske Tursejlere",
-   "date": "2026-11-11",
-   "title": "Dan Cort Jørgensen er Årets Instruktør 2026",
-   "url": "https://dansketursejlere.dk/dan-cort-joergensen-er-aarets-instruktoer-2026/",
-   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/11/Aarets-instruktoerer-1-e1794384683958-1024x512.jpg",
-   "cat": "Jubilæum / priser",
-   "tjek": "2026-11-18"
   },
   {
    "key": "baadmagasinet-34553",
@@ -873,8 +882,7 @@
    "title": "Bådbranchen har brug for en stærk boot Düsseldorf messe",
    "url": "https://minbaad.dk/nyhed/archive/2026/04/november/article/baadbranchen-har-brug-for-en-staerk-boot-duesseldorf-messe/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/e/csm_soeren_og_troels_c876-4669-991c-50476c991d6d_288027354d.png",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-19"
+   "cat": "Udstyr & både"
   },
   {
    "key": "graedende-violette-blev-kastet-rundt-i-baaden-under-voldsom-kollision-i-route-du-rhum",
@@ -2866,16 +2874,6 @@
    "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34463-dramatik-mandag-morgen-stalsejlbad-pa-grund-ved-skagen",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/skagen_redningsstation_2.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-10-06"
-  },
-  {
-   "key": "baadmagasinet-34465",
-   "source": "Bådmagasinet",
-   "date": "2026-09-29",
-   "title": "Fra flere hundrede joller til et stævne, der kan løftes: Harboe Cup har fundet sin nye størrelse",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34465-fra-flere-hundrede-joller-til-et-staevne-der-kan-loftes-harboe-cup-har-fundet-sin-nye-storrelse",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/harboe_forside.jpg",
-   "cat": "Kapsejlads",
    "tjek": "2026-10-06"
   }
  ]
