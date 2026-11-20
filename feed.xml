@@ -5,7 +5,7 @@
 <link>https://marinanyheder.dk/</link>
 <description>Nyheder om danske marinaer, lystbådehavne og gæstehavne. Opdateres automatisk flere gange om dagen.</description>
 <language>da-dk</language>
-<lastBuildDate>Thu, 19 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 08:00:00 +0000</lastBuildDate>
 <atom:link href="https://marinanyheder.dk/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Ny X4⁶ MkII sejler 7,4 knob på kryds i Lillebælt - 40 procent af vægt er i kølen</title>
@@ -64,13 +64,6 @@
 <description>Kilde: Minbåd.dk</description>
 </item>
 <item>
-<title>Der har været gang i den hos Danske Tursejlere</title>
-<link>https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/</link>
-<guid isPermaLink="true">https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<description>Kilde: Danske Tursejlere</description>
-</item>
-<item>
 <title>Dansk Sejlunion: World Sailing mangler retning i afgørende spørgsmål om sejlsportens OL-fremtid</title>
 <link>https://www.baadmagasinet.dk/nyheder/world-sailing/34566-dansk-sejlunion-world-sailing-mangler-retning-i-afgorende-sporgsmal-om-sejlsportens-ol-fremtid</link>
 <guid isPermaLink="true">https://www.baadmagasinet.dk/nyheder/world-sailing/34566-dansk-sejlunion-world-sailing-mangler-retning-i-afgorende-sporgsmal-om-sejlsportens-ol-fremtid</guid>
@@ -111,6 +104,13 @@
 <guid isPermaLink="true">https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-world-sailing-mangler-retning-i-afgoerende-spoergsmaal-om-sejlsportens-ol-fremtid</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Kilde: Dansk Sejlunion</description>
+</item>
+<item>
+<title>Der har været gang i den hos Danske Tursejlere</title>
+<link>https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/</link>
+<guid isPermaLink="true">https://dansketursejlere.dk/der-har-vaeret-gang-i-den-hos-danske-tursejlere/</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<description>Kilde: Danske Tursejlere</description>
 </item>
 <item>
 <title>Sejlerhat med indbygget hovedbeskyttelse nomineret til designpris</title>
