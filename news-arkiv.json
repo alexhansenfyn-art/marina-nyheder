@@ -1,7 +1,44 @@
 {
- "generated": "2026-11-20T08:36:17+00:00",
- "count": 848,
+ "generated": "2026-11-20T17:20:23+00:00",
+ "count": 862,
  "items": [
+  {
+   "key": "baadmagasinet-34468",
+   "source": "Bådmagasinet",
+   "date": "2026-09-30",
+   "title": "Nu siger Anne-Marie Rindom det selv - 'jeg er tilbage'",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34468-nu-siger-anne-marie-rindom-det-selv-jeg-er-tilbage",
+   "img": "https://www.baadmagasinet.dk/images/---sept24/foto_museet_for_lystsejlads_2.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-07"
+  },
+  {
+   "key": "baadmagasinet-34467",
+   "source": "Bådmagasinet",
+   "date": "2026-09-30",
+   "title": "Europe-VM til Aarhus i 27 – dansk verdensmester får hjemmebane",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34467-europe-vm-kommer-til-aarhus-dansk-verdensmester-far-hjemmebane",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/e_forside.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-07"
+  },
+  {
+   "key": "husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-29",
+   "title": "Husky R7 med 200 hk Mercury: Rå alubåd med fart og komfort",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/29/september/article/husky-r7-med-200-hk-mercury-raa-alubaad-med-fart-og-komfort/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/c/csm_r7-3_7879c7c5a2.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "soesport-aldrig-er-faerre-druknet-i-forbindelse-med-soesport",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-09-29",
+   "title": "Aldrig er færre druknet i forbindelse med søsport",
+   "url": "https://www.soesport.dk/nyheder/artikler/aldrig-er-faerre-druknet-i-forbindelse-med-soesport",
+   "cat": "Sikkerhed"
+  },
   {
    "key": "netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
    "source": "Minbåd.dk",
@@ -503,8 +540,8 @@
    "date": "2026-09-21",
    "title": "Lille fiskerbåd drev ud af Limfjorden i 20 m/sek. – reddet om natten",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/21/september/article/lille-fiskerbaad-drev-ud-af-limfjorden-i-20-m-sek-reddet-om-natten/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/1/csm_saeby_3_1600338388554925_1176460686607420344_n_76aa4fa185.jpg"
   },
   {
    "key": "silverrudder-sejler-gik-ud-paa-koelen-af-beneteau-first-18-og-faldt-i-vandet-taet-paa-at-gi-op",
@@ -2396,15 +2433,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/cbs26__01.jpg"
   },
   {
-   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
    "source": "Motorbådsnyt",
    "date": "2026-08-24",
@@ -2412,6 +2440,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
+  },
+  {
+   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -3271,6 +3308,15 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/dixi_forside.jpg"
   },
   {
+   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-11",
+   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
+  },
+  {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -3287,15 +3333,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Havneliv"
-  },
-  {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -3588,15 +3625,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
-   "cat": "Havneliv"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
@@ -3604,6 +3632,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
+   "cat": "Havneliv"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -8028,12 +8065,102 @@
    "cat": "Udstyr & både"
   },
   {
+   "key": "snestorm-tog-styringen-under-baadoptagning",
+   "source": "Minbåd.dk",
+   "date": "2012-12-23",
+   "title": "Snestorm tog styringen under bådoptagning",
+   "url": "https://minbaad.dk/nyhed/archive/2012/23/december/article/snestorm-tog-styringen-under-baadoptagning/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_m2_03_6a7ae7b0b6.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
    "key": "dansketursejlere-aarets-havn-2012",
    "source": "Danske Tursejlere",
    "date": "2012-11-25",
    "title": "Årets Havn 2012: Juelsminde Lystbådehavn",
    "url": "https://dansketursejlere.dk/aarets-havn/",
    "cat": "Jubilæum / priser"
+  },
+  {
+   "key": "ny-skovshoved-havn-klar-i-2015-hvis-pladser-saelges",
+   "source": "Minbåd.dk",
+   "date": "2012-11-08",
+   "title": "Ny Skovshoved Havn klar i 2015 hvis pladser sælges",
+   "url": "https://minbaad.dk/nyhed/archive/2012/08/november/article/ny-skovshoved-havn-klar-i-2015-hvis-pladser-saelges/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_havn_03_665a45bae9.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "take-away-paa-kajkanten",
+   "source": "Minbåd.dk",
+   "date": "2012-11-05",
+   "title": "Take-away på kajkanten",
+   "url": "https://minbaad.dk/nyhed/archive/2012/05/november/article/take-away-paa-kajkanten/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/7/csm_bistrobuhlpaamolennov_web_619d6f8ef4.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "choktal-600000-faerre-overnatninger-i-juli-i-danske-havne-siden-2006",
+   "source": "Minbåd.dk",
+   "date": "2012-11-01",
+   "title": "Choktal: 600.000 færre overnatninger i juli i danske havne siden 2006",
+   "url": "https://minbaad.dk/nyhed/archive/2012/01/november/article/choktal-600000-faerre-overnatninger-i-juli-i-danske-havne-siden-2006/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_havnodense_c01d595922.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "hygge-er-en-dag-paa-havnen",
+   "source": "Minbåd.dk",
+   "date": "2012-10-29",
+   "title": "Hygge er en dag på havnen",
+   "url": "https://minbaad.dk/nyhed/archive/2012/29/october/article/hygge-er-en-dag-paa-havnen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/2/csm_Sarah-og-Aviaja-fisker-ved-broen_web_01_b3ff7f8325.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "gaestesejlere-svigtede-ogsaa-marstal-havn-i-aar",
+   "source": "Minbåd.dk",
+   "date": "2012-10-19",
+   "title": "Gæstesejlere svigtede også Marstal Havn i år",
+   "url": "https://minbaad.dk/nyhed/archive/2012/19/october/article/gaestesejlere-svigtede-ogsaa-marstal-havn-i-aar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/c/csm_marstal_8774efa874.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "borgmester-man-skal-foele-sig-tryg-i-koebenhavns-havn",
+   "source": "Minbåd.dk",
+   "date": "2012-09-28",
+   "title": "Borgmester: Man skal føle sig tryg i Københavns Havn",
+   "url": "https://minbaad.dk/nyhed/archive/2012/28/september/article/borgmester-man-skal-foele-sig-tryg-i-koebenhavns-havn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/f/csm_pia011farve_6a1f4e8624.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "15-ud-af-14000-sejlere-blev-i-aar-taget-for-fartsejlads-i-koebenhavn",
+   "source": "Minbåd.dk",
+   "date": "2012-09-28",
+   "title": "15 ud af 14.000 sejlere blev i år taget for fartsejlads i København",
+   "url": "https://minbaad.dk/nyhed/archive/2012/28/september/article/15-ud-af-14000-sejlere-blev-i-aar-taget-for-fartsejlads-i-koebenhavn/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_kbh_havnnet_e058c5b6ab.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "vedbaek-havn-udvides-med-160-baadpladser",
+   "source": "Minbåd.dk",
+   "date": "2012-09-27",
+   "title": "Vedbæk Havn udvides med 160 bådpladser",
+   "url": "https://minbaad.dk/nyhed/archive/2012/27/september/article/vedbaek-havn-udvides-med-160-baadpladser/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/8/csm_vedbakluft_0292768a83.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "1-etape-af-fredericia-lystbaade-havn-klar",
+   "source": "Minbåd.dk",
+   "date": "2012-09-25",
+   "title": "1. etape af Fredericia Lystbåde Havn klar",
+   "url": "https://minbaad.dk/nyhed/archive/2012/25/september/article/1-etape-af-fredericia-lystbaade-havn-klar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/7/csm_fredericiahavn_luft_dc52772150.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "baadmagasinet-956",
