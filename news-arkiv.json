@@ -1,7 +1,26 @@
 {
- "generated": "2026-11-20T00:56:45+00:00",
- "count": 846,
+ "generated": "2026-11-20T08:36:17+00:00",
+ "count": 848,
  "items": [
+  {
+   "key": "netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
+   "source": "Minbåd.dk",
+   "date": "2026-09-29",
+   "title": "Netværk vil gøre langtursejlads mere tilgængelig for unge",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
+   "cat": "Tursejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/9/csm_l_2026_mikkel-juulsgaard_unge_solnedgang-org_39b5358d68.jpg"
+  },
+  {
+   "key": "autopiloten-sejlede-videre-skipper-laa-alene-i-vandet",
+   "source": "Minbåd.dk",
+   "date": "2026-09-29",
+   "title": "Autopiloten sejlede videre – skipper lå alene i vandet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/29/september/article/autopiloten-sejlede-videre-skipper-laa-alene-i-vandet/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_screenshot-2026-09-29-at-08-16-15-sviene-in-barca-e-finisce-in-acqua-salvato-un-velista-civitanovese-altri-5-minuti-e-avrei-mollato-cronache-maceratesi_e693b66678.png",
+   "tjek": "2026-10-22"
+  },
   {
    "key": "harboe-cup-gav-unge-sejlere-19-sejladser-i-skaelskoer-i-smukt-septembervejr",
    "source": "Minbåd.dk",
@@ -4935,21 +4954,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
    "title": "90 unge i 22 både indtager havnene i uge 29",
    "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-06",
+   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
    "cat": "Havneliv"
   },
   {
@@ -5459,15 +5478,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "source": "Dansk Sejlunion",
-   "date": "2026-05-22",
-   "title": "Tilmeldingen til DH-DM 2026 er åben",
-   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "slut-med-gtl-fuel",
    "source": "FLID Havne",
    "date": "2026-05-22",
@@ -5475,6 +5485,15 @@
    "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "source": "Dansk Sejlunion",
+   "date": "2026-05-22",
+   "title": "Tilmeldingen til DH-DM 2026 er åben",
+   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
@@ -5732,21 +5751,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/f/0/csm_boegeskov_havn_tilsanding_21ca60c59d.jpg"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "source": "Dansk Sejlunion",
-   "date": "2026-04-16",
-   "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
-   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
-   "img": "https://dansksejlunion.dk/media/xt4j0a1u/johanne-og-andrea-schmidt-138a9113.jpg?width=1200&height=630",
-   "cat": "Foreninger"
-  },
-  {
    "key": "dansketursejlere-pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse",
    "source": "Danske Tursejlere",
    "date": "2026-04-16",
    "title": "PRESSEMEDDELELSE: Danske Tursejlere styrker kommunikationen med ny ansættelse",
    "url": "https://dansketursejlere.dk/pressemeddelelse-danske-tursejlere-styrker-kommunikationen-med-ny-ansaettelse/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/04/mikkelpresse01-2x1-1-1024x512.jpg",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "source": "Dansk Sejlunion",
+   "date": "2026-04-16",
+   "title": "Dansk Sejlunion foreslår visionære ændringer af OL-programmet i sejlsport",
+   "url": "https://dansksejlunion.dk/nyheder/2026/dansk-sejlunion-foreslaar-visionaere-aendringer-af-ol-programmet-i-sejlsport",
+   "img": "https://dansksejlunion.dk/media/xt4j0a1u/johanne-og-andrea-schmidt-138a9113.jpg?width=1200&height=630",
    "cat": "Foreninger"
   },
   {
