@@ -1,7 +1,56 @@
 {
- "generated": "2026-11-21T04:18:41+00:00",
- "count": 862,
+ "generated": "2026-11-21T13:04:59+00:00",
+ "count": 877,
  "items": [
+  {
+   "key": "med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "Med tre børn ombord søgte dansk familie læ i krigshærgede Sudan",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan/",
+   "cat": "Tursejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_Bounty-i-Sudanr_69493d1ea6.jpg"
+  },
+  {
+   "key": "700-soemil-garmin-round-denmark-race-2027-er-klar",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "700 sømil Garmin Round Denmark Race 2027 er klar",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/700-soemil-garmin-round-denmark-race-2027-er-klar/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/4/csm_dk_rundt_-052A0001_2a53bc6102.jpg",
+   "tjek": "2026-10-21"
+  },
+  {
+   "key": "19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "19-årige Mads Wegener slog OL-sejler ved ranglistestævne i ILCA",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/19-aarige-mads-wegener-slog-ol-sejler-ved-dm-i-ilca-7/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/2/csm_mads_932_18496206979101569_5231197841828865396_n_1b5256a8d4.jpg",
+   "tjek": "2026-10-21"
+  },
+  {
+   "key": "udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad",
+   "source": "Minbåd.dk",
+   "date": "2026-09-30",
+   "title": "Udnyt efterårets varme til klargøring og optimering af din båd",
+   "url": "https://minbaad.dk/nyhed/archive/2026/30/september/article/udnyt-efteraarets-varme-til-klargoering-og-optimering-af-din-baad/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_fikse_baad_efteraaret_25_e8e2703ad5.jpg",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-14"
+  },
+  {
+   "key": "baadmagasinet-34466",
+   "source": "Bådmagasinet",
+   "date": "2026-09-30",
+   "title": "Pirater på M/S : Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34466-pirater-pa-m-s-er-moderne-pirateri-lovloshed-eller-saesonarbejde-til-sos",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/ms_pirateri.jpg",
+   "tjek": "2026-10-07",
+   "cat": "Kultur & folk"
+  },
   {
    "key": "baadmagasinet-34468",
    "source": "Bådmagasinet",
@@ -2433,15 +2482,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/cbs26__01.jpg"
   },
   {
-   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
-   "source": "Minbåd.dk",
-   "date": "2026-08-24",
-   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
-   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
    "source": "Motorbådsnyt",
    "date": "2026-08-24",
@@ -2449,6 +2489,15 @@
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
    "cat": "Udstyr & både",
    "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
+  },
+  {
+   "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
+   "source": "Minbåd.dk",
+   "date": "2026-08-24",
+   "title": "Tyk algesuppe et problem for lystsejlere på Bornholm",
+   "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -3308,6 +3357,15 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/dixi_forside.jpg"
   },
   {
+   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-11",
+   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
+  },
+  {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -3324,15 +3382,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Havneliv"
-  },
-  {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -3625,15 +3674,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
-   "source": "Minbåd.dk",
-   "date": "2026-08-06",
-   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
-   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
-   "cat": "Havneliv"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "source": "Dansk Sejlunion",
    "date": "2026-08-06",
@@ -3641,6 +3681,15 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
    "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
    "cat": "Regler & takster"
+  },
+  {
+   "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
+   "source": "Minbåd.dk",
+   "date": "2026-08-06",
+   "title": "Fynsk konsulent samler 5.000 lystbådehavne på én platform",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
+   "cat": "Havneliv"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
@@ -7309,6 +7358,96 @@
    "url": "https://flidhavne.dk/aarets-havn-2018-er-egense-lystbaadehavn/",
    "cat": "Jubilæum / priser",
    "img": "https://flidhavne.dk/wp-content/uploads/2020/08/logo.png"
+  },
+  {
+   "key": "fremmed-mand-broed-ind-i-baad-og-boede-der",
+   "source": "Minbåd.dk",
+   "date": "2018-10-18",
+   "title": "Fremmed mand brød ind i båd og boede der",
+   "url": "https://minbaad.dk/nyhed/archive/2018/18/october/article/fremmed-mand-broed-ind-i-baad-og-boede-der/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_kerteminde_havn_03_6c831ee778.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "kurs-mod-1-mio-overnatninger-i-lystbaadehavnene-i-2018",
+   "source": "Minbåd.dk",
+   "date": "2018-10-12",
+   "title": "Kurs mod 1 mio. overnatninger i lystbådehavnene i 2018",
+   "url": "https://minbaad.dk/nyhed/archive/2018/12/october/article/kurs-mod-1-mio-overnatninger-i-lystbaadehavnene-i-2018/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/e/csm_rudkobing_01_6b3442e71f.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "stigbordene-er-aabne-igen-der-arbejdes-paa-permanent-loesning",
+   "source": "Minbåd.dk",
+   "date": "2018-10-02",
+   "title": "Stigbordene er åbne igen - der arbejdes på permanent løsning",
+   "url": "https://minbaad.dk/nyhed/archive/2018/02/october/article/stigbordene-er-aabne-igen-der-arbejdes-paa-permanent-loesning/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/8/csm_stigborde_by_og_havn_48de83a4b9.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "fyns-amts-avis-moeder-vandflyver-kaptajnen-ulrik-nielsen",
+   "source": "Minbåd.dk",
+   "date": "2018-09-15",
+   "title": "Fyns Amts Avis møder vandflyver-kaptajnen Ulrik Nielsen",
+   "url": "https://minbaad.dk/nyhed/archive/2018/15/september/article/fyns-amts-avis-moeder-vandflyver-kaptajnen-ulrik-nielsen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_3637663_1280_854_0_0_0_0_2_5302d7d771.jpg",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "sejlere-udlejer-baaden-til-beboelse-i-handbjerg-faar-70-af-overskuddet",
+   "source": "Minbåd.dk",
+   "date": "2018-09-14",
+   "title": "Sejlere udlejer båden til beboelse i Handbjerg - får 70% af overskuddet",
+   "url": "https://minbaad.dk/nyhed/archive/2018/14/september/article/sejlere-udlejer-baaden-til-beboelse-i-handbjerg-faar-70-af-overskuddet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/d/csm_handbjeg_a98f93b19a.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "rungsted-sejlklub-mangler-klubhus-venter-svar-fra-havnebestyrelsen-paa-4-aar",
+   "source": "Minbåd.dk",
+   "date": "2018-09-05",
+   "title": "Rungsted Sejlklub mangler klubhus - venter svar fra havnebestyrelsen på 4. år",
+   "url": "https://minbaad.dk/nyhed/archive/2018/05/september/article/rungsted-sejlklub-mangler-klubhus-venter-svar-fra-havnebestyrelsen-paa-4-aar/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_rungsted_top_c9c29379e6.jpg",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "120-baade-fyldte-aeroeskoebing-havn-paa-et-par-timer",
+   "source": "Minbåd.dk",
+   "date": "2018-09-03",
+   "title": "120 både fyldte Ærøskøbing havn på et par timer",
+   "url": "https://minbaad.dk/nyhed/archive/2018/03/september/article/120-baade-fyldte-aeroeskoebing-havn-paa-et-par-timer/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/9/csm_Fyns_top_273e53849e.jpg",
+   "cat": "Kapsejlads"
+  },
+  {
+   "key": "lm-28-voldsomt-paa-grund-i-hou-ejeren-ramte-ikke-renden",
+   "source": "Minbåd.dk",
+   "date": "2018-08-31",
+   "title": "LM 28 voldsomt på grund i Hou - ejeren ramte ikke renden",
+   "url": "https://minbaad.dk/nyhed/archive/2018/31/august/article/lm-28-voldsomt-paa-grund-i-hou-ejeren-ramte-ikke-renden/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/a/csm_lm28_36bb2d50fc.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "vejle-lystbaadehavn-har-givet-groent-lys-til-husbaade",
+   "source": "Minbåd.dk",
+   "date": "2018-08-15",
+   "title": "Vejle Lystbådehavn har givet grønt lys til husbåde",
+   "url": "https://minbaad.dk/nyhed/archive/2018/15/august/article/vejle-lystbaadehavn-har-givet-groent-lys-til-husbaade/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/6/csm_vejle_01_ad8b788174.jpg",
+   "cat": "Regler & takster"
+  },
+  {
+   "key": "dockan-marina-lokker-med-malmoefestivalen",
+   "source": "Minbåd.dk",
+   "date": "2018-08-08",
+   "title": "Dockan Marina lokker med Malmøfestivalen",
+   "url": "https://minbaad.dk/nyhed/archive/2018/08/august/article/dockan-marina-lokker-med-malmoefestivalen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/d/f/csm_malmo_fest_top_6a22a1350c.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "fire-sejlbaade-til-beboelse",
