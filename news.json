@@ -1,10 +1,46 @@
 {
- "generated": "2026-11-22T07:30:37+00:00",
- "count": 1177,
+ "generated": "2026-11-22T15:43:03+00:00",
+ "count": 1181,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 877,
+ "arkiv_antal": 881,
  "errors": [],
  "items": [
+  {
+   "key": "peer-bonnemann-advarer-mod-falsk-sikkerhed-sejlede-i-28-m-sek-og-mistede-sit-rulleforsejl",
+   "source": "Minbåd.dk",
+   "date": "2026-11-22",
+   "title": "Peer Bonnemann advarer mod falsk sikkerhed - sejlede i 28 m/sek. og mistede sit rulleforsejl",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/november/article/peer-bonnemann-advarer-mod-falsk-sikkerhed-sejlede-i-28-m-sek-og-mistede-sit-rulleforsejl/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_Udblaest_top_rulle_forsejl_bc0e23c40e.jpg",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "dog-up-hundestige-til-baaden",
+   "source": "Motorbådsnyt",
+   "date": "2026-11-22",
+   "title": "Dog Up: Hundestige til båden",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/november/article/dog-up-hundestige-til-baaden/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/1/csm_dog_0261118_170100_965ac5c7dd.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "jv43-red-2-ekstrem-kapsejler-paa-43-fod-bruges-ogsaa-til-langturssejlads",
+   "source": "Minbåd.dk",
+   "date": "2026-11-22",
+   "title": "JV43: Ekstrem kapsejler bruges også til langturssejlads",
+   "url": "https://minbaad.dk/nyhed/archive/2026/22/november/article/jv43-red-2-ekstrem-kapsejler-paa-43-fod-bruges-ogsaa-til-langturssejlads/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_02_Rendering_Judel-Vrolijk-JV43-racer_b3ca15a636.jpg",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "baadmagasinet-34579",
+   "source": "Bådmagasinet",
+   "date": "2026-11-22",
+   "title": "Det spidser til – Storbritannien i problemer - Live fra Dubai kl. 12",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/671-sailgp-2020/34579-live-fra-super-sunday-i-dubai",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/sailgp_live_dubai.jpg",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "jpk-1150-med-fyldig-scow-staevn-skal-vinde-kapsejladser",
    "source": "Minbåd.dk",
@@ -51,31 +87,13 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "test-ukrainsk-grand-d600-overrasker-med-masser-af-koereglaede-med-blot-100-hk",
-   "source": "Motorbådsnyt",
-   "date": "2026-11-20",
-   "title": "Test: Ukrainsk Grand D600 overrasker med masser af køreglæde med blot 100 hk",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/20/november/article/test-ukrainsk-grand-d600-overrasker-med-masser-af-koereglaede-med-blot-100-hk/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/1/csm_a_IMG_20261021_114825_ba49d6c1d9.jpg",
-   "cat": "Udstyr & både"
-  },
-  {
    "key": "john-mast-og-solbian-praesenterer-integrerede-solpaneler-paa-sejlbaadsmaster",
    "source": "Minbåd.dk",
    "date": "2026-11-20",
    "title": "John Mast og Solbian præsenterer integrerede solpaneler på sejlbådsmaster",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/john-mast-og-solbian-praesenterer-integrerede-solpaneler-paa-sejlbaadsmaster/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_john_to20261117_160217_95ab74c047.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/8/csm_john_to20261117_160217_7294380e05.jpg",
    "cat": "Udstyr & både"
-  },
-  {
-   "key": "kendt-kitesurfer-nick-jacobsen-og-sejlunionen-vil-have-boern-ned-til-fem-aar-ud-at-windsurfe",
-   "source": "Minbåd.dk",
-   "date": "2026-11-20",
-   "title": "Kendt kitesurfer Nick Jacobsen og Sejlunionen vil have børn ned til fem år ud at windsurfe",
-   "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/kendt-kitesurfer-nick-jacobsen-og-sejlunionen-vil-have-boern-ned-til-fem-aar-ud-at-windsurfe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_unnamed_-_2026-11-20T163536.883_7fdfff3b9f.jpg",
-   "cat": "Foreninger"
   },
   {
    "key": "syv-doede-besaetningen-kendte-ikke-til-kritisk-risiko-da-bayesian-kaentrede",
@@ -83,8 +101,26 @@
    "date": "2026-11-20",
    "title": "Syv døde: Besætningen kendte ikke til kritisk risiko, da Bayesian kæntrede",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/syv-doede-besaetningen-kendte-ikke-til-kritisk-risiko-da-bayesian-kaentrede/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/c/csm_Taranto-MarineTraffic-copy_5d869cf6e8.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/c/csm_Taranto-MarineTraffic-copy_b64933864f.jpg",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "kendt-kitesurfer-nick-jacobsen-og-sejlunionen-vil-have-boern-ned-til-fem-aar-ud-at-windsurfe",
+   "source": "Minbåd.dk",
+   "date": "2026-11-20",
+   "title": "Kendt kitesurfer Nick Jacobsen og Sejlunionen vil have børn ned til fem år ud at windsurfe",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/kendt-kitesurfer-nick-jacobsen-og-sejlunionen-vil-have-boern-ned-til-fem-aar-ud-at-windsurfe/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_unnamed_-_2026-11-20T163536.883_729179a774.jpg",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "test-ukrainsk-grand-d600-overrasker-med-masser-af-koereglaede-med-blot-100-hk",
+   "source": "Minbåd.dk",
+   "date": "2026-11-20",
+   "title": "Test: Ukrainsk Grand D600 overrasker med masser af køreglæde med blot 100 hk",
+   "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/test-ukrainsk-grand-d600-overrasker-med-masser-af-koereglaede-med-blot-100-hk/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/1/csm_a_IMG_20261021_114825_c394ce3fa6.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34569",
@@ -417,7 +453,7 @@
    "date": "2026-11-15",
    "title": "Kunstteak og maling af fribord løfter dyrlægens First 40.7",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/november/article/kunstteak-loefter-dyrlaegens-first-407-foer-saesonstart/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_top_IMG_20260522_151020_5ab0592582.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_top_IMG_20260522_151020_02d648365c.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
@@ -437,17 +473,17 @@
    "date": "2026-11-14",
    "title": "Sådan bygger X-Yachts sine både i Polen",
    "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/saadan-bygger-x-yachts-sine-baade-i-polen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_Glansfulde_baadhuller_og_groen_stoebeform_b0ca96bedd.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_Glansfulde_baadhuller_og_groen_stoebeform_f4ebf68149.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
   {
    "key": "marinecork-korken-der-udfordrer-teak-som-baaddaek",
-   "source": "Minbåd.dk",
+   "source": "Motorbådsnyt",
    "date": "2026-11-14",
    "title": "MarineCork: Korken, der udfordrer teak som båddæk",
-   "url": "https://minbaad.dk/nyhed/archive/2026/14/november/article/marinecork-korken-der-udfordrer-teak-som-baaddaek/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/4/csm_cork_decking_2021-5_0a4aeb5e18.jpg",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/november/article/marinecork-korken-der-udfordrer-teak-som-baaddaek/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/4/csm_cork_decking_2021-5_b35a9ffb37.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
@@ -467,7 +503,7 @@
    "date": "2026-11-13",
    "title": "Ralph Jensen har på 10 år brugt 8.600 timer og 766.000 kroner på sin Thurø 33",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/november/article/ralph-jensen-har-paa-10-aar-brugt-8000-timer-og-700000-kroner-paa-sin-thuroe-33/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_IMG_20260831_184802_db15d39804.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_IMG_20260831_184802_fbb8ca5567.jpg",
    "cat": "Kultur & folk",
    "tjek": "2026-11-22"
   },
@@ -487,7 +523,7 @@
    "date": "2026-11-13",
    "title": "Fortøjning er ikke bare fortøjning: Blød line med høj slidstyrke fra Robline",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/november/article/fortoejning-er-ikke-bare-fortoejning-bloed-line-med-hoej-slidstyrke-fra-robline/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/6/e/csm_rob_mage_16._maj_2026__08.57.46_57608d5cff.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/user_upload/rob_mage_16._maj_2026__08.57.46.png",
    "cat": "Udstyr & både",
    "sum": "Robline Rio er en blød fortøjningsline med høj slidstyrke og brudstyrke, velegnet til faste havnepladser og tungere både.",
    "tjek": "2026-11-22"
@@ -528,7 +564,7 @@
    "date": "2026-11-12",
    "title": "Le Cléac’h frygtede for sit liv da 32 meter trimaran væltede om natten i 40 knobs vindstød",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/november/article/le-cleach-frygtede-for-sit-liv-da-32-meter-trimaran-vaeltede-om-natten-i-40-knobs-vindstoed/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_kaentr42be-ba1d-6e6de68e42c2_2cc52b2b44.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_kaentr42be-ba1d-6e6de68e42c2_6040f6311e.png",
    "cat": "Kapsejlads",
    "tjek": "2026-11-22"
   },
@@ -568,7 +604,7 @@
    "date": "2026-11-11",
    "title": "Horeau vinder Route du Rhum i IMOCA 60 og barberer over to døgn af rekorden",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/horeau-vinder-route-du-rhum-i-imoca-60-og-barberer-over-to-doegn-af-rekorden/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/7/0/csm_rr_nnamed_-_2026-11-11T133826.915_8ba1417b01.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/0/csm_rr_nnamed_-_2026-11-11T133826.915_a7cc5d62c1.jpg",
    "cat": "Kapsejlads",
    "tjek": "2026-11-22"
   },
@@ -578,7 +614,7 @@
    "date": "2026-11-11",
    "title": "Danmark køber fem nye redningsfartøjer den jyske vestkyst",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/danmark-koeber-fem-nye-redningsfartoejer-den-jyske-vestkyst/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_baltic_workboats-8032959caf3d_bc102e7c2e.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_baltic_workboats-8032959caf3d_e963b3f94a.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-11-22"
   },
@@ -588,7 +624,7 @@
    "date": "2026-11-11",
    "title": "GORI-propeller fra Haderslev er på alle de store både i Route du Rhum",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/gori-propeller-fra-haderslev-er-paa-alle-de-store-baade-i-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_gori_top_7b-3b1033d90cc3_57b851bfb7.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_gori_top_7b-3b1033d90cc3_72010678dd.png",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
@@ -658,7 +694,7 @@
    "date": "2026-11-10",
    "title": "Tre sejl i ét: Elvstrøm Sails gør medvindssejlads lettere med Blue Water Runner",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_0b0680778c.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_70ffd22f22.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
@@ -688,8 +724,8 @@
    "date": "2026-11-10",
    "title": "Middelhavet bliver mere voldsomt: 33 grader i vandet og ødelagte både i havnene",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/middelhavet-bliver-mere-voldsomt-33-grader-i-vandet-og-oedelagte-baade-i-havnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_Stormfulde_boelger_og_strandede_sejlbaade_220f7b1a6e.png",
    "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_Stormfulde_boelger_og_strandede_sejlbaade_220f7b1a6e.png",
    "tjek": "2026-11-22"
   },
   {
@@ -738,8 +774,8 @@
    "date": "2026-11-09",
    "title": "70-årig solosejler slog hovedet på Atlanten og mistede førligheden i venstre arm",
    "url": "https://minbaad.dk/nyhed/archive/2026/09/november/article/70-aarig-solosejler-slog-hovedet-paa-atlanten-og-mistede-foerligheden-i-venstre-arm/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_f6d21ca062.png",
    "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/7/csm_gg_4736_f6d21ca062.png",
    "tjek": "2026-11-22"
   },
   {
@@ -818,7 +854,7 @@
    "date": "2026-11-08",
    "title": "Sådan vinterkonserverer du din påhængsmotor – undgå dyre skader",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/08/november/article/saadan-vinterkonserverer-du-din-paahaengsmotor-undgaa-dyre-skader/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_77f2813600.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/0/csm_2bOikt6ZrQ4k2OG4zh_t5IjUZqfhoLlLbBlVDU7F0uqQSEdJR0ceu8hGnRSp9JF_b2255c3898.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
@@ -873,6 +909,16 @@
    "tjek": "2026-11-22"
   },
   {
+   "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
+   "source": "Motorbådsnyt",
+   "date": "2026-11-06",
+   "title": "Ny Sargo 32 får mere plads og kan nøjes med én motor",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_66bdcf4380.jpg",
+   "cat": "Udstyr & både",
+   "tjek": "2026-11-22"
+  },
+  {
    "key": "traenede-polske-sejlere-til-vm-bronze-nu-skal-han-foere-danske-49erfx-sejlere-mod-ol",
    "source": "Minbåd.dk",
    "date": "2026-11-06",
@@ -890,16 +936,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/november/article/ny-faurby-450-ds-faar-verdenspremiere-til-aabent-vaerft-nordship-navn-er-udgaaet/",
    "cat": "Udstyr & både",
    "img": "https://minbaad.dk/fileadmin/_processed_/5/3/csm_fsstgitonnamed_7dd74d758f.jpg",
-   "tjek": "2026-11-22"
-  },
-  {
-   "key": "ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-11-06",
-   "title": "Ny Sargo 32 får mere plads og kan nøjes med én motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/november/article/ny-sargo-32-faar-mere-plads-og-kan-noejes-med-en-motor/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/d/f/csm_sargo32-crop_a1726d8a82.jpg",
-   "cat": "Udstyr & både",
    "tjek": "2026-11-22"
   },
   {
@@ -959,7 +995,8 @@
    "title": "Finsk kabinebåd Finnmaster P7 til helårssejlads til spændende pris",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/05/november/article/finsk-kabinebaad-finnmaster-p7-til-helaarssejlads-til-spaendende-pris/",
    "img": "https://minbaad.dk/fileadmin/_processed_/3/9/csm_f_mirror-283-img-3466-1536x1024-1-1280x860_a0566384e6.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "tjek": "2026-11-22"
   },
   {
    "key": "baadmagasinet-34538",
@@ -968,7 +1005,8 @@
    "title": "Ny promenade skal skabe mere liv mellem Rønne by og havn",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34538-ny-promenade-skal-skabe-mere-liv-mellem-ronne-by-og-havn",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/888412046_1642502981010319_1218290652289510936_n.jpg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-11-22"
   },
   {
    "key": "vandsportsklubber-kan-soege-penge-til-skolesamarbejder-gennem-hempel-fondens-soesat-puljen",
@@ -1344,7 +1382,7 @@
    "date": "2026-10-30",
    "title": "Beskyt båd og campingvogn mod fugt med DRY-BAG, der kan bruges igen og igen",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/30/october/article/beskyt-baad-og-campingvogn-mod-fugt-med-dry-bag-der-kan-bruges-igen-og-igen/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_d98ae7c496.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/4/6/csm_dryback_resized_92b7ac6457.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -1430,7 +1468,7 @@
    "date": "2026-10-28",
    "title": "Ny Yamarin Aura Lounge får tre solsengeområder og 700 hk",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/28/october/article/ny-yamarin-aura-lounge-faar-tre-solsengeomraader-og-700-hk/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_Yamarin_Aura_Lounge_nat_a225bbc8fd.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_Yamarin_Aura_Lounge_nat_d06e8f7d79.png",
    "cat": "Udstyr & både"
   },
   {
@@ -1602,8 +1640,8 @@
    "date": "2026-10-25",
    "title": "12 både brændt i Aarøsund - plus nabobåde med sodskader",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/october/article/flere-baade-braendt-i-aaroesund-flere-nabobaade-har-ogsaa-faaet-sodskader/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/1/csm_br_c2ea-4a11-a5c5-6f11e41cb59c_2e41fbc63a.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "flaskepost-sejlede-fra-aarhus-til-assens-fundet-efter-otte-aar-paa-havet",
@@ -1675,8 +1713,8 @@
    "date": "2026-10-23",
    "title": "18 danske lystbådehavne sender live",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/october/article/18-danske-lystbaadehavne-sender-live/",
-   "cat": "Havneliv",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_414f2b4ed9.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/3/csm_juelsmin_g20210701_233302_414f2b4ed9.jpg",
+   "cat": "Havneliv"
   },
   {
    "key": "ville-tage-et-foto-af-isbjerg-saa-gik-28-meter-lang-sejlbaad-paa-grund-og-mistede-roret",
@@ -1818,8 +1856,8 @@
    "date": "2026-10-21",
    "title": "Danske lystbådehavne frygter lukning, hvis havet igen går amok",
    "url": "https://minbaad.dk/nyhed/archive/2026/21/october/article/danske-lystbaadehavne-frygter-lukning-hvis-havet-igen-gaar-amok/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/f/csm_soenderborg_havn_drone_1_baad_sank_f0bb4b2764_ed7a03ac47.jpg",
+   "cat": "Sikkerhed"
   },
   {
    "key": "test-beneteau-oceanis-371-med-masser-af-plads-og-sikker-sejlads-i-10-m-sek",
@@ -2065,7 +2103,7 @@
    "date": "2026-10-16",
    "title": "Slidt er ikke altid OK - alger kan få konsekvenser for sikkerheden",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/16/october/article/lystsejlere-slidt-er-ikke-altid-ok-alger-kan-faa-konsekvenser-for-sikkerheden/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_b35f50895f.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/a/f/csm_sejlbaad_i_kastrup_76a90a5da8.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -2169,7 +2207,7 @@
    "date": "2026-10-14",
    "title": "Ny Sirena 42 meter superyacht med gårdhave og beach club på 71 m²",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/14/october/article/ny-sirena-42-meter-superyacht-med-gaardhave-og-beach-club-paa-71-m2/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_012d45d046.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/e/3/csm_s72608_18640932205000756_5426462801427949770_n_0c3fafd5cd.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2460,7 +2498,7 @@
    "date": "2026-10-07",
    "title": "Sådan gør du din båd vinterklar - Kolding-sejler deler tips ud",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/07/october/article/saadan-goer-du-din-baad-vinterklar-sejler-deler-tips-ud/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_bec06b0189.jpg",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/c/csm_Vintersejler_i_havn__Torben_Jensen_2_7b2d3c2adb.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -2537,7 +2575,7 @@
    "date": "2026-10-06",
    "title": "Minn Kota og Humminbird bliver ét: Nyt samlet system skal gøre fiskeriet enklere",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_d8b0e1cb68.png",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_c3a4f1629c.png",
    "cat": "Udstyr & både"
   },
   {
@@ -2835,46 +2873,6 @@
    "cat": "Kapsejlads",
    "img": "https://minbaad.dk/fileadmin/_processed_/a/1/csm_erik_joers_de-40f1-46c3-9a56-7524ca6779d9_bfc65a8270.jpg",
    "tjek": "2026-10-21"
-  },
-  {
-   "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
-   "source": "Minbåd.dk",
-   "date": "2026-10-01",
-   "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
-   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
-   "cat": "Kultur & folk",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
-   "tjek": "2026-10-21"
-  },
-  {
-   "key": "baadmagasinet-34472",
-   "source": "Bådmagasinet",
-   "date": "2026-10-01",
-   "title": "Ny KDY-formand: Carsten Dilling indstilles af valgkomitéen",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34472-ny-kdy-formand-carsten-dilling-indstilles-af-valgkomiteen",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/carsten_dilling.jpg",
-   "tjek": "2026-10-13",
-   "cat": "Foreninger"
-  },
-  {
-   "key": "baadmagasinet-34471",
-   "source": "Bådmagasinet",
-   "date": "2026-10-01",
-   "title": "Hvad kan fremtidens boliger lære af gamle skibe?",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34471-hvad-kan-fremtidens-boliger-laere-af-gamle-skibe",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_img_3043.jpg",
-   "tjek": "2026-10-12",
-   "cat": "Kultur & folk"
-  },
-  {
-   "key": "baadmagasinet-34469",
-   "source": "Bådmagasinet",
-   "date": "2026-10-01",
-   "title": "Efterlysning: Skanderborg Junior Sejlklub har haft indbrud - båd, motor & trailer stjålet!",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34469-efterlyser-skanderborg-junior-sejlklub-har-haft-indbrud-bad-motor-vaek",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_5.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-10-08"
   }
  ]
 }

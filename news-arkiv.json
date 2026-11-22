@@ -1,7 +1,47 @@
 {
- "generated": "2026-11-22T07:30:37+00:00",
- "count": 877,
+ "generated": "2026-11-22T15:43:03+00:00",
+ "count": 881,
  "items": [
+  {
+   "key": "m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes",
+   "source": "Minbåd.dk",
+   "date": "2026-10-01",
+   "title": "M/S foredrag i Helsingør: Er moderne pirateri lovløshed – eller sæsonarbejde til søs?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/01/october/article/m-s-foredrag-i-helsingoer-er-moderne-pirateri-lovloeshed-eller-saesonarbejde-til-soes/",
+   "cat": "Kultur & folk",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/8/csm_pirat_1920x1280_57846ea5a9.jpg",
+   "tjek": "2026-10-21"
+  },
+  {
+   "key": "baadmagasinet-34472",
+   "source": "Bådmagasinet",
+   "date": "2026-10-01",
+   "title": "Ny KDY-formand: Carsten Dilling indstilles af valgkomitéen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34472-ny-kdy-formand-carsten-dilling-indstilles-af-valgkomiteen",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/carsten_dilling.jpg",
+   "tjek": "2026-10-13",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "baadmagasinet-34471",
+   "source": "Bådmagasinet",
+   "date": "2026-10-01",
+   "title": "Hvad kan fremtidens boliger lære af gamle skibe?",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34471-hvad-kan-fremtidens-boliger-laere-af-gamle-skibe",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_img_3043.jpg",
+   "tjek": "2026-10-12",
+   "cat": "Kultur & folk"
+  },
+  {
+   "key": "baadmagasinet-34469",
+   "source": "Bådmagasinet",
+   "date": "2026-10-01",
+   "title": "Efterlysning: Skanderborg Junior Sejlklub har haft indbrud - båd, motor & trailer stjålet!",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34469-efterlyser-skanderborg-junior-sejlklub-har-haft-indbrud-bad-motor-vaek",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/edited-photo_5.jpg",
+   "cat": "Sikkerhed",
+   "tjek": "2026-10-08"
+  },
   {
    "key": "med-tre-boern-ombord-soegte-dansk-familie-lae-i-krigshaergede-sudan",
    "source": "Minbåd.dk",
@@ -520,8 +560,8 @@
    "date": "2026-09-22",
    "title": "Ny Quicksilver 625 Open får plads til syv - op til 150 hk",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/22/september/article/ny-quicksilver-625-open-rib-faar-plads-til-syv/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/c/csm_open_IMG_20260813_125523_98dc99832c.jpg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/0/c/csm_open_IMG_20260813_125523_98dc99832c.jpg"
   },
   {
    "key": "ni-ac40ere-klar-til-americas-cup-opgoer-i-napoli",
@@ -1132,16 +1172,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dsc03509_2.jpg"
   },
   {
-   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-13",
-   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
-   "cat": "Jubilæum / priser",
-   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne.",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2026/ungdommens-danmarksmestre-kaaret-trods-svaere-vejrforhold-ved-dansk-sejlunions-ungdoms-dm",
    "source": "Dansk Sejlunion",
    "date": "2026-09-13",
@@ -1150,6 +1180,16 @@
    "img": "https://dansksejlunion.dk/media/blbdkkhg/design-uden-navn-30.jpg?width=1200&height=630",
    "cat": "Kapsejlads",
    "sum": "Dansk Sejlunions Ungdoms-DM blev gennemført trods let vind og kraftig strøm. De fleste planlagte sejladser blev gennemført af frivillige baneteams."
+  },
+  {
+   "key": "motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister",
+   "source": "Motorbådsnyt",
+   "date": "2026-09-13",
+   "title": "Motorbaadsnyt.dk med i BOB-juryen: Vikness S40, Sirena 50 og Bayliner V22 blandt 30 finalister",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/13/september/article/motorbaadsnytdk-med-i-bob-juryen-axopar-38-sirena-50-og-bayliner-v22-blandt-30-finalister/",
+   "cat": "Jubilæum / priser",
+   "sum": "30 motorbåde er nomineret til Best of Boats Award 2026, heriblandt Vikness S40, Sirena 50 og Bayliner V22. Motorbaadsnyt.dk deltager i juryen og har testet flere af finalisterne.",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/a/csm_bayliner_G_20260813_133953_63b813dd03.jpg"
   },
   {
    "key": "seks-u-dm-mestre-kaaret-efter-svaer-weekend-paa-oeresund",
@@ -2482,15 +2522,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/cbs26__01.jpg"
   },
   {
-   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-24",
-   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
-  },
-  {
    "key": "tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm",
    "source": "Minbåd.dk",
    "date": "2026-08-24",
@@ -2498,6 +2529,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/august/article/tyk-algesuppe-et-problem-for-lystsejlere-paa-bornholm/",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/6/csm_bo_S1A0eS_r28Fwp2EqSfpU9LkjI6UsB-LSKEgR6s5rtEgPgyw6kfc4pgTYIIoS7hOidkHj4yNNzZIZ282LM-ZrNc_40c53f48c6.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-24",
+   "title": "Test: Foils, plads og 40 knob: Aquila 42 Coupé - katamaranen der letter",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/24/august/article/test-foils-plads-og-40-knob-aquila-42-coupe-katamaranen-der-letter-1/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/f/3/csm_a_IMG_20251028_115151_ecec93093b_d9bf0835fe.jpg"
   },
   {
    "key": "samme-x-99-maatte-reddes-to-gange-paa-fire-dage",
@@ -3357,15 +3397,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/dixi_forside.jpg"
   },
   {
-   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
-   "source": "Motorbådsnyt",
-   "date": "2026-08-11",
-   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
-   "cat": "Udstyr & både",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
-  },
-  {
    "key": "stoerre-baade-og-8000-gaestesejlere-fylder-skagen-hver-sommer",
    "source": "Minbåd.dk",
    "date": "2026-08-11",
@@ -3382,6 +3413,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/august/article/svenske-gaestehavne-flere-melder-om-dobbelt-saa-mange-gaester/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_sv_0260701_142145_b97414f523.jpg",
    "cat": "Havneliv"
+  },
+  {
+   "key": "hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor",
+   "source": "Motorbådsnyt",
+   "date": "2026-08-11",
+   "title": "Hybrid patruljebåd med Torqeedo eldrift og Yamaha-motor",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/11/august/article/hybrid-patruljebaad-med-torqeedo-eldrift-og-yamaha-motor/",
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/c/8/csm_torqeedo_nnamed__19__d02f86d6a5.png"
   },
   {
    "key": "sponsorindhold-da-kapsejlads-var-et-vaeddemaal-mellem-to-baadejere-1",
@@ -3674,15 +3714,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----august26/rsz_foto_trine_harvøe_kristensen__vikingeskibsmuseet.jpg"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "source": "Dansk Sejlunion",
-   "date": "2026-08-06",
-   "title": "Når sejlklubben skal forklare sin identitet",
-   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
-   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
-   "cat": "Regler & takster"
-  },
-  {
    "key": "fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform",
    "source": "Minbåd.dk",
    "date": "2026-08-06",
@@ -3690,6 +3721,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/06/august/article/fynsk-konsulent-samler-5000-lystbaadehavne-paa-en-platform/",
    "img": "https://minbaad.dk/fileadmin/_processed_/1/2/csm_h_NorDok-pressemeddelse__2__0d6be5b2ed.png",
    "cat": "Havneliv"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "source": "Dansk Sejlunion",
+   "date": "2026-08-06",
+   "title": "Når sejlklubben skal forklare sin identitet",
+   "url": "https://dansksejlunion.dk/nyheder/2026/naar-sejlklubben-skal-forklare-sin-identitet",
+   "img": "https://dansksejlunion.dk/media/jbmnyqfz/sejlerskolekerteminde2.jpg?width=1200&height=630",
+   "cat": "Regler & takster"
   },
   {
    "key": "37-aarig-anholdt-efter-haervaerk-mod-skibe-i-stubbekoebing-og-juelsminde",
