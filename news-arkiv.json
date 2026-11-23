@@ -1,7 +1,47 @@
 {
- "generated": "2026-11-23T10:49:11+00:00",
- "count": 884,
+ "generated": "2026-11-23T22:42:43+00:00",
+ "count": 888,
  "items": [
+  {
+   "key": "sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok",
+   "source": "Minbåd.dk",
+   "date": "2026-10-02",
+   "title": "Sejlbåd fanget i brændingen - forsejl var ikke nok",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
+   "cat": "Sikkerhed",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
+   "tjek": "2026-10-18"
+  },
+  {
+   "key": "baadmagasinet-34475",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg",
+   "tjek": "2026-10-15",
+   "cat": "Andet"
+  },
+  {
+   "key": "baadmagasinet-34473",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "X-99 er tilbage – nu går den gamle klasse efter officielt DM",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34473-x-99-er-tilbage-nu-gar-den-gamle-klasse-efter-officielt-dm",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-09"
+  },
+  {
+   "key": "baadmagasinet-34474",
+   "source": "Bådmagasinet",
+   "date": "2026-10-02",
+   "title": "Gammel kærlighed ruster aldrig – seks danske Ynglinge klar til EM",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em",
+   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-09"
+  },
   {
    "key": "mikkelsen-og-rosa-lux-tog-sejren-ved-x-99-mesterskabet",
    "source": "Minbåd.dk",

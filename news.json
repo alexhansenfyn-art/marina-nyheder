@@ -1,17 +1,44 @@
 {
- "generated": "2026-11-23T10:49:11+00:00",
- "count": 1184,
+ "generated": "2026-11-23T22:42:43+00:00",
+ "count": 1188,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 884,
+ "arkiv_antal": 888,
  "errors": [],
  "items": [
+  {
+   "key": "tine-og-allan-hansen-har-solgt-huset-nu-sejler-de-over-atlanten-i-arc-sejlads",
+   "source": "Minbåd.dk",
+   "date": "2026-11-23",
+   "title": "Tine og Allan Hansen har solgt huset - nu sejler de over Atlanten i ARC-sejlads",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/november/article/tine-og-allan-hansen-har-solgt-huset-nu-sejler-de-over-atlanten-i-arc-sejlads/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/b/csm_arc_sjov_image0__11__8f1f5d17d1.jpeg",
+   "cat": "Tursejlads"
+  },
+  {
+   "key": "sejlbaad-mistede-masten-under-kapsejlads-i-nordsoeen-fem-sejlere-reddet",
+   "source": "Minbåd.dk",
+   "date": "2026-11-23",
+   "title": "Sejlbåd mistede masten under kapsejlads i Nordsøen – fem sejlere reddet",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/november/article/sejlbaad-mistede-masten-under-kapsejlads-i-nordsoeen-fem-sejlere-reddet/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/0/csm_mast1-16-at-12-10-33-recherche-zum-mastbruch_2b2d19f14a.png",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "vegvisir-race-open-return-i-2027-sejlerne-faar-frit-valg-af-rute-hjem-til-nyborg",
+   "source": "Minbåd.dk",
+   "date": "2026-11-23",
+   "title": "Vegvisir Race Open Return i 2027: Sejlerne får frit valg af rute hjem til Nyborg",
+   "url": "https://minbaad.dk/nyhed/archive/2026/23/november/article/vegvisir-race-open-return-i-2027-sejlerne-faar-frit-valg-af-rute-hjem-til-nyborg/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/7/d/csm_vegtop_Kort_over_Danmark_med_Barsoe_a9e6f93d8f.png",
+   "cat": "Kapsejlads"
+  },
   {
    "key": "moeller-og-hancke-saelger-70-procent-af-lopolight-til-svenske-ernstroemgruppen",
    "source": "Minbåd.dk",
    "date": "2026-11-23",
    "title": "Møller og Hancke sælger 70 procent af Lopolight til svenske Ernströmgruppen",
    "url": "https://minbaad.dk/nyhed/archive/2026/23/november/article/moeller-og-hancke-saelger-70-procent-af-lopolight-til-svenske-ernstroemgruppen/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/5/csm_lopoligt_kolleger_i_messehalens_lys_dfec8630ff.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/5/csm_lopoligt_kolleger_i_messehalens_lys_704c14744c.png",
    "cat": "Udstyr & både"
   },
   {
@@ -22,6 +49,15 @@
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34563-obs-pas-pa-kulden-gor-bade-og-broer-livsfarligt-glatte",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/rungsted_havn.jpeg",
    "cat": "Sikkerhed"
+  },
+  {
+   "key": "baadmagasinet-34581",
+   "source": "Bådmagasinet",
+   "date": "2026-11-23",
+   "title": "Svensk familie-industrikoncern køber størstedelen af Lopolight",
+   "url": "https://www.baadmagasinet.dk/nyheder/branchenyt/34581-svensk-industrikoncern-kober-aktiemajoriteten-i-lopolight",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/lopo_arkiv.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34576",
@@ -47,7 +83,7 @@
    "date": "2026-11-22",
    "title": "Peer Bonnemann advarer mod falsk sikkerhed - sejlede i 28 m/sek. og mistede sit rulleforsejl",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/november/article/peer-bonnemann-advarer-mod-falsk-sikkerhed-sejlede-i-28-m-sek-og-mistede-sit-rulleforsejl/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_Udblaest_top_rulle_forsejl_222701d8bc.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/0/8/csm_Udblaest_top_rulle_forsejl_5780fc426d.jpg",
    "cat": "Sikkerhed"
   },
   {
@@ -56,7 +92,7 @@
    "date": "2026-11-22",
    "title": "JV43: Ekstrem kapsejler bruges også til langturssejlads",
    "url": "https://minbaad.dk/nyhed/archive/2026/22/november/article/jv43-red-2-ekstrem-kapsejler-paa-43-fod-bruges-ogsaa-til-langturssejlads/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_02_Rendering_Judel-Vrolijk-JV43-racer_0e505d8294.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/5/csm_02_Rendering_Judel-Vrolijk-JV43-racer_b3ca15a636.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -327,7 +363,7 @@
    "date": "2026-11-17",
    "title": "Torqeedo lancerer letvægtsbatteri og kraftig elmotor på 12 kW",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/november/article/torqeedo-lancerer-letvaegtsbatteri-og-kraftig-elmotor-paa-12-kw/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/d/csm_torqeedo_mets_nnamed__24__4d142a01fa.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/d/csm_torqeedo_mets_nnamed__24__b470882649.png",
    "cat": "Udstyr & både"
   },
   {
@@ -336,7 +372,7 @@
    "date": "2026-11-17",
    "title": "Seldén lancerer ny S19 self-tailing-spil til mindre sejlbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/november/article/selden-lancerer-ny-s19-self-tailing-spil-til-mindre-sejlbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_s19_T_50fc4afaf6.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_s19_T_57cb3d2089.jpg",
    "cat": "Udstyr & både"
   },
   {
@@ -372,7 +408,7 @@
    "date": "2026-11-16",
    "title": "Johan Søe tog Årets Sejlsportspræstation efter EM-sølv og VM-bronze i iQFOiL",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/johan-soee-tog-aarets-sejlsportspraestation-efter-em-soelv-og-vm-bronze-i-iqfoil/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/7/csm_unnamed__23__252c1ab40b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/7/csm_unnamed__23__ee6e1fb482.png",
    "cat": "Jubilæum / priser",
    "tjek": "2026-11-23"
   },
@@ -382,7 +418,7 @@
    "date": "2026-11-16",
    "title": "29er VM-guldvindere fra Hellerup Sejlklub kåret til Årets Sejlsportstalenter 2026",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/29er-vm-guldvindere-fra-hellerup-sejlklub-kaaret-til-aarets-sejlsportstalenter-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_emilie_nnamed__22__5e4b121b36.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/4/csm_emilie_nnamed__22__a994124d2e.png",
    "cat": "Jubilæum / priser",
    "tjek": "2026-11-23"
   },
@@ -422,7 +458,7 @@
    "date": "2026-11-16",
    "title": "Sponsorindhold: Skibe og skatte - maritime temaer i moderne spilleautomater",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/sponsorindhold-skibe-og-skatte-maritime-temaer-i-moderne-spilleautomater/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/1/e/csm_vikinge_IMG_20260714_122654_c3360ce9d6.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/1/e/csm_vikinge_IMG_20260714_122654_0d36262ca2.jpg",
    "cat": "Kultur & folk",
    "tjek": "2026-11-23"
   },
@@ -492,7 +528,7 @@
    "date": "2026-11-15",
    "title": "Kunstteak og maling af fribord løfter dyrlægens First 40.7",
    "url": "https://minbaad.dk/nyhed/archive/2026/15/november/article/kunstteak-loefter-dyrlaegens-first-407-foer-saesonstart/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_top_IMG_20260522_151020_0eeab8e41f.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/7/csm_r_top_IMG_20260522_151020_02d648365c.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-23"
   },
@@ -552,7 +588,7 @@
    "date": "2026-11-13",
    "title": "Seldén lancerer alu-rullebom til sejlbåde op til 40 fod",
    "url": "https://minbaad.dk/nyhed/archive/2026/13/november/article/selden-lancerer-alu-rullebom-til-sejlbaade-op-til-40-fod/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_IBFstudio_1f57a5c304.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_IBFstudio_f29ff691ea.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-23"
   },
@@ -603,7 +639,7 @@
    "date": "2026-11-12",
    "title": "Le Cléac’h frygtede for sit liv da 32 meter trimaran væltede om natten i 40 knobs vindstød",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/november/article/le-cleach-frygtede-for-sit-liv-da-32-meter-trimaran-vaeltede-om-natten-i-40-knobs-vindstoed/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_kaentr42be-ba1d-6e6de68e42c2_6040f6311e.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_kaentr42be-ba1d-6e6de68e42c2_2cc52b2b44.png",
    "cat": "Kapsejlads",
    "tjek": "2026-11-23"
   },
@@ -613,7 +649,7 @@
    "date": "2026-11-12",
    "title": "Fransk topsejler risikerer to års betinget fængsel for seksuelle overgreb",
    "url": "https://minbaad.dk/nyhed/archive/2026/12/november/article/fransk-topsejler-risikerer-to-aars-betinget-faengsel-for-seksuelle-overgreb/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_team_holcim_skipper_f201c154904_brasilien_f503a1a0bc.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_team_holcim_skipper_f201c154904_brasilien_e0ae771f8f.jpg",
    "cat": "Sikkerhed",
    "tjek": "2026-11-23"
   },
@@ -633,7 +669,7 @@
    "date": "2026-11-11",
    "title": "Sejler fik ridser i sin Salona 37 på Femø: Hvem skal betale?",
    "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/sejler-fik-ridser-i-sin-salona-37-paa-femoe-hvem-skal-betale/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_Roedt_markeret_havnekaedebeslag_ved_vandet_31043e6a15.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/4/2/csm_Roedt_markeret_havnekaedebeslag_ved_vandet_c6d57f77c0.png",
    "cat": "Havneliv",
    "tjek": "2026-11-23"
   },
@@ -655,16 +691,6 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/danmark-koeber-fem-nye-redningsfartoejer-den-jyske-vestkyst/",
    "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_baltic_workboats-8032959caf3d_bc102e7c2e.jpg",
    "cat": "Sikkerhed",
-   "tjek": "2026-11-23"
-  },
-  {
-   "key": "gori-propeller-fra-haderslev-er-paa-alle-de-store-baade-i-route-du-rhum",
-   "source": "Minbåd.dk",
-   "date": "2026-11-11",
-   "title": "GORI-propeller fra Haderslev er på alle de store både i Route du Rhum",
-   "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/gori-propeller-fra-haderslev-er-paa-alle-de-store-baade-i-route-du-rhum/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_gori_top_7b-3b1033d90cc3_72010678dd.png",
-   "cat": "Udstyr & både",
    "tjek": "2026-11-23"
   },
   {
@@ -698,6 +724,16 @@
    "tjek": "2026-11-23"
   },
   {
+   "key": "gori-propeller-fra-haderslev-er-paa-alle-de-store-baade-i-route-du-rhum",
+   "source": "Minbåd.dk",
+   "date": "2026-11-11",
+   "title": "GORI-propeller fra Haderslev er på alle de store både i Route du Rhum",
+   "url": "https://minbaad.dk/nyhed/archive/2026/11/november/article/gori-propeller-fra-haderslev-er-paa-alle-de-store-baade-i-route-du-rhum/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/c/2/csm_gori_top_7b-3b1033d90cc3_72010678dd.png",
+   "cat": "Udstyr & både",
+   "tjek": "2026-11-23"
+  },
+  {
    "key": "baadmagasinet-34552",
    "source": "Bådmagasinet",
    "date": "2026-11-11",
@@ -726,16 +762,6 @@
    "img": "https://www.baadmagasinet.dk/images/-----nov26/pressefoto_aaarets_unge_iværksættere_2.jp_g_2.jpeg",
    "cat": "Sikkerhed",
    "tjek": "2026-11-18"
-  },
-  {
-   "key": "tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner",
-   "source": "Minbåd.dk",
-   "date": "2026-11-10",
-   "title": "Tre sejl i ét: Elvstrøm Sails gør medvindssejlads lettere med Blue Water Runner",
-   "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_70ffd22f22.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-23"
   },
   {
    "key": "dan-cort-joergensen-haedret-for-sin-indsats-for-sikkerheden-til-soes",
@@ -775,6 +801,16 @@
    "url": "https://www.soesport.dk/nyheder/presse/frivillighed-naar-det-er-bedst-dan-cort-joergensen-er-aarets-instruktoer-2026",
    "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639299001431431745/aarets-instruktoerer.jpg?width=1024&height=512&format=jpg&mode=crop",
    "cat": "Jubilæum / priser",
+   "tjek": "2026-11-23"
+  },
+  {
+   "key": "tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner",
+   "source": "Minbåd.dk",
+   "date": "2026-11-10",
+   "title": "Tre sejl i ét: Elvstrøm Sails gør medvindssejlads lettere med Blue Water Runner",
+   "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/tre-sejl-i-et-elvstroem-sails-goer-medvindssejlads-lettere-med-blue-water-runner/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_bluewaterrunner_elvstromsails_70ffd22f22.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-11-23"
   },
   {
@@ -904,7 +940,8 @@
    "title": "29-årige Laperche på vej mod sejr i Route du Rhum med megatrimaran – men de sidste sømil kan blive farlige",
    "url": "https://minbaad.dk/nyhed/archive/2026/07/november/article/29-aarige-laperche-paa-vej-mod-sejr-i-route-du-rhum-med-megatrimaran-men-de-sidste-soemil-kan-blive-farlige/",
    "cat": "Kapsejlads",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/b/csm_SVR-Lazartigue_372f1d48f0.png",
+   "tjek": "2026-11-23"
   },
   {
    "key": "baadmagasinet-34546",
@@ -913,7 +950,8 @@
    "title": "I Sverige sejler bådene over bilerne – hvorfor ikke i København?",
    "url": "https://www.baadmagasinet.dk/nyheder/tema/havne/34546-i-sverige-sejler-badene-over-bilerne-hvorfor-ikke-i-kobenhavn",
    "img": "https://www.baadmagasinet.dk/images/-----nov26/passagen_mkb.jpeg",
-   "cat": "Havneliv"
+   "cat": "Havneliv",
+   "tjek": "2026-11-23"
   },
   {
    "key": "baadmagasinet-34547",
@@ -2833,46 +2871,6 @@
    "cat": "Sikkerhed",
    "img": "https://minbaad.dk/fileadmin/_processed_/c/5/csm_hval_892012_346189s4976489116944_n_d8b952e69d.jpg",
    "tjek": "2026-10-21"
-  },
-  {
-   "key": "sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok",
-   "source": "Minbåd.dk",
-   "date": "2026-10-02",
-   "title": "Sejlbåd fanget i brændingen - forsejl var ikke nok",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/sejlbaad-fanget-i-braendingen-forsejl-var-ikke-nok/",
-   "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/a/csm_land_705719451558075_2444852102017575174_n_e713b6bb9c.jpg",
-   "tjek": "2026-10-18"
-  },
-  {
-   "key": "baadmagasinet-34475",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "Online-møde med Skoleskibet DANMARK om de kommende togter",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34475-online-mode-med-skoleskibet-danmark-om-de-kommende-togter",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_skoleskibet_danmark_2.jpg",
-   "tjek": "2026-10-15",
-   "cat": "Andet"
-  },
-  {
-   "key": "baadmagasinet-34473",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "X-99 er tilbage – nu går den gamle klasse efter officielt DM",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34473-x-99-er-tilbage-nu-gar-den-gamle-klasse-efter-officielt-dm",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_dji_20260926111121_0765_d_1_2.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-10-09"
-  },
-  {
-   "key": "baadmagasinet-34474",
-   "source": "Bådmagasinet",
-   "date": "2026-10-02",
-   "title": "Gammel kærlighed ruster aldrig – seks danske Ynglinge klar til EM",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34474-gammel-kaerlighed-ruster-aldrig-seks-danske-ynglinge-klar-til-em",
-   "img": "https://www.baadmagasinet.dk/images/-----sept26/rsz_45f757a1-a739-43ca-8747-085d9875838c.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-10-09"
   }
  ]
 }
