@@ -1,7 +1,63 @@
 {
- "generated": "2026-11-24T06:27:47+00:00",
- "count": 889,
+ "generated": "2026-11-24T18:22:24+00:00",
+ "count": 894,
  "items": [
+  {
+   "key": "baadmagasinet-34476",
+   "source": "Bådmagasinet",
+   "date": "2026-10-03",
+   "title": "U23 VM iQFOiL: Drøn ærgerlig sidstedag kostede Rasmus finaledeltagelsen",
+   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/99-surf/34476-u23-vm-iqfoil-fire-sejladser-sendte-rasmus-ud-af-vm-finalen",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_iqfoil_world_championship_puck_29_09_2026_gwidon_liberss5m00521.jpg",
+   "cat": "Kapsejlads",
+   "tjek": "2026-10-10"
+  },
+  {
+   "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
+   "source": "Minbåd.dk",
+   "date": "2026-10-02",
+   "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
+   "cat": "Foreninger",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg"
+  },
+  {
+   "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-02",
+   "title": "Nye krav kan fordoble prisen på speedbådsbevis men sikkerheden er vigtigere end prisen",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/02/october/article/nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/5/d/csm_watergames_18__gnamed_5598a2c768.jpg",
+   "cat": "Regler & takster",
+   "sum": "Nye krav fra 2027 vil gøre speedbåds- og vandscooterbeviser dyrere og mere omfattende. Målet er øget sikkerhed og ensartede prøvekrav."
+  },
+  {
+   "key": "grenaa-marina-soeger-havnemester",
+   "source": "FLID Havne",
+   "date": "2026-10-02",
+   "title": "Grenaa Marina søger ny havnemester",
+   "url": "https://flidhavne.dk/grenaa-marina-soeger-havnemester/",
+   "img": "https://flidhavne.dk/wp-content/uploads/2026/10/Grenaa-Marina.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "dansketursejlere-pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber",
+   "source": "Danske Tursejlere",
+   "date": "2026-10-02",
+   "title": "Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber",
+   "url": "https://dansketursejlere.dk/pressemeddelelse-rekordmange-oplevelser-paa-programmet-for-danske-tursejleres-medlemsklubber/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/Sejlklubben-Koebenhavn-3-scaled-e1790940216742-1024x512.jpg",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "dansketursejlere-nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge",
+   "source": "Danske Tursejlere",
+   "date": "2026-10-02",
+   "title": "Nyt netværk vil gøre langtursejlads mere tilgængelig for unge",
+   "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg",
+   "cat": "Tursejlads"
+  },
   {
    "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
    "source": "Minbåd.dk",
@@ -573,8 +629,8 @@
    "date": "2026-09-23",
    "title": "Fem jægere og en hund fanget i synkende jolle – kunne ikke gå ud på grund af dynd",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/23/september/article/fem-jaegere-og-en-hund-fanget-i-synkende-jolle-kunne-ikke-gaa-ud-paa-grund-af-dynd/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg",
-   "cat": "Sikkerhed"
+   "cat": "Sikkerhed",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/e/csm_redn_7_1523991769756349_891583047637791063_n_f1941887e6.jpg"
   },
   {
    "key": "baadmagasinet-34451",
@@ -1506,16 +1562,6 @@
    "sum": "Johan Søe ligger på tredjepladsen ved IQFoil VM i Weymouth efter to sejre onsdag. Torsdagens sejladser kan følges live fra kl. 14.",
    "tjek": "2026-09-17",
    "img": "https://www.baadmagasinet.dk/images/-----sept26/soe_maerke.jpg"
-  },
-  {
-   "key": "vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118",
-   "source": "Motorbådsnyt",
-   "date": "2026-09-09",
-   "title": "Vi blev slået bagover af interiøret i 150 mio. kroners Sirena 118",
-   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/09/september/article/vi-blev-slaaet-bagover-af-interioeret-i-150-mio-kroners-sirena-118/",
-   "cat": "Udstyr & både",
-   "sum": "Sirena Yachts præsenterede deres 36 meter lange Sirena 118 på Cannes Yachting Festival. Rundvisning viste imponerende interiør med karbad, jacuzzi og madelevator.",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/7/5/csm_IMG_20260908_180452_28834ca5c3.jpg"
   },
   {
    "key": "fra-sejlerskole-til-l23-dm-fordaeksgast-jens-wuertz-fortaeller-bagfra-feltet",
