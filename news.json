@@ -1,17 +1,26 @@
 {
- "generated": "2026-11-25T12:59:48+00:00",
- "count": 1198,
+ "generated": "2026-11-25T22:35:27+00:00",
+ "count": 1201,
  "arkiv": "news-arkiv.json",
- "arkiv_antal": 898,
+ "arkiv_antal": 901,
  "errors": [],
  "items": [
+  {
+   "key": "nyt-redningsvestlys-kan-finde-noedstedte-sejlere-paa-fem-kilometers-afstand",
+   "source": "Minbåd.dk",
+   "date": "2026-11-25",
+   "title": "Nyt redningsvestlys W4-VIR kan finde nødstedte sejlere på fem kilometers afstand",
+   "url": "https://minbaad.dk/nyhed/archive/2026/25/november/article/nyt-redningsvestlys-kan-finde-noedstedte-sejlere-paa-fem-kilometers-afstand/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/a/csm_redning_Designer-11_9efe5d438d.jpg",
+   "cat": "Udstyr & både"
+  },
   {
    "key": "flid-havne-kommunerne-skal-investere-i-lystbaadehavnene",
    "source": "Minbåd.dk",
    "date": "2026-11-25",
    "title": "FLID-havne: Kommunerne skal investere i lystbådehavnene",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/november/article/flid-havne-kommunerne-skal-investere-i-lystbaadehavnene/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_rungsted_feb_25__95720_10164158446715000_5336690795811058004_n_42adb7bdb6.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/5/csm_rungsted_feb_25__95720_10164158446715000_5336690795811058004_n_c240a1e211.jpg",
    "cat": "Foreninger"
   },
   {
@@ -20,8 +29,17 @@
    "date": "2026-11-25",
    "title": "Svensk solosejler mister masten – bygger nødrig med tre spilerstager og kan have 3.500 sømil til Australien",
    "url": "https://minbaad.dk/nyhed/archive/2026/25/november/article/svensk-solosejler-mister-masten-bygger-noedrig-med-tre-spilerstager-og-kan-have-3500-soemil-til-australien/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/2/d/csm_per_IMG_7431-2048x1534_a390199126.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/d/csm_per_IMG_7431-2048x1534_da4f31df4e.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "baadmagasinet-34578",
+   "source": "Bådmagasinet",
+   "date": "2026-11-25",
+   "title": "Dansk bådebyggerkunst når det er smukkest – 25 år gammel Olsen-yacht til salg",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34578-dansk-badebyggerkunst-nar-det-er-smukkest-25-ar-gammel-olsen-yacht-til-salg",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/olsen1.jpg",
+   "cat": "Udstyr & både"
   },
   {
    "key": "baadmagasinet-34584",
@@ -66,7 +84,7 @@
    "date": "2026-11-24",
    "title": "Øer Maritime Havn vinder Årets Havn 2026 på venlighed",
    "url": "https://minbaad.dk/nyhed/archive/2026/24/november/article/oeer-maritime-havn-vinder-paa-venlighed-og-kaares-til-aarets-havn-2026/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/8/d/csm_aaDSC09935_3ddd4fe449.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/8/d/csm_aaDSC09935_1a8e0a70cf.jpg",
    "cat": "Jubilæum / priser"
   },
   {
@@ -77,6 +95,15 @@
    "url": "https://minbaad.dk/nyhed/archive/2026/24/november/article/danskere-til-vm-i-drage-i-hongkong-96-baade-paa-startlinjen/",
    "img": "https://minbaad.dk/fileadmin/_processed_/e/c/csm_dra_07724_10244207681464467_1095116981151708062_n_b510b64f9a.jpg",
    "cat": "Kapsejlads"
+  },
+  {
+   "key": "dansketursejlere-aarets-havn-2026-er-fundet",
+   "source": "Danske Tursejlere",
+   "date": "2026-11-24",
+   "title": "Årets Havn 2026 er fundet!",
+   "url": "https://dansketursejlere.dk/aarets-havn-2026-er-fundet/",
+   "img": "https://dansketursejlere.dk/wp-content/uploads/2026/11/DSC09939-2x1-1-1024x512.jpg",
+   "cat": "Jubilæum / priser"
   },
   {
    "key": "baadmagasinet-34583",
@@ -273,7 +300,7 @@
    "date": "2026-11-20",
    "title": "Kendt kitesurfer Nick Jacobsen og Sejlunionen vil have børn ned til fem år ud at windsurfe",
    "url": "https://minbaad.dk/nyhed/archive/2026/20/november/article/kendt-kitesurfer-nick-jacobsen-og-sejlunionen-vil-have-boern-ned-til-fem-aar-ud-at-windsurfe/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_unnamed_-_2026-11-20T163536.883_729179a774.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/4/csm_unnamed_-_2026-11-20T163536.883_7fdfff3b9f.jpg",
    "cat": "Foreninger"
   },
   {
@@ -355,7 +382,7 @@
    "date": "2026-11-18",
    "title": "Nu kan riggens belastning aflæses direkte på kortplotteren med Smart Rig Manager",
    "url": "https://minbaad.dk/nyhed/archive/2026/18/november/article/nu-kan-riggens-belastning-aflaeses-direkte-paa-kortplotteren-med-smart-rig-manager/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_sm_qLaJtjHy7zjgBl8c7Rao_5b3f2cf154.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_sm_qLaJtjHy7zjgBl8c7Rao_d5085b0c17.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-25"
   },
@@ -486,7 +513,7 @@
    "date": "2026-11-17",
    "title": "Seldén lancerer ny S19 self-tailing-spil til mindre sejlbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/17/november/article/selden-lancerer-ny-s19-self-tailing-spil-til-mindre-sejlbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_s19_T_50fc4afaf6.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/b/csm_s19_T_57cb3d2089.jpg",
    "cat": "Udstyr & både",
    "tjek": "2026-11-25"
   },
@@ -526,7 +553,7 @@
    "date": "2026-11-16",
    "title": "Johan Søe tog Årets Sejlsportspræstation efter EM-sølv og VM-bronze i iQFOiL",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/johan-soee-tog-aarets-sejlsportspraestation-efter-em-soelv-og-vm-bronze-i-iqfoil/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/9/7/csm_unnamed__23__252c1ab40b.png",
+   "img": "https://minbaad.dk/fileadmin/_processed_/9/7/csm_unnamed__23__ee6e1fb482.png",
    "cat": "Jubilæum / priser",
    "tjek": "2026-11-25"
   },
@@ -566,7 +593,7 @@
    "date": "2026-11-16",
    "title": "Sune og Amalie fik 18 tons stålbåd gratis – nu har de brugt 500.000 kr. - se 4 husbåde",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/sune-og-amalie-fik-18-tons-staalbaad-gratis-nu-har-de-brugt-500000-kr-se-4-husbaade/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_61dcfe86b8.jpeg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/4/csm_staal_csm_b2_86d3299cb1_d8909ac3fa.jpeg",
    "cat": "Kultur & folk",
    "tjek": "2026-11-25"
   },
@@ -586,7 +613,7 @@
    "date": "2026-11-16",
    "title": "Poul Erik Nielsen er Årets Frivillige 2026 – har stået bag Fyn Cup i 35 år",
    "url": "https://minbaad.dk/nyhed/archive/2026/16/november/article/poul-erik-nielsen-er-aarets-frivillige-2026-har-staaet-bag-fyn-cup-i-35-aar/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/e/e/csm_csm_poul_erik_nielsen_palby_fyn_cup_331cadbe05e_46c24cf1ba.jpg",
+   "img": "https://minbaad.dk/fileadmin/_processed_/e/e/csm_csm_poul_erik_nielsen_palby_fyn_cup_331cadbe05e_ad44f480ed.jpg",
    "cat": "Jubilæum / priser",
    "tjek": "2026-11-25"
   },
@@ -611,16 +638,6 @@
    "tjek": "2026-11-25"
   },
   {
-   "key": "baadmagasinet-34558",
-   "source": "Bådmagasinet",
-   "date": "2026-11-16",
-   "title": "De løb med priserne - her får du vinderne af årets Sejler Awards 2026",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34558-de-lob-med-priserne-her-far-du-vinderne-af-arets-sejler-awards-2026",
-   "img": "https://www.baadmagasinet.dk/images/-----nov26/dji_fly_20261114_220640_0718_1794690361573_photo.jpeg",
-   "cat": "Jubilæum / priser",
-   "tjek": "2026-11-25"
-  },
-  {
    "key": "dansksejlunion.dk/nyheder/2025/dansk-sejlunion-lancerer-ny-indsatsplan-frem-mod-2029",
    "source": "Dansk Sejlunion",
    "date": "2026-11-16",
@@ -628,6 +645,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2025/dansk-sejlunion-lancerer-ny-indsatsplan-frem-mod-2029",
    "img": "https://dansksejlunion.dk/media/n3jn4kma/a-rsberetning.png?width=1200&height=630",
    "cat": "Foreninger",
+   "tjek": "2026-11-25"
+  },
+  {
+   "key": "baadmagasinet-34558",
+   "source": "Bådmagasinet",
+   "date": "2026-11-16",
+   "title": "De løb med priserne - her får du vinderne af årets Sejler Awards 2026",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34558-de-lob-med-priserne-her-far-du-vinderne-af-arets-sejler-awards-2026",
+   "img": "https://www.baadmagasinet.dk/images/-----nov26/dji_fly_20261114_220640_0718_1794690361573_photo.jpeg",
+   "cat": "Jubilæum / priser",
    "tjek": "2026-11-25"
   },
   {
@@ -701,16 +728,6 @@
    "tjek": "2026-11-25"
   },
   {
-   "key": "selden-lancerer-alu-rullebom-til-sejlbaade-op-til-40-fod",
-   "source": "Minbåd.dk",
-   "date": "2026-11-13",
-   "title": "Seldén lancerer alu-rullebom til sejlbåde op til 40 fod",
-   "url": "https://minbaad.dk/nyhed/archive/2026/13/november/article/selden-lancerer-alu-rullebom-til-sejlbaade-op-til-40-fod/",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_IBFstudio_1f57a5c304.jpg",
-   "cat": "Udstyr & både",
-   "tjek": "2026-11-25"
-  },
-  {
    "key": "fortoejning-er-ikke-bare-fortoejning-bloed-line-med-hoej-slidstyrke-fra-robline",
    "source": "Motorbådsnyt",
    "date": "2026-11-13",
@@ -729,6 +746,16 @@
    "url": "https://dansksejlunion.dk/nyheder/2026/bekendtgoerelsen-om-nye-proevekrav-til-fritidssejlerbeviser-er-nu-i-hoering",
    "img": "https://dansksejlunion.dk/media/wrtlt4ib/dsc_1300-2.png?width=1200&height=630",
    "cat": "Regler & takster",
+   "tjek": "2026-11-25"
+  },
+  {
+   "key": "selden-lancerer-alu-rullebom-til-sejlbaade-op-til-40-fod",
+   "source": "Minbåd.dk",
+   "date": "2026-11-13",
+   "title": "Seldén lancerer alu-rullebom til sejlbåde op til 40 fod",
+   "url": "https://minbaad.dk/nyhed/archive/2026/13/november/article/selden-lancerer-alu-rullebom-til-sejlbaade-op-til-40-fod/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/8/csm_IBFstudio_1f57a5c304.jpg",
+   "cat": "Udstyr & både",
    "tjek": "2026-11-25"
   },
   {
@@ -888,7 +915,8 @@
    "title": "Dan Cort Jørgensen hædret for sin indsats for sikkerheden til søs",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/dan-cort-joergensen-haedret-for-sin-indsats-for-sikkerheden-til-soes/",
    "cat": "Jubilæum / priser",
-   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_AArets_instruktoerer_26__8fdff99f73.jpg"
+   "img": "https://minbaad.dk/fileadmin/_processed_/f/a/csm_AArets_instruktoerer_26__8fdff99f73.jpg",
+   "tjek": "2026-11-25"
   },
   {
    "key": "middelhavet-bliver-mere-voldsomt-33-grader-i-vandet-og-oedelagte-baade-i-havnene",
@@ -897,7 +925,8 @@
    "title": "Middelhavet bliver mere voldsomt: 33 grader i vandet og ødelagte både i havnene",
    "url": "https://minbaad.dk/nyhed/archive/2026/10/november/article/middelhavet-bliver-mere-voldsomt-33-grader-i-vandet-og-oedelagte-baade-i-havnene/",
    "cat": "Sikkerhed",
-   "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_Stormfulde_boelger_og_strandede_sejlbaade_220f7b1a6e.png"
+   "img": "https://minbaad.dk/fileadmin/_processed_/3/d/csm_Stormfulde_boelger_og_strandede_sejlbaade_220f7b1a6e.png",
+   "tjek": "2026-11-25"
   },
   {
    "key": "test-frauscher-797-spectre-flyver-med-v8-broel-og-porsche-elkraft",
@@ -2842,36 +2871,6 @@
    "cat": "Sikkerhed",
    "img": "https://minbaad.dk/fileadmin/_processed_/d/a/csm_brand_1413240510298263_5645296013611206206_n_6bb3a53f20.jpg",
    "tjek": "2026-10-20"
-  },
-  {
-   "key": "baadmagasinet-34477",
-   "source": "Bådmagasinet",
-   "date": "2026-10-05",
-   "title": "33-fods båd sank efter brand - mand reddet af forbipasserende båd",
-   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34477-dramatisk-brand-i-lillebaelt-33-fods-bad-sank-efter-brand",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833414479_1413240510298263_5645296013611206206_n_2.jpg",
-   "cat": "Sikkerhed",
-   "tjek": "2026-10-20"
-  },
-  {
-   "key": "baadmagasinet-34479",
-   "source": "Bådmagasinet",
-   "date": "2026-10-05",
-   "title": "Vindstille i Berlin – men dansk Yngling-lejr rejste hjem med tro på fremtiden",
-   "url": "https://www.baadmagasinet.dk/nyheder/kapsejlads-2/34479-vindstille-i-berlin-men-dansk-yngling-lejr-rejste-hjem-med-tro-pa-fremtiden",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/yngling_em_berling.jpeg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-10-12"
-  },
-  {
-   "key": "baadmagasinet-34478",
-   "source": "Bådmagasinet",
-   "date": "2026-10-05",
-   "title": "'Unbeatable': Sjette VM-titel til fransk matchrace-dronning",
-   "url": "https://www.baadmagasinet.dk/world-match-racing/34478-unbeatable-sjette-vm-titel-til-fransk-matchrace-dronning",
-   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_833241698_1394026842897961_330333970326388553_n.jpg",
-   "cat": "Kapsejlads",
-   "tjek": "2026-10-12"
   }
  ]
 }
