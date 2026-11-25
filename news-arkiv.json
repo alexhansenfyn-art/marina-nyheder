@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T18:22:24+00:00",
+ "generated": "2026-11-25T02:49:28+00:00",
  "count": 894,
  "items": [
   {
@@ -5901,21 +5901,21 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "soesport-soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
-   "source": "Søsportens Sikkerhedsråd",
-   "date": "2026-04-28",
-   "title": "Søsportens Sikkerhedsråd hjælper dig med at tjekke vesten på Boat Show",
-   "url": "https://www.soesport.dk/nyheder/presse/soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
-   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639129705132492878/Ny%20redningsvest.png?width=1024&height=512&format=png&mode=crop",
-   "cat": "Sikkerhed"
-  },
-  {
    "key": "soesport-foer-du-tager-afsted-taenk-paa-dem-derhjemme",
    "source": "Søsportens Sikkerhedsråd",
    "date": "2026-04-28",
    "title": "Før du tager afsted, tænk på dem derhjemme",
    "url": "https://www.soesport.dk/nyheder/presse/foer-du-tager-afsted-taenk-paa-dem-derhjemme",
    "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639129705659543078/Udsejlingsskilt.png?width=1024&height=512&format=png&mode=crop",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "soesport-soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
+   "source": "Søsportens Sikkerhedsråd",
+   "date": "2026-04-28",
+   "title": "Søsportens Sikkerhedsråd hjælper dig med at tjekke vesten på Boat Show",
+   "url": "https://www.soesport.dk/nyheder/presse/soesportens-sikkerhedsraad-hjaelper-dig-med-at-tjekke-vesten",
+   "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639129705132492878/Ny%20redningsvest.png?width=1024&height=512&format=png&mode=crop",
    "cat": "Sikkerhed"
   },
   {
