@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:31:20+00:00",
+ "generated": "2026-11-26T23:20:59+00:00",
  "count": 1207,
  "arkiv": "news-arkiv.json",
  "arkiv_antal": 907,
@@ -992,7 +992,8 @@
    "title": "Dan Cort Jørgensen er Årets Instruktør 2026",
    "url": "https://www.soesport.dk/nyheder/presse/frivillighed-naar-det-er-bedst-dan-cort-joergensen-er-aarets-instruktoer-2026",
    "img": "https://cdn2.gopublic.dk/soefartsstyrelsen/Media/639299001431431745/aarets-instruktoerer.jpg?width=1024&height=512&format=jpg&mode=crop",
-   "cat": "Jubilæum / priser"
+   "cat": "Jubilæum / priser",
+   "tjek": "2026-11-26"
   },
   {
    "key": "dan-cort-joergensen-haedret-for-sin-indsats-for-sikkerheden-til-soes",
