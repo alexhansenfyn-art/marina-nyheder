@@ -1,7 +1,56 @@
 {
- "generated": "2026-11-27T05:23:51+00:00",
- "count": 908,
+ "generated": "2026-11-27T15:38:36+00:00",
+ "count": 913,
  "items": [
+  {
+   "key": "baadmagasinet-34483",
+   "source": "Bådmagasinet",
+   "date": "2026-10-07",
+   "title": "Rekordmange oplevelser på programmet for Danske Tursejleres medlemsklubber",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34483-rekordmange-oplevelser-pa-programmet-for-danske-tursejleres-medlemsklubber",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/rsz_sejlklubben_københavn_3.jpg",
+   "tjek": "2026-10-21",
+   "cat": "Foreninger"
+  },
+  {
+   "key": "naar-teakdakket-tranger-til-renovering-og-omfugning-se-hvordan",
+   "source": "Minbåd.dk",
+   "date": "2026-10-07",
+   "title": "Når teakdækket trænger til renovering og omfugning - se hvordan",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/naar-teakdakket-tranger-til-renovering-og-omfugning-se-hvordan/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/a/5/csm_fugemasse_hf_marine_4ab7979291.jpg",
+   "cat": "Udstyr & både",
+   "tjek": "2026-10-21"
+  },
+  {
+   "key": "baadmagasinet-34485",
+   "source": "Bådmagasinet",
+   "date": "2026-10-07",
+   "title": "Tabt båd skabte opsigt i lyskryds",
+   "url": "https://www.baadmagasinet.dk/nyheder/kortnyt/34485-tabt-bad-skabte-opsigt-i-lyskryds",
+   "img": "https://www.baadmagasinet.dk/images/-----oktober26/politivogn_foto_kim_matthai_leland.jpg",
+   "tjek": "2026-10-21",
+   "cat": "Sikkerhed"
+  },
+  {
+   "key": "minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere",
+   "source": "Motorbådsnyt",
+   "date": "2026-10-06",
+   "title": "Minn Kota og Humminbird bliver ét: Nyt samlet system skal gøre fiskeriet enklere",
+   "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/06/october/article/minn-kota-og-humminbird-bliver-et-nyt-samlet-system-skal-goere-fiskeriet-enklere/",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/8/e/csm_hum_b_pres_nload_c3a4f1629c.png",
+   "cat": "Udstyr & både"
+  },
+  {
+   "key": "maaske-er-det-tid-til-at-finde-jollen-frem-igen",
+   "source": "Minbåd.dk",
+   "date": "2026-10-06",
+   "title": "Måske er det tid til at finde jollen frem igen?",
+   "url": "https://minbaad.dk/nyhed/archive/2026/06/october/article/maaske-er-det-tid-til-at-finde-jollen-frem-igen/",
+   "img": "https://minbaad.dk/fileadmin/_processed_/6/e/csm_jon_m_blog_26_amed_a11ddbf2b3.jpg",
+   "tjek": "2026-10-23",
+   "cat": "Kultur & folk"
+  },
   {
    "key": "silverrudder-boss-siger-farvel-til-sin-drabant-30-efter-28-aar",
    "source": "Minbåd.dk",
@@ -163,15 +212,6 @@
    "tjek": "2026-10-10"
   },
   {
-   "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
-   "source": "Minbåd.dk",
-   "date": "2026-10-02",
-   "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
-   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
-   "cat": "Foreninger",
-   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg"
-  },
-  {
    "key": "nye-krav-kan-fordoble-prisen-paa-speedbaadsbevis-men-sikkerheden-er-vigtigere-end-prisen",
    "source": "Motorbådsnyt",
    "date": "2026-10-02",
@@ -207,6 +247,15 @@
    "url": "https://dansketursejlere.dk/nyt-netvaerk-vil-goere-langtursejlads-mere-tilgaengelig-for-unge/",
    "img": "https://dansketursejlere.dk/wp-content/uploads/2026/10/2024_heidi-manoee_sejl_reparation-1-e1790922729285.jpeg",
    "cat": "Tursejlads"
+  },
+  {
+   "key": "danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde",
+   "source": "Minbåd.dk",
+   "date": "2026-10-02",
+   "title": "Danske Tursejlere har største aktivitetsprogram nogensinde",
+   "url": "https://minbaad.dk/nyhed/archive/2026/02/october/article/danske-tursejlere-klar-med-stoerste-aktivitetsprogram-nogensinde/",
+   "cat": "Foreninger",
+   "img": "https://minbaad.dk/fileadmin/_processed_/b/e/csm_tur__0016_32__f39d78b360.jpg"
   },
   {
    "key": "hval-rev-roret-af-beneteau-511-sejler-roeg-fra-styreplads-skipper-forklarer",
@@ -576,8 +625,8 @@
    "date": "2026-09-26",
    "title": "Askeladden deles efter konkurs – både Polen og Norge fører mærket videre",
    "url": "https://motorbaadsnyt.dk/nyhed/archive/2026/26/september/article/askeladden-deles-efter-konkurs-baade-polen-og-norge-foerer-maerket-videre/",
-   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg",
-   "cat": "Udstyr & både"
+   "cat": "Udstyr & både",
+   "img": "https://motorbaadsnyt.dk/fileadmin/_processed_/3/d/csm_askeladden_c78_h_sejler_93c3f940cf.jpeg"
   },
   {
    "key": "baadmagasinet-34455",
@@ -5347,21 +5396,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
    "title": "90 unge i 22 både indtager havnene i uge 29",
    "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-06",
+   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
    "cat": "Havneliv"
   },
   {
@@ -5871,15 +5920,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "source": "Dansk Sejlunion",
-   "date": "2026-05-22",
-   "title": "Tilmeldingen til DH-DM 2026 er åben",
-   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "slut-med-gtl-fuel",
    "source": "FLID Havne",
    "date": "2026-05-22",
@@ -5887,6 +5927,15 @@
    "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "source": "Dansk Sejlunion",
+   "date": "2026-05-22",
+   "title": "Tilmeldingen til DH-DM 2026 er åben",
+   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
