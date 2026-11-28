@@ -1,7 +1,17 @@
 {
- "generated": "2026-11-27T23:45:47+00:00",
- "count": 914,
+ "generated": "2026-11-28T05:00:57+00:00",
+ "count": 915,
  "items": [
+  {
+   "key": "garmin-round-denmark-race-faar-ny-flerskrogs-klasse-med-texel",
+   "source": "Minbåd.dk",
+   "date": "2026-10-07",
+   "title": "Garmin Round Denmark Race får ny flerskrogs-klasse med TEXEL",
+   "url": "https://minbaad.dk/nyhed/archive/2026/07/october/article/garmin-round-denmark-race-faar-ny-flerskrogs-klasse-med-texel/",
+   "cat": "Kapsejlads",
+   "img": "https://minbaad.dk/fileadmin/_processed_/2/3/csm_tex_2A2505_c6a5f14a4d.jpg",
+   "tjek": "2026-10-25"
+  },
   {
    "key": "mand-reddet-kort-foer-motorbaad-sank-i-lillebaelt-se-nu-voldsomme-billeder",
    "source": "Minbåd.dk",
@@ -5406,21 +5416,21 @@
    "img": "https://minbaad.dk/fileadmin/_processed_/5/5/csm_claus_hoej_top_354036_1238748077943529_4564479711143957985_n_8e7386c2ff.jpg"
   },
   {
-   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "source": "MarinaGuide",
-   "date": "2026-07-06",
-   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
-   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
-   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
-   "cat": "Havneliv"
-  },
-  {
    "key": "90-unge-i-22-baade-indtager-havnene-i-uge-29",
    "source": "FLID Havne",
    "date": "2026-07-06",
    "title": "90 unge i 22 både indtager havnene i uge 29",
    "url": "https://flidhavne.dk/90-unge-i-22-baade-indtager-havnene-i-uge-29/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/07/Emil-Seerup-Friendship-186.jpg",
+   "cat": "Havneliv"
+  },
+  {
+   "key": "marinaguide-renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "source": "MarinaGuide",
+   "date": "2026-07-06",
+   "title": "Renoveret betonbro og ny flydebro skaber flere pladser i Struer Havn",
+   "url": "https://marinaguide.dk/nyhed/renoveret-betonbro-og-ny-flydebro-giver-flere-pladser-i-struer-havn",
+   "img": "https://marinaguide.dk/fileadmin/_processed_/7/b/csm_struer_ny_flydebro_4ecc80184e.jpg",
    "cat": "Havneliv"
   },
   {
@@ -5930,15 +5940,6 @@
    "cat": "Kapsejlads"
   },
   {
-   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "source": "Dansk Sejlunion",
-   "date": "2026-05-22",
-   "title": "Tilmeldingen til DH-DM 2026 er åben",
-   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
-   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
-   "cat": "Kapsejlads"
-  },
-  {
    "key": "slut-med-gtl-fuel",
    "source": "FLID Havne",
    "date": "2026-05-22",
@@ -5946,6 +5947,15 @@
    "url": "https://flidhavne.dk/slut-med-gtl-fuel/",
    "img": "https://flidhavne.dk/wp-content/uploads/2026/05/IMG_5472-scaled.jpg",
    "cat": "Udstyr & både"
+  },
+  {
+   "key": "dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "source": "Dansk Sejlunion",
+   "date": "2026-05-22",
+   "title": "Tilmeldingen til DH-DM 2026 er åben",
+   "url": "https://dansksejlunion.dk/nyheder/2026/tilmeldingen-til-dh-dm-2026-er-aaben",
+   "img": "https://dansksejlunion.dk/media/rb2pjhk4/_mg_7403.jpg?width=1200&height=630",
+   "cat": "Kapsejlads"
   },
   {
    "key": "smaa-baadpladser-klar-i-svanemoellehavnen-efter-vinterlukning",
